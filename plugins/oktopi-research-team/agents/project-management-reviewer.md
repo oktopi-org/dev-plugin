@@ -1,6 +1,6 @@
 ---
 name: project-management-reviewer
-description: Project Management reviewer. Keep the programme integrated, honest, and on the critical path — so that every function's work lands in the right sequence at the right quality. Covers PM (small-molecule) and BPM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Project Management perspective.
+description: "Project Management reviewer. Keep the programme integrated, honest, and on the critical path — so that every function's work lands in the right sequence at the right quality. Covers PM (small-molecule) and BPM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Project Management perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

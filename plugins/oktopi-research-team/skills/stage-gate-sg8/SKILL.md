@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg8
-description: Goal and readiness criteria for Oktopi stage-gate SG8: Regulatory Submission / Payer Engagement / Pre-Launch. Trigger when assessing PDP readiness to exit SG8.
+description: "Goal and readiness criteria for Oktopi stage-gate SG8: Regulatory Submission / Payer Engagement / Pre-Launch. Trigger when assessing PDP readiness to exit SG8."
 ---
 
 # Stage Gate SG8: Regulatory Submission / Payer Engagement / Pre-Launch

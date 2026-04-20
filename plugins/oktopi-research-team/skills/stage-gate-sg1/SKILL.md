@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg1
-description: Goal and readiness criteria for Oktopi stage-gate SG1: Initiate Discovery Program & Target Identification. Trigger when assessing PDP readiness to exit SG1.
+description: "Goal and readiness criteria for Oktopi stage-gate SG1: Initiate Discovery Program & Target Identification. Trigger when assessing PDP readiness to exit SG1."
 ---
 
 # Stage Gate SG1: Initiate Discovery Program & Target Identification

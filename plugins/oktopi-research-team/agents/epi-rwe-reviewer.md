@@ -1,6 +1,6 @@
 ---
 name: epi-rwe-reviewer
-description: Epidemiology & Real-World Evidence reviewer. Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments. Covers ERW (small-molecule) and BBERW (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Epidemiology & Real-World Evidence perspective.
+description: "Epidemiology & Real-World Evidence reviewer. Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments. Covers ERW (small-molecule) and BBERW (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Epidemiology & Real-World Evidence perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: clinical-operations-reviewer
-description: Clinical Operations reviewer. Execute the clinical plan on time, on budget, and at quality — with every database lock supporting the intended regulatory decision. Covers COP (small-molecule) and BCOP (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Operations perspective.
+description: "Clinical Operations reviewer. Execute the clinical plan on time, on budget, and at quality — with every database lock supporting the intended regulatory decision. Covers COP (small-molecule) and BCOP (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Operations perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

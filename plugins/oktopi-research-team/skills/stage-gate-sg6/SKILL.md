@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg6
-description: Goal and readiness criteria for Oktopi stage-gate SG6: Proof of Concept (POC) & Phase 2 Readiness. Trigger when assessing PDP readiness to exit SG6.
+description: "Goal and readiness criteria for Oktopi stage-gate SG6: Proof of Concept (POC) & Phase 2 Readiness. Trigger when assessing PDP readiness to exit SG6."
 ---
 
 # Stage Gate SG6: Proof of Concept (POC) & Phase 2 Readiness

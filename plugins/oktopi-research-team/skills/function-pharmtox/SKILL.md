@@ -1,6 +1,6 @@
 ---
 name: function-pharmtox
-description: Pharmacology & Toxicology function mandate for Oktopi PDP review. Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate. Invoke when a PDP needs a pharmacology & toxicology read-through — pairs with the `pharmtox-reviewer` agent.
+description: "Pharmacology & Toxicology function mandate for Oktopi PDP review. Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate. Invoke when a PDP needs a pharmacology & toxicology read-through — pairs with the `pharmtox-reviewer` agent."
 ---
 
 # Pharmacology & Toxicology — function mandate

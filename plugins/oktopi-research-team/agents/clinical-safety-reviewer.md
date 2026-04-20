@@ -1,6 +1,6 @@
 ---
 name: clinical-safety-reviewer
-description: Clinical Safety reviewer. Detect and characterize safety signals early, keep benefit-risk defensible, and maintain a submission-ready safety narrative at every gate. Covers SAF (small-molecule) and BSAF (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Safety perspective.
+description: "Clinical Safety reviewer. Detect and characterize safety signals early, keep benefit-risk defensible, and maintain a submission-ready safety narrative at every gate. Covers SAF (small-molecule) and BSAF (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Safety perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: commercial-reviewer
-description: Commercial reviewer. Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle. Covers COM (small-molecule) and BBCOM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Commercial perspective.
+description: "Commercial reviewer. Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle. Covers COM (small-molecule) and BBCOM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Commercial perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

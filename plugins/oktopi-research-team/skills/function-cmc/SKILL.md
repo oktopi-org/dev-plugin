@@ -1,6 +1,6 @@
 ---
 name: function-cmc
-description: Chemistry, Manufacturing, and Controls function mandate for Oktopi PDP review. Prove the molecule can be manufactured reproducibly at the scale and quality the clinical and commercial plans require, with a regulatory package that survives an inspection. Invoke when a PDP needs a chemistry, manufacturing, and controls read-through — pairs with the `cmc-reviewer` agent.
+description: "Chemistry, Manufacturing, and Controls function mandate for Oktopi PDP review. Prove the molecule can be manufactured reproducibly at the scale and quality the clinical and commercial plans require, with a regulatory package that survives an inspection. Invoke when a PDP needs a chemistry, manufacturing, and controls read-through — pairs with the `cmc-reviewer` agent."
 ---
 
 # Chemistry, Manufacturing, and Controls — function mandate

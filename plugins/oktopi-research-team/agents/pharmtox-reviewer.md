@@ -1,6 +1,6 @@
 ---
 name: pharmtox-reviewer
-description: Pharmacology & Toxicology reviewer. Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate. Covers PT (small-molecule) and BBPT (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Pharmacology & Toxicology perspective.
+description: "Pharmacology & Toxicology reviewer. Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate. Covers PT (small-molecule) and BBPT (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Pharmacology & Toxicology perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

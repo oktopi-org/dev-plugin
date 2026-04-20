@@ -1,6 +1,6 @@
 ---
 name: clinical-development-medical-reviewer
-description: Clinical Development / Medical reviewer. Deliver a clinical development plan that produces evidence capable of supporting approval, label, reimbursement, and uptake in the target indication. Covers CDM (small-molecule) and BBCDM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Development / Medical perspective.
+description: "Clinical Development / Medical reviewer. Deliver a clinical development plan that produces evidence capable of supporting approval, label, reimbursement, and uptake in the target indication. Covers CDM (small-molecule) and BBCDM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Development / Medical perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

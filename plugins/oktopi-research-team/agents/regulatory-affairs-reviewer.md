@@ -1,6 +1,6 @@
 ---
 name: regulatory-affairs-reviewer
-description: Regulatory Affairs reviewer. Land the regulatory strategy and submissions required to reach a reimbursable label in each priority market on the target timeline. Covers REG (small-molecule) and BBREG (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Regulatory Affairs perspective.
+description: "Regulatory Affairs reviewer. Land the regulatory strategy and submissions required to reach a reimbursable label in each priority market on the target timeline. Covers REG (small-molecule) and BBREG (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Regulatory Affairs perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

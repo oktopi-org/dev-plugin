@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg7
-description: Goal and readiness criteria for Oktopi stage-gate SG7: Confirmatory & Phase 3 Readiness (Reg & Commercial aligned). Trigger when assessing PDP readiness to exit SG7.
+description: "Goal and readiness criteria for Oktopi stage-gate SG7: Confirmatory & Phase 3 Readiness (Reg & Commercial aligned). Trigger when assessing PDP readiness to exit SG7."
 ---
 
 # Stage Gate SG7: Confirmatory & Phase 3 Readiness (Reg & Commercial aligned)

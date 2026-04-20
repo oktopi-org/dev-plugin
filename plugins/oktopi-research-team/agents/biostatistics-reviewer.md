@@ -1,6 +1,6 @@
 ---
 name: biostatistics-reviewer
-description: Biostatistics reviewer. Guarantee that the statistical design and analysis actually answer the clinical question with controlled error rates and defensible conclusions at inspection. Covers STAT (small-molecule) and BSTAT (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Biostatistics perspective.
+description: "Biostatistics reviewer. Guarantee that the statistical design and analysis actually answer the clinical question with controlled error rates and defensible conclusions at inspection. Covers STAT (small-molecule) and BSTAT (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Biostatistics perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

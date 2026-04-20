@@ -1,6 +1,6 @@
 ---
 name: pdp-reviewer
-description: PDP orchestrator: lead reviewer for an Oktopi Product Development Plan review. Takes a PDP, a stage-gate (SG1-SG9), and a mode (SR|OE|DD|RS), then dispatches the relevant function reviewer subagents in parallel and synthesises a gate-readiness report. Use when a user asks for a full PDP review, stage-gate readiness assessment, or due-diligence pack.
+description: "PDP orchestrator: lead reviewer for an Oktopi Product Development Plan review. Takes a PDP, a stage-gate (SG1-SG9), and a mode (SR|OE|DD|RS), then dispatches the relevant function reviewer subagents in parallel and synthesises a gate-readiness report. Use when a user asks for a full PDP review, stage-gate readiness assessment, or due-diligence pack."
 tools: Read, Grep, Glob, Task
 model: opus
 ---

@@ -1,6 +1,6 @@
 ---
 name: function-clinical-development-medical
-description: Clinical Development / Medical function mandate for Oktopi PDP review. Deliver a clinical development plan that produces evidence capable of supporting approval, label, reimbursement, and uptake in the target indication. Invoke when a PDP needs a clinical development / medical read-through — pairs with the `clinical-development-medical-reviewer` agent.
+description: "Clinical Development / Medical function mandate for Oktopi PDP review. Deliver a clinical development plan that produces evidence capable of supporting approval, label, reimbursement, and uptake in the target indication. Invoke when a PDP needs a clinical development / medical read-through — pairs with the `clinical-development-medical-reviewer` agent."
 ---
 
 # Clinical Development / Medical — function mandate
