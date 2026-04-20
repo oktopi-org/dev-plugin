@@ -13,7 +13,7 @@ Add this marketplace in Claude Code:
 Then install plugins from it:
 
 ```
-/plugin install oktopi-research-team@oktopi-dev
+/plugin install oktopi-research-team@dev-plugin
 ```
 
 ## Plugins
