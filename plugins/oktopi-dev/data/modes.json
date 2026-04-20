@@ -1,0 +1,22 @@
+[
+  {
+    "code": "SR",
+    "name": "Strategic Readiness",
+    "prefix": "C_"
+  },
+  {
+    "code": "OE",
+    "name": "Operational Execution",
+    "prefix": "OE_"
+  },
+  {
+    "code": "DD",
+    "name": "Due Diligence",
+    "prefix": "DD_"
+  },
+  {
+    "code": "RS",
+    "name": "Regulatory Submission",
+    "prefix": "RS_"
+  }
+]

@@ -1,0 +1,3615 @@
+{
+  "function_code": "REG",
+  "modality": "small-molecule",
+  "function_name": "Regulatory Affairs",
+  "question_count": 55,
+  "critical_index": {
+    "SR": {
+      "SG1": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG11"
+      ],
+      "SG2": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6"
+      ],
+      "SG3": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG10",
+        "REG11",
+        "REG12"
+      ],
+      "SG4": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33"
+      ],
+      "SG5": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG46"
+      ],
+      "SG6": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG41",
+        "REG46"
+      ],
+      "SG7": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG38",
+        "REG39",
+        "REG40",
+        "REG41",
+        "REG42",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG50"
+      ],
+      "SG8": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG38",
+        "REG39",
+        "REG40",
+        "REG41",
+        "REG42",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG50"
+      ],
+      "SG9": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG50"
+      ]
+    },
+    "OE": {
+      "SG4": [
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG15",
+        "REG16",
+        "REG18"
+      ],
+      "SG5": [
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG21",
+        "REG37",
+        "REG47",
+        "REG49",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG6": [
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG21",
+        "REG28",
+        "REG29",
+        "REG36",
+        "REG37",
+        "REG41",
+        "REG43",
+        "REG47",
+        "REG49",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG7": [
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG21",
+        "REG28",
+        "REG29",
+        "REG35",
+        "REG36",
+        "REG37",
+        "REG41",
+        "REG42",
+        "REG43",
+        "REG47",
+        "REG49",
+        "REG50",
+        "REG51",
+        "REG52",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG8": [
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG21",
+        "REG23",
+        "REG24",
+        "REG25",
+        "REG26",
+        "REG27",
+        "REG28",
+        "REG29",
+        "REG34",
+        "REG35",
+        "REG36",
+        "REG37",
+        "REG41",
+        "REG42",
+        "REG43",
+        "REG47",
+        "REG49",
+        "REG50",
+        "REG51",
+        "REG52",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG9": [
+        "REG43",
+        "REG44",
+        "REG45",
+        "REG50",
+        "REG51",
+        "REG52"
+      ]
+    },
+    "DD": {
+      "SG1": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG11"
+      ],
+      "SG2": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6"
+      ],
+      "SG3": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG10",
+        "REG11",
+        "REG12"
+      ],
+      "SG4": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33"
+      ],
+      "SG5": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG46"
+      ],
+      "SG6": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG41",
+        "REG46"
+      ],
+      "SG7": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG38",
+        "REG39",
+        "REG40",
+        "REG41",
+        "REG42",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG50"
+      ],
+      "SG8": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG14",
+        "REG15",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG38",
+        "REG39",
+        "REG40",
+        "REG41",
+        "REG42",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG50"
+      ],
+      "SG9": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG50"
+      ]
+    },
+    "RS": {
+      "SG3": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG10",
+        "REG11",
+        "REG12"
+      ],
+      "SG4": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG14",
+        "REG15",
+        "REG16",
+        "REG30",
+        "REG31",
+        "REG32"
+      ],
+      "SG5": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG14",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33"
+      ],
+      "SG6": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG4",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG14",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG28",
+        "REG29",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG36",
+        "REG37",
+        "REG41",
+        "REG47",
+        "REG49",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG7": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG14",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG25",
+        "REG26",
+        "REG27",
+        "REG28",
+        "REG29",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG34",
+        "REG35",
+        "REG36",
+        "REG37",
+        "REG38",
+        "REG39",
+        "REG40",
+        "REG41",
+        "REG42",
+        "REG43",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG47",
+        "REG49",
+        "REG50",
+        "REG51",
+        "REG52",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG8": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG5",
+        "REG6",
+        "REG7",
+        "REG8",
+        "REG9",
+        "REG10",
+        "REG11",
+        "REG12",
+        "REG13",
+        "REG14",
+        "REG15",
+        "REG16",
+        "REG17",
+        "REG18",
+        "REG19",
+        "REG20",
+        "REG21",
+        "REG22",
+        "REG23",
+        "REG24",
+        "REG25",
+        "REG26",
+        "REG27",
+        "REG28",
+        "REG29",
+        "REG30",
+        "REG31",
+        "REG32",
+        "REG33",
+        "REG34",
+        "REG35",
+        "REG36",
+        "REG37",
+        "REG38",
+        "REG39",
+        "REG40",
+        "REG41",
+        "REG42",
+        "REG43",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG47",
+        "REG49",
+        "REG50",
+        "REG51",
+        "REG52",
+        "REG53",
+        "REG54",
+        "REG55"
+      ],
+      "SG9": [
+        "REG1",
+        "REG2",
+        "REG3",
+        "REG43",
+        "REG44",
+        "REG45",
+        "REG46",
+        "REG47",
+        "REG49",
+        "REG50",
+        "REG51",
+        "REG52",
+        "REG55"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "REG1",
+      "inquiry_domain": "Regulatory Strategy & Global Alignment",
+      "question": "Is there a formal, written global regulatory strategy document?",
+      "rubric_tests": "Whether a formal, version-controlled global regulatory strategy is documented, current, aligned to development stage and program milestones, covering major markets (US, EU, JP, ROW), submission pathways, expedited program eligibility, labeling objectives, regional variations, risk mitigation, and cross-functional governance.",
+      "rationale": "A formal global regulatory strategy is foundational for aligned development, timely submissions, label optimization, risk mitigation, and consistent partner and investor communications \u2014 absence leads to delays, misaligned expectations, and regulatory failures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG2",
+      "inquiry_domain": "Regulatory Strategy & Global Alignment",
+      "question": "Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?",
+      "rubric_tests": "Whether the regulatory strategy fully addresses country-specific pathways, requirements, agency expectations, expedited designations, procedural variations, regulatory frameworks (FDA, EMA, PMDA, NMPA, TGA, MHRA, HC, etc.), associated risks, and alignment with clinical, CMC, and launch sequencing.",
+      "rationale": "Country-specific pathway alignment is critical for timely global approvals, synchronized launch sequencing, optimized market access, and regulatory risk mitigation \u2014 gaps lead to delays, fragmented submissions, inconsistent labels, and lost market opportunity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG3",
+      "inquiry_domain": "Regulatory Strategy & Global Alignment",
+      "question": "Are regulatory plans synchronized with clinical, CMC, and commercial timelines?",
+      "rubric_tests": "Whether regulatory plans, milestone maps, and agency engagement strategies are aligned and synchronized with clinical development timelines, CMC readiness, and commercial launch plans to ensure coordinated execution, optimized submission timing, and seamless transition to market.",
+      "rationale": "Synchronization of regulatory plans with clinical, CMC, and commercial timelines is essential to avoid approval delays, launch mismatches, underutilized market windows, and inefficient resource use \u2014 lack of synchronization leads to fragmented execution, increased risks, and missed revenue opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG4",
+      "inquiry_domain": "Regulatory Strategy & Global Alignment",
+      "question": "Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?",
+      "rubric_tests": "Whether eligibility for key accelerated regulatory pathways is proactively and systematically evaluated across all target markets, with pathway criteria mapped to program attributes, timing of engagement planned, risks and dependencies tracked, agency engagement prepared, and pathway pursuit integrated with clinical, CMC, and commercial strategy.",
+      "rationale": "Systematic evaluation and pursuit of accelerated pathways can significantly improve time to market, access to patients, and competitive advantage \u2014 failure to evaluate or align pathway strategy with development readiness leads to missed acceleration opportunities, suboptimal launch timing, and valuation loss.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "REG5",
+      "inquiry_domain": "Target Product Profile (TPP) & Labeling",
+      "question": "Is a draft regulatory TPP aligned with intended product labeling?",
+      "rubric_tests": "Whether a draft regulatory Target Product Profile (TPP) exists, is version-controlled, and is aligned with intended label claims, regulatory precedents, agency feedback, clinical development strategy, CMC capabilities, safety profile, benefit-risk expectations, and commercial positioning \u2014 with cross-functional and governance alignment.",
+      "rationale": "A well-constructed, aligned regulatory TPP anchors clinical design, labeling strategy, and regulatory engagement \u2014 lack of alignment leads to missed label opportunities, inconsistent messaging, approval delays, and reduced commercial value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG6",
+      "inquiry_domain": "Target Product Profile (TPP) & Labeling",
+      "question": "Are claims in the TPP supported by available or planned data?",
+      "rubric_tests": "Whether all claims in the Target Product Profile (TPP) are explicitly mapped to available or planned data sources, including pivotal trial endpoints, supportive studies, real-world evidence, safety data, CMC attributes, and comparator benchmarks \u2014 with clear identification of gaps, mitigation plans, and governance oversight.",
+      "rationale": "Explicit linkage of TPP claims to robust available or planned data is critical to achieve approvable and differentiated labeling \u2014 failure to ensure evidence alignment leads to rejected claims, suboptimal labeling, market access barriers, and diminished commercial value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG7",
+      "inquiry_domain": "Target Product Profile (TPP) & Labeling",
+      "question": "Has a target label been mapped to key efficacy and safety endpoints?",
+      "rubric_tests": "Whether a draft target label has been explicitly mapped to key efficacy and safety endpoints from pivotal and supportive studies \u2014 with clear traceability between study designs, statistical analysis plans, endpoints, planned data outputs, and the desired label content \u2014 reviewed in governance and cross-functionally aligned.",
+      "rationale": "Explicit mapping of target label to endpoints ensures that clinical trials are designed to generate approvable evidence \u2014 lack of alignment leads to unsubstantiated claims, missed label opportunities, rejected endpoints, and delayed or downgraded product positioning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG8",
+      "inquiry_domain": "Regulatory Precedents & Intelligence",
+      "question": "Are relevant precedents (e.g., approvals in the same indication or modality) identified and analyzed?",
+      "rubric_tests": "Whether regulatory precedents \u2014 including approved labels, agency assessment reports, public meeting minutes, HTA outcomes, and competitor dossiers \u2014 are systematically identified, analyzed, mapped to program strategy, and used to shape clinical, CMC, safety, labeling, and market access approaches.",
+      "rationale": "Systematic analysis of regulatory precedents enables data-driven strategy for claim construction, risk mitigation, and regulatory engagement \u2014 failure to leverage precedents leads to unrealistic submissions, rejected claims, and slower agency and HTA approval.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG9",
+      "inquiry_domain": "Regulatory Precedents & Intelligence",
+      "question": "Have comparator products\u2019 regulatory histories been reviewed (e.g., label restrictions, REMS)?",
+      "rubric_tests": "Whether the regulatory histories of key comparator and benchmark products \u2014 including label restrictions, REMS/risk management plans, boxed warnings, postmarketing requirements/commitments, market withdrawals, agency objections, advisory committee outcomes, and HTA reviews \u2014 are systematically identified, reviewed, and analyzed to inform current program strategy, risk mitigation, and agency engagement.",
+      "rationale": "Systematic review of comparator regulatory histories provides critical insights into potential risks, agency expectations, class effects, and evidence standards \u2014 lack of review exposes programs to repeat regulatory mistakes, unanticipated restrictions, and HTA/value positioning failures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG10",
+      "inquiry_domain": "Regulatory Precedents & Intelligence",
+      "question": "Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?",
+      "rubric_tests": "Whether relevant regulatory guidance documents (ICH, FDA, EMA, PMDA, NMPA, TGA, WHO) are systematically identified, reviewed, and fully integrated into development plans across functions \u2014 including clinical protocols, CMC strategy, labeling, regulatory submissions, safety management, and market access \u2014 with version tracking, cross-functional review, and proactive updates.",
+      "rationale": "Proactive integration of current guidance documents is essential to ensure regulatory compliance, approvability, and alignment to evolving expectations \u2014 failure to integrate leads to non-compliant submissions, agency objections, additional data requests, delays, and potential approval risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG11",
+      "inquiry_domain": "Regulatory Interactions",
+      "question": "Have pre-IND, IND, pre-CTA, or scientific advice meetings occurred?",
+      "rubric_tests": "Whether critical early regulatory agency interactions \u2014 pre-IND, IND, pre-CTA, Scientific Advice, Protocol Assistance, Innovation Task Force meetings \u2014 have occurred, been strategically planned, and whether feedback from these interactions is fully integrated into the development plan, risk register, TPP, clinical strategy, CMC strategy, and regulatory submission roadmap.",
+      "rationale": "Early agency interactions are critical to de-risk development, align expectations, clarify evidence needs, and accelerate pathways \u2014 failure to plan or integrate such interactions leads to unanticipated deficiencies, claim rejection, program delays, and wasted resources.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG12",
+      "inquiry_domain": "Regulatory Interactions",
+      "question": "Are meeting minutes available and are regulatory feedback points addressed?",
+      "rubric_tests": "Whether formal minutes and written feedback from all regulatory agency interactions (pre-IND, IND, pre-CTA, Scientific Advice, Protocol Assistance, etc.) are archived, version-controlled, and whether each feedback point is systematically tracked, assigned, addressed, integrated into program plans, and reviewed through governance \u2014 with audit-ready documentation.",
+      "rationale": "Failure to properly document, track, and address regulatory feedback is a major cause of submission deficiencies, approval delays, and inspection findings \u2014 systematic feedback management ensures program alignment with agency expectations and protects against compliance risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG13",
+      "inquiry_domain": "Regulatory Interactions",
+      "question": "Are written agency communications documented, archived, and tracked for actions?",
+      "rubric_tests": "Whether all written communications with regulatory agencies (formal meeting minutes, advice letters, email exchanges, Information Requests, teleconference summaries, clarifications, pre-submission feedback, commitment letters, post-approval correspondence) are systematically documented, archived, version-controlled, and whether all action items are extracted, assigned, tracked, and reviewed through governance.",
+      "rationale": "Failure to systematically document and track regulatory communications is a major source of inspection findings and submission deficiencies \u2014 written agency feedback drives binding regulatory expectations, and unmanaged actions expose the program to serious compliance and approval risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG14",
+      "inquiry_domain": "Regulatory Interactions",
+      "question": "Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?",
+      "rubric_tests": "Whether global regulatory interactions \u2014 including EMA Scientific Advice Working Party (SAWP), PMDA consultations, Health Canada pre-submission meetings, NMPA consultation meetings, TGA pre-submission interactions, WHO PQ consultations \u2014 are proactively planned, strategically timed, executed, and fully integrated into program plans, risk register, TPP, and submission roadmap, with feedback tracked and governance-reviewed.",
+      "rationale": "Global regulatory interactions drive alignment of development plans across regions and enable optimized global submissions \u2014 failure to strategically plan or integrate global agency feedback results in divergent requirements, inconsistent labeling, extended timelines, and market access delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG15",
+      "inquiry_domain": "IND / CTA Readiness",
+      "question": "Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?",
+      "rubric_tests": "Whether an Investigational New Drug (IND) application (FDA), Clinical Trial Application (CTA) (EU/UK), Clinical Trial Notification (CTN) or equivalent regional submission (Canada, Japan, China, Australia, other) has been properly prepared, submitted, accepted without hold or major deficiency, and whether feedback has been tracked, addressed, and fully integrated into the program plan and risk register.",
+      "rationale": "IND/CTA acceptance marks the critical regulatory gate for initiating human clinical trials \u2014 delays, holds, or deficiencies at this stage can severely impact development timelines, trigger investor concerns, and signal program immaturity; full tracking and feedback integration are essential for downstream success.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG16",
+      "inquiry_domain": "IND / CTA Readiness",
+      "question": "Are all relevant modules (CMC, nonclinical, clinical) included and complete?",
+      "rubric_tests": "Whether all required Common Technical Document (CTD) modules (CMC / Quality [Module 3], Nonclinical [Module 4], Clinical [Module 5]), and associated regional requirements, are fully included, technically complete, and aligned to current regulatory expectations for the intended submission type (IND, CTA, CTD Module 1\u20135), with documented gaps, mitigations, and governance review.",
+      "rationale": "Regulatory submissions with incomplete or misaligned modules are at high risk of rejection, review delay, clinical hold, or refusal-to-file \u2014 completeness and alignment of CMC, nonclinical, and clinical modules is critical for regulatory success, cross-functional integration, and inspection readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG17",
+      "inquiry_domain": "IND / CTA Readiness",
+      "question": "Are country-specific requirements (e.g., language, reference safety info, insurance) addressed?",
+      "rubric_tests": "Whether all applicable country-specific regulatory, operational, and compliance requirements \u2014 including language requirements for documents and labeling, reference safety information (RSI), local insurance/indemnification, ethics submission requirements, data privacy/local GDPR, cultural adaptation, import/export licenses, local QP declarations \u2014 are fully identified, documented, and addressed in the program plan and governance pack for each country where trials will be conducted or submissions filed.",
+      "rationale": "Failure to address country-specific requirements is a frequent cause of trial approval delays, submission rejection, site activation failure, or GCP non-compliance \u2014 proactive management of local requirements ensures readiness for global execution, consistent submissions, and inspection success.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG18",
+      "inquiry_domain": "IND / CTA Readiness",
+      "question": "Have any clinical holds, deficiencies, or questions been received and resolved?",
+      "rubric_tests": "Whether any clinical holds, regulatory deficiencies (IND, CTA, CTD), Information Requests (IRs), Health Authority Questions (HAQs), or written agency questions have been received, whether resolution actions are documented, assigned, completed, and whether residual risks or mitigation plans are tracked and reviewed through governance \u2014 with full audit trail of communications and actions.",
+      "rationale": "Failure to track and resolve regulatory holds or deficiencies is a leading cause of submission failure, approval delays, inspection findings, and program valuation risk \u2014 rigorous tracking and resolution ensures transparency, quality, and regulatory alignment across the program lifecycle.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG19",
+      "inquiry_domain": "Orphan, Pediatric, and Special Designations",
+      "question": "Has orphan drug designation (ODD) been granted or filed (US/EU/JP)?",
+      "rubric_tests": "Whether orphan drug designation (ODD) applications have been prepared, filed, granted, or are in planning for key jurisdictions (US, EU, Japan), whether designation status and benefits are documented, and whether alignment with commercial, regulatory, and pricing strategy is reviewed through governance \u2014 with cross-functional tracking of obligations and benefits.",
+      "rationale": "ODD provides critical regulatory, commercial, and financial incentives \u2014 failure to secure or optimize ODD status risks loss of exclusivity, reimbursement value, market positioning, and investor confidence; proactive planning and alignment is key for orphan programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG20",
+      "inquiry_domain": "Orphan, Pediatric, and Special Designations",
+      "question": "Are rare disease justifications supported by epidemiologic data?",
+      "rubric_tests": "Whether the rare disease designation (ODD) justification is fully supported by rigorous, documented, auditable epidemiologic data aligned to jurisdictional thresholds (US, EU, JP, CN, KR), whether sources are validated, transparent, and acceptable to regulators, HTAs, and payers, and whether uncertainties and sensitivity analyses are documented and governance-reviewed.",
+      "rationale": "Epidemiologic justification is the cornerstone of ODD eligibility and payer recognition; poor-quality, non-transparent, or unvalidated prevalence data is a common cause of ODD rejection, pricing/access challenges, and investor concern \u2014 must be robust and globally defensible.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG21",
+      "inquiry_domain": "Orphan, Pediatric, and Special Designations",
+      "question": "Are Pediatric Study Plans (PSP/PIP) submitted or waivers obtained?",
+      "rubric_tests": "Whether required Pediatric Study Plans (US: PSP under PREA / BPCA; EU: PIP under EC Regulation 1901/2006; UK: PIP under post-Brexit MHRA guidance; JP: Pediatric development plan) have been prepared, filed, or waivers obtained; whether agency feedback has been tracked and integrated into clinical, regulatory, and commercial strategy; whether risks from pediatric obligations are transparently documented and governance-reviewed.",
+      "rationale": "PSP/PIP compliance is a top driver of approval timing, post-marketing obligations, and HTA/reimbursement success \u2014 failure to proactively manage pediatric requirements results in submission delays, non-approval of adult indications, launch risk, and inspection findings; must be rigorously tracked.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG22",
+      "inquiry_domain": "Orphan, Pediatric, and Special Designations",
+      "question": "Has the asset been evaluated for RMAT, BTD, PRIME, or other expedited designations?",
+      "rubric_tests": "Whether opportunities for expedited regulatory pathways (US: RMAT, Breakthrough Therapy, Fast Track; EU: PRIME; JP: Sakigake; UK: ILAP; CN: Breakthrough Therapy) have been systematically evaluated based on current clinical and translational data; whether filings have been prepared or submitted; whether benefits and obligations are understood; whether risks are tracked and governance-reviewed.",
+      "rationale": "Expedited designations drive accelerated approval, first-in-class positioning, valuation uplift, and payer/HTA leverage \u2014 failure to evaluate and pursue appropriately risks competitive disadvantage, approval delay, and missed commercial opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG23",
+      "inquiry_domain": "Module 1 (Regional), Module 2 (Summaries)",
+      "question": "Is Module 1 complete for at least one region?",
+      "rubric_tests": "Whether the eCTD Module 1 (regional administrative, legal, and product-specific information) is fully compiled, technically complete, quality checked, traceable, and aligned to current regional requirements for at least one region (FDA, EMA, MHRA, PMDA, NMPA, HC), with gaps and risks documented and governance-reviewed.",
+      "rationale": "Module 1 is the gatekeeper to submission acceptance \u2014 incomplete, inconsistent, or out-of-date Module 1 is a top cause of refuse-to-file (US), validation failure (EU), clock-stop (EU, UK), technical rejection (JP, CN); must be rigorously documented, region-specific, and governance-reviewed.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG24",
+      "inquiry_domain": "Module 1 (Regional), Module 2 (Summaries)",
+      "question": "Are overviews (Quality, Nonclinical, Clinical) well-written, integrated, and up to date?",
+      "rubric_tests": "Whether Module 2 Overviews (2.3 Quality Overall Summary, 2.4 Nonclinical Overview, 2.5 Clinical Overview) are scientifically sound, well-written, internally consistent with Modules 3\u20135, aligned across functions, cross-referenced accurately, up to date with latest data, and formatted for reviewer usability and audit readiness.",
+      "rationale": "Overviews anchor reviewer understanding of the application; poor integration, outdated content, or inconsistencies across modules are top causes of major objections, clock-stops, review delays, and inspection findings; they are also key deliverables scrutinized in BD and investor diligence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG25",
+      "inquiry_domain": "Module 1 (Regional), Module 2 (Summaries)",
+      "question": "Are inconsistencies across modules addressed and reconciled?",
+      "rubric_tests": "Whether cross-module inconsistencies (data values, interpretations, terminology, conclusions) are proactively identified, tracked, and resolved across all eCTD modules (Modules 1\u20135), with traceability of resolutions, governance visibility, and audit-ready documentation.",
+      "rationale": "Inconsistencies across modules are among the most common causes of major objections, refuse-to-validate outcomes, inspection findings, and delayed first-cycle approvals; proactive management of cross-module alignment is essential to regulatory confidence and submission quality.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG26",
+      "inquiry_domain": "Quality of eCTD Submission Package",
+      "question": "Is the eCTD backbone structure compliant and validated?",
+      "rubric_tests": "Whether the eCTD submission backbone (regional DTD/SPL, XML structure, TOC hierarchy, metadata, hyperlinks) is fully compliant with current regional technical standards and validated with industry-standard tools, with errors resolved and traceability documented for audit readiness.",
+      "rationale": "Technical eCTD non-compliance is a top reason for submission validation failure (Refuse-to-File, Refuse-to-Validate, clock-stop); regulators expect rigorously validated, clean backbone structure \u2014 errors delay approval, create reputational risk, and trigger inspection findings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG27",
+      "inquiry_domain": "Quality of eCTD Submission Package",
+      "question": "Are hyperlinks functional and folders correctly labeled?",
+      "rubric_tests": "Whether all internal hyperlinks in the eCTD submission are functional, tested, and compliant with regional requirements, and whether folder structures, file naming, and locations conform to the official eCTD backbone specifications (regional Module 1 and ICH M2 guidelines), with traceability and audit readiness.",
+      "rationale": "Broken or misdirected hyperlinks and incorrect folder labels are common causes of eCTD technical validation failures. Regulators rely on accurate hyperlinking and compliant folder structures for efficient dossier navigation; deficiencies create review delays, trigger technical queries, and undermine submission quality.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG28",
+      "inquiry_domain": "Quality of eCTD Submission Package",
+      "question": "Are previous agency queries tracked and responded to in updated modules?",
+      "rubric_tests": "Hyperlink and folder errors are among the most common causes of refuse-to-validate or major review delays \u2014 non-functional navigation damages reviewer trust, creates inspection risk, and signals poor submission quality to both regulators and BD/investors.",
+      "rationale": null,
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG29",
+      "inquiry_domain": "Quality of eCTD Submission Package",
+      "question": "Is an experienced publisher or regulatory operations partner in place?",
+      "rubric_tests": "Whether an experienced, appropriately qualified publisher or regulatory operations (RegOps) partner with relevant eCTD expertise, tools, SOPs, and inspection readiness is assigned to the submission program, with documented track record, governance oversight, and role clarity.",
+      "rationale": "Whether an experienced, appropriately qualified publisher or regulatory operations (RegOps) partner with relevant eCTD expertise, tools, SOPs, and inspection readiness is assigned to the submission program, with documented track record, governance oversight, and role clarity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG30",
+      "inquiry_domain": "Risk Assessment & Regulatory Barriers",
+      "question": "Are regulatory risks identified (e.g., first-in-class mechanism, animal findings, CMC gaps)?",
+      "rubric_tests": "Whether regulatory risks (clinical, CMC, nonclinical, labeling, regional, precedent-based, expedited pathways, programmatic) are systematically identified, documented, analyzed, and managed through an integrated cross-functional risk framework aligned with regulatory strategy and governance.",
+      "rationale": "Failure to systematically identify and manage regulatory risks is a leading cause of major objections, approval delays, missed market opportunities, and BD value erosion \u2014 proactive risk management is essential to navigating first-in-class science, novel modalities, and regional complexities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG31",
+      "inquiry_domain": "Risk Assessment & Regulatory Barriers",
+      "question": "Is there a formal benefit-risk assessment?",
+      "rubric_tests": "Whether a structured, formal, and transparent benefit-risk (B-R) assessment is documented in the submission, aligned to agency frameworks (e.g. FDA BRF, EMA BR template), integrating clinical efficacy, safety, patient experience, RWE where appropriate, with clear narrative and traceability",
+      "rationale": "A formal, well-structured benefit-risk assessment is now central to regulatory decision-making; absence or poor quality B-R \u2192 major objections, delayed approvals, labeling limitations, reputational risk with investors and payers.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG32",
+      "inquiry_domain": "Risk Assessment & Regulatory Barriers",
+      "question": "Are mitigation plans documented for key risk areas?",
+      "rubric_tests": "Whether mitigation plans for known or potential risks (across clinical, safety, CMC, regulatory, operational, HTA, and commercial domains) are clearly documented, owned, time-bound, cross-functionally reviewed, traceable in governance packs, and ready for inspection/diligence.",
+      "rationale": "Failure to document and track risk mitigations is a top cause of regulatory objections, Stage Gate delays, BD deal erosion, and inspection findings \u2014 agencies and investors expect clear, actionable risk mitigation planning across functions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG33",
+      "inquiry_domain": "Risk Assessment & Regulatory Barriers",
+      "question": "Are there known issues with platform or class-based precedents?",
+      "rubric_tests": "Whether the development team has systematically identified, analyzed, and addressed known regulatory, safety, efficacy, CMC, and HTA issues or concerns associated with the relevant platform or therapeutic class, using agency feedback, public precedents, competitor experience, and internal knowledge.",
+      "rationale": "Platform/class-based issues drive regulatory scrutiny, labeling limitations, post-marketing requirements, and investor risk perception \u2014 failure to proactively address them \u2192 major objections, program delays, valuation impact.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG34",
+      "inquiry_domain": "Regulatory Documentation & Audit Readiness",
+      "question": "Are all submission documents finalized, QA-checked, and archived?",
+      "rubric_tests": "Whether regulatory documentation (submission documents, inspection readiness files, master files, correspondence logs, trackers) is finalized, QA-reviewed, archived, version-controlled, inspection-ready, cross-functionally traceable, and aligned to global regulatory and GxP expectations.",
+      "rationale": "Weak regulatory documentation and audit readiness is a top driver of regulatory delays, 483s, major objections, and BD deal risk \u2014 agencies and investors now routinely inspect submission quality, audit trails, and documentation governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG35",
+      "inquiry_domain": "Regulatory Documentation & Audit Readiness",
+      "question": "Are IND/CTA submissions inspection-ready (e.g., QA certificates, GLP/GCP statements)?",
+      "rubric_tests": "Whether regulatory documentation (submission documents, inspection readiness files, master files, correspondence logs, trackers) is finalized, QA-reviewed, archived, version-controlled, inspection-ready, cross-functionally traceable, and aligned to global regulatory and GxP expectations.",
+      "rationale": "Weak regulatory documentation and audit readiness is a top driver of regulatory delays, 483s, major objections, and BD deal risk \u2014 agencies and investors now routinely inspect submission quality, audit trails, and documentation governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG36",
+      "inquiry_domain": "Regulatory Documentation & Audit Readiness",
+      "question": "Are Regulatory Master Files (DMFs, ASMFs) available for APIs or drug products?",
+      "rubric_tests": "Whether regulatory documentation (submission documents, inspection readiness files, master files, correspondence logs, trackers) is finalized, QA-reviewed, archived, version-controlled, inspection-ready, cross-functionally traceable, and aligned to global regulatory and GxP expectations.",
+      "rationale": "Weak regulatory documentation and audit readiness is a top driver of regulatory delays, 483s, major objections, and BD deal risk \u2014 agencies and investors now routinely inspect submission quality, audit trails, and documentation governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG37",
+      "inquiry_domain": "Regulatory Documentation & Audit Readiness",
+      "question": "Are correspondence logs and submission trackers complete and maintained?",
+      "rubric_tests": "Whether regulatory documentation (submission documents, inspection readiness files, master files, correspondence logs, trackers) is finalized, QA-reviewed, archived, version-controlled, inspection-ready, cross-functionally traceable, and aligned to global regulatory and GxP expectations.",
+      "rationale": "Weak regulatory documentation and audit readiness is a top driver of regulatory delays, 483s, major objections, and BD deal risk \u2014 agencies and investors now routinely inspect submission quality, audit trails, and documentation governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG38",
+      "inquiry_domain": "Registration Pathway Planning",
+      "question": "Has a plan been defined for MAA/NDA/BLA submission timing and format?",
+      "rubric_tests": "Whether the program has a documented and aligned plan for submission timing, format (eCTD / RPS / hybrid), regional sequence (US, EU, JP, ROW), and alignment to pivotal study timelines, CMC readiness, safety database maturity, and regulatory guidance feedback.",
+      "rationale": "Whether the program has a documented and aligned plan for submission timing, format (eCTD / RPS / hybrid), regional sequence (US, EU, JP, ROW), and alignment to pivotal study timelines, CMC readiness, safety database maturity, and regulatory guidance feedback.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG39",
+      "inquiry_domain": "Registration Pathway Planning",
+      "question": "Are region-specific approval pathways chosen (e.g., centralized EU, Project Orbis, APEC reliance)?",
+      "rubric_tests": "Whether region-specific approval pathways (centralized EU, US, JP, UK, Project Orbis, ACCESS, APEC reliance, WHO PQ, regional collaborations) have been evaluated, selected, documented, and aligned to corporate strategy, submission sequencing, agency guidance, and regulatory intelligence.",
+      "rationale": "Strategic use of regional pathways can accelerate approval, reduce cost, enable faster patient access, and drive valuation uplift \u2014 failure to plan this leads to launch delays, misaligned submissions, and market access gaps.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG40",
+      "inquiry_domain": "Registration Pathway Planning",
+      "question": "Are bridging strategies and waivers identified for global submissions?",
+      "rubric_tests": "Whether bridging strategies and waiver opportunities (CMC comparability, clinical bridging, regional studies, ethnic sensitivity, nonclinical waivers) are identified, documented, aligned to agency expectations, and built into the global regulatory and submission plan.",
+      "rationale": "Failure to proactively define bridging and waiver strategies causes duplicated studies, delays, extra cost, and regulatory objections \u2014 agencies and HTA bodies expect to see bridging rationale and waiver requests fully justified and traceable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG41",
+      "inquiry_domain": "Registration Pathway Planning",
+      "question": "Are registration-enabling studies complete or scheduled?",
+      "rubric_tests": "Whether all required registration-enabling studies (clinical, CMC, nonclinical, safety, RWE if used, HTA-required) are identified, mapped to submission plans, tracked for completion, and have clear ownership, status, and risk management.",
+      "rationale": "Failure to complete or schedule required registration-enabling studies is the #1 cause of regulatory clock-stops, delays, or failed submissions \u2014 agencies expect clear visibility on what studies enable the MAA/NDA/BLA filing and label claims.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG42",
+      "inquiry_domain": "Post-Marketing Regulatory Planning",
+      "question": "Are Risk Management Plans (RMPs), REMS, or pharmacovigilance plans under development?",
+      "rubric_tests": "Whether required RMPs, REMS, and PV plans are being proactively developed, aligned to safety profile, agency guidance, and label strategy, and operationally ready for submission and launch.",
+      "rationale": "Regulators expect to see well-developed RMP/REMS/PV plans early \u2014 weak planning leads to major objections, labeling delays, HTA rejections, and post-marketing risk; BD and investors also scrutinize risk mitigation maturity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG43",
+      "inquiry_domain": "Post-Marketing Regulatory Planning",
+      "question": "Are pharmacovigilance systems compliant with EU/US requirements (e.g., QPPV, PV system master file)?",
+      "rubric_tests": "Whether the pharmacovigilance system (QPPV appointment, PV System Master File, SOPs, PV agreements, safety database, signal management, training, quality system) is fully compliant with EU GVP, FDA PV requirements, and ready for launch and inspection.",
+      "rationale": "PV non-compliance is a leading cause of critical FDA findings, EU GVP audit failures, BD deal erosion, and post-approval risk \u2014 regulators and investors expect PV readiness to be demonstrated before launch.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG44",
+      "inquiry_domain": "Post-Marketing Regulatory Planning",
+      "question": "Are post-approval commitments anticipated and resourced?",
+      "rubric_tests": "Whether post-approval commitments (regulatory, safety, CMC, effectiveness, HTA, commercial) are anticipated, documented, resourced, tracked, and governed to support launch and lifecycle compliance.",
+      "rationale": "Failure to plan for post-approval commitments leads to major compliance risks, HTA rejection, BD valuation erosion, and regulatory action \u2014 agencies, HTA bodies, and investors expect clear commitment planning and governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG45",
+      "inquiry_domain": "Post-Marketing Regulatory Planning",
+      "question": "Are label extensions, post-marketing studies, or conditional approvals considered?",
+      "rubric_tests": "Whether label extension strategies, post-marketing studies (PMS/PASS/PED), and conditional/accelerated approval pathways are evaluated, documented, aligned to regulatory strategy, lifecycle planning, HTA strategy, and commercial forecasts, and whether required operational plans and risks are tracked and resourced.",
+      "rationale": "Failure to proactively plan label extensions, post-marketing studies, and conditional approvals leads to lost market opportunities, regulatory objections, HTA delays, and valuation compression \u2014 agencies and investors expect to see a forward-looking lifecycle and risk-adjusted plan.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG46",
+      "inquiry_domain": "Regulatory Team & Governance",
+      "question": "Is there an experienced internal or external regulatory lead assigned?",
+      "rubric_tests": "Whether the Regulatory team structure, governance framework, roles and responsibilities, and external partner oversight are clearly defined, documented, resourced, and aligned to enable effective global regulatory execution, compliance, and strategic risk management.",
+      "rationale": "Weak regulatory governance and team structure is a top root cause of delayed filings, agency objections, BD deal erosion, and compliance risk \u2014 agencies and investors expect transparent roles, clear governance, and reputable partner oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG47",
+      "inquiry_domain": "Regulatory Team & Governance",
+      "question": "Are roles and responsibilities defined for regional regulatory activities?",
+      "rubric_tests": "Whether the Regulatory team structure, governance framework, roles and responsibilities, and external partner oversight are clearly defined, documented, resourced, and aligned to enable effective global regulatory execution, compliance, and strategic risk management.",
+      "rationale": "Weak regulatory governance and team structure is a top root cause of delayed filings, agency objections, BD deal erosion, and compliance risk \u2014 agencies and investors expect transparent roles, clear governance, and reputable partner oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG48",
+      "inquiry_domain": "Regulatory Team & Governance",
+      "question": "Is a regulatory decision-making framework in place (e.g., escalation pathways, governance)?",
+      "rubric_tests": "Whether the Regulatory team structure, governance framework, roles and responsibilities, and external partner oversight are clearly defined, documented, resourced, and aligned to enable effective global regulatory execution, compliance, and strategic risk management.",
+      "rationale": "Weak regulatory governance and team structure is a top root cause of delayed filings, agency objections, BD deal erosion, and compliance risk \u2014 agencies and investors expect transparent roles, clear governance, and reputable partner oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "REG49",
+      "inquiry_domain": "Regulatory Team & Governance",
+      "question": "Are regulatory service providers (consultants, publishers, CROs) reputable and documented?",
+      "rubric_tests": "Whether the Regulatory team structure, governance framework, roles and responsibilities, and external partner oversight are clearly defined, documented, resourced, and aligned to enable effective global regulatory execution, compliance, and strategic risk management.",
+      "rationale": "Weak regulatory governance and team structure is a top root cause of delayed filings, agency objections, BD deal erosion, and compliance risk \u2014 agencies and investors expect transparent roles, clear governance, and reputable partner oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG50",
+      "inquiry_domain": "Emerging Markets & Global Expansion",
+      "question": "Are registration requirements evaluated for China, LATAM, MENA, SEA, Africa?",
+      "rubric_tests": "Whether registration requirements, pathways, data expectations, timelines, and commercial drivers for China, LATAM, MENA, SEA, and Africa are evaluated, documented, prioritized, and aligned to the global regulatory, commercial, and lifecycle strategy.",
+      "rationale": "Emerging markets represent major revenue and access opportunities \u2014 failure to proactively evaluate and plan for regional registration requirements causes delays, lost revenue, and HTA/reimbursement challenges \u2014 investors expect to see a credible global expansion strategy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG51",
+      "inquiry_domain": "Emerging Markets & Global Expansion",
+      "question": "Are local regulatory agents or affiliates engaged?",
+      "rubric_tests": "Whether local regulatory agents, affiliates, distributors, or partners are identified, engaged, qualified, and contractually aligned to enable effective registration, compliance, and launch execution in emerging markets.",
+      "rationale": "Local agents and affiliates are essential to navigate complex, dynamic, and highly variable emerging market requirements \u2014 failure to engage and qualify appropriate partners causes launch delays, compliance findings, and revenue loss \u2014 BD and investors expect clear visibility of local execution readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG52",
+      "inquiry_domain": "Emerging Markets & Global Expansion",
+      "question": "Are local-language dossiers and administrative documents planned?",
+      "rubric_tests": "Whether local-language dossier requirements and administrative documents (translations, notarizations, certifications, legalizations) are identified, planned, resourced, and integrated into the submission timeline and risk management plan for target emerging markets.",
+      "rationale": "Failure to plan for local-language and administrative document requirements is one of the top operational causes of emerging market submission delays \u2014 investors and governance expect to see a credible and resourced operational readiness plan.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "REG53",
+      "inquiry_domain": "Change Control & Version Management",
+      "question": "Are version control and change management procedures documented?",
+      "rubric_tests": "Whether change control and version management processes for Regulatory, CMC, Clinical, and Labeling changes are documented, implemented, integrated, auditable, and resourced to ensure compliance, submission quality, and global market maintenance.",
+      "rationale": "Weak change control and version management is a top root cause of major regulatory findings, labeling errors, submission refusals, and global market divergence \u2014 BD and investors expect to see robust, integrated, auditable change control.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG54",
+      "inquiry_domain": "Change Control & Version Management",
+      "question": "Are regulatory-impact assessments conducted for CMC or clinical changes?",
+      "rubric_tests": "Whether change control and version management processes for Regulatory, CMC, Clinical, and Labeling changes are documented, implemented, integrated, auditable, and resourced to ensure compliance, submission quality, and global market maintenance.",
+      "rationale": "Weak change control and version management is a top root cause of major regulatory findings, labeling errors, submission refusals, and global market divergence \u2014 BD and investors expect to see robust, integrated, auditable change control.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "REG55",
+      "inquiry_domain": "Change Control & Version Management",
+      "question": "Are variations, amendments, and renewals tracked and submitted on time?",
+      "rubric_tests": "Whether change control and version management processes for Regulatory, CMC, Clinical, and Labeling changes are documented, implemented, integrated, auditable, and resourced to ensure compliance, submission quality, and global market maintenance.",
+      "rationale": "Weak change control and version management is a top root cause of major regulatory findings, labeling errors, submission refusals, and global market divergence \u2014 BD and investors expect to see robust, integrated, auditable change control.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    }
+  ]
+}

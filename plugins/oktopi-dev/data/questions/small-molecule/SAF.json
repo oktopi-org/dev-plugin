@@ -1,0 +1,3455 @@
+{
+  "function_code": "SAF",
+  "modality": "small-molecule",
+  "function_name": "Clinical Safety",
+  "question_count": 54,
+  "critical_index": {
+    "SR": {
+      "SG4": [
+        "SAF1",
+        "SAF2",
+        "SAF19",
+        "SAF21",
+        "SAF22"
+      ],
+      "SG5": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22"
+      ],
+      "SG6": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF29",
+        "SAF33"
+      ],
+      "SG7": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF29",
+        "SAF33",
+        "SAF45",
+        "SAF49",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG8": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF29",
+        "SAF33",
+        "SAF45",
+        "SAF49",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG9": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF45",
+        "SAF50",
+        "SAF51"
+      ]
+    },
+    "OE": {
+      "SG4": [
+        "SAF1",
+        "SAF2",
+        "SAF3"
+      ],
+      "SG5": [
+        "SAF1",
+        "SAF2",
+        "SAF3",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF11",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF25",
+        "SAF26",
+        "SAF27",
+        "SAF28",
+        "SAF29",
+        "SAF30",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF36",
+        "SAF37",
+        "SAF38",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF46",
+        "SAF47",
+        "SAF48",
+        "SAF52",
+        "SAF53",
+        "SAF54"
+      ],
+      "SG6": [
+        "SAF1",
+        "SAF2",
+        "SAF3",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF11",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF25",
+        "SAF26",
+        "SAF27",
+        "SAF28",
+        "SAF29",
+        "SAF30",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF36",
+        "SAF37",
+        "SAF38",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF46",
+        "SAF47",
+        "SAF48",
+        "SAF52",
+        "SAF53",
+        "SAF54"
+      ],
+      "SG7": [
+        "SAF1",
+        "SAF2",
+        "SAF3",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF11",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF25",
+        "SAF26",
+        "SAF27",
+        "SAF28",
+        "SAF29",
+        "SAF30",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF36",
+        "SAF37",
+        "SAF38",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF45",
+        "SAF46",
+        "SAF47",
+        "SAF48",
+        "SAF49",
+        "SAF50",
+        "SAF51",
+        "SAF52",
+        "SAF53",
+        "SAF54"
+      ],
+      "SG8": [
+        "SAF1",
+        "SAF2",
+        "SAF3",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF11",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF25",
+        "SAF26",
+        "SAF27",
+        "SAF28",
+        "SAF29",
+        "SAF30",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF36",
+        "SAF37",
+        "SAF38",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF45",
+        "SAF46",
+        "SAF47",
+        "SAF48",
+        "SAF49",
+        "SAF50",
+        "SAF51",
+        "SAF52",
+        "SAF53",
+        "SAF54"
+      ],
+      "SG9": [
+        "SAF1",
+        "SAF2",
+        "SAF3",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF11",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF25",
+        "SAF26",
+        "SAF27",
+        "SAF28",
+        "SAF29",
+        "SAF30",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF36",
+        "SAF37",
+        "SAF38",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF45",
+        "SAF46",
+        "SAF47",
+        "SAF48",
+        "SAF49",
+        "SAF50",
+        "SAF51",
+        "SAF52",
+        "SAF53",
+        "SAF54"
+      ]
+    },
+    "DD": {
+      "SG5": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22"
+      ],
+      "SG6": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF29",
+        "SAF33",
+        "SAF42"
+      ],
+      "SG7": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF29",
+        "SAF33",
+        "SAF42",
+        "SAF45",
+        "SAF49",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG8": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF29",
+        "SAF33",
+        "SAF42",
+        "SAF45",
+        "SAF49",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG9": [
+        "SAF1",
+        "SAF2",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF45",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG4": [
+        "SAF19",
+        "SAF22"
+      ]
+    },
+    "RS": {
+      "SG6": [
+        "SAF1",
+        "SAF2",
+        "SAF5",
+        "SAF8",
+        "SAF12",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF29",
+        "SAF32",
+        "SAF33",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42"
+      ],
+      "SG7": [
+        "SAF1",
+        "SAF2",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF28",
+        "SAF29",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF37",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF45",
+        "SAF49",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG8": [
+        "SAF1",
+        "SAF2",
+        "SAF4",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF20",
+        "SAF21",
+        "SAF22",
+        "SAF23",
+        "SAF24",
+        "SAF28",
+        "SAF29",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF37",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF42",
+        "SAF43",
+        "SAF44",
+        "SAF45",
+        "SAF49",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG9": [
+        "SAF1",
+        "SAF2",
+        "SAF5",
+        "SAF6",
+        "SAF7",
+        "SAF8",
+        "SAF9",
+        "SAF10",
+        "SAF12",
+        "SAF13",
+        "SAF14",
+        "SAF15",
+        "SAF16",
+        "SAF17",
+        "SAF18",
+        "SAF19",
+        "SAF24",
+        "SAF28",
+        "SAF29",
+        "SAF31",
+        "SAF32",
+        "SAF33",
+        "SAF34",
+        "SAF35",
+        "SAF37",
+        "SAF39",
+        "SAF40",
+        "SAF41",
+        "SAF43",
+        "SAF44",
+        "SAF45",
+        "SAF50",
+        "SAF51"
+      ],
+      "SG5": [
+        "SAF16",
+        "SAF17",
+        "SAF19",
+        "SAF22",
+        "SAF33"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "SAF1",
+      "inquiry_domain": "Safety Management Plan & Governance",
+      "question": "Is the SMP aligned with the risk profile of the compound and clinical population?",
+      "rubric_tests": "Systematic review of the Safety Management Plan (SMP) for explicit, traceable alignment between the known and emerging risk profile of the compound and the clinical characteristics and vulnerabilities of the intended study population, incorporating preclinical, clinical, and epidemiologic data sources; confirmation that mitigation, monitoring, escalation, and response strategies are directly linked to this risk profile and reviewed through a structured governance process.",
+      "rationale": "Tailored safety management is critical to protect patient welfare, ensure scientific integrity, and satisfy regulatory expectations. Alignment ensures that safety oversight is data-driven, evolves with new evidence, and addresses both intrinsic compound risks and extrinsic population vulnerabilities, reducing regulatory and ethical risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF2",
+      "inquiry_domain": "Safety Management Plan & Governance",
+      "question": "Are roles and responsibilities for safety surveillance clearly defined across teams?",
+      "rubric_tests": "Review of governance documentation, Safety Management Plan (SMP), Pharmacovigilance System Master File (PSMF) (if applicable), Clinical Development Plan (CDP), and cross-functional RACI matrices to confirm that roles and responsibilities for all aspects of safety surveillance (signal detection, aggregate review, case processing, reporting, escalation, governance) are clearly defined, documented, and communicated across internal and external teams (including CROs and vendors).",
+      "rationale": "Clear delineation of responsibilities is essential to ensure timely, accurate, and coordinated safety surveillance. Ambiguity or gaps in role definition can lead to delayed detection of safety signals, inconsistent case handling, regulatory non-compliance, and potential patient harm. Cross-functional clarity is a core expectation of regulatory inspections and a hallmark of high-performing safety organizations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF3",
+      "inquiry_domain": "Safety Management Plan & Governance",
+      "question": "Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC)?",
+      "rubric_tests": "Review of governance documents (SRC Charter, DMC Charter), meeting records, membership rosters, training records, decision logs, and communication plans to confirm that an SRC and/or DMC is formally established, appropriately constituted, operating to a defined charter, actively meeting per plan, performing required reviews, documenting deliberations and decisions, and integrated with the study governance and safety surveillance framework.",
+      "rationale": "Functioning SRCs and DMCs are critical mechanisms for independent and/or expert review of cumulative safety data, particularly in higher-risk programs. Regulators expect formal charters, active engagement, documentation of activities, and clear pathways for data-driven decision-making. Non-functioning or symbolic committees represent major risk in inspections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF4",
+      "inquiry_domain": "Adverse Event (AE) Collection & Classification",
+      "question": "Are adverse events (AEs), serious adverse events (SAEs), and adverse events of special interest (AESIs) being systematically collected and coded (e.g., MedDRA)?",
+      "rubric_tests": "Review of Protocol, Case Report Forms (CRFs), Data Management Plan (DMP), Safety Data Management Plan (SDMP), Data Transfer Agreements (DTAs), coding conventions, coding dictionaries (MedDRA), coding QC processes, and safety listings to confirm that AE, SAE, and AESI collection is systematic, protocol-defined, consistently implemented, uses validated MedDRA dictionary and controlled terminology, includes clear coding conventions and quality checks, and ensures traceability and completeness across data sources (Clinical vs. Safety DBs).",
+      "rationale": "Systematic collection and accurate coding of AEs, SAEs, and AESIs are critical for both participant safety and regulatory compliance. Errors in collection or coding can result in under-reporting, mischaracterization of safety profile, regulatory findings, and compromised benefit-risk assessment. This is a key GCP inspection focus area globally.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF5",
+      "inquiry_domain": "Adverse Event (AE) Collection & Classification",
+      "question": "Are AE collection methods standardized across sites and protocols?",
+      "rubric_tests": "Review of Protocol, CRFs, Investigator Meeting slides, Site Manual, Data Management Plan (DMP), Monitoring Plan, Site Training records, and Safety Data Management Plan (SDMP) to confirm that AE collection processes (definitions, timing, methods, source data expectations, entry into CRFs, queries, escalation) are fully standardized across all participating sites and consistently implemented across protocols where appropriate (platform studies, umbrella studies, adaptive trials). Standardization ensures comparability, data quality, regulatory compliance, and reliability of safety profile analyses across sites and studies.",
+      "rationale": "Variability in AE collection methods across sites and protocols introduces bias, under-reporting, or inconsistent interpretation of safety signals. Regulatory agencies expect AE collection to be highly standardized \u2014 particularly in multi-center or multi-protocol programs. Lack of standardization is a common inspection finding and impacts signal detection, meta-analysis, and labeling accuracy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF6",
+      "inquiry_domain": "Adverse Event (AE) Collection & Classification",
+      "question": "Are electronic data capture (EDC) and medical coding systems validated and up-to-date?",
+      "rubric_tests": "Review of validation documentation (User Requirements Specifications, Functional Specifications, IQ/OQ/PQ), System Release Notes, Validation Summary Reports, MedDRA version control logs, change control records, and audit trails for both EDC and coding systems to confirm that they are properly validated per 21 CFR Part 11 / EU Annex 11 (as applicable), version-controlled, maintained with appropriate change management, and current with regulatory expectations and industry best practices (e.g., MedDRA version up-to-date).",
+      "rationale": "EDC and coding systems are critical GCP-regulated systems supporting safety data integrity. Lack of validation, outdated systems, or poor version control can compromise data quality, patient safety, regulatory reporting accuracy, and inspection readiness. This is a frequent critical finding area in both GCP and PV inspections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF7",
+      "inquiry_domain": "Serious Adverse Events (SAE) Management",
+      "question": "Are SAEs being reported within required timelines (regulatory and sponsor)?",
+      "rubric_tests": "Review of SAE reporting processes (Protocol, Safety Management Plan, SAE Reporting SOP), Safety Database, reconciliation reports, site training, monitoring reports, and KPI tracking to confirm that SAE reporting meets both regulatory (e.g. 7- and 15-day expedited reporting, ICH E2A) and sponsor-defined timelines (e.g. rapid initial reporting, ongoing updates). Includes verification of real-time site-to-sponsor reporting, sponsor-to-HA reporting, reconciliation with Clinical DB, and tracking of late or missed reports.",
+      "rationale": "SAE reporting timeliness is a critical compliance obligation and a key focus of regulatory inspections globally. Delays or missed reporting expose patients to harm and Sponsors to serious regulatory findings, inspection critical findings, and trial holds. SAE timeliness processes must be actively monitored, tracked, trended, and documented.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF8",
+      "inquiry_domain": "Serious Adverse Events (SAE) Management",
+      "question": "Are SAEs reconciled between clinical and safety databases?",
+      "rubric_tests": "Review of SAE Reconciliation Plan, Safety Data Management Plan (SDMP), Data Management Plan (DMP), reconciliation reports, discrepancy logs, reconciliation SOP, reconciliation meeting minutes, Clinical DB listings, Safety DB outputs, and audit trails to confirm that systematic, timely, documented, bidirectional reconciliation is performed between Clinical and Safety DBs (both for open and closed cases), that discrepancies are resolved and documented, that processes cover both blinded and unblinded studies appropriately, and that there is full traceability for inspection readiness.",
+      "rationale": "This is a critical regulatory expectation globally \u2014 reconciliation failures are a major cause of inspection findings, as mismatches between Clinical DB and Safety DB can lead to under-reporting, data integrity risk, incorrect submissions (DSURs, CSRs), or MA application delays. Reconciliation must be formalized, proactive, auditable, and fully documented.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF9",
+      "inquiry_domain": "Serious Adverse Events (SAE) Management",
+      "question": "Is there clear medical review and causality assessment for all SAEs?",
+      "rubric_tests": "Review of SAE process documentation (SAE Reporting SOP, Safety Management Plan), Medical Review procedures, causality assessment forms or fields, Medical Review reports, Safety Database audit trails, PV workflows, case narratives, and audit trails to confirm that each SAE is subject to structured, documented medical review and causality assessment by a qualified physician, aligned with regulatory definitions, with traceable documentation in the Safety Database and Clinical Study Reports. Includes checks on training of Medical Reviewers, consistency of causality assessments, handling of disagreements, and appropriateness of causality classification for regulatory reporting.",
+      "rationale": "Clear, consistent, and medically sound SAE review and causality assessment is a global regulatory expectation. Weaknesses in this area lead to misreporting of causality, regulatory submission errors, and significant inspection findings. This is an FDA, EMA, MHRA, and Health Canada priority focus area \u2014 inspection-critical.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF10",
+      "inquiry_domain": "Serious Adverse Events (SAE) Management",
+      "question": "Is there a global process for unblinding in life-threatening cases?",
+      "rubric_tests": "Review of Unblinding SOP, Protocols, Safety Management Plan, Safety Reporting Plan, Medical Monitor procedures, Data Management Plan (DMP), randomization system (IRT/IVRS) unblinding functionality, unblinding logs, training materials, and governance documentation to confirm that there is a global, standardized, validated process for controlled unblinding in life-threatening cases; that roles, responsibilities, and decision pathways are clear; that the process is aligned with regulatory expectations; that unblinding is traceable, justified, and documented; and that trial integrity is protected.",
+      "rationale": "Uncontrolled or inappropriate unblinding is one of the top global inspection risks \u2014 undermining trial validity and regulatory acceptability of data. There must be a rigorous, auditable, and medically justified process for unblinding in life-threatening cases. Inconsistent or undocumented processes frequently result in major inspection findings (FDA, EMA, MHRA, Health Canada, PMDA).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF11",
+      "inquiry_domain": "Safety Signal Detection & Evaluation",
+      "question": "Are statistical methods and thresholds for signal detection defined and actively used?",
+      "rubric_tests": "Review of Signal Detection and Management SOP, Safety Management Plan (SMP), Signal Detection Plan (SDP), Data Management Plan (DMP), safety surveillance meeting minutes, signal detection outputs (reports, statistical analyses), signal tracking logs, cumulative data review outputs, DSURs, PSURs/PSURRs, and governance documentation to confirm that statistical methods and quantitative thresholds for signal detection are pre-defined, scientifically justified, applied consistently, and actively used to support ongoing benefit-risk assessment and regulatory compliance. Includes checks on algorithm selection, validation, documentation, oversight, and integration with clinical expert review.",
+      "rationale": "Quantitative signal detection is a global regulatory expectation under EMA GVP Module IX, FDA, MHRA, Health Canada, and PMDA guidance \u2014 especially for large data sets and cumulative reviews. Failure to define or apply appropriate methods is a major inspection risk \u2014 and undermines pharmacovigilance and regulatory submissions. This is an area where PV and Clinical Safety teams are often found lacking in inspections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF12",
+      "inquiry_domain": "Safety Signal Detection & Evaluation",
+      "question": "Is signal detection based on aggregate data review (e.g., by SMQs, PTs, SOCs)?",
+      "rubric_tests": "Review of Signal Detection and Management SOP, Signal Detection Plan (SDP), Safety Management Plan (SMP), cumulative data review outputs (including review by SMQs, PTs, SOCs), signal detection reports, safety surveillance meeting minutes, DSURs, PSURs/PBRERs, signal tracking logs, and audit trails to confirm that signal detection is systematically based on aggregate data review, using clinically meaningful groupings \u2014 including Standardized MedDRA Queries (SMQs), Preferred Terms (PTs), System Organ Classes (SOCs), and other relevant groupings (e.g., customized queries). Process must demonstrate scientific justification, consistency, traceability, and integration with benefit-risk assessment.",
+      "rationale": "Aggregate data review is a global regulatory requirement under EMA GVP Module IX, FDA, MHRA, Health Canada, PMDA, CIOMS \u2014 and a critical inspection focus area. Many inspection findings occur when Sponsors rely only on individual case review without adequate aggregate analysis by clinically meaningful groupings. Proper SMQ/PT/SOC review is expected, auditable, and needs governance oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF13",
+      "inquiry_domain": "Safety Signal Detection & Evaluation",
+      "question": "Are data reviewed for temporal trends, dose dependence, and organ system clustering?",
+      "rubric_tests": "Review of Signal Detection and Management SOP, Signal Detection Plan (SDP), Safety Management Plan (SMP), safety surveillance outputs, statistical analyses, cumulative review reports, Safety Governance meeting minutes, DSURs, PSURs/PBRERs, and signal tracking logs to confirm that systematic, proactive review of temporal trends, dose dependency, and organ system clustering is implemented and documented.",
+      "rationale": "Structured review of trends, dose, and organ clustering is essential to detect emerging patterns not visible from individual case review. It enables early detection of evolving safety signals, informs benefit-risk assessment, and is required by regulators (EMA GVP IX, FDA, PMDA). Lack of these reviews is a top global inspection finding and can lead to late labeling changes, market actions, or delays in regulatory approval. Regulatory agencies expect cumulative and interval-based trend analyses, dose-response evaluations using EAIRs, and clustering analyses based on SOC, PT, and custom queries, with results fully documented and traceable to benefit-risk decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF14",
+      "inquiry_domain": "Safety Signal Detection & Evaluation",
+      "question": "Are emerging signals evaluated for biological plausibility and consistency across trials?",
+      "rubric_tests": "Review of Signal Management SOP, Signal Evaluation procedures, Safety Management Plan (SMP), signal assessment reports, cumulative review outputs, Medical Review records, cross-study analyses, governance meeting minutes, DSURs/PSURs/RMP updates, and audit trails to confirm that emerging safety signals are evaluated for biological plausibility (based on mechanism of action, target pharmacology, off-target effects, known class effects, preclinical data, literature) and for consistency across trials, populations, and dosing regimens. Evaluations should be systematic, multidisciplinary, documented, and traceable to benefit-risk decisions and regulatory submissions.",
+      "rationale": "Biological plausibility and cross-trial consistency are critical dimensions of signal validation. Without formal evaluation of plausibility and consistency, Sponsors risk overreacting to false signals or underestimating true risks. Regulatory agencies (EMA GVP IX, FDA, CIOMS VIII) expect documented evaluation of mechanistic plausibility and consistency across programs. Failure to systematically address these dimensions is a common inspection finding and undermines the scientific basis of benefit-risk assessment, leading to delays, labeling challenges, or loss of regulatory trust. Evaluations must be multidisciplinary (Medical, PV, Clinical, Nonclinical), systematic, and auditable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF15",
+      "inquiry_domain": "Benefit-Risk Assessment",
+      "question": "Is there an ongoing integrated benefit-risk assessment plan?",
+      "rubric_tests": "Review of Benefit-Risk Assessment SOP, Integrated Benefit-Risk Management Plan (if standalone), Safety Management Plan (SMP), Clinical Development Plan (CDP), Risk Management Plan (RMP), DSURs, PSURs/PBRERs, Cumulative Safety Reports, governance meeting minutes, and audit trails to confirm that an ongoing, integrated benefit-risk assessment plan is established, implemented, multidisciplinary, and routinely updated throughout the product lifecycle. The plan must link safety and efficacy data, incorporate epidemiologic, clinical, patient, and regulatory perspectives, and be traceable to benefit-risk decisions and regulatory submissions.",
+      "rationale": "Integrated benefit-risk assessment is a core expectation of modern pharmacovigilance and clinical development. Regulators (EMA, FDA, PMDA, CIOMS) require Sponsors to maintain dynamic, cumulative benefit-risk assessments that evolve as new data emerge. An ongoing benefit-risk plan ensures that assessments are structured, multidisciplinary, prospective, and transparent. Lack of a formal benefit-risk plan is a frequent inspection finding and undermines regulatory trust and decision quality. Best practice is to maintain a living benefit-risk framework linked to both development and PV governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF16",
+      "inquiry_domain": "Benefit-Risk Assessment",
+      "question": "Is benefit-risk documented for key milestones (e.g., FIH, end of Phase 2, pivotal trial entry)?",
+      "rubric_tests": "Review of Benefit-Risk Assessment SOP, Integrated Benefit-Risk Plan, Clinical Development Plan (CDP), Safety Management Plan (SMP), governance stage gate and milestone review templates, internal decision memos, regulatory briefing documents, DSURs/PSURs, and audit trails to confirm that benefit-risk is formally documented and reviewed at key milestones, including First-in-Human (FIH), End of Phase 2 (EOP2), pivotal trial entry, marketing application, and major lifecycle changes (label extension, new population, major post-marketing signals). Documentation must demonstrate how benefit-risk assessment informs progression and design decisions, governance decisions, and regulatory interactions.",
+      "rationale": "Regulatory agencies and good clinical governance practice expect Sponsors to formally assess and document benefit-risk at key milestones, when major development decisions and regulatory commitments are made. Failure to systematically document benefit-risk at key milestones is a common inspection finding and leads to inconsistent decision making, poor traceability, and regulatory delays. EMA, FDA, CIOMS, and TransCelerate guidance emphasize milestone-based benefit-risk documentation as critical to transparency, scientific rigor, and inspection readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF17",
+      "inquiry_domain": "Benefit-Risk Assessment",
+      "question": "Are emerging safety data incorporated into dynamic benefit-risk models?",
+      "rubric_tests": "Review of Benefit-Risk Assessment SOP, Integrated Benefit-Risk Plan, Safety Management Plan (SMP), Signal Management SOP, Risk Management Plan (RMP), cumulative safety review outputs, signal assessments, DSURs/PSURs/PBRERs, benefit-risk models and reports, governance meeting minutes, and audit trails to confirm that emerging safety data (e.g., new signals, evolving trends, post-marketing data, class effects, cumulative analyses) are systematically integrated into dynamic, continuously updated benefit-risk models. Documentation should demonstrate how new safety data influence benefit-risk evaluations and inform clinical, regulatory, and lifecycle decisions.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, CIOMS) and modern PV practice emphasize that benefit-risk assessment must be dynamic and cumulative \u2014 not static or based solely on periodic deliverables. Incorporating emerging safety data into continuously evolving models ensures that Sponsors maintain a current understanding of product benefit-risk profile. Failure to update benefit-risk models with emerging data is a common inspection finding and has led to delayed risk communication, incomplete labeling, and regulatory trust erosion. Best practice is a \"living\" benefit-risk model linked to signal management, cumulative reviews, and governance processes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF18",
+      "inquiry_domain": "Benefit-Risk Assessment",
+      "question": "Are thresholds for tolerability and risk management clearly defined?",
+      "rubric_tests": "Review of Risk Management Plan (RMP), Integrated Benefit-Risk Plan, Safety Management Plan (SMP), Clinical Development Plan (CDP), dose escalation and de-escalation criteria in protocols, stopping rules, Data Monitoring Committee (DMC) charter, signal management SOP, cumulative safety review outputs, governance meeting minutes, and audit trails to confirm that pre-specified, clearly defined thresholds for tolerability (e.g., incidence/severity of key AEs, discontinuation rates) and risk management actions (e.g., study hold, protocol amendment, risk minimization measures, regulatory communication) are in place, justified, communicated, and used to guide decision making.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, CIOMS) expect Sponsors to pre-define tolerability and risk thresholds and use them proactively to manage emerging safety signals. Undefined or inconsistent thresholds are a common cause of late action, inconsistent governance, and inspection findings. Thresholds must be documented, linked to study design and governance, justified, and updated as data evolve. Clear thresholds improve transparency, consistency of decision-making, and regulatory confidence in Sponsor\u2019s risk management practices.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF19",
+      "inquiry_domain": "Protocol Design & Risk Mitigation",
+      "question": "Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?",
+      "rubric_tests": "Review of Clinical Study Protocols, Protocol Risk Mitigation sections, Informed Consent Forms (ICFs), Safety Management Plan (SMP), Clinical Development Plan (CDP), benefit-risk assessments, risk assessments (including pre-study), signal management outputs, RMP, DMC charter, governance review minutes, QA audits, and cumulative safety data to confirm that protocols are designed with scientifically justified eligibility criteria and proactive, pre-specified risk mitigation strategies. Criteria and mitigations must be linked to known and potential risks, cumulative safety knowledge, and evolving benefit-risk profile. Documentation should demonstrate that risk mitigation is prospective, embedded in study design, and aligned with regulatory expectations (EMA, FDA, CIOMS).",
+      "rationale": "Regulatory agencies and good clinical governance practice expect that eligibility criteria and risk mitigation are risk-based, justified, and aligned with the evolving product profile. Weak or poorly justified eligibility criteria and reactive risk mitigation are common inspection findings and undermine participant protection and data integrity. Modern clinical trial design requires proactive risk management embedded into study design, justified by current safety and scientific knowledge, and traceable through protocol amendments, governance review, and regulatory documentation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF20",
+      "inquiry_domain": "Protocol Design & Risk Mitigation",
+      "question": "Are stopping rules, dose modification criteria, and safety monitoring well justified?",
+      "rubric_tests": "Review of Clinical Study Protocols (stopping rules, dose modification criteria, safety monitoring plans), Safety Management Plan (SMP), DMC Charter, Investigator Brochures (IB), Benefit-Risk Plan, Cumulative Safety Review outputs, Regulatory submissions, Governance review minutes, and audit trails to confirm that stopping rules, dose modification criteria, and safety monitoring are prospectively defined, scientifically justified, aligned with cumulative safety and pharmacology data, and appropriately linked to protocol conduct and governance decision-making. These elements must be consistent across documents, evolve as data emerge, and be aligned with regulatory expectations (EMA, FDA, CIOMS, ICH E6).",
+      "rationale": "Regulators expect pre-specified, well-justified stopping rules, dose modifications, and monitoring strategies to protect participant safety and ensure study integrity. Weak or unjustified criteria are a frequent inspection finding and can result in delayed risk mitigation, protocol deviations, or patient harm. Stopping rules, dose modifications, and monitoring must be risk-based, data-driven, cross-functionally developed, and traceable through governance reviews and regulatory submissions. Inconsistent or ad hoc approaches undermine both scientific validity and regulatory trust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF21",
+      "inquiry_domain": "Protocol Design & Risk Mitigation",
+      "question": "Are risks anticipated from nonclinical or earlier phase data appropriately addressed?",
+      "rubric_tests": "Review of Clinical Study Protocols (Eligibility Criteria, Dosing Strategy, Stopping Rules, Safety Monitoring Plan, Schedule of Assessments), Protocol Risk Section, Safety Management Plan (SMP), Investigator Brochure (IB), Nonclinical Summary/Translational Safety Review, Cumulative Safety Reviews (FIH/Phase 1/2), Protocol Amendment History, Governance Review Minutes, and audit trails \u2014 to confirm that risks identified from nonclinical (toxicology, off-target effects, safety pharmacology) and earlier phase clinical data are explicitly translated into protocol design elements (eligibility, dosing, stopping, monitoring), justified, version-controlled, and traceable to governance decisions.",
+      "rationale": "Regulatory expectations (EMA, FDA, CIOMS, ICH E6) require that clinical protocols prospectively address known and potential risks from prior phases and nonclinical data. Failure to embed these risks into study design (eligibility, monitoring, dosing) is a frequent inspection finding, and has led to protocol deviations, safety events, and regulatory holds. Risk translation must be systematic, documented, aligned across documents, and evolve as new data emerge. This is central to participant protection, study integrity, and regulatory trust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF22",
+      "inquiry_domain": "Protocol Design & Risk Mitigation",
+      "question": "Are trial participants stratified or excluded based on safety biomarkers or comorbidities?",
+      "rubric_tests": "Review of Clinical Study Protocols (Eligibility Criteria, Stratification Factors, Schedule of Assessments), Biomarker Plans, Statistical Analysis Plans (SAP), Investigators Brochure (IB), Translational Safety Reviews, Nonclinical and Early Phase Data, Cumulative Safety Reviews, Protocol Amendment History, Governance Review Minutes, and audit trails \u2014 to confirm that safety-relevant biomarkers and comorbidities are appropriately incorporated into participant selection (exclusion/inclusion), stratification, and monitoring, based on mechanistic understanding, nonclinical data, early clinical data, and cumulative safety experience. Decisions must be justified, documented, traceable to governance decisions, and aligned across documents.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH E6) expect Sponsors to proactively incorporate biomarkers and comorbidities that influence safety risk into trial design \u2014 particularly in eligibility criteria, stratification, and monitoring. Failure to stratify or exclude high-risk populations based on known biomarkers or comorbidities is a common inspection finding and can result in safety events, protocol deviations, and regulatory action. Proper stratification and exclusion improve both participant safety and data interpretability \u2014 critical to regulatory confidence and benefit-risk assessment.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF23",
+      "inquiry_domain": "Safety Data Integration & Analysis",
+      "question": "Are safety data integrated across studies and presented in standardized formats (e.g., ISS, DSUR)?",
+      "rubric_tests": "Review of Integrated Summary of Safety (ISS), Development Safety Update Reports (DSUR), Periodic Safety Update Reports (PSUR/PBRER), Risk Management Plan (RMP), cumulative safety data outputs, signal detection reports, internal integrated safety datasets, governance review minutes, and audit trails \u2014 to confirm that safety data are systematically integrated across studies (clinical development program), presented in standardized formats (ISS, DSUR, PSUR), and aligned with regulatory expectations (EMA, FDA, ICH E2E). Integration must be prospective, cumulative, reproducible, and traceable to governance decisions and regulatory submissions.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, ICH E2E) require Sponsors to integrate safety data across studies to support comprehensive, cumulative evaluation of the safety profile. Failure to do so leads to fragmented risk assessment, inconsistent regulatory submissions, and inspection findings. Best practice is to maintain ongoing integrated safety datasets that feed ISS, DSUR, PSUR, and governance reviews. Integration must cover all relevant populations, doses, indications, and time points \u2014 and be reproducible and transparent for inspection.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF24",
+      "inquiry_domain": "Safety Data Integration & Analysis",
+      "question": "Are cumulative safety data reviewed periodically by the sponsor\u2019s medical safety team?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Pharmacovigilance System Master File (PSMF), Governance Review Calendars, Cumulative Safety Review Reports, Medical Safety Review meeting minutes, DSUR/PSUR outputs, Signal Detection reports, Signal Management SOPs, Risk Management Plan (RMP), and audit trails \u2014 to confirm that cumulative safety data (including all clinical trials, post-marketing if applicable, spontaneous reports, literature) are periodically reviewed by the Sponsor\u2019s cross-functional medical safety team (Medical, PV, Clinical, Biostatistics, Regulatory), with documented review outputs, governance oversight, and traceability to benefit-risk decisions and regulatory submissions.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH E2E, GVP IX) expect that cumulative safety data are periodically reviewed \u2014 not simply \u201cpooled\u201d or analyzed at submission time. The Sponsor\u2019s medical safety team is accountable for ongoing review of cumulative safety trends to support proactive risk management. Failure to maintain documented cumulative reviews is a common inspection finding and undermines benefit-risk decision-making and regulatory confidence. Reviews must be multidisciplinary, systematic, scheduled, and traceable to both internal governance and regulatory outputs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF25",
+      "inquiry_domain": "Safety Data Integration & Analysis",
+      "question": "Are data visualizations (e.g., waterfall plots, timelines, lab trajectories) used to support interpretation?",
+      "rubric_tests": "Review of Cumulative Safety Review Reports, Medical Safety Review meeting minutes, ISS/DSUR/PSUR outputs, Statistical Analysis Plans (SAP), Clinical Study Reports (CSR), Safety Monitoring Reports, Signal Detection reports, Data Visualization SOPs or guidelines, and audit trails \u2014 to confirm that advanced data visualizations (e.g., waterfall plots, timelines, lab trajectories, swimmer plots, shift tables, forest plots) are routinely used to enhance interpretation of safety data by the medical safety team, governance bodies, and regulatory submissions. Visualizations should be fit-for-purpose, reproducible, validated where appropriate, and aligned with best practices for risk communication.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH) and GCP/PV best practice recognize that advanced data visualization significantly enhances safety signal detection and interpretation \u2014 enabling identification of patterns and trends that may not be evident from tabular listings alone. The absence of robust visualization is increasingly a regulatory concern and an inspection finding in Sponsors with under-developed safety signal and benefit-risk capabilities. Visualizations should be standardized, documented, and embedded in routine safety review, not limited to exploratory or post-hoc analysis.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF26",
+      "inquiry_domain": "Safety Data Integration & Analysis",
+      "question": "Is there a formal process for adjudication of complex or unexpected events?",
+      "rubric_tests": "Review of Adjudication Charter (if applicable), Safety Management Plan (SMP), Risk Management Plan (RMP), Protocols (Adjudication section), Case Review Meeting Minutes, Medical Safety Review Meeting Minutes, Signal Detection Reports, DSUR/PSUR outputs, Governance Review Minutes, Audit Trails \u2014 to confirm that a formal, documented process exists for the adjudication of complex or unexpected events (e.g., potential major clinical events, events of special interest, events with diagnostic uncertainty, death, MACE, potential immune-mediated events), including chartered adjudication committees where applicable, case selection criteria, adjudication procedures, documentation of outcomes, and traceability to governance and regulatory decisions.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH) expect that complex or unexpected events are subject to robust adjudication processes, especially when such events impact benefit-risk assessment, regulatory labeling, or require classification for analysis. The absence of formal adjudication is a common inspection finding, especially for serious clinical outcomes (e.g., MACE, hepatic events, hypersensitivity, deaths). Adjudication processes must be pre-specified, documented, governed, and traceable to internal and regulatory outputs to ensure scientific rigor and regulatory trust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF27",
+      "inquiry_domain": "Laboratory & Vital Signs Monitoring",
+      "question": "Are abnormal lab findings evaluated in the context of expected clinical effects or underlying disease?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Laboratory Monitoring Plan (LMP) or Protocol Lab Sections, Protocol Risk Sections, Cumulative Safety Review Reports, Medical Safety Review Meeting Minutes, Signal Detection Reports, Statistical Analysis Plan (SAP), Clinical Study Reports (CSR), Governance Review Minutes, and audit trails \u2014 to confirm that abnormal laboratory findings are systematically evaluated in the context of expected pharmacologic effects, disease-related abnormalities, patient comorbidities, and background incidence, with clear documentation of clinical relevance, interpretation by medical safety reviewers, and linkage to cumulative safety review, benefit-risk assessment, and regulatory submissions.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH E2E) expect Sponsors to distinguish between expected vs. unexpected laboratory findings and to interpret abnormalities in the appropriate clinical and disease context. Failure to do so is a common inspection finding, particularly where lab abnormalities may influence risk labeling, risk minimization, or regulatory decisions. This process must be systematic, documented, governed, and auditable, with evidence of cross-functional medical interpretation and governance review.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF28",
+      "inquiry_domain": "Laboratory & Vital Signs Monitoring",
+      "question": "Are predefined laboratory criteria used to detect toxicity signals (e.g., Hy\u2019s law, QT prolongation)?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Laboratory Monitoring Plan (LMP), Statistical Analysis Plan (SAP), Protocol Safety Sections, Protocol Risk Sections, Cumulative Safety Review Reports, Signal Detection Reports, Medical Safety Review Meeting Minutes, Governance Review Minutes, DSUR/PSUR outputs, Audit Trails \u2014 to confirm that predefined laboratory criteria for key toxicity signals (e.g., Hy\u2019s Law, QT prolongation, DILI, neutropenia, renal injury, electrolyte imbalance, rhabdomyolysis) are defined, prospectively applied, and documented in cumulative safety review, signal management processes, governance decisions, and regulatory submissions.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH) expect that well-established laboratory thresholds are used to proactively identify potential toxicity signals \u2014 not merely reviewed retrospectively. Absence of predefined criteria is a common inspection finding, and leads to delayed signal detection and inconsistent benefit-risk decisions. Criteria must be prospectively defined in the SMP/LMP/SAP, systematically applied, and outputs documented with clear traceability to safety governance and regulatory deliverables.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF29",
+      "inquiry_domain": "Laboratory & Vital Signs Monitoring",
+      "question": "Are central laboratories used with consistent normal ranges and alert flags?",
+      "rubric_tests": "Review of Laboratory Monitoring Plan (LMP), Laboratory Vendor Contracts and Qualification Reports, Central Laboratory Data Transfer Specifications, SMP, Protocol Lab Sections, Data Management Plan (DMP), Data Integration Plan, SAP, Clinical Study Reports (CSR), Governance Review Minutes, QA Audit Reports, and Audit Trails \u2014 to confirm that central laboratories are used where appropriate, with consistent normal ranges, validated alert flagging algorithms, version-controlled lab reference ranges across geographies and sites, and documented procedures for handling out-of-range values, ensuring consistency in cumulative safety data integration, interpretation, and regulatory reporting.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH E6(R2), CIOMS) expect Sponsors to ensure that laboratory data used in cumulative reviews and regulatory submissions are standardized, consistent, and traceable across the program. Use of central labs with consistent normal ranges and alert flags minimizes variability, enhances signal detection, and supports regulatory confidence. Discrepancies in lab reference ranges across sites or countries are a common inspection finding and can undermine the validity of safety analyses. Governance processes must ensure prospective documentation, validation, and oversight of lab normal ranges and alert flagging.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF30",
+      "inquiry_domain": "Laboratory & Vital Signs Monitoring",
+      "question": "Are vital signs and ECG abnormalities assessed systematically and consistently?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Vital Signs and ECG Monitoring Plan (if separate, or in LMP or Protocol Safety Section), Protocol Schedule of Assessments (SoA), Statistical Analysis Plan (SAP), Signal Detection Reports, Cumulative Safety Review Reports, ECG Core Lab Contracts/Qualification (if applicable), Medical Safety Review Meeting Minutes, Governance Review Minutes, DSUR/PSUR outputs, QA Audit Reports, and Audit Trails \u2014 to confirm that vital signs (VS) and ECG abnormalities are systematically and consistently collected, evaluated, interpreted, and documented across sites, studies, and over time, using predefined criteria, centralized interpretation where applicable (for ECG), validated alert thresholds, and linkage to cumulative safety and benefit-risk assessments.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH E14, CIOMS) expect that vital signs and ECG data are actively monitored and interpreted systematically, not passively reported as listings. Failure to systematically monitor and interpret VS and ECG abnormalities is a common inspection finding, particularly in programs where cardiovascular or hemodynamic risk is plausible. Sponsors must ensure standardized collection, alerting, and interpretation procedures, with traceability to governance and regulatory outputs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF31",
+      "inquiry_domain": "Special Safety Topics",
+      "question": "Are immunogenicity, hypersensitivity, or cytokine release being monitored, if applicable?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Protocol Special Safety Sections (immunogenicity, hypersensitivity, cytokine release syndrome), Bioanalytical Plans, Translational Safety Reviews, Laboratory Monitoring Plan (LMP), Schedule of Assessments (SoA), Cumulative Safety Review Reports, Signal Detection Reports, Medical Safety Review Meeting Minutes, DSUR/PSUR outputs, Governance Review Minutes, and Audit Trails \u2014 to confirm that special safety topics such as immunogenicity, hypersensitivity reactions, and cytokine release are prospectively assessed where applicable (e.g., for biologics, mAbs, mRNA, ATMPs, bispecifics, cytokine agonists/antagonists), with appropriate biomarkers, clinical monitoring, predefined criteria, validated assays, cumulative review, and governance oversight \u2014 aligned with regulatory expectations.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH S6, CIOMS) expect that special safety risks inherent to specific modalities (e.g., biologics, cell therapies, immune modulators) are proactively monitored \u2014 not simply addressed post-hoc. Failure to prospectively monitor immunogenicity, hypersensitivity, or CRS is a common inspection finding, particularly for novel modalities. Monitoring must be prospectively defined, aligned with assay validation, operationalized in SoA, and integrated into cumulative safety and benefit-risk review. Governance decisions must be documented and traceable to regulatory outputs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF32",
+      "inquiry_domain": "Special Safety Topics",
+      "question": "Are QT/QTc and other cardiac safety signals evaluated per ICH E14?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), QT/QTc Risk Assessment Strategy (ICH E14), ECG Monitoring Plan or Protocol ECG Sections, ECG Core Lab Contract and Qualification (if applicable), Statistical Analysis Plan (SAP), Translational Safety Review, Cumulative Safety Review Reports, Signal Detection Reports, Medical Safety Review Meeting Minutes, Governance Review Minutes, DSUR/PSUR outputs, QA Audit Reports, and Audit Trails \u2014 to confirm that QT/QTc interval and other cardiac safety signals are evaluated per ICH E14 and relevant guidance, using appropriate centralized ECG analysis, predefined thresholds, validated methods for time-matched ECG/PK evaluation (if needed), integration into cumulative safety review, governance oversight, and alignment with regulatory expectations.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH E14) expect that QT/QTc interval and cardiac safety signals are proactively evaluated, using ICH E14-compliant methodology, particularly for systemically bioavailable drugs with potential to affect cardiac repolarization. Failure to follow ICH E14 (e.g., lack of centralized ECG reading, no predefined thresholds, no time-matched PK/ECG analysis when indicated) is a common inspection finding and can lead to delays in approval or labeling restrictions. Cardiac safety signals must be systematically monitored, documented in governance reviews, and integrated into regulatory submissions (ISS, DSUR, PSUR, RMP).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF33",
+      "inquiry_domain": "Special Safety Topics",
+      "question": "Are pregnancy exposures and outcomes tracked with appropriate follow-up?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Pregnancy Surveillance and Follow-Up Plan, Protocol Pregnancy Sections and Reporting Requirements, Pharmacovigilance System Master File (PSMF), Signal Detection Reports, Pregnancy Tracking Database (if separate), Medical Safety Review Meeting Minutes, DSUR/PSUR outputs, Governance Review Minutes, QA Audit Reports, and Audit Trails \u2014 to confirm that pregnancy exposures (maternal and paternal) and outcomes are proactively tracked, documented, followed up through delivery and postnatal period where applicable, using standardized collection tools, informed consent where needed, aligned with regulatory expectations, and integrated into signal detection and benefit-risk review.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH E2E) expect that pregnancy exposures during clinical development and post-marketing are actively monitored, with complete follow-up through pregnancy outcome and postnatal period (when indicated). Failure to adequately track pregnancy exposures and outcomes is a common inspection finding and can delay regulatory decision-making, risk minimization, or signal evaluation. Sponsors must have clear processes, predefined follow-up plans, standardized data collection, cross-functional governance, and traceability to regulatory outputs (e.g., DSUR, PSUR, RMP).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF34",
+      "inquiry_domain": "Special Safety Topics",
+      "question": "Is suicidality monitored for CNS or other high-risk programs (e.g., using C-SSRS)?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Protocol Suicide Risk Assessment Section, C-SSRS (Columbia-Suicide Severity Rating Scale) or equivalent tool usage and validation, Schedule of Assessments (SoA), Statistical Analysis Plan (SAP), Cumulative Safety Review Reports, Signal Detection Reports, Medical Safety Review Meeting Minutes, Governance Review Minutes, DSUR/PSUR outputs, PSMF content, QA Audit Reports, and Audit Trails \u2014 to confirm that suicidality is proactively monitored in CNS or other high-risk programs, using validated tools (e.g., C-SSRS), standardized assessment schedule, predefined criteria, full integration into cumulative safety review and benefit-risk assessment, with documented governance oversight and regulatory alignment.",
+      "rationale": "Regulatory agencies (EMA, FDA, CIOMS, ICH E2E) expect that suicidality is actively monitored in development programs with potential neuropsychiatric risk (CNS drugs, certain oncology, autoimmune, chronic pain, and other relevant indications). Use of validated tools (e.g., C-SSRS) is considered standard of care in such programs. Failure to proactively monitor suicidality \u2014 or failure to integrate findings into signal management \u2014 is a common inspection finding that can lead to regulatory delay, labeling restrictions, or additional post-approval commitments. Monitoring must be predefined, systematic, integrated into safety review and governance, and fully traceable to regulatory outputs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF35",
+      "inquiry_domain": "Investigator & Site Safety Training",
+      "question": "Are investigators trained on AE/SAE reporting, safety endpoints, and risk mitigation?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Study Training Plan, Site Initiation Visit (SIV) materials, Investigator Meeting (IM) slides, Investigator Brochure (IB), Protocol Training Records, Training Attendance Logs, Certification Records, Monitoring Visit Reports (MV Reports), CRO/Vendor Oversight Documentation, Governance Review Minutes, QA Audit Reports, and Audit Trails \u2014 to confirm that investigators are systematically trained on AE/SAE reporting requirements, study-specific safety endpoints, and protocol-defined risk mitigation strategies, with standardized content, documented delivery, confirmation of understanding, ongoing reinforcement, and governance oversight, in alignment with GCP and regulatory expectations.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH E6(R2), CIOMS X) expect that investigators are thoroughly trained on their safety reporting obligations and study-specific safety requirements. Failure to ensure consistent training, documentation, and reinforcement is a common inspection finding and can lead to late or incomplete AE/SAE reporting, protocol deviations, and patient safety risks. Training must be prospectively planned, delivered, documented, assessed for understanding, and reinforced as needed, with clear linkage to governance and QA oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF36",
+      "inquiry_domain": "Investigator & Site Safety Training",
+      "question": "Are investigator brochures regularly updated with new safety findings?",
+      "rubric_tests": "Review of Investigator Brochure (IB) version history and version control logs, Safety Management Plan (SMP), Cumulative Safety Review Reports, DSUR/PSUR outputs, Safety Governance Committee/Board Minutes, IB update procedures in SOPs, Sponsor-initiated IB revision requests, Regulatory Submission Records (IB updates to ECs/IRBs, HA notifications), QA Audit Reports, and Audit Trails \u2014 to confirm that the Investigator Brochure is systematically and regularly updated with new safety findings (clinical, nonclinical, literature, spontaneous reports), per ICH E6(R2), ICH M3, and applicable regulatory expectations, with clear documentation of governance review, rationale for updates, version tracking, timely communication to sites, and submission to regulatory authorities.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH E6, CIOMS) expect that the Investigator Brochure (IB) is a living document \u2014 regularly updated to reflect emerging safety information. Failure to update the IB in a timely and traceable manner is a common inspection finding and can lead to regulatory action, ethics board queries, or trial holds. Updates must be based on cumulative safety review, approved by appropriate governance, and communicated to sites and authorities with full traceability.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF37",
+      "inquiry_domain": "Investigator & Site Safety Training",
+      "question": "Are sites informed rapidly about emerging safety issues or protocol amendments?",
+      "rubric_tests": "Review of Safety Communication Procedures (SOP), Safety Management Plan (SMP), Safety Governance Committee/Board Minutes, Documented Safety Letters or Urgent Safety Communications, Protocol Amendment Communication Records, Investigator Notifications (email or formal letters), Tracking of Acknowledgment/Receipt by Sites, TMF/ISF records, IRB/EC Notification Records, DSUR/PSUR outputs, QA Audit Reports, and Audit Trails \u2014 to confirm that sites are rapidly informed of emerging safety issues (e.g., new serious risks, changes in monitoring, new contraindications, Urgent Safety Measures) and protocol amendments that impact safety, with clear governance triggers, predefined timelines, documented tracking of communication and site acknowledgment, and alignment with GCP and regulatory expectations.",
+      "rationale": "Regulatory agencies (EMA, FDA, ICH E6, CIOMS) expect that Sponsors ensure timely, accurate communication of emerging safety issues and protocol amendments to investigators and sites. Failure to do so is a common inspection finding, especially when there are delays in communicating changes affecting patient monitoring, consent, or eligibility. Communications must be triggered by governance decisions, handled through traceable processes, and fully documented in TMF/ISF with evidence of receipt/acknowledgment by sites.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF38",
+      "inquiry_domain": "Regulatory Compliance & Safety Reporting",
+      "question": "Are safety reports submitted on time (e.g., SUSARs, DSURs, IND annual reports)?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Regulatory Submission Tracking Tools or Databases, Pharmacovigilance System Master File (PSMF), SUSAR submission logs, DSUR/PSUR submission tracking, IND Annual Report submission tracking, Health Authority (HA) submission confirmations and acknowledgments, CRO/vendor oversight documents, Governance Review Minutes, QA Audit Reports, Audit Trails \u2014 to confirm that safety reports (SUSARs, DSURs, IND annual reports, PSURs) are submitted on time per regulatory requirements (FDA, EMA, MHRA, PMDA, Health Canada, etc.), with real-time tracking, proactive planning, clear roles/responsibilities, governance oversight, and traceable documentation of submission and HA acknowledgment",
+      "rationale": "Regulatory agencies (EMA, FDA, MHRA, PMDA, CIOMS) expect that safety reporting timelines are strictly followed. Late submissions of SUSARs, DSURs, or annual reports are major inspection findings, can trigger regulatory actions (e.g., GCP noncompliance, holds), and may compromise patient safety. Sponsors must ensure real-time submission tracking, governance escalation for risks, and QA oversight to prevent late reporting.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF39",
+      "inquiry_domain": "Regulatory Compliance & Safety Reporting",
+      "question": "Are all expedited and periodic reports consistent with regulatory expectations (FDA, EMA, PMDA)?",
+      "rubric_tests": "Review of Safety Management Plan (SMP), Regulatory Intelligence Monitoring Process, Pharmacovigilance System Master File (PSMF), Expedited Report Templates and Submission Logs (SUSARs, 15-day reports), Periodic Report Templates and Submission Logs (DSURs, PSURs, PBRERs, IND Annual Reports), Health Authority (HA) Guidance Crosswalks, HA Feedback / Queries / Requests for Clarification, Governance Review Minutes, QA Audit Reports, Audit Trails \u2014 to confirm that expedited and periodic safety reports are fully consistent in format, content, and timing with evolving regulatory expectations in all relevant territories (FDA, EMA, PMDA, MHRA, Health Canada, etc.), and that regulatory intelligence monitoring and governance oversight ensure proactive compliance.",
+      "rationale": "Regulatory agencies expect that safety reports follow current jurisdiction-specific expectations (e.g., format, content, data lock points, submission formats, coding conventions). Misaligned reports (wrong format, incomplete content, missed HA-specific fields) are frequent inspection findings and can trigger queries, delays, or compliance risks. Sponsors must ensure continuous monitoring of evolving guidance, systematic updating of report templates and processes, and governance oversight of report consistency.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF40",
+      "inquiry_domain": "Regulatory Compliance & Safety Reporting",
+      "question": "Are reference safety information (RSI) and Investigator Brochure up to date?",
+      "rubric_tests": "Review of Investigator Brochure (IB) version history and change log, RSI version and approval records, RSI cross-references to cumulative safety reviews (DSUR, PSUR, SUSAR trending reports), Governance Committee/Board minutes approving RSI/IB updates, Pharmacovigilance System Master File (PSMF), Submission records of updated IB/RSI to Health Authorities (HA) and Ethics Committees (ECs/IRBs), TMF/ISF document versioning, QA audit reports, audit trails \u2014 to confirm that the RSI and IB are current, aligned with cumulative safety data, and reflect the latest known risks, with governance oversight, version control, and regulatory compliance.",
+      "rationale": "The RSI defines what is \u201cexpected\u201d vs. \u201cunexpected\u201d for SUSAR reporting and is critical for signal detection and expedited reporting compliance. The IB informs site investigators and ethics committees of current safety knowledge. Outdated or misaligned RSI/IB is a top inspection finding and can cause SUSAR under-reporting, delays, and compliance risk. Regulatory agencies expect continuous alignment of RSI and IB with emerging safety data, with clear governance and traceability.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF41",
+      "inquiry_domain": "Regulatory Compliance & Safety Reporting",
+      "question": "Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?",
+      "rubric_tests": "Review of Governance Committee/Board minutes, Clinical Hold Notification Records, IRB/EC communications and correspondence logs, Safety-related Protocol Amendment logs and approval records, Health Authority (HA) queries and feedback, Regulatory submission tracking, Pharmacovigilance System Master File (PSMF), TMF/ISF documentation of holds and amendments, Safety Management Plan (SMP), QA Audit Reports, audit trails \u2014 to confirm that clinical holds, IRB/EC concerns, and safety-driven protocol amendments are fully documented, traceable, and aligned with regulatory expectations, with governance oversight, transparent reporting, and version-controlled records.",
+      "rationale": "Regulatory agencies (FDA, EMA, PMDA) and GCP expect that any safety-driven regulatory actions (clinical holds), ethics concerns, or safety amendments are clearly documented with traceable records and governance review. Failure to document these events is a common inspection finding that impacts benefit-risk assessment transparency and regulatory compliance. Clear documentation and governance processes are required to support inspection readiness and sponsor accountability.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF42",
+      "inquiry_domain": "Clinical Database and Pharmacovigilance (PV) Integration",
+      "question": "Is the clinical trial safety data linked to the global safety database (e.g., Argus, ARISg, Veeva Vault)?",
+      "rubric_tests": "Review of Data Flow Diagrams and Data Transfer Agreements (DTAs) between Electronic Data Capture (EDC) and Global Safety Database (Argus, ARISg, Veeva Vault, or equivalent), Mapping Specifications, Data Reconciliation Plans and Logs, Pharmacovigilance System Master File (PSMF), TMF/ISF documentation of safety data flow, Governance Committee minutes, QA Audit Reports, audit trails \u2014 to confirm that clinical trial safety data (AEs, SAEs, SUSARs, AESIs, pregnancies, special situations) are consistently and traceably linked from EDC into the global safety database, with validated processes, clear ownership, and inspection-ready documentation.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, MHRA) expect seamless linkage between clinical safety data in EDC and the global pharmacovigilance (PV) system to support accurate safety reporting and signal detection. Failure to ensure traceable, validated data flow is a common inspection finding leading to data inconsistency, reporting gaps, and regulatory noncompliance. Sponsors must have validated interfaces or processes for ensuring end-to-end data consistency with clear documentation and governance oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF43",
+      "inquiry_domain": "Clinical Database and Pharmacovigilance (PV) Integration",
+      "question": "Is reconciliation between clinical and safety databases performed and documented?",
+      "rubric_tests": "Review of Reconciliation Plans and Logs, Data Management Plan (DMP), Data Transfer Agreements (DTAs), Reconciliation SOPs, Governance Committee minutes, TMF/ISF documentation of reconciliation outputs, Discrepancy Management Records, QA Audit Reports, PSMF content, audit trails \u2014 to confirm that systematic reconciliation of clinical database (EDC) and global safety database (e.g., Argus, ARISg, Veeva Vault) is performed at defined intervals, fully documented, governed, and aligned with regulatory expectations to ensure data consistency and integrity for regulatory reporting, DSUR/PSUR preparation, and signal detection.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, MHRA) expect formal, documented reconciliation between clinical and safety databases. Lack of reconciliation can lead to data discrepancies (e.g., unreported SAEs, mismatches in dates, event terms) \u2014 a common and critical inspection finding. Reconciliation must be planned, executed at appropriate frequency, discrepancies tracked and resolved, and governance oversight maintained \u2014 with full traceability and TMF documentation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF44",
+      "inquiry_domain": "Clinical Database and Pharmacovigilance (PV) Integration",
+      "question": "Are clinical trial and post-marketing safety managed in an integrated PV framework?",
+      "rubric_tests": "Review of Pharmacovigilance System Master File (PSMF), Global PV Governance Charter, Safety Management Plan (SMP), PV SOPs describing integration of clinical trial and post-marketing safety, Signal Management SOPs, Cumulative Safety Review Reports (DSURs, PSURs/PBRERs), Cross-functional PV Committee/Board minutes, Integrated Safety Database structure and validation, TMF/ISF and PV System documentation, QA Audit Reports, audit trails \u2014 to confirm that clinical trial and post-marketing safety activities are managed within an integrated pharmacovigilance framework, with coherent governance, consistent processes, harmonized safety data handling, and transparent documentation to support signal detection, benefit-risk assessment, and regulatory compliance.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, MHRA, CIOMS) expect that clinical and post-marketing safety are managed within a unified PV system. Silos between clinical and post-marketing PV functions are a common inspection finding and lead to missed signals, inconsistent risk communication, and fragmented benefit-risk assessment. Sponsors must ensure that safety data is integrated across development and marketed use, with governance oversight, unified processes, and traceability to meet global expectations for total product lifecycle management.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF45",
+      "inquiry_domain": "Safety Risk Communication",
+      "question": "Are safety findings communicated effectively to investigators, regulators, and internal teams?",
+      "rubric_tests": "Review of Safety Communication SOPs, Safety Management Plan (SMP), Governance Committee/Board minutes, Safety Communication Tracking Logs, Safety Letters and Dear Investigator Letters, HA (Health Authority) submissions and acknowledgments, IRB/EC submission records, Investigator Meeting (IM) and Site Initiation Visit (SIV) materials, Internal Safety Alerts and Communications (Medical/Clinical/Commercial teams), PV System Master File (PSMF), TMF/ISF records, QA Audit Reports, audit trails \u2014 to confirm that safety findings (emerging risks, significant new information, labeling updates, signal assessments) are communicated clearly, accurately, and in a timely manner to investigators, regulators, IRBs/ECs, and internal stakeholders, with documented processes, governance oversight, and traceability, meeting global regulatory expectations.",
+      "rationale": "Regulators (EMA, FDA, PMDA, CIOMS) expect clear, consistent, and timely communication of safety findings across the development lifecycle. Delayed, inconsistent, or undocumented communication is a common and critical inspection finding. Safety risk communication must be integrated into governance, follow standardized processes, and be transparent to inspectors, with clear documentation of content, recipients, timing, and acknowledgment \u2014 across external (HA, IRB/EC, investigators) and internal (Medical, Clinical, PV, Commercial, Senior Management) audiences.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF46",
+      "inquiry_domain": "Safety Risk Communication",
+      "question": "Are newsletters, protocol updates, or safety bulletins issued as needed?",
+      "rubric_tests": "Review of Safety Communication SOPs, Governance Committee/Board minutes, Safety Communication Plans and Tracking Logs, Newsletters / Safety Bulletins / Protocol Amendment Communications, Communication Approval Records, Investigator Meeting (IM) and Site Initiation Visit (SIV) materials, Health Authority (HA) submission records (if applicable), IRB/EC notification records, TMF/ISF documentation of distributed communications and acknowledgments, Internal communication distribution records, QA Audit Reports, audit trails \u2014 to confirm that proactive, fit-for-purpose communications (newsletters, safety bulletins, protocol updates) are issued when triggered by emerging safety data, cumulative reviews, signal assessments, or protocol changes, with documented review, approval, and distribution to investigators, regulators, IRBs/ECs, and internal stakeholders, aligned with regulatory expectations and good pharmacovigilance practice.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, MHRA) expect that sponsors actively communicate emerging safety information and protocol updates \u2014 not just through required expedited reports, but also through fit-for-purpose channels (e.g., newsletters, safety bulletins, Dear Investigator Letters, protocol updates). Failure to issue or document such communications is a frequent inspection finding. Proactive communication is key to maintaining investigator engagement, subject safety, and data integrity, and must be supported by governance, standardized processes, and inspection-ready documentation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF47",
+      "inquiry_domain": "Safety Risk Communication",
+      "question": "Is there a safety escalation pathway for emerging risks?",
+      "rubric_tests": "Review of Safety Escalation Pathway in SOPs and Safety Management Plan (SMP), PV System Master File (PSMF), Global PV Governance Charter, Governance Committee/Board minutes, Safety Signal Detection and Management SOPs, Emerging Risk Review Logs, Senior Management escalation records, Cross-functional Safety Review Board minutes, Internal escalation communications (Medical, Clinical, Regulatory, QA, Legal, Commercial), External stakeholder escalation (HA, IRB/EC, investigators) tracking, TMF/ISF records, QA Audit Reports, audit trails \u2014 to confirm that a clearly defined, operational, and documented safety escalation pathway exists for emerging risks, enabling timely escalation from operational teams to governance, senior management, and external stakeholders, with traceability, accountability, and inspection-ready documentation.",
+      "rationale": "Regulatory agencies (EMA, FDA, PMDA, CIOMS) expect that sponsors maintain a formal, documented safety escalation pathway to ensure that emerging risks are escalated promptly and appropriately to the right governance bodies and stakeholders. Absence of such a pathway, or failure to execute it, is a common inspection finding \u2014 especially for issues related to signals of disproportionate reporting, new risk-benefit concerns, protocol impacts, or required regulatory actions. Escalation pathways must be embedded in SOPs and governance, executed with documented review and decisions, and support timely and transparent communication both internally and externally.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF48",
+      "inquiry_domain": "Late Phase & Post-Marketing Readiness",
+      "question": "Are Phase 3 and long-term extension studies adequately powered to detect rare AEs?",
+      "rubric_tests": "Review of Clinical Development Plan (CDP), Statistical Analysis Plan (SAP), Phase 3 and LTE (Long-Term Extension) Protocols and Statistical Sections, Sample Size Justification Documents, Power Calculations, AE Incidence Projections (based on epidemiology, class effects, preclinical and early phase data), Safety Signal Detection Strategy documents, Data Monitoring Committee (DMC) charter, Regulatory feedback and Scientific Advice (EMA/FDA/PMDA), Governance Committee/Board minutes, QA Audit Reports, TMF/ISF records \u2014 to confirm that Phase 3 and LTE studies are designed with appropriate sample size and statistical power to detect rare but clinically important AEs, aligned with product risk profile, epidemiology, regulatory expectations, and patient population characteristics, supporting robust benefit-risk assessment and labeling.",
+      "rationale": "Regulators (EMA, FDA, PMDA, CIOMS) expect that Phase 3 and LTE studies are designed to appropriately characterize the safety profile \u2014 including the ability to detect rare but serious AEs (e.g., 1/1000, 1/10,000). Underpowered studies can lead to missed signals, delayed risk detection, or post-marketing surprises \u2014 common inspection findings. Sponsors must demonstrate that powering decisions are risk-based, data-driven, and documented, with clear governance oversight and alignment with regulatory guidance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF49",
+      "inquiry_domain": "Late Phase & Post-Marketing Readiness",
+      "question": "Is there a Risk Management Plan (RMP) or REMS strategy developed, if applicable?",
+      "rubric_tests": "Review of Risk Management Plan (RMP) drafts and submission versions, REMS documents (if required), RMP/REMS development timelines, Safety Specification and Pharmacovigilance Plan sections, Risk Minimization Measures and Communication Plan, Governance Committee/Board minutes, Regulatory Agency (EMA, FDA, PMDA) advice and feedback, SMP alignment with RMP/REMS, Cross-functional input records (PV, Clinical, Regulatory, Medical Affairs, Commercial), HA submission and approval records, TMF/ISF documentation, QA Audit Reports, audit trails \u2014 to confirm that a fit-for-purpose Risk Management Plan (RMP) (for EMA/ICH) or Risk Evaluation and Mitigation Strategy (REMS) (for FDA), if required, is developed proactively, aligned with regulatory expectations, reflects cumulative safety knowledge, and is supported by cross-functional governance, documentation, and readiness for submission or post-approval obligations.",
+      "rationale": "Global regulators (EMA, FDA, PMDA) expect that sponsors develop proactive risk management strategies \u2014 RMP for EMA/ICH regions and REMS for US \u2014 based on cumulative safety knowledge, addressing identified risks, potential risks, and missing information. RMP/REMS deficiencies are common inspection and submission review findings. Sponsors must demonstrate that RMP/REMS development is planned, documented, aligned with cumulative reviews and regulatory feedback, and that implementation readiness (risk minimization, educational programs, monitoring) is governed, cross-functional, and traceable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "SAF50",
+      "inquiry_domain": "Late Phase & Post-Marketing Readiness",
+      "question": "Are plans in place for post-marketing surveillance (e.g., PASS, registries)?",
+      "rubric_tests": "Review of Post-Marketing Surveillance (PMS) Plan, Post-Authorisation Safety Study (PASS) protocols and synopses, Registry plans, Epidemiology Plan, RMP Annex 3 (if applicable), Regulatory feedback on PMS/PASS, Governance Committee/Board minutes, Cross-functional review of PMS/PASS strategy (PV, Regulatory, Medical Affairs, Commercial, Epidemiology), HA submission and approval records for PASS/registry commitments, Registry governance and sponsor oversight plans, Contractual agreements with external partners (registries, CROs), SMP alignment, TMF/ISF documentation, QA Audit Reports, audit trails \u2014 to confirm that fit-for-purpose post-marketing surveillance (PMS) strategies, including PASS, disease/product registries, and epidemiology plans, are proactively developed, aligned with product risk profile and regulatory expectations, supported by cross-functional governance, with operational readiness and traceable documentation for inspection and submission readiness.",
+      "rationale": "Regulators (EMA, FDA, PMDA) expect that post-marketing surveillance is planned proactively to complement pre-approval safety data, especially for rare AEs, long-term outcomes, special populations, or real-world effectiveness. Common inspection and submission findings include absence of clear PMS strategy, delayed PASS planning, or poor registry oversight. Sponsors must show that PMS/PASS planning is integrated into risk management, supported by governance and cross-functional ownership, and ready for implementation when triggered by regulatory advice or approval conditions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF51",
+      "inquiry_domain": "Medical Safety Team & Infrastructure",
+      "question": "Is a named medical safety officer accountable for clinical safety strategy?",
+      "rubric_tests": "Review of organizational charts, named Medical Safety Officer (MSO) assignment and job description, cross-functional safety team membership and qualifications (CVs, role descriptions), charters of internal and external safety boards (e.g., Safety Management Team, Scientific Advisory Boards, Data Monitoring Committees), contracts and engagement records for external advisors, records of safety tools/platforms licensed and validated (Empirica, SAS JMP, other signal detection tools), SOPs on safety governance and signal management, governance meeting minutes, training records, TMF/ISF documentation, QA Audit Reports, audit trails \u2014 to confirm that Medical Safety Team & Infrastructure is established, accountable, qualified, and equipped to perform proactive clinical safety management and signal detection, fully aligned with global regulatory expectations and good pharmacovigilance practices.",
+      "rationale": "Global regulators (EMA, FDA, PMDA, MHRA, CIOMS) expect that sponsors maintain an accountable and resourced medical safety leadership, supported by qualified cross-functional safety experts and equipped with fit-for-purpose tools and governance structures to manage clinical safety. Deficiencies in Medical Safety Team structure, lack of a named accountable officer, missing external expertise in high-risk programs, or underdeveloped signal detection capability are common inspection and submission findings. Sponsors must demonstrate that safety leadership, team infrastructure, tools, and governance are fit for the risk profile and lifecycle stage of the product, fully documented and operational.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "SAF52",
+      "inquiry_domain": "Medical Safety Team & Infrastructure",
+      "question": "Is there an experienced cross-functional safety team (MDs, PhDs, statisticians, PV leads)?",
+      "rubric_tests": "Review of organizational charts, named Medical Safety Officer (MSO) assignment and job description, cross-functional safety team membership and qualifications (CVs, role descriptions), charters of internal and external safety boards (e.g., Safety Management Team, Scientific Advisory Boards, Data Monitoring Committees), contracts and engagement records for external advisors, records of safety tools/platforms licensed and validated (Empirica, SAS JMP, other signal detection tools), SOPs on safety governance and signal management, governance meeting minutes, training records, TMF/ISF documentation, QA Audit Reports, audit trails \u2014 to confirm that Medical Safety Team & Infrastructure is established, accountable, qualified, and equipped to perform proactive clinical safety management and signal detection, fully aligned with global regulatory expectations and good pharmacovigilance practices.",
+      "rationale": "Global regulators (EMA, FDA, PMDA, MHRA, CIOMS) expect that sponsors maintain an accountable and resourced medical safety leadership, supported by qualified cross-functional safety experts and equipped with fit-for-purpose tools and governance structures to manage clinical safety. Deficiencies in Medical Safety Team structure, lack of a named accountable officer, missing external expertise in high-risk programs, or underdeveloped signal detection capability are common inspection and submission findings. Sponsors must demonstrate that safety leadership, team infrastructure, tools, and governance are fit for the risk profile and lifecycle stage of the product, fully documented and operational.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF53",
+      "inquiry_domain": "Medical Safety Team & Infrastructure",
+      "question": "Are external advisors or safety boards in place for high-risk programs?",
+      "rubric_tests": "Review of organizational charts, named Medical Safety Officer (MSO) assignment and job description, cross-functional safety team membership and qualifications (CVs, role descriptions), charters of internal and external safety boards (e.g., Safety Management Team, Scientific Advisory Boards, Data Monitoring Committees), contracts and engagement records for external advisors, records of safety tools/platforms licensed and validated (Empirica, SAS JMP, other signal detection tools), SOPs on safety governance and signal management, governance meeting minutes, training records, TMF/ISF documentation, QA Audit Reports, audit trails \u2014 to confirm that Medical Safety Team & Infrastructure is established, accountable, qualified, and equipped to perform proactive clinical safety management and signal detection, fully aligned with global regulatory expectations and good pharmacovigilance practices.",
+      "rationale": "Global regulators (EMA, FDA, PMDA, MHRA, CIOMS) expect that sponsors maintain an accountable and resourced medical safety leadership, supported by qualified cross-functional safety experts and equipped with fit-for-purpose tools and governance structures to manage clinical safety. Deficiencies in Medical Safety Team structure, lack of a named accountable officer, missing external expertise in high-risk programs, or underdeveloped signal detection capability are common inspection and submission findings. Sponsors must demonstrate that safety leadership, team infrastructure, tools, and governance are fit for the risk profile and lifecycle stage of the product, fully documented and operational.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "SAF54",
+      "inquiry_domain": "Medical Safety Team & Infrastructure",
+      "question": "Are tools in place for safety data mining and signal evaluation (e.g., Empirica, SAS JMP)?",
+      "rubric_tests": "Review of organizational charts, named Medical Safety Officer (MSO) assignment and job description, cross-functional safety team membership and qualifications (CVs, role descriptions), charters of internal and external safety boards (e.g., Safety Management Team, Scientific Advisory Boards, Data Monitoring Committees), contracts and engagement records for external advisors, records of safety tools/platforms licensed and validated (Empirica, SAS JMP, other signal detection tools), SOPs on safety governance and signal management, governance meeting minutes, training records, TMF/ISF documentation, QA Audit Reports, audit trails \u2014 to confirm that Medical Safety Team & Infrastructure is established, accountable, qualified, and equipped to perform proactive clinical safety management and signal detection, fully aligned with global regulatory expectations and good pharmacovigilance practices.",
+      "rationale": "Global regulators (EMA, FDA, PMDA, MHRA, CIOMS) expect that sponsors maintain an accountable and resourced medical safety leadership, supported by qualified cross-functional safety experts and equipped with fit-for-purpose tools and governance structures to manage clinical safety. Deficiencies in Medical Safety Team structure, lack of a named accountable officer, missing external expertise in high-risk programs, or underdeveloped signal detection capability are common inspection and submission findings. Sponsors must demonstrate that safety leadership, team infrastructure, tools, and governance are fit for the risk profile and lifecycle stage of the product, fully documented and operational.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

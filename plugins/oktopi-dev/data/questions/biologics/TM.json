@@ -1,0 +1,4630 @@
+{
+  "function_code": "TM",
+  "modality": "biologics",
+  "function_name": "Translational Medicine",
+  "question_count": 73,
+  "critical_index": {
+    "SR": {
+      "SG2": [
+        "BBTM1",
+        "BBTM2",
+        "BBTM3",
+        "BBTM4",
+        "BBTM5",
+        "BBTM6",
+        "BBTM7",
+        "BBTM8",
+        "BBTM9",
+        "BBTM10"
+      ],
+      "SG3": [
+        "BBTM1",
+        "BBTM2",
+        "BBTM3",
+        "BBTM4",
+        "BBTM5",
+        "BBTM6",
+        "BBTM7",
+        "BBTM8",
+        "BBTM9",
+        "BBTM10",
+        "BBTM46",
+        "BBTM47",
+        "BBTM48",
+        "BBTM49",
+        "BBTM50",
+        "BBTM51",
+        "BBTM52",
+        "BBTM53",
+        "BBTM54",
+        "BBTM55"
+      ],
+      "SG4": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM46",
+        "BBTM47",
+        "BBTM48",
+        "BBTM49",
+        "BBTM50",
+        "BBTM51",
+        "BBTM52",
+        "BBTM53",
+        "BBTM54",
+        "BBTM55",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG5": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG6": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG7": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45"
+      ],
+      "SG8": [
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45"
+      ]
+    },
+    "OE": {
+      "SG5": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM30",
+        "BBTM31",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG6": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM30",
+        "BBTM31",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG7": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM30",
+        "BBTM31",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG8": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM30",
+        "BBTM31",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45"
+      ],
+      "SG4": [
+        "BBTM30",
+        "BBTM31",
+        "BBTM46",
+        "BBTM47",
+        "BBTM48",
+        "BBTM49",
+        "BBTM50",
+        "BBTM51",
+        "BBTM52",
+        "BBTM53",
+        "BBTM54",
+        "BBTM55"
+      ]
+    },
+    "DD": {
+      "SG2": [
+        "BBTM1",
+        "BBTM2",
+        "BBTM3",
+        "BBTM4",
+        "BBTM5",
+        "BBTM6",
+        "BBTM7",
+        "BBTM8",
+        "BBTM9",
+        "BBTM10"
+      ],
+      "SG3": [
+        "BBTM1",
+        "BBTM2",
+        "BBTM3",
+        "BBTM4",
+        "BBTM5",
+        "BBTM6",
+        "BBTM7",
+        "BBTM8",
+        "BBTM9",
+        "BBTM10",
+        "BBTM46",
+        "BBTM47",
+        "BBTM48",
+        "BBTM49",
+        "BBTM50",
+        "BBTM51",
+        "BBTM52",
+        "BBTM53",
+        "BBTM54",
+        "BBTM55"
+      ],
+      "SG4": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM46",
+        "BBTM47",
+        "BBTM48",
+        "BBTM49",
+        "BBTM50",
+        "BBTM51",
+        "BBTM52",
+        "BBTM53",
+        "BBTM54",
+        "BBTM55",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG5": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM26",
+        "BBTM27",
+        "BBTM28",
+        "BBTM29",
+        "BBTM32",
+        "BBTM33",
+        "BBTM34",
+        "BBTM35",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG6": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG7": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45"
+      ],
+      "SG8": [
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45"
+      ]
+    },
+    "RS": {
+      "SG6": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG7": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45",
+        "BBTM56",
+        "BBTM57",
+        "BBTM58",
+        "BBTM59",
+        "BBTM60",
+        "BBTM61",
+        "BBTM62",
+        "BBTM63",
+        "BBTM64",
+        "BBTM65",
+        "BBTM66",
+        "BBTM67",
+        "BBTM68",
+        "BBTM69",
+        "BBTM70",
+        "BBTM71",
+        "BBTM72",
+        "BBTM73"
+      ],
+      "SG8": [
+        "BBTM11",
+        "BBTM12",
+        "BBTM13",
+        "BBTM14",
+        "BBTM15",
+        "BBTM16",
+        "BBTM17",
+        "BBTM18",
+        "BBTM19",
+        "BBTM20",
+        "BBTM21",
+        "BBTM22",
+        "BBTM23",
+        "BBTM24",
+        "BBTM25",
+        "BBTM36",
+        "BBTM37",
+        "BBTM38",
+        "BBTM39",
+        "BBTM40",
+        "BBTM41",
+        "BBTM42",
+        "BBTM43",
+        "BBTM44",
+        "BBTM45"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "BBTM1",
+      "inquiry_domain": "Human Relevance of Preclinical Models",
+      "question": "Are disease models validated and predictive of human pathophysiology?",
+      "rubric_tests": "Evaluation of how well preclinical disease models represent human biology, including mechanistic and phenotypic relevance. For biologics, assessment of whether the model species expresses the target with comparable affinity, tissue distribution, and downstream signalling to humans. For bispecifics, evaluation of whether dual-target engagement can be recapitulated in the model.",
+      "rationale": "Regulators expect translational concordance between preclinical endpoints and human outcomes. For biologics, model validity depends critically on target homology and pharmacological relevance \u2014 models using species where the biologic lacks target binding are uninformative. For bispecifics, simultaneous dual-target engagement in a single model is often impossible, requiring creative approaches (e.g., surrogate molecules, humanised models).",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM2",
+      "inquiry_domain": "Human Relevance of Preclinical Models",
+      "question": "Is there evidence of translational concordance between preclinical endpoints and human disease markers?",
+      "rubric_tests": "Assessment of whether nonclinical biomarkers or endpoints (e.g., gene expression, imaging, cytokines, immune cell subsets, target occupancy) translate to measurable and meaningful human clinical endpoints, supporting mechanistic bridging and regulatory confidence. For biologics, includes immune-related biomarker concordance across species.",
+      "rationale": "Regulators expect translational concordance between preclinical endpoints and human markers. For biologics, immune-mediated mechanisms (ADCC, CDC, T-cell engagement) may not translate directly across species, requiring careful concordance assessment. Failure to show concordance contributes to clinical trial failure and regulatory scepticism.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM3",
+      "inquiry_domain": "Human Relevance of Preclinical Models",
+      "question": "Have humanised or orthotopic models been used for target engagement or efficacy studies?",
+      "rubric_tests": "Evaluation of whether advanced models (e.g., humanised mice, patient-derived xenografts, syngeneic models with human target knock-in) are used to replicate human tissue microenvironments. For biologics, assessment of whether humanised models are required because the biologic does not cross-react with murine targets. For bispecifics, evaluation of models enabling simultaneous dual-target engagement.",
+      "rationale": "For biologics, humanised models are often essential \u2014 not optional \u2014 because mAbs and bispecifics frequently bind only to human or primate targets and lack cross-reactivity in standard rodent models. This makes humanised model selection a critical translational decision. Regulators expect justified model selection aligned with product MOA and target biology.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM4",
+      "inquiry_domain": "Human Relevance of Preclinical Models",
+      "question": "Is there alignment between preclinical and clinical PK/PD?",
+      "rubric_tests": "Evaluation of whether PK/PD relationships in animals predict human exposure-response. For biologics, includes assessment of target-mediated drug disposition (TMDD) concordance across species, FcRn-mediated recycling differences, and non-linear PK translation. For bispecifics, evaluation of dual-target PK/PD translation including bell-shaped dose-response behaviour.",
+      "rationale": "Regulators expect clear evidence that preclinical PK/PD data inform clinical dose selection. For biologics, PK/PD translation is complicated by species differences in target expression, affinity, FcRn binding, and immunogenicity \u2014 all of which can alter exposure-response relationships. TMDD-driven non-linear PK must be explicitly addressed in the translational package.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM5",
+      "inquiry_domain": "Human Relevance of Preclinical Models",
+      "question": "For biologics with limited cross-reactive species: is the translational gap strategy documented and justified?",
+      "rubric_tests": "Assessment of whether the programme has explicitly documented and justified the translational approach when the biologic lacks cross-reactivity in standard preclinical species. Evaluation of surrogate molecule strategies, in vitro human tissue models, computational approaches, and risk assessment for gaps that cannot be bridged preclinically.",
+      "rationale": "Many mAbs and most bispecifics bind only human (and sometimes NHP) targets, creating fundamental translational gaps that do not exist for small molecules. The strategy for bridging these gaps \u2014 whether through surrogate molecules, humanised models, in vitro systems, or clinical risk mitigation \u2014 must be explicitly documented and justified. This is a critical translational decision point that regulators will interrogate.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM6",
+      "inquiry_domain": "Mechanism of Action (MOA) Translation",
+      "question": "Is the MOA well understood and demonstrated in both preclinical models and human tissues?",
+      "rubric_tests": "Evaluation of the biological plausibility and translational fidelity of the MOA. For biologics, includes demonstration of target engagement (binding affinity, receptor occupancy), functional activity (ADCC, CDC, T-cell engagement, receptor blockade, signalling inhibition), and downstream effects in human-relevant systems. For bispecifics, includes characterisation of the obligate mechanism (effects dependent on simultaneous dual engagement).",
+      "rationale": "Regulatory agencies expect scientifically sound, well-documented MOA validated in human tissues or cell models. For biologics, MOA may involve complex immune mechanisms (T-cell redirection, checkpoint blockade, complement activation) that require human-relevant systems for validation. For bispecifics, the obligate mechanism \u2014 effects achievable only through simultaneous dual-target engagement \u2014 must be specifically demonstrated.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM7",
+      "inquiry_domain": "Mechanism of Action (MOA) Translation",
+      "question": "Are downstream pharmacologic effects measurable in both animals and humans?",
+      "rubric_tests": "Evaluation of pharmacodynamic continuity across species. For biologics, includes assessment of immune-mediated PD effects (cytokine release, target cell depletion, immune cell activation/exhaustion, complement activation) and whether these are concordant across species. For bispecifics, includes assessment of T-cell activation, tumour cell killing kinetics, and cytokine profiles.",
+      "rationale": "Regulators expect PD effects that bridge preclinical to clinical stages. For biologics, immune-mediated downstream effects may differ substantially across species due to differences in immune system architecture. For T-cell engaging bispecifics, PD endpoints (T-cell activation, target cell depletion, cytokine release) are central to demonstrating clinical MOA.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM8",
+      "inquiry_domain": "Mechanism of Action (MOA) Translation",
+      "question": "Has the target been confirmed in relevant human disease populations (e.g., biopsy, omics)?",
+      "rubric_tests": "Validation of the target's disease relevance by verifying its presence and modulation in human samples. For biologics, includes target expression profiling (IHC, flow cytometry, RNA-seq) in disease tissue, assessment of target accessibility (cell surface vs. intracellular), and evaluation of target heterogeneity across patient subpopulations. For bispecifics, includes co-expression profiling of both targets in disease tissue.",
+      "rationale": "Regulators expect target relevance confirmed in intended patient populations. For biologics, target expression level and accessibility directly determine therapeutic potential \u2014 a mAb against an internalised target or a target with low expression may lack efficacy. For bispecifics, co-expression of both targets in the disease tissue is a prerequisite for the obligate mechanism and must be rigorously characterised.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM9",
+      "inquiry_domain": "Mechanism of Action (MOA) Translation",
+      "question": "Are translatable pharmacodynamic markers linked to MOA?",
+      "rubric_tests": "Evaluation of whether PD markers are mechanistically linked to MOA, validated across species where used, and serve as a bridge between preclinical and clinical findings. For biologics, includes immune PD markers (cytokine panels, immune cell phenotyping, target occupancy, target cell depletion) and assessment of species-specific differences in PD marker biology.",
+      "rationale": "Regulators expect PD markers mechanistically linked to MOA. For biologics, PD markers are often immune-mediated (cytokine release, lymphocyte subset changes, complement activation) and may behave differently across species due to immune system differences. Translational PD biomarker strategy must account for these species differences.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM10",
+      "inquiry_domain": "Biomarker Strategy \u2013 Overall",
+      "question": "Is there a written, cross-functional biomarker strategy covering discovery to validation?",
+      "rubric_tests": "Evaluation of whether the biomarker plan is comprehensive, forward-looking, and aligned with clinical development and regulatory expectations. For biologics, includes integration of immunogenicity biomarker strategy, ADA monitoring plan, and immune-related safety biomarkers into the overall biomarker framework.",
+      "rationale": "Regulators expect a robust, documented biomarker strategy aligned with product biology, MOA, and intended clinical use. For biologics, the biomarker strategy must explicitly address immunogenicity monitoring, ADA impact assessment, and immune-related biomarkers \u2014 these are not afterthoughts but core components of the translational strategy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM11",
+      "inquiry_domain": "Biomarker Strategy \u2013 Overall",
+      "question": "Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?",
+      "rubric_tests": "Evaluation of whether biomarker activities are integrated into programme strategy. For biologics, includes alignment of immunogenicity monitoring and immune-related biomarkers with TPP, and assessment of whether biomarker strategy addresses biologic-specific CDx requirements (e.g., target expression-based patient selection).",
+      "rationale": "Regulators expect biomarker strategy integrated with clinical development goals and TPP. For biologics, target expression-based patient selection is often a TPP-defining element that must be addressed from the outset of translational planning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM12",
+      "inquiry_domain": "Biomarker Strategy \u2013 Overall",
+      "question": "Are biomarkers included in clinical protocols and sample collection plans?",
+      "rubric_tests": "Confirmation that biomarker execution is embedded in clinical operations, ensuring sample availability for analysis. For biologics, includes ADA sample collection, immunogenicity monitoring samples, and immune phenotyping requirements in protocols.",
+      "rationale": "Regulators expect clinical biomarker activities explicitly embedded in protocols. For biologics, sample collection for immunogenicity assessment (ADA screening, confirmation, neutralising antibody testing) must be prospectively planned and integrated into clinical protocols \u2014 this is a regulatory requirement, not optional.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM13",
+      "inquiry_domain": "Biomarker Strategy \u2013 Overall",
+      "question": "Are preanalytical variables and sample logistics addressed (collection, handling, storage)?",
+      "rubric_tests": "Safeguarding data integrity through standardised preanalytical processes. For biologics, includes specific considerations for immunogenicity samples (serum vs. plasma, drug interference windows, sample timing relative to dosing), and immune phenotyping samples (time-sensitive processing for flow cytometry, PBMC isolation).",
+      "rationale": "Preanalytical variability is a major source of biomarker data noise. For biologics, immunogenicity and immune phenotyping samples are particularly sensitive to preanalytical handling \u2014 incorrect timing, matrix, or processing can render ADA or flow cytometry data uninterpretable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM14",
+      "inquiry_domain": "Pharmacodynamic (PD) Biomarkers",
+      "question": "Are PD biomarkers available to confirm target engagement in vivo?",
+      "rubric_tests": "Evaluation of whether PD biomarkers provide evidence of target engagement in humans. For biologics, includes receptor occupancy (RO) assays, soluble target levels, target cell depletion, and downstream immune activation/suppression markers. For bispecifics, includes assessment of whether PD markers capture the obligate mechanism (e.g., T-cell activation only in presence of both target and effector engagement).",
+      "rationale": "Regulators expect target engagement demonstrated in vivo using validated PD biomarkers. For biologics, receptor occupancy and soluble target monitoring are standard approaches but must be validated for each programme. For bispecifics, demonstrating the obligate PD effect \u2014 engagement dependent on simultaneous dual binding \u2014 is a unique and critical translational requirement.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM15",
+      "inquiry_domain": "Pharmacodynamic (PD) Biomarkers",
+      "question": "Are dynamic changes in PD biomarkers characterised across doses and time?",
+      "rubric_tests": "Assessment of biomarker responsiveness and kinetics across doses and time. For biologics, includes characterisation of immune PD marker kinetics (cytokine release timing, T-cell activation/exhaustion dynamics, target cell depletion and recovery) and relationship to exposure. For bispecifics, includes characterisation of bell-shaped dose-response in PD markers.",
+      "rationale": "Regulators expect PD biomarker data analysed as dynamic measures across doses and time. For biologics, immune PD dynamics are critical \u2014 cytokine release timing informs CRS risk, T-cell exhaustion impacts sustained efficacy, and target cell recovery kinetics inform dosing interval. For bispecifics, bell-shaped PD dose-response must be characterised to identify the optimal dose range.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM16",
+      "inquiry_domain": "Pharmacodynamic (PD) Biomarkers",
+      "question": "Are PD markers measurable in accessible human matrices (blood, urine, CSF, etc.)?",
+      "rubric_tests": "Evaluation of practicality and feasibility of sampling. For biologics, includes assessment of whether immune PD markers (cytokines, immune cell subsets, soluble target) are reliably measurable in peripheral blood, and whether tissue-based PD markers (tumour biopsies for target expression, immune infiltrate characterisation) are feasible and necessary.",
+      "rationale": "Regulators expect PD biomarkers measurable in accessible matrices. For biologics, peripheral blood immune markers are the primary accessible matrix, but tissue-based PD assessment (tumour biopsies) may be critical for understanding intra-tumoural pharmacology, particularly for T-cell engaging bispecifics and checkpoint inhibitors.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM17",
+      "inquiry_domain": "Pharmacodynamic (PD) Biomarkers",
+      "question": "Are biomarker assays qualified or validated to support decision-making?",
+      "rubric_tests": "Evaluation of whether PD biomarker assays meet analytical standards for regulatory or clinical decision-making. For biologics, includes qualification of receptor occupancy assays, cytokine multiplex panels, flow cytometry panels for immune phenotyping, and soluble target assays. Assessment of whether assay drug tolerance is adequate for samples containing high-concentration biologic.",
+      "rationale": "Regulators expect biomarker assays fit-for-purpose qualified or validated. For biologics, assay drug tolerance is a unique consideration \u2014 high circulating drug levels can interfere with ligand-binding assays measuring soluble target or cytokines. Assay qualification must explicitly address this interference.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM18",
+      "inquiry_domain": "Predictive / Stratification Biomarkers",
+      "question": "Are biomarkers identified to stratify or enrich clinical populations?",
+      "rubric_tests": "Assessment of whether biomarker use can improve trial efficiency and guide personalised medicine. For biologics, includes target expression-based stratification (e.g., HER2, PD-L1, CD20), immune phenotype-based enrichment (e.g., T-cell infiltration, MSI-H/dMMR status), and consideration of whether stratification biomarkers predict for the biologic's specific MOA vs. general disease biology.",
+      "rationale": "Regulators expect clear scientific rationale for biomarker-driven stratification. For biologics, target expression level is often the primary stratification biomarker \u2014 patients whose tumours do not express the target cannot benefit from a targeted mAb. This makes target expression-based enrichment a foundational translational decision for many biologic programmes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM19",
+      "inquiry_domain": "Predictive / Stratification Biomarkers",
+      "question": "Are genetic or protein expression markers associated with response or resistance?",
+      "rubric_tests": "Assessment of genetic and protein biomarkers associated with response or resistance. For biologics, includes Fc\u03b3R polymorphisms affecting ADCC, target mutation/loss as resistance mechanism, immune escape pathways, and antigen shedding. For bispecifics, includes assessment of target downregulation as a resistance mechanism.",
+      "rationale": "Regulators expect rigorous validation of biomarkers associated with response or resistance. For biologics, resistance mechanisms are often immune-mediated (antigen loss/downregulation, immune checkpoint upregulation, T-cell exhaustion) and require biologic-specific biomarker strategies. Fc\u03b3R polymorphisms can significantly impact efficacy of ADCC-dependent mAbs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM20",
+      "inquiry_domain": "Predictive / Stratification Biomarkers",
+      "question": "Has biomarker prevalence in the target population been estimated or confirmed?",
+      "rubric_tests": "Assessment of biomarker prevalence for feasibility and commercial planning. For biologics, includes target expression prevalence at therapeutically relevant levels (not just presence/absence), co-expression prevalence of both targets for bispecifics, and geographic/ethnic variation in target expression or immune biomarker prevalence.",
+      "rationale": "Regulators expect robust prevalence estimates. For biologics, the threshold of target expression required for therapeutic benefit (not just detectable expression) must be established, as this directly determines the addressable patient population, trial feasibility, and commercial opportunity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM21",
+      "inquiry_domain": "Predictive / Stratification Biomarkers",
+      "question": "Are patient selection criteria biomarker-driven in clinical trials?",
+      "rubric_tests": "Assessment of whether biomarker-positive patients are prospectively selected. For biologics, includes target expression-based inclusion criteria, CDx-defined eligibility, and consideration of whether the cut-off for \"biomarker-positive\" is clinically validated or arbitrary.",
+      "rationale": "Regulators expect biomarker-driven selection to be rigorously justified. For biologics, the target expression cut-off used for patient selection is a critical translational decision that directly impacts trial outcomes, label scope, and commercial strategy. Poorly calibrated cut-offs lead to failed trials or overly narrow labels.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM22",
+      "inquiry_domain": "Safety Biomarkers",
+      "question": "Are biomarkers in place to predict or monitor potential toxicities (e.g., cardiac, hepatic, renal, immune-mediated)?",
+      "rubric_tests": "Evaluation of whether safety risks are monitored proactively using translational biomarkers. For biologics, includes cytokine panels for CRS/ICANS prediction, complement activation markers, infusion reaction biomarkers, immune-mediated organ toxicity markers, and ADA-related safety monitoring.",
+      "rationale": "Regulators expect mechanistically plausible safety biomarkers for high-risk organ systems. For biologics, immune-mediated toxicities (CRS, ICANS, immune-mediated organ damage, infusion reactions) are the dominant safety concerns and require biologic-specific safety biomarker strategies that go beyond standard organ toxicity panels.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM23",
+      "inquiry_domain": "Safety Biomarkers",
+      "question": "Are translational links established between nonclinical toxicity findings and human safety biomarkers?",
+      "rubric_tests": "Evaluation of whether preclinical safety signals are bridged to human biology through shared biomarkers. For biologics, includes translation of exaggerated pharmacology findings, immune-mediated toxicities observed in NHP, and ADA-confounded safety findings. Assessment of whether nonclinical safety biomarkers are translatable given species differences in target biology and immune system.",
+      "rationale": "Regulators expect translational links between nonclinical toxicity and clinical safety monitoring. For biologics, many nonclinical safety findings are driven by exaggerated pharmacology or are confounded by ADA, making direct translation complex. The translational safety biomarker strategy must account for these limitations and identify human-relevant monitoring approaches.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM24",
+      "inquiry_domain": "Safety Biomarkers",
+      "question": "Are safety markers validated and acceptable to regulators or industry standards (e.g., FDA BEST)?",
+      "rubric_tests": "Assessment of whether safety biomarkers meet regulatory acceptance criteria. For biologics, includes validation of CRS grading biomarkers (IL-6, ferritin, CRP), immune-mediated toxicity markers, and alignment with ASTCT CRS consensus grading or equivalent frameworks.",
+      "rationale": "Regulators expect safety biomarkers validated to regulatory or industry standards. For biologics, CRS grading systems (ASTCT consensus, Lee criteria) are now well-established standards that programmes must align with.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM25",
+      "inquiry_domain": "Safety Biomarkers",
+      "question": "For biologics: are immunogenicity-related safety biomarkers (ADA, neutralising antibodies, immune complex markers) integrated into the translational safety strategy?",
+      "rubric_tests": "Assessment of whether immunogenicity-driven safety risks are monitored through appropriate biomarkers, including ADA titre and characterisation, neutralising antibody assessment, immune complex formation markers (complement, C3/C4), and clinical correlates of immunogenicity (infusion reactions, loss of efficacy, hypersensitivity).",
+      "rationale": "Immunogenicity is a uniquely biologic safety concern that can manifest as loss of efficacy (neutralising ADA), altered PK (clearing ADA), infusion/injection reactions, immune complex disease, or anaphylaxis. Translational safety strategy for biologics must integrate immunogenicity monitoring as a core safety biomarker domain \u2014 not a standalone PK/bioanalytical activity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM26",
+      "inquiry_domain": "Biomarker Assay Development",
+      "question": "Are assays (e.g., ELISA, qPCR, flow cytometry, LC-MS, NGS) developed and technically validated?",
+      "rubric_tests": "Confirmation that biomarker assays meet analytical validation criteria. For biologics, includes validation of immunogenicity assays (ADA screening/confirmatory/neutralising), receptor occupancy assays, cytokine multiplex panels, and flow cytometry panels for immune phenotyping. Assessment of drug tolerance in ligand-binding assays.",
+      "rationale": "Regulators require biomarker assays to be technically validated. For biologics, drug tolerance in ligand-binding assays is a critical validation parameter \u2014 high circulating biologic concentrations can mask ADA or interfere with soluble biomarker measurement.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM27",
+      "inquiry_domain": "Biomarker Assay Development",
+      "question": "Are performance characteristics (sensitivity, specificity, LLOQ, ULOQ) documented?",
+      "rubric_tests": "Evaluation of whether analytical parameters are documented and meet fit-for-purpose criteria. For biologics, includes documentation of drug tolerance limits, target interference in free drug assays, and ADA assay sensitivity thresholds per FDA/EMA immunogenicity guidance.",
+      "rationale": "Regulatory standards require assay performance documentation. For biologics, FDA and EMA immunogenicity guidance specifies minimum sensitivity requirements for ADA assays (typically 100 ng/mL) and drug tolerance requirements that must be documented.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM28",
+      "inquiry_domain": "Biomarker Assay Development",
+      "question": "Is there a clear plan for bioanalytical method validation under GxP where required?",
+      "rubric_tests": "Assessment of whether method validation follows GxP requirements for clinical trial use.",
+      "rationale": "For regulatory acceptance, sponsors must document a clear plan for GxP method validation where required, aligned to clinical use and regulatory expectations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM29",
+      "inquiry_domain": "Biomarker Assay Development",
+      "question": "Are biomarker assays transferable to central labs or CROs?",
+      "rubric_tests": "Assessment of whether assays can be consistently reproduced outside R&D settings. For biologics, includes specific challenges of transferring complex immunoassays (ADA, flow cytometry panels) and ensuring lot-to-lot consistency of critical reagents (anti-drug antibody positive controls, capture/detection antibodies).",
+      "rationale": "Regulatory standards require documented assay transfer processes. For biologics, immunoassay transfer is particularly challenging due to reagent criticality and operator dependence of flow cytometry \u2014 these must be explicitly addressed in transfer protocols.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM30",
+      "inquiry_domain": "Bioanalytical Integration & Sample Management",
+      "question": "Are biospecimen collection protocols in place with informed consent and ethics approvals?",
+      "rubric_tests": "Evaluation of regulatory compliance and ethical execution of biospecimen collection.",
+      "rationale": "Biospecimen collection must be controlled, traceable, and aligned with consent/ethics approvals.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM31",
+      "inquiry_domain": "Bioanalytical Integration & Sample Management",
+      "question": "Are biorepositories or sample tracking systems implemented?",
+      "rubric_tests": "Confirmation of sample chain-of-custody and traceability.",
+      "rationale": "Biospecimen storage, tracking, and integrity must be controlled and traceable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM32",
+      "inquiry_domain": "Bioanalytical Integration & Sample Management",
+      "question": "Are sample integrity and chain-of-custody procedures established?",
+      "rubric_tests": "Assessment of reliability and traceability of samples across their lifecycle.",
+      "rationale": "Biospecimen integrity throughout the lifecycle is critical for data validity and regulatory compliance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM33",
+      "inquiry_domain": "First-in-Human (FIH) Translational Readiness",
+      "question": "Are nonclinical and translational data sufficient to justify FIH starting dose and escalation?",
+      "rubric_tests": "Evaluation of whether translational data support safe, rational FIH dosing. For biologics, includes assessment of whether MABEL-based approach (for immune-activating biologics/bispecifics) or NOAEL-based approach (for non-agonist mAbs) is appropriately selected and justified. For bispecifics, includes evaluation of step-up dosing strategy rationale from translational data.",
+      "rationale": "Regulators require FIH dose and escalation justified by nonclinical and translational data. For biologics, the choice between MABEL and NOAEL-based approaches is a critical translational decision. For T-cell engaging bispecifics, MABEL is the expected approach, and step-up dosing is now standard practice \u2014 the translational rationale for both must be explicit.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM34",
+      "inquiry_domain": "First-in-Human (FIH) Translational Readiness",
+      "question": "Are PK/PD relationships modeled and simulated for dose selection?",
+      "rubric_tests": "Evaluation of model-informed drug development principles. For biologics, includes TMDD modeling, receptor occupancy simulations, target coverage projections, and for bispecifics, trimer formation kinetics modeling and QSP-based FIH dose optimization.",
+      "rationale": "Regulators expect PK/PD modeling to support dose selection. For biologics, TMDD-aware models are essential because target-mediated clearance creates non-linear PK that standard allometric scaling cannot capture. For bispecifics, QSP models incorporating trimer formation kinetics have demonstrated ability to optimise FIH starting doses by 10-100 fold over traditional MABEL.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM35",
+      "inquiry_domain": "First-in-Human (FIH) Translational Readiness",
+      "question": "Is there confidence in pharmacologic activity at clinically achievable exposures?",
+      "rubric_tests": "Assessment of whether predicted human exposures are sufficient for pharmacologic effect. For biologics, includes target coverage (receptor occupancy) projections at proposed doses, target cell depletion modeling, and assessment of whether the therapeutic window accommodates both efficacy and safety (particularly CRS risk for bispecifics).",
+      "rationale": "Regulators expect demonstration that clinically achievable exposures will yield pharmacologically meaningful activity. For biologics, the therapeutic window may be narrow \u2014 especially for T-cell engaging bispecifics where efficacious doses are close to CRS-inducing doses. Translational confidence in the therapeutic index is critical.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM36",
+      "inquiry_domain": "First-in-Human (FIH) Translational Readiness",
+      "question": "Are FIH biomarkers integrated into early clinical endpoints?",
+      "rubric_tests": "Evaluation of whether biomarker endpoints are included in FIH studies. For biologics, includes cytokine monitoring panels (for CRS prediction/grading), target occupancy/coverage assessments, immune phenotyping (T-cell activation, exhaustion, immune cell subsets), ADA monitoring, and PK sampling optimised for TMDD characterisation.",
+      "rationale": "Regulators expect translational biomarkers prospectively integrated into FIH trials. For biologics, the FIH biomarker panel is typically more extensive than for small molecules \u2014 requiring cytokine panels, immune phenotyping, and ADA monitoring in addition to standard PD biomarkers. Absence of these biomarkers in the FIH protocol is a significant translational gap.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM37",
+      "inquiry_domain": "First-in-Human (FIH) Translational Readiness",
+      "question": "For bispecifics and immune-activating biologics: is the CRS/ICANS translational risk assessment integrated into the FIH translational package?",
+      "rubric_tests": "Assessment of whether the translational package includes a structured CRS/ICANS risk assessment integrating in vitro cytokine release assay data, nonclinical cytokine profiles, target cell density estimates in patients, historical class comparator data (approved bispecifics), and proposed mitigation strategies (step-up dosing, premedication, tocilizumab availability).",
+      "rationale": "CRS and ICANS are the dominant safety risks for T-cell engaging bispecifics and represent the primary translational challenge for FIH entry. A structured translational risk assessment integrating all available preclinical and clinical class data is essential for regulatory confidence and patient safety. This assessment directly informs step-up dosing design, monitoring intensity, and site readiness requirements.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM38",
+      "inquiry_domain": "Quantitative Systems Pharmacology / Modeling & Simulation",
+      "question": "Is a PK/PD or QSP model in place to guide dose and regimen selection?",
+      "rubric_tests": "Evaluation of modeling support for dose and regimen decisions. For biologics, includes TMDD-aware PK/PD models, receptor occupancy-based dosing models, and for bispecifics, QSP models incorporating trimer formation, immune synapse dynamics, and tumour-immune microenvironment components.",
+      "rationale": "Regulators increasingly expect model-supported dose and regimen selection. For biologics, QSP models that capture the complexity of immune-mediated mechanisms have demonstrated substantial impact on FIH dose selection, particularly for bispecifics where traditional approaches lead to excessively conservative starting doses.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM39",
+      "inquiry_domain": "Quantitative Systems Pharmacology / Modeling & Simulation",
+      "question": "Are PBPK models used to predict human exposure?",
+      "rubric_tests": "Evaluation of PBPK modeling for exposure prediction. For biologics, includes PBPK models incorporating FcRn-mediated recycling, SC absorption from injection site (lymphatic uptake), tissue distribution based on target expression, and target-mediated clearance. Assessment of whether biologic-specific PBPK platforms (e.g., incorporating antibody disposition mechanisms) are used.",
+      "rationale": "Regulators increasingly expect PBPK modeling to bridge preclinical to human exposure. For biologics, PBPK models must capture biologic-specific disposition mechanisms (FcRn recycling, TMDD, SC absorption) rather than relying on small molecule PBPK frameworks. DDI predictions are generally not relevant for biologics (no CYP-mediated metabolism) but SC bioavailability prediction is critical.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM40",
+      "inquiry_domain": "Quantitative Systems Pharmacology / Modeling & Simulation",
+      "question": "Are modeling efforts cross-validated with preclinical and clinical data?",
+      "rubric_tests": "Evaluation of model cross-validation. For biologics, includes validation of TMDD model predictions against observed clinical PK (non-linearity, target saturation dose), validation of immune PD model predictions, and assessment of whether ADA impact on PK was predicted by the model.",
+      "rationale": "Cross-validation is critical for model credibility. For biologics, TMDD models must be validated against observed clinical PK non-linearity, and immune PD models must be validated against observed cytokine and immune cell dynamics. Models that cannot retrospectively explain clinical observations lose regulatory credibility.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM41",
+      "inquiry_domain": "Quantitative Systems Pharmacology / Modeling & Simulation",
+      "question": "Are simulations used to inform adaptive designs or stopping criteria?",
+      "rubric_tests": "Evaluation of simulation use for trial design. For biologics, includes simulations informing step-up dosing schemes, CRS-based stopping rules, exposure-response-based dose escalation, and adaptive designs incorporating real-time biomarker data (cytokine levels, target occupancy).",
+      "rationale": "Regulatory agencies encourage simulation-informed adaptive designs. For biologics, particularly bispecifics, simulations are critical for designing step-up dosing schemes that balance CRS mitigation with dose escalation efficiency. Simulation-informed stopping criteria based on cytokine thresholds or target occupancy can significantly improve trial safety and efficiency.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM42",
+      "inquiry_domain": "Biomarker-Driven Clinical Trial Design",
+      "question": "Are trials designed to incorporate or adapt to biomarker results (e.g., enrichment, basket, umbrella)?",
+      "rubric_tests": "Evaluation of biomarker-driven trial design. For biologics, includes target expression-based enrichment, immune phenotype-based stratification, and consideration of basket trials across tumour types sharing the same target expression.",
+      "rationale": "Regulators strongly encourage biomarker-driven designs. For biologics, target expression-driven enrichment is often the defining design element \u2014 and basket trial designs across histologies sharing the biologic's target are increasingly common and accepted by regulators.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM43",
+      "inquiry_domain": "Biomarker-Driven Clinical Trial Design",
+      "question": "Are exploratory vs. hypothesis-driven biomarker endpoints clearly distinguished?",
+      "rubric_tests": "Evaluation of endpoint classification and statistical planning.",
+      "rationale": "Regulatory agencies expect clear distinction between exploratory and hypothesis-driven biomarker endpoints to avoid misinterpretation and ensure appropriate statistical rigour.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM44",
+      "inquiry_domain": "Biomarker-Driven Clinical Trial Design",
+      "question": "Are statistical plans in place for biomarker subgroup analyses?",
+      "rubric_tests": "Evaluation of statistical planning for biomarker-defined subgroups.",
+      "rationale": "Regulatory agencies expect pre-specified biomarker subgroup analyses with appropriate statistical methodology and multiplicity control.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM45",
+      "inquiry_domain": "Biomarker-Driven Clinical Trial Design",
+      "question": "Are companion diagnostics (CDx) being developed, if required?",
+      "rubric_tests": "Evaluation of CDx development. For biologics, includes target expression-based CDx (e.g., IHC-based HER2, PD-L1), and assessment of whether the CDx cut-off is clinically validated for the specific biologic's efficacy threshold.",
+      "rationale": "Regulators expect integrated CDx and drug development. For biologics, the CDx cut-off for target expression must be clinically validated specifically for the biologic in development \u2014 cut-offs established for other drugs targeting the same antigen may not be appropriate.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BBTM46",
+      "inquiry_domain": "Regulatory & CDx Considerations",
+      "question": "Are biomarker strategies aligned with regulatory expectations (FDA, EMA, PMDA)?",
+      "rubric_tests": "Evaluation of regulatory alignment. For biologics, includes alignment with FDA/EMA immunogenicity guidance, ICH S6(R1) biomarker expectations, and bispecific-specific regulatory considerations.",
+      "rationale": "Regulators expect biomarker strategies aligned with evolving guidance. For biologics, immunogenicity biomarker strategy must align with FDA and EMA immunogenicity guidance \u2014 a regulatory requirement, not optional.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM47",
+      "inquiry_domain": "Regulatory & CDx Considerations",
+      "question": "Are discussions with agencies (e.g., biomarker qualification, CDx co-development) initiated or planned?",
+      "rubric_tests": "Evaluation of proactive regulatory engagement.",
+      "rationale": "Proactive engagement with regulatory agencies is essential for aligning biomarker qualification and CDx co-development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM48",
+      "inquiry_domain": "Regulatory & CDx Considerations",
+      "question": "Are biomarker data included in IND/CTA submissions or briefing books?",
+      "rubric_tests": "Evaluation of biomarker data inclusion in regulatory submissions.",
+      "rationale": "Regulators expect biomarker data transparently included in submissions when used in trial design or efficacy/safety assessment.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM49",
+      "inquiry_domain": "Regulatory & CDx Considerations",
+      "question": "If CDx is required, is an IVD partner identified and a development pathway in place?",
+      "rubric_tests": "Evaluation of CDx partner and development pathway.",
+      "rationale": "Regulators expect a qualified IVD partner and clear development pathway. Failure to align drug and CDx timelines leads to launch delays and regulatory rejection.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM50",
+      "inquiry_domain": "Data Integration & Decision-Making",
+      "question": "Are nonclinical, clinical, and biomarker data integrated in a centralised database or data lake?",
+      "rubric_tests": "Evaluation of data integration architecture. For biologics, includes integration of immunogenicity data, immune biomarker data, and ADA-PK-efficacy correlations alongside standard translational datasets.",
+      "rationale": "Modern translational science requires integrated, cross-domain decision-making. For biologics, integration of immunogenicity data with PK, efficacy, and safety data is critical for understanding ADA impact on clinical outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM51",
+      "inquiry_domain": "Data Integration & Decision-Making",
+      "question": "Are translational insights routinely discussed at governance or programme review meetings?",
+      "rubric_tests": "Evaluation of governance integration of translational data.",
+      "rationale": "Regulators expect evidence that translational data influences decision making through governance processes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM52",
+      "inquiry_domain": "Data Integration & Decision-Making",
+      "question": "Are biomarkers influencing go/no-go and dose/regimen decisions?",
+      "rubric_tests": "Evaluation of biomarker impact on programme decisions.",
+      "rationale": "Translational data should directly influence strategic decisions. Agencies expect to see this documented.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM53",
+      "inquiry_domain": "Emerging Modalities & Platforms",
+      "question": "For advanced modalities: are unique translational challenges addressed?",
+      "rubric_tests": "Evaluation of modality-specific translational strategy. For mAbs and bispecifics, includes target-mediated drug disposition, immunogenicity, Fc-mediated effector functions, and for bispecifics specifically, dual-target biology, format-dependent PK, CRS/ICANS risk, and bell-shaped dose-response considerations.",
+      "rationale": "Advanced modalities introduce unique translational challenges. For biologics, these include fundamentally different PK (TMDD, FcRn), immune-mediated MOA, immunogenicity, and for bispecifics, the added complexity of dual-target pharmacology and immune synapse formation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM54",
+      "inquiry_domain": "Emerging Modalities & Platforms",
+      "question": "Are immunogenicity, cellular persistence, or biodistribution biomarkers in development?",
+      "rubric_tests": "Evaluation of modality-specific biomarker development. For mAbs and bispecifics, immunogenicity biomarkers (ADA, neutralising antibodies) are the primary concern. Biodistribution biomarkers (target-mediated tissue uptake, Fc-mediated tissue retention) may be relevant for certain indications.",
+      "rationale": "Regulators expect proactive development of modality-specific biomarkers. For biologics, immunogenicity monitoring is a regulatory requirement, and the biomarker strategy must be in active development well before FIH.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM55",
+      "inquiry_domain": "Emerging Modalities & Platforms",
+      "question": "Is platform data leveraged across programmes to refine translational strategy?",
+      "rubric_tests": "Evaluation of cross-programme platform learning. For biologics, includes leveraging of immunogenicity data across mAb programmes, TMDD model libraries, cytokine release assay datasets, and manufacturing platform PK comparability data.",
+      "rationale": "Effective leveraging of platform learning is a hallmark of leading translational organisations. For biologics, cross-programme learnings on immunogenicity, PK, and safety biomarkers can substantially accelerate development and reduce risk for subsequent programmes on the same platform.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM56",
+      "inquiry_domain": "Translational Medicine Team & Infrastructure",
+      "question": "Is there an experienced translational medicine lead assigned?",
+      "rubric_tests": "Evaluation of translational leadership. For biologics, includes assessment of whether the TM lead has experience with biologic-specific translational challenges (immunogenicity, TMDD, immune pharmacology).",
+      "rationale": "Quality of translational strategy execution depends on leadership and team expertise. For biologics, the TM lead must have specific experience with biologic translational challenges \u2014 these differ fundamentally from small molecule translation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM57",
+      "inquiry_domain": "Translational Medicine Team & Infrastructure",
+      "question": "Are team members skilled in biomarker science, modeling, systems biology, and clinical integration?",
+      "rubric_tests": "Evaluation of team composition and expertise.",
+      "rationale": "Modern biomarker-driven development requires integrated, cross-disciplinary translational teams.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM58",
+      "inquiry_domain": "Translational Medicine Team & Infrastructure",
+      "question": "Are external collaborations (academia, CROs, biomarker consortia) in place?",
+      "rubric_tests": "Evaluation of external partnerships and collaborations.",
+      "rationale": "Translational strategy execution depends on external partnerships and network leverage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM59",
+      "inquiry_domain": "Translational Medicine Team & Infrastructure",
+      "question": "Is there a fit-for-purpose governance and decision-making structure?",
+      "rubric_tests": "Evaluation of governance and decision-making framework.",
+      "rationale": "Governance rigor is assessed by regulators and investors to evaluate programme quality and risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM60",
+      "inquiry_domain": "Translational Immunology & Immune Monitoring (Biologics)",
+      "question": "Is a comprehensive immune monitoring strategy in place for clinical studies?",
+      "rubric_tests": "Evaluation of whether a structured immune monitoring plan exists covering immune cell phenotyping (flow cytometry/CyTOF), cytokine profiling (multiplex, Luminex, MSD), T-cell functional assays (ELISpot, intracellular cytokine staining), and immune activation/exhaustion markers. Assessment of whether the immune monitoring strategy is integrated with the biomarker strategy and clinical protocol.",
+      "rationale": "For biologics \u2014 particularly immune-engaging mAbs and bispecifics \u2014 the immune system is not just a safety concern but the primary effector mechanism. A comprehensive immune monitoring strategy is essential to understand MOA confirmation, dose optimisation, resistance mechanisms, and safety. This is distinct from the general PD biomarker strategy because it requires specialised immunological expertise and technology platforms (flow cytometry, CyTOF, single-cell RNA-seq).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM61",
+      "inquiry_domain": "Translational Immunology & Immune Monitoring (Biologics)",
+      "question": "Are translational immune biomarkers defined to distinguish on-target immune activation from off-target immune toxicity?",
+      "rubric_tests": "Assessment of whether biomarkers are identified and validated to differentiate desired immune activation (e.g., tumour-directed T-cell killing, target cell depletion) from unintended immune toxicity (e.g., CRS, ICANS, immune-mediated organ damage, autoimmune-like events). Includes evaluation of biomarker panels that can guide real-time clinical decision-making on whether to continue, modify, or halt dosing.",
+      "rationale": "For biologics that engage the immune system, the distinction between therapeutic immune activation and pathological immune toxicity is the central translational challenge. The same cytokine release that indicates efficacy at moderate levels indicates life-threatening CRS at high levels. Biomarkers that can distinguish these states in real time are critical for clinical decision-making and are a key area of translational innovation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM62",
+      "inquiry_domain": "Translational Immunology & Immune Monitoring (Biologics)",
+      "question": "Is the immunogenicity monitoring strategy integrated into the translational framework (not just bioanalytical)?",
+      "rubric_tests": "Assessment of whether immunogenicity monitoring is treated as a core translational activity \u2014 integrated with PK, PD, efficacy, and safety data interpretation \u2014 rather than a standalone bioanalytical deliverable. Evaluation of whether ADA impact on clinical outcomes is prospectively modelled and whether immunogenicity risk mitigation strategies (e.g., dose/regimen optimisation, premedication, immune tolerance induction) are informed by translational data.",
+      "rationale": "Immunogenicity monitoring for biologics is frequently siloed in bioanalytical teams and disconnected from translational interpretation. However, ADA impact on efficacy (neutralising antibodies), PK (clearing antibodies), and safety (immune complex disease, infusion reactions) requires integrated translational analysis. Programmes that treat immunogenicity as a bioanalytical checkbox rather than a translational insight source miss critical opportunities for risk mitigation and dose optimisation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM63",
+      "inquiry_domain": "Translational Immunology & Immune Monitoring (Biologics)",
+      "question": "For bispecifics: is the immune synapse biology characterised and used to inform translational strategy?",
+      "rubric_tests": "Assessment of whether the bispecific's immune synapse formation (spatial geometry of T-cell/target cell engagement, contact time, signalling strength) has been characterised using in vitro models and whether this understanding informs dose selection, PD biomarker selection, and prediction of clinical efficacy/safety. Includes evaluation of whether synapse quality/quantity metrics are developed as translational biomarkers.",
+      "rationale": "T-cell engaging bispecifics work by forming an immune synapse between T cells and target cells. The quality and kinetics of this synapse \u2014 influenced by bispecific format, affinity, valency, and geometry \u2014 directly determine efficacy, cytokine release profile, and safety. Understanding synapse biology is a cutting-edge translational approach that differentiates leading bispecific programmes and can inform format selection, dose optimisation, and clinical monitoring strategy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM64",
+      "inquiry_domain": "First-in-Human (FIH) Translational Readiness",
+      "question": "Is the translational framework designed to identify the Optimal Biologic Dose (OBD) rather than defaulting to MTD, using exposure-response, receptor occupancy, PD biomarker plateau, and efficacy-safety modelling consistent with FDA's Project Optimus initiative?",
+      "rubric_tests": "Evaluates whether dose optimisation strategy includes: receptor occupancy (RO) modelling to identify the exposure level at which target saturation occurs; PD biomarker dose-response characterisation to identify the plateau dose; exposure-efficacy modelling to confirm that doses above the plateau do not add benefit; exposure-safety modelling to define the safety ceiling; integration of RO + PD + efficacy + safety into a quantitative therapeutic window; and documentation of OBD rationale for FDA dose justification. Assesses alignment with Project Optimus principles.",
+      "rationale": "FDA's Project Optimus initiative explicitly challenges MTD-based dose selection for oncology biologics. For non-cytotoxic biologics (mAbs, bispecifics), the MTD may be far above the dose needed for optimal target engagement and efficacy. Selecting MTD when OBD is lower exposes patients to unnecessary toxicity, increases immunogenicity risk, and wastes drug. The translational framework must quantitatively define OBD using receptor occupancy, PD biomarkers, and exposure-response \u2014 not default to \"the highest dose patients tolerate.\" This is the paradigm-defining translational question for modern biologic development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM65",
+      "inquiry_domain": "Predictive / Stratification Biomarkers",
+      "question": "For immuno-oncology biologics, is the tumour microenvironment (TME) translationally characterised to inform patient selection and predict response, including T-cell infiltration/exhaustion profiling, target/PD-L1 co-expression, immune cell composition (hot vs cold tumours), and spatial architecture?",
+      "rubric_tests": "Evaluates whether TME translational assessment includes: T-cell infiltration quantification (TILs) and exhaustion marker profiling (PD-1, LAG-3, TIM-3, TIGIT expression on TILs); target antigen expression level and heterogeneity in tumour vs normal tissue; PD-L1 and target co-expression analysis; immune cell composition profiling (T-cell subsets, NK cells, macrophage polarisation, MDSCs, Tregs); spatial profiling (multiplex IHC, spatial transcriptomics) to assess immune cell proximity to tumour cells; and classification framework (hot/cold/excluded/immunosuppressed) to predict likelihood of response to immune-engaging biologics.",
+      "rationale": "For T-cell engaging bispecifics and checkpoint inhibitors, the TME determines efficacy: cold tumours with low T-cell infiltration are unlikely to respond to T-cell engagers regardless of target expression. Spatial architecture matters \u2014 T cells must be proximal to target-expressing tumour cells. Exhaustion phenotype determines whether T cells can be re-activated. Translational TME characterisation should drive patient selection biomarkers, combination strategies, and clinical trial enrichment criteria. Without this assessment, sponsors select patients on target expression alone and miss the immunological context that determines response.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM66",
+      "inquiry_domain": "Pharmacodynamic (PD) Biomarkers",
+      "question": "Is the translational biomarker strategy designed to quantitatively define the therapeutic window using the PK \u2192 receptor occupancy \u2192 PD biomarker \u2192 efficacy/safety chain, with documented exposure thresholds for minimum efficacious and maximum tolerable activity?",
+      "rubric_tests": "Evaluates whether the therapeutic window definition includes: quantitative receptor occupancy (RO) modelling across the dose range; PD biomarker dose-response curve with identified plateau; minimum efficacious exposure threshold (exposure at which PD activity reaches clinically meaningful level); maximum tolerable exposure threshold (exposure above which safety signals emerge disproportionately); documentation of the exposure range between minimum efficacious and maximum tolerable; and integration with population PK simulations to predict the percentage of patients within the therapeutic window at each dose level.",
+      "rationale": "The therapeutic window for biologics is defined by the PK-RO-PD-efficacy-safety chain, not by traditional dose-toxicity relationships. Translational teams must map this chain quantitatively: at what exposure does receptor occupancy reach 90%? At what RO level does the PD biomarker plateau? Does the efficacy curve plateau at the same point? At what exposure do safety signals emerge? The therapeutic window is the exposure range between minimum efficacious and maximum tolerable \u2014 and the translational team must define it with data, not assumptions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM67",
+      "inquiry_domain": "Quantitative Systems Pharmacology / Modeling & Simulation",
+      "question": "For bispecific programs, is the translational PK/PD strategy specifically designed for the bispecific format's disposition characteristics (IgG-like vs non-IgG, half-life extended vs unextended), including dual-target binding kinetics, stoichiometric requirements, and format-specific TMDD modelling?",
+      "rubric_tests": "Evaluates whether bispecific-specific translational PK/PD includes: format classification and its PK implications (IgG-like ~21-day half-life vs BiTE ~2-hour half-life vs half-life extended intermediate); dual-target binding kinetics modelling (simultaneous vs sequential binding, avidity effects); stoichiometric bridging requirements (target cell density, effector-to-target ratio); format-specific TMDD modelling (both targets contribute to clearance independently); translational scaling approach appropriate for the format (allometric scaling for IgG-like; different approach for non-IgG); and dosing regimen translation (continuous infusion vs intermittent dosing implications).",
+      "rationale": "Bispecific format determines translational strategy. Blinatumomab (BiTE, ~2h half-life) requires continuous IV infusion; tarlatamab (half-life extended BiTE) can be dosed intermittently; IgG-like bispecifics (emicizumab) have ~30-day half-life. The translational PK/PD approach must be format-specific. Dual-target TMDD creates unique PK complexity \u2014 both targets act as clearance sinks. Stoichiometric requirements for bridging mean that dose-response may be non-monotonic. Generic translational PK approaches designed for monospecific mAbs are inadequate for bispecifics.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM68",
+      "inquiry_domain": "Biomarker-Driven Clinical Trial Design",
+      "question": "Are translational biomarkers for resistance to biologic therapy pre-specified and monitored in clinical trials, including antigen loss/downregulation, target mutation, immune escape mechanisms (MHC downregulation, checkpoint upregulation), and alternative pathway activation?",
+      "rubric_tests": "Evaluates whether resistance biomarker monitoring includes: target antigen expression monitoring over time (loss, downregulation, heterogeneous expression); target mutation surveillance (epitope mutations affecting antibody binding); immune escape monitoring for T-cell engagers (MHC-I downregulation, \u03b22-microglobulin loss, checkpoint upregulation); alternative signalling pathway activation (bypass resistance); soluble target accumulation (acting as decoy); and tumour biopsy or liquid biopsy strategy for resistance characterisation at time of progression.",
+      "rationale": "Resistance to biologic therapy is inevitable and understanding the mechanism is essential for next-generation molecule design, combination strategy, and lifecycle management. Antigen downregulation is the most common resistance mechanism for targeted mAbs. For T-cell engagers, MHC-I loss renders target cells invisible to redirected T cells. These resistance mechanisms should be monitored translationally from the earliest clinical trials, not investigated only after commercial launch when patients are progressing.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM69",
+      "inquiry_domain": "Biomarker Strategy \u2013 Overall",
+      "question": "For oncology biologic programs, is a liquid biopsy and/or minimal residual disease (MRD) translational strategy in place to support response monitoring, early efficacy signal detection, and treatment duration decisions?",
+      "rubric_tests": "Evaluates whether liquid biopsy/MRD strategy includes: ctDNA monitoring for molecular response assessment (variant allele frequency reduction as early efficacy signal); circulating tumour cell (CTC) monitoring if applicable; MRD assessment methodology for haematologic malignancies (flow cytometry, NGS-based); translational validation of liquid biopsy biomarkers against imaging and clinical endpoints; use of ctDNA dynamics to inform adaptive trial designs (early futility, dose optimisation); and MRD-guided treatment duration decisions (whether to continue, discontinue, or de-escalate therapy based on MRD status).",
+      "rationale": "Liquid biopsy and MRD are transforming translational oncology. ctDNA dynamics provide the earliest signal of treatment response \u2014 often weeks before imaging. MRD negativity is emerging as a surrogate endpoint in haematologic malignancies. For biologic programs, integrating these translational tools enables faster go/no-go decisions, more efficient dose selection, and potentially MRD-guided treatment duration strategies. Programmes that do not include liquid biopsy are missing the most powerful modern translational tool available.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM70",
+      "inquiry_domain": "Pharmacodynamic (PD) Biomarkers",
+      "question": "Are receptor occupancy (RO) or target occupancy assays developed, validated, and integrated into early clinical studies to quantify target engagement across dose levels and timepoints, supporting dose selection and OBD determination?",
+      "rubric_tests": "Evaluates whether RO/target occupancy strategy includes: RO assay development for the relevant matrix (whole blood, tissue, tumour); validation of RO assay performance characteristics (sensitivity, specificity, dynamic range); integration of RO sampling into Phase 1 clinical protocols; RO dose-response and time-course characterisation; correlation of RO with PD biomarker changes and clinical outcomes; and RO-based dose selection rationale (target RO level for OBD).",
+      "rationale": "Receptor occupancy is the most direct measure of target engagement and a cornerstone of biologic dose selection. RO quantifies what percentage of target molecules are bound by the therapeutic antibody at a given exposure. An RO assay that shows 95% occupancy at 3 mg/kg tells you that 10 mg/kg adds no incremental target engagement \u2014 this is the definitive argument for OBD. Without RO data, dose selection relies on indirect PD biomarkers or clinical endpoints, which are slower and less mechanistically informative.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM71",
+      "inquiry_domain": "Translational Immunology & Immune Monitoring (Biologics)",
+      "question": "For T-cell engaging bispecifics, is the translational immunopharmacology comprehensively characterised, including T-cell activation kinetics (CD25, CD69, Ki67), T-cell subset dynamics (CD4/CD8, effector/memory), cytokine kinetics (IL-6, IFN-\u03b3, TNF-\u03b1), and tumour cell killing dynamics?",
+      "rubric_tests": "Evaluates whether immunopharmacology characterisation includes: T-cell activation markers (CD25, CD69 upregulation kinetics by flow cytometry); T-cell proliferation markers (Ki67); T-cell subset dynamics (CD4:CD8 ratio, effector vs memory vs exhausted phenotype shifts); cytokine release kinetics panel (IL-6, IFN-\u03b3, TNF-\u03b1, IL-2, IL-10 \u2014 temporal profile across dosing cycles); tumour cell killing dynamics (target cell depletion kinetics in peripheral blood or tissue); and correlation of immune PD markers with clinical response and CRS severity.",
+      "rationale": "T-cell engaging bispecifics produce a complex immunopharmacological cascade: T-cell activation \u2192 proliferation \u2192 cytokine release \u2192 target cell killing. The kinetics of each step, and the relationships between them, determine both efficacy and safety. CRS severity correlates with cytokine release magnitude and kinetics. T-cell exhaustion limits durability. Translational characterisation of these dynamics is essential for dose optimisation, CRS prediction, and combination strategy design.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM72",
+      "inquiry_domain": "Human Relevance of Preclinical Models",
+      "question": "Are patient-derived models (PDX, patient-derived organoids, ex vivo patient tissue assays) used to validate translational hypotheses, assess target engagement in human-relevant systems, and predict patient response heterogeneity?",
+      "rubric_tests": "Evaluates whether patient-derived model strategy includes: patient-derived xenograft (PDX) studies with diverse tumour subtypes reflecting clinical heterogeneity; patient-derived organoid panels for in vitro assessment of biologic activity across tumour genotypes; ex vivo patient tissue assays (tumour slice cultures, explant cultures) for target engagement validation; autologous immune cell co-culture systems for T-cell engager bispecific activity assessment; and integration of patient-derived model data with clinical biomarker and response data for translational validation.",
+      "rationale": "Patient-derived models bridge the gap between cell line models and clinical reality. PDX tumours retain the heterogeneity, architecture, and immune context of the original patient tumour. Organoids enable high-throughput screening across diverse tumour genotypes. Ex vivo patient tissue assays assess biologic activity in intact human tissue. For biologics where species cross-reactivity limits in vivo animal models, patient-derived human systems provide the most relevant translational data.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBTM73",
+      "inquiry_domain": "Data Integration & Decision-Making",
+      "question": "Are translational insights from competitive and class-peer biologics (approved, failed, or in-development) systematically reviewed and integrated into the translational strategy, including analysis of why competitor programs succeeded or failed from a translational perspective?",
+      "rubric_tests": "Evaluates whether competitive translational intelligence includes: systematic review of translational data from approved biologics with the same target or mechanism; analysis of failed programs targeting the same pathway (reasons for failure \u2014 wrong patient selection, inadequate dose, insufficient target engagement, resistance mechanism); translational learnings from class-peer biologics (biomarker strategies that worked vs didn't); integration of competitor translational data into the program's biomarker strategy and patient selection criteria; and differentiation strategy based on translational insights (what does this program do differently from a translational perspective?).",
+      "rationale": "Translational intelligence from competitor and class-peer programs is the most underutilised source of strategic insight in biologic development. If three anti-[target] mAbs failed in Phase 2, understanding the translational reasons (wrong patients? wrong dose? wrong biomarker? resistance?) should fundamentally shape the program's translational strategy. Programmes that develop translational strategies in isolation, ignoring class-wide translational evidence, repeat the mistakes of their predecessors.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

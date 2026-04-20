@@ -1,0 +1,4338 @@
+{
+  "function_code": "ERW",
+  "modality": "biologics",
+  "function_name": "Epidemiology & Real-World Evidence",
+  "question_count": 72,
+  "critical_index": {
+    "SR": {
+      "SG2": [
+        "BBERW1",
+        "BBERW2",
+        "BBERW3",
+        "BBERW4",
+        "BBERW5",
+        "BBERW6",
+        "BBERW7",
+        "BBERW8",
+        "BBERW9",
+        "BBERW10"
+      ],
+      "SG3": [
+        "BBERW1",
+        "BBERW2",
+        "BBERW3",
+        "BBERW4",
+        "BBERW5",
+        "BBERW6",
+        "BBERW7",
+        "BBERW8",
+        "BBERW9",
+        "BBERW10",
+        "BBERW11",
+        "BBERW12",
+        "BBERW13",
+        "BBERW14",
+        "BBERW15",
+        "BBERW16",
+        "BBERW17",
+        "BBERW18",
+        "BBERW19",
+        "BBERW20"
+      ],
+      "SG7": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55"
+      ],
+      "SG8": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55",
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ],
+      "SG9": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55",
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ]
+    },
+    "OE": {
+      "SG8": [
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ],
+      "SG9": [
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ]
+    },
+    "DD": {
+      "SG2": [
+        "BBERW1",
+        "BBERW2",
+        "BBERW3",
+        "BBERW4",
+        "BBERW5",
+        "BBERW6",
+        "BBERW7",
+        "BBERW8",
+        "BBERW9",
+        "BBERW10"
+      ],
+      "SG3": [
+        "BBERW1",
+        "BBERW2",
+        "BBERW3",
+        "BBERW4",
+        "BBERW5",
+        "BBERW6",
+        "BBERW7",
+        "BBERW8",
+        "BBERW9",
+        "BBERW10",
+        "BBERW11",
+        "BBERW12",
+        "BBERW13",
+        "BBERW14",
+        "BBERW15",
+        "BBERW16",
+        "BBERW17",
+        "BBERW18",
+        "BBERW19",
+        "BBERW20"
+      ],
+      "SG7": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55"
+      ],
+      "SG8": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55",
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ],
+      "SG9": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55",
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ]
+    },
+    "RS": {
+      "SG8": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55",
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ],
+      "SG9": [
+        "BBERW21",
+        "BBERW22",
+        "BBERW23",
+        "BBERW24",
+        "BBERW25",
+        "BBERW26",
+        "BBERW27",
+        "BBERW28",
+        "BBERW29",
+        "BBERW30",
+        "BBERW31",
+        "BBERW32",
+        "BBERW33",
+        "BBERW34",
+        "BBERW35",
+        "BBERW36",
+        "BBERW37",
+        "BBERW38",
+        "BBERW39",
+        "BBERW40",
+        "BBERW41",
+        "BBERW42",
+        "BBERW43",
+        "BBERW44",
+        "BBERW45",
+        "BBERW46",
+        "BBERW47",
+        "BBERW48",
+        "BBERW49",
+        "BBERW50",
+        "BBERW51",
+        "BBERW52",
+        "BBERW53",
+        "BBERW54",
+        "BBERW55",
+        "BBERW56",
+        "BBERW57",
+        "BBERW58",
+        "BBERW59",
+        "BBERW60",
+        "BBERW61",
+        "BBERW62",
+        "BBERW63",
+        "BBERW64",
+        "BBERW65",
+        "BBERW66",
+        "BBERW67",
+        "BBERW68",
+        "BBERW69",
+        "BBERW70",
+        "BBERW71",
+        "BBERW72"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "BBERW1",
+      "inquiry_domain": "Epidemiology of Target Disease",
+      "question": "Are current and projected prevalence and incidence rates available in major markets?",
+      "rubric_tests": "Evaluates whether epidemiologic inputs reflect robust, population-level data sources and include credible modeling of future disease burden. It tests whether assumptions for projections are transparent, validated, and aligned with demographic trends and healthcare utilization patterns.",
+      "rationale": "Prevalence and incidence estimates underpin market opportunity, resource allocation, and study feasibility. If these rates are outdated, misestimated, or poorly stratified, it can mislead investment, site planning, and value propositions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW2",
+      "inquiry_domain": "Epidemiology of Target Disease",
+      "question": "Is the disease burden quantified (e.g., DALYs, mortality, hospitalizations)?",
+      "rubric_tests": "Assesses whether the burden of illness is quantified using credible methodologies across clinical, humanistic, and economic dimensions. This includes appropriate use of modeling frameworks (e.g., Markov models), validated health utility weights, and real-world cost inputs.",
+      "rationale": "Quantifying disease burden provides essential context for public health prioritization, payer negotiations, and value assessment. Without credible burden data, RWE outputs lack relevance for reimbursement or HTA decision-makers.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW3",
+      "inquiry_domain": "Epidemiology of Target Disease",
+      "question": "Is the patient journey mapped (from diagnosis to treatment to outcomes)?",
+      "rubric_tests": "Evaluates whether the real-world care pathway is documented, including diagnostic delays, treatment initiation, switching patterns, and adherence drop-offs. It also tests integration of patient-reported outcomes and care transitions (e.g., inpatient\u2013outpatient). For biologics, patient journey must capture biologic-specific touchpoints: biomarker testing/CDx for treatment eligibility, infusion centre referral/scheduling, IV-to-SC switching decisions, immunogenicity-driven treatment discontinuation, and biologic sequencing after prior biologic failure.",
+      "rationale": "The patient journey informs outcome selection, time horizon, and potential biases in observational design. Without mapping it, studies risk oversimplification, poor cohort definition, and misaligned endpoints. For biologics, the patient journey includes modality-specific waypoints (CDx testing, infusion scheduling, biologic switching) that create unique data capture requirements and potential biases in observational studies.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW4",
+      "inquiry_domain": "Epidemiology of Target Disease",
+      "question": "Are epidemiologic data stratified by subgroups relevant to the asset (e.g., genotype, biomarker, comorbidities)?",
+      "rubric_tests": "Assesses the granularity and representativeness of epidemiologic data, including whether subgroup-specific insights are derived from large, high-quality datasets. Also tests whether underrepresented populations are captured. For biologics, critical subgroup stratification includes: target expression level (high vs. low), prior biologic exposure (biologic-naive vs. biologic-experienced), ADA status, Fc gamma receptor polymorphisms (for ADCC-dependent mAbs), and disease burden/tumour burden categories.",
+      "rationale": "Subgroup stratification is essential for equity, external validity, and personalized evidence generation. Ignoring variation across key demographics risks inappropriate extrapolation and policy misalignment. Biologic-specific subgroups (target expression, prior biologic exposure, ADA status) are critical for precision evidence and may be poorly captured in standard RWD without dedicated coding or biomarker data linkage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW5",
+      "inquiry_domain": "Unmet Medical Need & Standard of Care",
+      "question": "Is the current treatment landscape and clinical practice guideline environment well characterized?",
+      "rubric_tests": "Examines whether current standard-of-care treatments, prescribing behaviors, and clinical decision points are documented using real-world evidence. Evaluates whether gaps in efficacy, safety, access, or patient satisfaction are identified based on outcome trends and stakeholder input.",
+      "rationale": "Understanding the treatment landscape grounds RWE efforts in real-world practice, highlighting therapeutic gaps and unmet needs. This insight guides trial comparator selection, supports differentiation strategies, and aligns evidence generation with actual clinical priorities. Poorly characterized landscapes can lead to irrelevant studies and underwhelming access or reimbursement outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW6",
+      "inquiry_domain": "Unmet Medical Need & Standard of Care",
+      "question": "Are there clear gaps in efficacy, safety, access, or adherence in current options?",
+      "rubric_tests": "Assesses whether real-world data or post-marketing surveillance reveal limitations in current therapeutic options, such as suboptimal clinical response, safety concerns, poor adherence, or access barriers. Also examines whether these gaps are stratified across subpopulations and treatment settings. For biologics, gaps include: administration burden (infusion time, SC injection), immunogenicity-driven treatment failure, limited access (specialty pharmacy, infusion centre availability), high cost barriers, and biosimilar availability/switching hesitancy.",
+      "rationale": "Identifying evidence-based gaps in the standard of care justifies the need for innovation and informs value communication. Real-world signals\u2014such as discontinuation rates, avoidable hospitalizations, or differential outcomes in minorities\u2014highlight therapeutic limitations that may not surface in controlled trials. Addressing these documented gaps strengthens engagement with regulators, HTAs, and payers by demonstrating that new interventions are not merely incremental, but clinically and systemically necessary. Biologic-specific unmet needs (administration burden, immunogenicity, access limitations, high cost) are distinct from SM gaps and must be characterised to support differentiation and value positioning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW7",
+      "inquiry_domain": "Unmet Medical Need & Standard of Care",
+      "question": "Are unmet needs validated through epidemiological and claims data or expert consensus?",
+      "rubric_tests": "Evaluates whether the assertion of unmet need is backed by quantitative real-world evidence (e.g., high event rates, poor adherence, delayed diagnosis) or triangulated with structured expert input. Also assesses transparency in defining what constitutes \u201cunmet need\u201d for a given population or geography.",
+      "rationale": "Vague or anecdotal claims of unmet need lack strategic credibility. Validating unmet need with population-level data, adverse outcomes, or suboptimal utilization provides a defensible foundation for investment, trial design, and policy positioning. Supplementing data with expert consensus can bridge evidence gaps, particularly in rare or emerging conditions. Without this triangulation, RWE efforts may target marginal gaps or misalign with payer priorities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW8",
+      "inquiry_domain": "Unmet Medical Need & Standard of Care",
+      "question": "Are health disparities or underserved populations considered in development planning?",
+      "rubric_tests": "Assesses whether epidemiologic and RWE planning accounts for disparities in disease burden, access, and outcomes across racial, socioeconomic, geographic, or other underserved groups. Also tests whether engagement strategies or data sources are tailored to address these inequities.",
+      "rationale": "Failure to consider health equity undermines both scientific validity and societal relevance. Disparities may skew disease prevalence, exacerbate unmet need, and limit trial generalizability. RWE that proactively addresses these populations enables inclusive study design, informs differentiated access strategies, and enhances alignment with global policy goals. Ignoring disparities not only risks scientific oversight but also limits stakeholder impact, particularly in value-based or public health settings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW9",
+      "inquiry_domain": "Target Population Estimation",
+      "question": "Are estimates of the eligible treated population provided for each indication, region, and line of therapy?",
+      "rubric_tests": "Evaluates whether treatment-eligible population size is estimated using structured epidemiologic methods, incorporating disease prevalence, diagnostic rates, treatment rates, and care line progression by geography and indication. Also assesses assumptions for uptake and clinical inertia.",
+      "rationale": "Accurate estimation of the treatable population informs financial forecasting, trial feasibility, and pricing strategy. Granular estimates enable scenario modeling across regions, lines of therapy, and payer segments. They also facilitate commercial segmentation, supply planning, and risk-sharing agreements. Overestimations lead to poor investment decisions; underestimations limit ambition and negotiation leverage. Robust estimation reflects maturity of clinical and strategic planning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW10",
+      "inquiry_domain": "Target Population Estimation",
+      "question": "Are estimates broken down by treatment setting (e.g., inpatient vs. outpatient)?",
+      "rubric_tests": "Assesses whether the size of the addressable population is stratified by healthcare setting, such as hospital-based, ambulatory, or specialty care environments. Tests alignment with coding systems, resource use profiles, and potential channel constraints. For biologics, treatment setting is particularly important: hospital outpatient infusion centre vs. physician office vs. home infusion vs. pharmacy for SC self-administration. Setting determines reimbursement pathway (medical benefit vs. pharmacy benefit in the US), site-of-care economics, and patient convenience.",
+      "rationale": "Therapy adoption and pricing are setting-sensitive. A drug predominantly administered inpatient versus outpatient may face different reimbursement mechanisms, margin pressures, and operational hurdles. Breaking population estimates down by setting improves market access strategy, informs site-of-care planning, and supports payer and provider engagement. It also enables realistic modeling of adoption curves, supply chain logistics, and value proposition framing tailored to healthcare system structures. Biologic administration setting has major reimbursement implications \u2014 IV biologics under medical benefit have different coverage and margin dynamics than SC biologics under pharmacy benefit. Understanding setting patterns in RWD is essential for pricing and market access strategy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW11",
+      "inquiry_domain": "Target Population Estimation",
+      "question": "Are biomarker-defined or sub-stratified populations quantified (e.g., ALK+, PD-L1-high)?",
+      "rubric_tests": "Evaluates whether population estimates for biomarker-defined subgroups are available using validated testing rates, real-world registries, or clinical diagnostic algorithms. Also tests whether these estimates reflect actual testing practices and assay availability across key geographies. For biologics, biomarker-defined populations include: target expression levels (IHC scoring thresholds), genetic subtypes (MSI-H, TMB-high for immunotherapy), and CDx-defined populations. Estimation must account for real-world CDx testing rates, which may be substantially lower than clinical trial screening rates.",
+      "rationale": "Precision medicine relies on identifying actionable subpopulations, but many biomarker-defined groups are underdiagnosed or poorly quantified in practice. Estimating these populations with real-world granularity helps define trial eligibility pools, understand commercial scope, and prepare targeted market access strategies. Without this, development efforts risk oversizing the opportunity, missing key patient segments, or underdelivering in regions where testing infrastructure is lacking or reimbursement is unavailable. For biologics requiring CDx-based patient selection, real-world testing rates often lag behind clinical trial rates \u2014 meaning the actual treatable population may be smaller than epidemiologic prevalence suggests. This gap between theoretical and practical addressable market must be quantified.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW12",
+      "inquiry_domain": "Target Population Estimation",
+      "question": "Are epidemiologic assumptions consistent with forecast models and pricing strategies?",
+      "rubric_tests": "Assesses whether the assumptions used to derive epidemiologic estimates (e.g., prevalence, testing rates, treatment initiation) are aligned with those used in internal forecasting, NPV models, and payer pricing assumptions. Also tests whether scenarios account for uncertainty and range-bound variability.",
+      "rationale": "Disjointed assumptions between epidemiology, forecasting, and pricing erode internal coherence and undermine stakeholder trust. Ensuring that RWE inputs are harmonized across commercial models increases transparency and facilitates consistent decision-making in valuation, investment, and negotiation contexts. Misalignment can lead to credibility gaps with boards, partners, and HTAs, especially when assumptions are challenged in due diligence or health economic reviews.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW13",
+      "inquiry_domain": "Data Sources and RWE Infrastructure",
+      "question": "Are high-quality RWE data sources (claims, EHRs, registries, biobanks) identified or licensed?",
+      "rubric_tests": "Evaluates whether specific data sources have been selected and/or licensed based on their quality, relevance, and usability. This includes structured assessment of completeness, population coverage, longitudinal depth, and linkage capability across multiple RWD types.",
+      "rationale": "Not all RWD is fit-for-purpose. High-impact RWE demands early identification of curated, auditable datasets with sufficient scale, structure, and transparency. Pre-licensing or partnership agreements reduce execution risk, demonstrate operational readiness, and allow for pre-specification of protocols. In contrast, vague or delayed sourcing undermines timelines, limits design options, and raises red flags in regulatory and investor assessments.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW14",
+      "inquiry_domain": "Data Sources and RWE Infrastructure",
+      "question": "Are data sources representative of the target indication and geography?",
+      "rubric_tests": "Assesses whether the selected data sources reflect the epidemiology, practice patterns, and healthcare infrastructure of the markets or populations relevant to the asset. Also tests whether the data generalize to the intended label population or HTA jurisdiction.",
+      "rationale": "Data representativeness is key to credibility. U.S.-centric datasets may not reflect global practice; academic center registries may miss community care patterns. Without representativeness, extrapolation becomes speculative, and regulatory, HTA, or payer audiences may dismiss findings as untranslatable. Ensuring geographic and clinical alignment of data sources enhances the external validity of findings and reduces objections to generalizability in critical decision settings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW15",
+      "inquiry_domain": "Data Sources and RWE Infrastructure",
+      "question": "Are longitudinal, de-identified patient-level data available for relevant endpoints?",
+      "rubric_tests": "Evaluates whether the data sources provide sufficient patient-level linkage over time to track treatment initiation, changes, outcomes, and adverse events, while maintaining regulatory-compliant de-identification. Also tests for completeness across episodes of care and endpoints of interest.",
+      "rationale": "Longitudinal, de-identified data are the foundation of real-world causal inference and safety monitoring. Without this, analyses are confined to static snapshots, limiting the ability to evaluate exposure-outcome relationships, adherence patterns, or delayed adverse effects. Longitudinal data enable event sequencing, health trajectory modeling, and survival analyses\u2014capabilities essential to modern RWE used in regulatory and HTA contexts. Absence of these features restricts study design options and weakens evidentiary weight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW16",
+      "inquiry_domain": "Data Sources and RWE Infrastructure",
+      "question": "Is there a data governance and access strategy in place (consent, linkage, HIPAA/GDPR compliance)?",
+      "rubric_tests": "Assesses whether robust governance frameworks are established to ensure compliant use of RWD. Includes evaluation of patient consent procedures, ethical review processes, HIPAA/GDPR alignment, linkage protocols, and role-based access controls.",
+      "rationale": "Without formal governance, RWD use risks legal exposure and data breaches. Regulators and ethics boards require evidence that data handling respects patient privacy and complies with data protection standards. Clear governance facilitates cross-institutional collaborations and reduces barriers to data sharing, ultimately improving efficiency and scalability of evidence generation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW17",
+      "inquiry_domain": "External Control Arms / Historical Comparators",
+      "question": "Have external control arms been used or planned for single-arm or early-phase trials?",
+      "rubric_tests": "Evaluates whether historical or real-world external controls are being integrated into trial design to supplement single-arm studies. Also tests methodological readiness, such as matching strategy, endpoint alignment, and source credibility. For biologics, external control arms are particularly relevant because: many bispecifics receive accelerated approval based on single-arm trials where external controls contextualise response rates; historical cohorts of patients treated with prior biologic SOC provide comparator data; and RWD can capture treatment sequencing patterns not available from RCTs.",
+      "rationale": "In the absence of randomized comparators, external controls offer a pragmatic route to contextualize efficacy and safety. However, their acceptance hinges on design rigor and methodological transparency. Regulators now routinely consider such evidence if well justified. Early planning allows alignment with clinical objectives and increases the credibility of emerging data. External controls are increasingly important for biologic development \u2014 particularly for bispecifics pursuing accelerated approval from single-arm trials. Well-constructed external controls using RWD from patients treated with prior biologic SOC can strengthen the efficacy narrative and support regulatory acceptance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW18",
+      "inquiry_domain": "External Control Arms / Historical Comparators",
+      "question": "Are historical cohorts appropriately matched and adjusted for confounders?",
+      "rubric_tests": "Assesses whether comparator groups\u2014especially those from RWD\u2014are balanced for key baseline characteristics using matching methods such as propensity scores, exact matching, or stratification. Also examines sensitivity analyses and covariate diagnostics.",
+      "rationale": "Confounding is the primary threat to causal inference in observational studies. Transparent and statistically sound matching improves comparability between groups and increases confidence in outcome attribution. Studies without robust adjustment risk rejection by regulators and erode the evidentiary value of external controls.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW19",
+      "inquiry_domain": "External Control Arms / Historical Comparators",
+      "question": "Is methodology (e.g., propensity scores, inverse probability weighting) robust and validated?",
+      "rubric_tests": "Tests whether statistical methods for confounding control are appropriately selected, implemented, and validated. Reviews diagnostics, overlap assumptions, trimming strategies, and use of advanced models like marginal structural models or Bayesian techniques.",
+      "rationale": "Method selection should reflect the data structure, research objective, and underlying biases. Poorly chosen or misapplied methods lead to biased results or erroneous conclusions. Robust methodology not only protects internal validity but also builds external trust in findings presented to regulatory, payer, or publication audiences.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW20",
+      "inquiry_domain": "External Control Arms / Historical Comparators",
+      "question": "Are data sources and analytic methods pre-specified and documented?",
+      "rubric_tests": "Assesses whether the real-world study has a protocol, pre-analysis plan, and/or statistical analysis plan outlining data sources, primary endpoints, covariates, and analytic strategies. Also tests registration (e.g., ENCePP, ClinicalTrials.gov) and transparency commitments.",
+      "rationale": "Pre-specification minimizes bias and p-hacking, ensures reproducibility, and aligns with global best practices. Regulatory confidence in RWE depends heavily on the discipline of prospective planning. Lack of pre-specification weakens credibility and may jeopardize inclusion in labeling, HTA, or pricing dossiers.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBERW21",
+      "inquiry_domain": "Health Outcomes & Treatment Patterns",
+      "question": "Are real-world treatment patterns described (lines of therapy, combinations, switching)?",
+      "rubric_tests": "Evaluates whether RWD analyses describe actual treatment sequences, combinations, switching behavior, and patterns across lines of therapy. Also tests whether these patterns reflect standard of care in relevant markets. For biologics, treatment patterns include: biologic sequencing (1L\u21922L\u21923L biologic progression), biologic switching (within class and across classes), IV-to-SC conversion patterns, biosimilar switching/cycling, step-up dose completion rates (for bispecifics), and treatment duration on biologic therapy.",
+      "rationale": "Understanding real-world treatment sequences helps inform protocol design, comparator selection, and clinical relevance. Failure to capture actual prescribing behavior leads to poor external validity and missed insights into market access challenges, such as off-label use or local practice heterogeneity. This insight is essential for label expansion, payer negotiation, and lifecycle planning. Biologic treatment patterns are complex \u2014 patients may sequence through multiple biologics, switch between originator and biosimilar, or convert from IV to SC. Understanding these patterns in RWD is critical for positioning, forecasting, and comparator selection.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW22",
+      "inquiry_domain": "Health Outcomes & Treatment Patterns",
+      "question": "Are data available on medication adherence, persistence, and discontinuation?",
+      "rubric_tests": "Assesses whether datasets include variables and timestamps necessary to evaluate adherence (e.g., MPR/PDC), treatment persistence, and reasons for discontinuation. Also tests whether subgroup analyses are conducted to identify at-risk populations. For biologics, adherence and persistence have modality-specific dimensions: infusion attendance (for IV biologics), SC injection compliance and technique adequacy, treatment persistence on biologic vs. switch to alternative, immunogenicity-driven discontinuation, and whether persistence differs between originator and biosimilar.",
+      "rationale": "Even highly efficacious therapies fail in the real world if patients don\u2019t adhere. Understanding persistence and discontinuation patterns can shape trial eligibility, inform education or REMS programs, and anticipate real-world effectiveness. Payers often demand evidence of value beyond clinical efficacy\u2014adherence patterns are key to this narrative. Biologic adherence is driven by different factors than SM adherence \u2014 infusion burden, injection anxiety, side effects (infusion reactions, CRS), and immunogenicity-driven treatment failure are biologic-specific persistence determinants.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW23",
+      "inquiry_domain": "Health Outcomes & Treatment Patterns",
+      "question": "Are health outcomes (e.g., survival, QoL, exacerbation rates, relapse) captured in real-world settings?",
+      "rubric_tests": "Tests whether the RWD captures key clinical endpoints over time, such as mortality, relapse, exacerbations, and quality-of-life outcomes. Also assesses whether definitions are standardized and consistent with regulatory and HTA endpoints.",
+      "rationale": "Capturing meaningful clinical outcomes in real-world settings is essential to demonstrate effectiveness, safety, and value. Endpoints must be relevant and measurable within the data structure and reflect patient-centered impact. Without this, RWE is relegated to descriptive data with limited use in approval, reimbursement, or practice guideline decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW24",
+      "inquiry_domain": "Health Outcomes & Treatment Patterns",
+      "question": "Are patient-reported outcomes or functional status included?",
+      "rubric_tests": "Evaluates whether real-world sources include PROs or functional measures, either through linked registries, ePRO tools, or survey integration. Also tests whether validated instruments (e.g., EQ-5D, PROMIS, FACT) are used and captured over time.",
+      "rationale": "PROs bring the patient voice into regulatory, HTA, and clinical narratives. Increasingly required in reimbursement submissions and label claims, they add real-world relevance to disease burden and treatment benefit. Functional status tracking is especially important for chronic, rare, and geriatric indications where objective endpoints alone are insufficient.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW25",
+      "inquiry_domain": "Safety Surveillance and Rare Events",
+      "question": "Are RWE strategies in place to detect rare, delayed, or population-specific AEs?",
+      "rubric_tests": "Assesses whether post-market safety strategies using RWD are implemented or planned to identify adverse events that may not surface in trials. Tests for data size, latency tracking, and sensitivity to subgroups with unique risk profiles (e.g., pediatrics, elderly, comorbid populations). For biologics, RWE safety surveillance must address: long-term immunosuppression consequences (infections, hypogammaglobulinaemia, secondary malignancies), CRS/ICANS events captured in real-world settings (not just clinical trials), immunogenicity-related safety events (infusion reactions, hypersensitivity, loss of response), and biosimilar switching safety.",
+      "rationale": "Clinical trials are often underpowered to detect rare or long-term safety signals. RWD complements pharmacovigilance by enabling broader, longitudinal surveillance across diverse populations. This is critical for risk-benefit assessment, label updates, and fulfilling regulatory safety obligations. Biologic safety surveillance in RWD must capture immune-mediated AEs that may manifest differently in real-world populations than in controlled trial settings. Long-term consequences of immunosuppression (infections, secondary malignancies) require prolonged follow-up beyond typical trial durations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW26",
+      "inquiry_domain": "Safety Surveillance and Rare Events",
+      "question": "Are large-scale data sets used for long-term pharmacovigilance or signal detection?",
+      "rubric_tests": "Assesses whether longitudinal, population-scale RWD sources (e.g., insurance claims, national EHR networks, Sentinel, OMOP) are leveraged for ongoing safety monitoring and signal detection. Also evaluates analytic tools used (e.g., disproportionality analysis, machine learning).",
+      "rationale": "High-volume RWD enhances sensitivity for detecting rare or delayed adverse events that may not appear in smaller trial populations. Use of these datasets supports more proactive and continuous pharmacovigilance and demonstrates a commitment to post-market safety\u2014a critical expectation for products targeting large or vulnerable populations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW27",
+      "inquiry_domain": "Safety Surveillance and Rare Events",
+      "question": "Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?",
+      "rubric_tests": "Tests whether RWE initiatives are purpose-built to address regulatory safety commitments, including Risk Evaluation and Mitigation Strategies (REMS) in the U.S. or RMP modules in Europe. Also assesses integration with regulatory timelines and risk minimization measures.",
+      "rationale": "Post-approval safety obligations often require long-term, real-world evidence. Integrating RWE into RMP/REMS plans signals foresight and regulatory alignment. Failure to do so may result in approval delays or post-market penalties. Aligning these activities can also improve patient safety, product reputation, and trust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW28",
+      "inquiry_domain": "Safety Surveillance and Rare Events",
+      "question": "Are data on off-label use, medication errors, or misuse captured?",
+      "rubric_tests": "Evaluates whether RWD captures real-world deviations from intended use, such as off-label prescribing, dosing errors, or nonadherence to prescribing instructions. Also assesses how these data are integrated into risk assessment and mitigation strategies.",
+      "rationale": "Misuse and off-label use can drive safety events, affect payer coverage, and invite regulatory scrutiny. Detecting and understanding such patterns allows sponsors to pre-emptively manage risks, adjust educational messaging, and engage regulators or payers more transparently.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW29",
+      "inquiry_domain": "Economic Burden & Healthcare Resource Use",
+      "question": "Are healthcare resource utilization (HCRU) and cost data available (hospitalization, ER, ICU, outpatient)?",
+      "rubric_tests": "Assesses whether real-world datasets include information on healthcare encounters and costs across settings. Tests completeness, granularity (e.g., DRGs, CPT codes), and representativeness of economic endpoints across geographies and payers. For biologics, HCRU includes: infusion centre utilisation and capacity, administration-related costs (nursing time, chair time, monitoring), CRS-related hospitalisations (for bispecifics), prophylactic medication costs (anti-infectives for immunosuppressive biologics), immunoglobulin replacement costs (for B-cell depleting agents), and biosimilar cost savings.",
+      "rationale": "HCRU and cost data underpin health economic models, budget impact assessments, and payer value narratives. Without these data, cost-effectiveness arguments become hypothetical. High-quality HCRU data allow sponsors to quantify burden of illness and economic value grounded in real-world practice. Biologic HCRU is fundamentally different from SM \u2014 administration costs (infusion centre, nursing), immune complication management costs (CRS hospitalisation, infection treatment, IVIG), and biosimilar savings represent biologic-specific economic dimensions that must be captured for HTA submissions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW30",
+      "inquiry_domain": "Economic Burden & Healthcare Resource Use",
+      "question": "Are direct medical, non-medical, and indirect costs assessed?",
+      "rubric_tests": "Evaluates whether cost analyses include a comprehensive view of burden, including patient-incurred costs (e.g., transport, home care), productivity losses, and informal caregiver time. Also assesses source reliability and estimation methods.",
+      "rationale": "Total cost of disease extends beyond direct medical expenses. Including indirect and non-medical costs captures societal impact\u2014essential for HTA reviews, rare disease justifications, or policy advocacy. These data demonstrate broader value and can strengthen access, especially in systems with societal perspective frameworks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW31",
+      "inquiry_domain": "Economic Burden & Healthcare Resource Use",
+      "question": "Is the budget impact of new therapies modeled using RWE inputs?",
+      "rubric_tests": "Assesses whether real-world data inputs are used in budget impact models to inform payer decision-making. Includes review of population size, uptake rates, treatment duration, and real-world costs vs. trial-based estimates. For biologics, budget impact must account for: high per-unit drug cost, administration costs (IV vs. SC), step-up dosing period costs (for bispecifics), biosimilar entry impact on budget, weight-based vs. flat dosing cost implications, and wastage from weight-based dosing.",
+      "rationale": "Payers are increasingly demanding accurate, context-specific projections of financial impact. Models grounded in RWE better reflect real-world variability in utilization, costs, and adherence. Failure to use RWE may undermine credibility, slow access, or result in unfavorable pricing decisions. Biologic budget impact modeling requires biologic-specific inputs: drug acquisition cost (often $100K+/year), administration burden, weight-based dosing wastage, step-up dosing period costs, and biosimilar entry scenarios. These inputs are not relevant for SM budget impact models.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW32",
+      "inquiry_domain": "Economic Burden & Healthcare Resource Use",
+      "question": "Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?",
+      "rubric_tests": "Evaluates whether real-world endpoints meaningful to payers\u2014like hospital avoidance, reduced absenteeism, or durable response\u2014are captured and reported. Also tests alignment of RWE with HTA frameworks and value-based contracting metrics.",
+      "rationale": "Payer negotiations increasingly hinge on evidence of broader societal and system-level value. Endpoints such as time to progression, productivity, or readmission rates help demonstrate tangible outcomes. RWE provides a credible source for these data where trials are often underpowered or not designed to capture them.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW33",
+      "inquiry_domain": "RWE to Support Regulatory Submissions",
+      "question": "Are RWE strategies aligned with current regulatory guidance (FDA RWE Framework, EMA Big Data)?",
+      "rubric_tests": "Tests whether the sponsor\u2019s RWE program demonstrates awareness of and alignment with regulatory frameworks such as FDA\u2019s RWE Framework, EMA\u2019s DARWIN initiative, and relevant ICH or national guidances.",
+      "rationale": "Alignment with regulatory strategy ensures that RWE is fit-for-purpose for submissions, label extensions, or pharmacovigilance. It also signals maturity and compliance in the sponsor\u2019s evidence generation capabilities. Failure to align may lead to regulatory rejection or reduced strategic value of RWE investments.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW34",
+      "inquiry_domain": "RWE to Support Regulatory Submissions",
+      "question": "Are prior interactions with regulators regarding RWE use documented?",
+      "rubric_tests": "Assesses whether prior advice, written feedback, or meeting minutes from regulators regarding RWE strategies are documented and followed. Also evaluates whether lessons from similar submissions have been leveraged.",
+      "rationale": "Regulatory precedent and feedback offer valuable guidance to improve RWE acceptance. Documenting and responding to this input demonstrates adaptive planning and de-risks evidence strategies. Ignoring prior feedback can result in duplicative work, missed opportunities, or submission delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW35",
+      "inquiry_domain": "RWE to Support Regulatory Submissions",
+      "question": "Is RWE planned for label expansion, orphan designation, or accelerated approval?",
+      "rubric_tests": "Evaluates whether real-world data are being intentionally developed to support regulatory submissions\u2014especially in rare disease, accelerated pathways, or post-approval evidence commitments. For biologics, RWE is commonly planned for: accelerated approval confirmatory evidence (single-arm trial supplementation), orphan drug designation support (rare disease natural history), label expansion to new indications or lines of therapy, post-marketing immunogenicity monitoring, and biosimilar interchangeability evidence.",
+      "rationale": "RWE can provide pivotal or supportive evidence for programs where RCTs are infeasible or unethical. Early planning and strategic design are critical for generating evidence acceptable to regulators. Failure to anticipate these opportunities can forfeit value inflection points and limit lifecycle optimization. Biologics frequently leverage RWE for regulatory purposes \u2014 particularly for accelerated approval support (external controls for single-arm bispecific trials), orphan designation (rare disease epidemiology), and label expansion (new indications based on RWD effectiveness).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW36",
+      "inquiry_domain": "RWE to Support Regulatory Submissions",
+      "question": "Is there a pre-specified RWE Statistical Analysis Plan (SAP) for regulatory interactions?",
+      "rubric_tests": "Assesses whether a formal RWE-specific Statistical Analysis Plan (SAP) has been developed prior to analysis. Includes predefined endpoints, subgroups, handling of missing data, and methods of adjustment or weighting.",
+      "rationale": "A pre-specified SAP reduces analytic bias, enhances transparency, and increases the likelihood of regulatory acceptance. It also provides a clear audit trail and supports methodological rigor. Without one, findings may be considered exploratory or unreliable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW37",
+      "inquiry_domain": "RWE to Support HTA and Market Access",
+      "question": "Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?",
+      "rubric_tests": "Evaluates whether RWE is incorporated into submissions to HTA agencies such as NICE, PBAC, CADTH, or ICER. Includes its use in modeling, burden-of-disease, comparator justification, and long-term outcomes. For biologics, RWE for HTA must address: comparative effectiveness vs. biologic SOC (not just SM SOC), real-world administration burden and costs, biosimilar availability impact on willingness-to-pay, long-term durability of response in real-world populations, and immune-related AE management costs.",
+      "rationale": "HTA agencies increasingly rely on RWE to assess effectiveness, cost-effectiveness, and unmet need. Strategic use of RWE improves credibility, accelerates access, and strengthens reimbursement submissions. HTA assessment of biologics requires biologic-specific RWE inputs: real-world effectiveness vs. biologic comparators, administration costs, long-term immune safety, and biosimilar competitive context. Generic SM-focused HTA frameworks may not capture the full biologic value story.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW38",
+      "inquiry_domain": "RWE to Support HTA and Market Access",
+      "question": "Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?",
+      "rubric_tests": "Assesses whether real-world datasets capture endpoints aligned with value frameworks and payer priorities. Examples include hospitalizations, ER visits, functional outcomes, QoL, and duration of response.",
+      "rationale": "Capturing endpoints that resonate with HTA reviewers and payers increases evidence relevance. Failure to do so may lead to negative funding recommendations or restricted coverage decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW39",
+      "inquiry_domain": "RWE to Support HTA and Market Access",
+      "question": "Are burden-of-illness studies or observational registries in place for the indication?",
+      "rubric_tests": "Evaluates whether epidemiological or registry studies have been conducted to quantify disease impact, natural history, and treatment patterns. Also tests for data availability on indirect costs, comorbidity burden, and quality of life.",
+      "rationale": "Burden-of-illness data are foundational to pricing, reimbursement, and public health prioritization. They contextualize value, inform modeling, and provide a compelling unmet need narrative.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW40",
+      "inquiry_domain": "RWE to Support HTA and Market Access",
+      "question": "Have payers been consulted on acceptable real-world endpoints and comparators?",
+      "rubric_tests": "Assesses whether payer engagement has been conducted to align on relevant RWE study endpoints, acceptable comparators, and evidence expectations. Also examines documentation of payer feedback and integration into study design.",
+      "rationale": "Early and strategic payer engagement de-risks access and reimbursement hurdles. Consultation ensures RWE strategies are designed with downstream utility and credibility. Lack of payer alignment often leads to rework or denial of coverage despite favorable clinical data.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW41",
+      "inquiry_domain": "Prospective Real-World Studies and Registries",
+      "question": "Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?",
+      "rubric_tests": "Assesses whether prospective RWE-generating studies are included in the development plan, such as observational registries, pragmatic trials, or longitudinal cohorts. Also examines study objectives, populations, and timelines.",
+      "rationale": "Prospective RWE studies provide high-quality, fit-for-purpose data that can support regulators, HTAs, and payers. These designs are particularly valuable when RCTs are infeasible or need to be supplemented with real-world outcomes. Lack of such planning limits the strategic utility of RWE in the product lifecycle.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW42",
+      "inquiry_domain": "Prospective Real-World Studies and Registries",
+      "question": "Are registry protocols designed to capture effectiveness, safety, and QoL over time?",
+      "rubric_tests": "Tests the design quality of disease or product registries, including inclusion of longitudinal outcomes (e.g., effectiveness, adverse events, QoL), data collection frequency, and statistical analysis plans.",
+      "rationale": "Registries that capture multidimensional and longitudinal outcomes provide valuable evidence for decision-makers across regulatory and payer domains. Well-designed protocols increase data credibility and reduce duplication of efforts. Poorly scoped registries add cost without strategic value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW43",
+      "inquiry_domain": "Prospective Real-World Studies and Registries",
+      "question": "Are registries linked to biobanks or digital tools (e.g., wearables, ePROs)?",
+      "rubric_tests": "Assesses the integration of registries with biological sample collection (biobanks), digital health tools (wearables, sensors), and patient-reported technologies (ePROs). Also evaluates data quality, interoperability, and consent frameworks.",
+      "rationale": "Linked registries improve the granularity and utility of data for translational research and precision medicine. Integration with digital tools enhances real-time monitoring and patient engagement. These linkages are increasingly expected by regulators and funders.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW44",
+      "inquiry_domain": "Prospective Real-World Studies and Registries",
+      "question": "Are data from compassionate use or expanded access programs integrated?",
+      "rubric_tests": "Evaluates whether safety and outcomes data from early-access mechanisms are collected, curated, and analyzed. Assesses regulatory compliance, data structure, and utility for post-market surveillance or evidence generation. For biologics, compassionate use and expanded access data are particularly valuable because: bispecifics often have expanded access programmes during accelerated approval review, safety data from broader populations complements pivotal trial data, and real-world CRS management experience informs label safety sections.",
+      "rationale": "Compassionate use and expanded access can provide early signals of benefit-risk in uncontrolled settings. Integrating these data maximizes their value and aligns with real-world safety monitoring expectations, especially in accelerated approval pathways. Biologic expanded access programmes (particularly for bispecifics in haematologic malignancies) generate safety and effectiveness data in diverse, real-world populations. Integrating these data supports post-marketing surveillance and enriches the real-world safety narrative.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW45",
+      "inquiry_domain": "Digital Health & Real-World Data Capture",
+      "question": "Are decentralized or digital tools (e.g., apps, sensors, wearables) used to collect RWD?",
+      "rubric_tests": "Assesses whether real-world data collection leverages decentralized technologies such as mobile apps, wearables, digital sensors, or remote monitoring platforms. Also evaluates integration, validation, and patient usability.",
+      "rationale": "Digital health tools increase data volume, frequency, and patient-centricity. They enable more representative and continuous monitoring of outcomes in naturalistic settings. Sponsors that fail to explore these technologies risk lagging behind on innovation and regulatory expectations for digital evidence generation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW46",
+      "inquiry_domain": "Digital Health & Real-World Data Capture",
+      "question": "Are patient engagement platforms or eConsent frameworks in place?",
+      "rubric_tests": "Assesses whether digital platforms or tools are used to obtain electronic informed consent (eConsent) and engage patients in RWE studies. Includes evaluation of regulatory compliance, usability, and scalability across geographies.",
+      "rationale": "eConsent and digital engagement improve recruitment, retention, and patient understanding. They also support decentralized and hybrid study designs. Their absence may delay enrollment, increase protocol deviations, or fail to meet ethical standards for informed participation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW47",
+      "inquiry_domain": "Digital Health & Real-World Data Capture",
+      "question": "Is data quality (completeness, timeliness, interoperability) evaluated for digital endpoints?",
+      "rubric_tests": "Evaluates whether sponsors assess and document the quality of digital health data in terms of completeness, accuracy, timeliness, and ability to integrate across systems or platforms.",
+      "rationale": "Digital endpoints require rigorous validation to be acceptable for regulatory or payer decisions. Inadequate data quality evaluation risks rejection, misinterpretation, or diminished credibility of RWE.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW48",
+      "inquiry_domain": "Digital Health & Real-World Data Capture",
+      "question": "Are these tools aligned with evidence-generation strategy?",
+      "rubric_tests": "Assesses whether digital and decentralized data collection tools are purposefully integrated into the overall RWE strategy, with clear objectives and outcome measures.",
+      "rationale": "Digital tools should serve well-defined evidence goals, not operate in silos. Misalignment leads to inefficiencies, poor data utility, or duplication of effort. Strategic integration improves ROI and regulatory/payer relevance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW49",
+      "inquiry_domain": "Integration into Clinical Development Plan (CDP)",
+      "question": "Are RWE insights being used to inform inclusion/exclusion criteria and site selection?",
+      "rubric_tests": "Evaluates whether real-world data inform eligibility criteria for interventional trials and influence site selection based on patient population density, experience, and data quality.",
+      "rationale": "Incorporating RWE into protocol design and site strategy improves feasibility, enrollment, and representativeness. Failure to leverage these insights may lead to protocol amendments, underpowered studies, or biased samples.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW50",
+      "inquiry_domain": "Integration into Clinical Development Plan (CDP)",
+      "question": "Are real-world progression patterns used to define trial endpoints?",
+      "rubric_tests": "Assesses whether natural history and treatment pattern data inform endpoint selection and timing, especially in diseases with heterogeneous or long timelines.",
+      "rationale": "Understanding real-world progression patterns enables more relevant, sensitive, and regulatory-acceptable endpoint selection. This increases trial efficiency and external validity while reducing risks of inconclusive or non-informative outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW51",
+      "inquiry_domain": "Integration into Clinical Development Plan (CDP)",
+      "question": "Is the CDP integrated with RWE to support lifecycle evidence needs?",
+      "rubric_tests": "Assesses whether the Clinical Development Plan (CDP) explicitly incorporates RWE to address regulatory, payer, and HTA evidence needs across development phases. Includes alignment of RWE studies with clinical milestones and access objectives.",
+      "rationale": "Integration of RWE into the CDP ensures that evidence generation is comprehensive, proactive, and fit-for-purpose. It avoids duplication, supports faster access, and ensures a seamless narrative across submissions. Lack of integration risks gaps in data, missed opportunities, and delayed market entry.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW52",
+      "inquiry_domain": "RWE Analytics, Tools, and Team",
+      "question": "Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?",
+      "rubric_tests": "Evaluates whether the sponsor has access\u2014internally or via partners\u2014to advanced data science capabilities for analyzing large-scale RWD, including tools such as machine learning, natural language processing (NLP), and data engineering frameworks.",
+      "rationale": "Advanced analytics are increasingly necessary for extracting value from unstructured or high-dimensional RWD (e.g., clinical notes, imaging, wearables). These capabilities enhance signal detection, cohort identification, and endpoint validation, offering a competitive advantage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW53",
+      "inquiry_domain": "RWE Analytics, Tools, and Team",
+      "question": "Are statistical methods for causal inference in observational data validated?",
+      "rubric_tests": "Assesses whether statistical methodologies used in observational RWE studies are fit-for-purpose, validated, and appropriately documented. Includes propensity score matching, instrumental variables, marginal structural models, and sensitivity analyses.",
+      "rationale": "Robust causal inference methods are critical for regulatory-grade RWE. Validated, transparent methods improve confidence in effect estimates and support use of RWE for approvals, label expansions, or HTA submissions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW54",
+      "inquiry_domain": "RWE Analytics, Tools, and Team",
+      "question": "Is there an experienced epidemiology or RWE team supporting the asset?",
+      "rubric_tests": "Evaluates whether qualified epidemiologists, statisticians, or RWE scientists are engaged in study design, execution, and interpretation. Also includes assessment of team structure, governance, and publication record.",
+      "rationale": "Experienced RWE professionals ensure methodological rigor, strategic alignment, and credibility with external stakeholders. Lack of expertise increases risk of poorly designed studies and missed opportunities in evidence generation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW55",
+      "inquiry_domain": "RWE Analytics, Tools, and Team",
+      "question": "Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?",
+      "rubric_tests": "Assesses whether the organization partners with established RWE collaborators, networks, or consortia that enable access to high-quality data, tools, and benchmarking. Evaluates both strategic fit and operational implementation.",
+      "rationale": "External partnerships enhance credibility, scale, and access to rich data assets. They also enable participation in shared learning environments, regulatory pilots, and data standardization efforts. In their absence, sponsors may face limited data access and reduced external validation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW56",
+      "inquiry_domain": "Post-Marketing Commitments / Lifecycle Strategy",
+      "question": "Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?",
+      "rubric_tests": "Assesses whether long-term observational studies, post-authorization safety studies (PASS), or effectiveness studies are initiated or planned to meet commitments from regulators or HTAs.",
+      "rationale": "Long-term studies provide critical insight into durability of effect, rare AEs, or use in diverse populations. Failure to plan or execute these studies may lead to regulatory delays, loss of reimbursement, or limited post-approval market confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW57",
+      "inquiry_domain": "Post-Marketing Commitments / Lifecycle Strategy",
+      "question": "Are lifecycle plans in place for label expansion, new indications, or new populations?",
+      "rubric_tests": "Evaluates whether RWE is integrated into strategic planning for future label expansion, pediatric use, or line extensions. Includes assessment of study feasibility, population targeting, and regulatory alignment.",
+      "rationale": "Proactive lifecycle planning supported by RWE can accelerate expansion into adjacent markets and extend exclusivity. It allows rapid evidence generation in niche populations, creating differentiation and value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW58",
+      "inquiry_domain": "Post-Marketing Commitments / Lifecycle Strategy",
+      "question": "Are comparative effectiveness studies or pragmatic RCTs planned or underway?",
+      "rubric_tests": "Assesses whether studies comparing the asset to standard of care under real-world conditions\u2014either observational or randomized\u2014are in progress or strategically planned. For biologics, comparative effectiveness studies must address: biologic vs. biologic comparison (not just biologic vs. SM SOC), sequencing effectiveness (which biologic after prior biologic failure), biosimilar vs. originator effectiveness, and whether pragmatic RCTs can capture biologic-specific outcomes (CRS rates, immunogenicity) alongside traditional endpoints.",
+      "rationale": "Comparative RWE is central to payer and HTA evaluations of value, particularly where head-to-head RCTs are unavailable. Pragmatic RCTs offer regulatory-quality evidence while preserving external validity, supporting market access and differentiation. Comparative effectiveness for biologics requires biologic-specific comparisons \u2014 biologic vs. biologic, originator vs. biosimilar, and sequencing effectiveness across biologic lines of therapy. These comparisons are increasingly demanded by payers and HTA bodies.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW59",
+      "inquiry_domain": "Biologic-Specific RWE Considerations",
+      "question": "Are real-world biosimilar switching patterns, outcomes, and economic impact tracked and analysed?",
+      "rubric_tests": "Whether RWD captures biosimilar uptake rates, non-medical switching patterns (payer-driven), multiple switching/cycling between originator and biosimilar, clinical outcomes after switching (including immunogenicity), and economic impact (cost savings, budget reallocation). Assessment of whether biosimilar switching RWE supports or challenges the programme's lifecycle strategy.",
+      "rationale": "Biosimilar competition is the defining lifecycle challenge for biologics (unlike generic competition for SM). Real-world biosimilar switching data directly inform lifecycle defence strategy \u2014 if switching data show comparable outcomes, payer pressure for biosimilar conversion intensifies; if switching data reveal immunogenicity signals or efficacy differences, this supports originator retention. RWE on biosimilar dynamics is a strategic intelligence priority.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW60",
+      "inquiry_domain": "Biologic-Specific RWE Considerations",
+      "question": "Are real-world immunogenicity and immune-mediated safety outcomes captured using appropriate data sources and coding?",
+      "rubric_tests": "Whether RWD sources and coding systems (ICD-10, MedDRA, custom algorithms) can identify biologic-specific safety events: infusion/injection reactions, CRS (particularly for bispecifics in early post-marketing), hypogammaglobulinaemia and infection consequences, ADA-related treatment discontinuation, and immune-mediated organ toxicity. Assessment of whether custom algorithms are validated for sensitivity and specificity in RWD.",
+      "rationale": "Standard RWD coding (ICD-10, claims data) may not adequately capture biologic-specific safety events \u2014 CRS lacks a dedicated ICD-10 code, hypogammaglobulinaemia is underdiagnosed, and immunogenicity-driven treatment failure is not routinely coded. Custom algorithms validated against chart review are often needed to accurately capture these events in RWD. Without this, biologic post-marketing safety surveillance is blind to key risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW61",
+      "inquiry_domain": "Biologic-Specific RWE Considerations",
+      "question": "Are real-world treatment sequencing and line-of-therapy analyses designed for biologic therapeutic areas?",
+      "rubric_tests": "Whether RWE analyses capture biologic-specific treatment sequencing: line-of-therapy assignment algorithms for biologics (which differ from SM LOT algorithms due to different treatment patterns), biologic-to-biologic sequencing, time on each biologic, reasons for switching (progression, toxicity, immunogenicity, payer-driven), and whether prior biologic exposure predicts response to subsequent biologics.",
+      "rationale": "Biologic treatment sequencing is becoming a critical clinical and commercial question as multiple biologics compete within the same indication. Understanding which biologic works best after another fails, whether bispecifics can rescue patients who failed mAb therapy, and how sequencing affects long-term outcomes requires purpose-built RWE analyses with biologic-specific LOT algorithms.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW62",
+      "inquiry_domain": "Biologic-Specific RWE Considerations",
+      "question": "Are site-of-care and administration burden data captured to support biologic value differentiation and access strategy?",
+      "rubric_tests": "Whether RWD captures biologic administration-specific data: site-of-care (hospital outpatient, physician office, home infusion, pharmacy), infusion/injection time and monitoring requirements, administration-related HCRU (nursing, pharmacy, monitoring), patient out-of-pocket burden by administration setting, and whether SC conversion or reduced infusion time generates measurable site-of-care savings.",
+      "rationale": "Biologic administration burden is a key differentiator \u2014 SC products that enable self-administration at home vs. IV products requiring infusion centre visits create fundamentally different value propositions for patients, providers, and payers. RWE quantifying site-of-care economics and administration burden directly supports access and reimbursement strategy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW63",
+      "inquiry_domain": "Biologic-Specific RWE Considerations",
+      "question": "Are the limitations of real-world immunogenicity data formally assessed, including the absence of standardised ADA testing in routine clinical practice, assay heterogeneity across commercial labs, and the impact of these gaps on interpreting RWE safety and effectiveness for biologics?",
+      "rubric_tests": "Evaluates whether RWE immunogenicity limitations are addressed: acknowledgment that routine clinical practice does not include standardised ADA testing (unlike clinical trials); assessment of whether immunogenicity-related outcomes (loss of response, hypersensitivity) can be identified in claims/EHR data without ADA test results; development of proxy algorithms for immunogenicity-related events (secondary non-response, unexplained allergic reactions, dose escalation patterns as surrogates); comparison of RWE immunogenicity proxies with clinical trial ADA data for validation; and transparent limitation reporting in any RWE study touching immunogenicity outcomes.",
+      "rationale": "Real-world immunogenicity data is fundamentally limited because ADA testing is not routine clinical practice \u2014 it is performed almost exclusively in clinical trials. Claims databases and EHRs rarely contain ADA results. This creates a critical gap: RWE studies of biologic effectiveness and safety cannot directly assess immunogenicity impact. Teams must develop and validate proxy measures (dose escalation patterns, switching patterns, secondary non-response codes) while transparently acknowledging the limitations. Presenting RWE biologic effectiveness data without addressing immunogenicity confounding is scientifically incomplete.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW64",
+      "inquiry_domain": "Health Outcomes & Treatment Patterns",
+      "question": "Is the RWE methodology for analysing biologic switching, sequencing, and cycling patterns robust, including proper handling of channelling bias, time-varying confounding, and the biological carry-over effects unique to biologics (residual immunosuppression, ADA persistence, target receptor rebound)?",
+      "rubric_tests": "Evaluates whether biologic switching RWE methodology addresses: channelling bias (patients switched to new biologic differ systematically from those remaining on current therapy); time-varying confounding from disease severity changes triggering switching decisions; biological carry-over effects unique to biologics (residual B-cell depletion from anti-CD20, persistent ADA from prior biologic, receptor rebound/flare on discontinuation); washout period definition appropriate for biologic half-life (weeks-months vs hours for small molecules); marginal structural models or target trial emulation approaches for causal inference in switching studies; and immortal time bias in time-to-switch analyses.",
+      "rationale": "Biologic switching and sequencing studies are among the most methodologically challenging RWE analyses. Unlike small molecule switches (hours of washout), biologic switches involve weeks-months of residual drug effect, potential ADA carryover, and target receptor dynamics (rebound flare). Standard RWE switching methodologies developed for small molecules produce biased estimates when applied to biologics without accounting for these biological carry-over effects. The RWE team must understand biologic pharmacology to design valid switching studies.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW65",
+      "inquiry_domain": "External Control Arms / Historical Comparators",
+      "question": "For biologic programmes using external control arms (ECAs) in regulatory submissions, is the ECA methodology aligned with FDA and EMA frameworks, including pre-specification, target trial emulation, handling of biologic-specific confounders (prior biologic exposure, immunosuppressant use, body weight), and transparent sensitivity analysis?",
+      "rubric_tests": "Evaluates whether ECA methodology for biologic submissions includes: target trial emulation framework aligning ECA design with the hypothetical randomised trial; pre-specification of ECA protocol before primary trial database lock; biologic-specific confounder identification and adjustment (prior biologic exposure history and sequencing, concomitant immunosuppressant use, body weight for weight-based dosing, baseline immunogenicity risk factors); propensity score methodology with documented covariate balance; multiple sensitivity analyses (trimming, alternative matching algorithms, quantitative bias analysis for unmeasured confounding); and regulatory pre-alignment through FDA Type B/C meeting or EMA scientific advice on ECA acceptability.",
+      "rationale": "External control arms for biologic BLA submissions face intense FDA/EMA scrutiny. Biologic-specific confounders \u2014 prior biologic exposure history, concomitant immunosuppressants, body weight \u2014 are often inadequately captured in RWE databases, creating residual confounding risk. The narsoplimab BLA resubmission used an external control cohort with significant survival differences (HR 0.32), but the product still received a CRL. ECA quality for biologic submissions must be exceptional, pre-specified, and regulatorily pre-aligned. Ad hoc external comparisons assembled after trial completion lack credibility.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW66",
+      "inquiry_domain": "Biologic-Specific RWE Considerations",
+      "question": "Is the RWE strategy for biosimilar switching and interchangeability evidence generation defined, including non-medical switching outcome studies, multiple-switch safety analyses, immunogenicity monitoring in the real-world setting, and payer/HTA evidence requirements?",
+      "rubric_tests": "Evaluates whether biosimilar switching RWE includes: non-medical switching outcome studies (patients switched for non-clinical reasons \u2014 formulary change, cost \u2014 to assess whether outcomes are maintained); multiple-switch and cross-switch safety assessment (switching between multiple biosimilars of the same reference product); immunogenicity monitoring in the real-world switching context (ADA emergence after switch, albeit limited by routine testing gaps); pharmacovigilance integration of switching-related safety signals; payer and HTA evidence requirements for switching/interchangeability acceptance; and competitive intelligence on competitor biosimilar switching data to inform originator defence strategy.",
+      "rationale": "Biosimilar switching is the most commercially consequential RWE question for any biologic franchise. Payers, HTAs, and regulators all seek switching evidence to support formulary decisions. FDA eliminated REMS for CAR-T products in June 2025, signalling evolving regulatory thinking on biologic risk management. Non-medical switching studies (where patients are switched for cost reasons, not clinical failure) are the most relevant design for payer decision-making. Originator biologics need switching RWE to either support or defend against interchangeability claims.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW67",
+      "inquiry_domain": "RWE to Support HTA and Market Access",
+      "question": "Has the Inflation Reduction Act (IRA) impact on RWE evidence requirements been assessed, including the role of real-world comparative effectiveness data in Medicare price negotiation, the value of RWE in demonstrating therapeutic benefit to support pricing, and the evidence needs for the negotiation process?",
+      "rubric_tests": "Evaluates whether IRA-driven RWE planning includes: understanding of how CMS uses evidence in the Medicare Drug Price Negotiation Programme (comparative effectiveness data, unmet need assessment, real-world utilisation patterns); RWE generation strategy to support therapeutic value arguments during negotiation (real-world effectiveness vs comparators, healthcare cost offsets, quality-of-life improvements); timing of RWE generation relative to the 13-year biologic negotiation eligibility window; comparative effectiveness studies vs biosimilars (demonstrating originator superiority or differentiation in real-world settings); and alignment between RWE generation and the data CMS will evaluate during negotiation.",
+      "rationale": "The IRA's Medicare Drug Price Negotiation Programme fundamentally changes the RWE evidence landscape for biologics. CMS will evaluate therapeutic benefit, real-world utilisation, and comparative effectiveness when setting negotiated prices. Biologics that can demonstrate real-world superiority over alternatives \u2014 through RWE comparative effectiveness studies, healthcare cost offset data, and quality-of-life evidence \u2014 will negotiate from a stronger position. RWE is no longer just for market access and HTA; it is now directly relevant to US federal pricing. This is a paradigm shift for biologic RWE strategy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW68",
+      "inquiry_domain": "Epidemiology of Target Disease",
+      "question": "For rare disease or orphan biologic programmes, is a prospective natural history study in place or planned to characterise disease progression, establish external comparator baselines, define clinically meaningful endpoints, and support regulatory and HTA submissions?",
+      "rubric_tests": "Evaluates whether natural history study planning includes: prospective longitudinal natural history study with protocol aligned to planned clinical trial endpoints; disease progression rate characterisation (for use in external control arm construction); establishment of clinically meaningful thresholds for endpoints (MCID, responder definitions); biomarker natural history (baseline variability, disease-driven changes) to contextualise trial biomarker data; geographic and demographic representativeness for global regulatory submissions; and alignment with FDA/EMA natural history study guidance for rare diseases.",
+      "rationale": "For rare disease biologics \u2014 which represent 52% of 2024 FDA approvals \u2014 natural history data is often the difference between approval and rejection. Single-arm trials for orphan biologics require external comparators derived from natural history studies. Without prospectively collected natural history data, sponsors rely on retrospective chart reviews and published literature, which are methodologically weaker and regulatorily riskier. FDA and EMA have specific guidance on natural history study design for rare diseases. Starting the natural history study early (pre-Phase 2) is critical.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW69",
+      "inquiry_domain": "Economic Burden & Healthcare Resource Use",
+      "question": "Is the real-world administration burden of biologic therapy quantified, including infusion chair time, observation periods, site-of-care resource use, patient time and travel costs, caregiver burden, and work productivity loss \u2014 as differentiation evidence for payers and HTAs?",
+      "rubric_tests": "Evaluates whether administration burden RWE includes: infusion chair time and observation period resource use by setting; patient time costs (travel, waiting, infusion, observation \u2014 often 4-8 hours per visit for IV biologics); caregiver burden quantification (accompanying patients to infusion centres); work productivity loss from infusion visits; comparison of administration burden between IV vs SC vs oral alternatives; site-of-care resource use (nursing time, pharmacy preparation, monitoring equipment); and translation of administration burden data into HTA and payer value arguments.",
+      "rationale": "Administration burden is the hidden cost of biologic therapy that traditional HCRU analyses miss. An IV biologic requiring 6-hour infusion visits every 2 weeks imposes enormous patient and healthcare system burden compared to an SC injection or oral alternative. This burden is a major differentiation argument for payers and HTAs \u2014 particularly when comparing IV biologics to SC formulations or oral competitors. RWE quantification of administration burden provides compelling value evidence that clinical trial data alone cannot deliver.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW70",
+      "inquiry_domain": "Health Outcomes & Treatment Patterns",
+      "question": "Is real-world biologic persistence and adherence comprehensively measured, with biologic-specific methodology addressing the distinction between primary non-response, secondary non-response (immunogenicity-driven), and non-medical discontinuation, and their relative contributions to overall treatment duration?",
+      "rubric_tests": "Evaluates whether persistence/adherence RWE addresses: distinction between primary non-response (never responded), secondary non-response (initial response followed by loss \u2014 often immunogenicity-driven), and non-medical discontinuation (cost, convenience, patient choice); claims-based algorithms for identifying each discontinuation type; integration of dose escalation patterns as a signal of waning response (secondary non-response proxy); comparison of biologic persistence across therapeutic class (persistence is a key competitive metric); and Kaplan-Meier and time-to-discontinuation analyses with appropriate censoring for switching vs stopping.",
+      "rationale": "Real-world biologic persistence is a critical commercial metric and clinical outcome measure. However, generic persistence analyses (proportion of patients still on therapy at 12 months) miss the biologic-specific distinction between primary non-response, secondary non-response (which may signal immunogenicity), and non-medical discontinuation. Each type has different implications: secondary non-response may be addressed by concomitant immunosuppressants or dose escalation; non-medical discontinuation may be addressed by hub services and patient support. The RWE methodology must distinguish these mechanisms.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW71",
+      "inquiry_domain": "RWE Analytics, Tools, and Team",
+      "question": "Are claims-based algorithms for biologic-relevant endpoints validated against clinical data, including algorithms for infusion reactions, immune-mediated AEs, secondary non-response, dose escalation, and biologic switching \u2014 recognising that standard ICD/CPT algorithms may not capture biologic-specific events accurately?",
+      "rubric_tests": "Evaluates whether algorithm validation includes: validation of infusion reaction identification algorithms in claims data (ICD codes for anaphylaxis, infusion reaction, urticaria \u2014 sensitivity and specificity vs chart review); immune-mediated AE identification algorithms (autoimmune hepatitis, pneumonitis, colitis \u2014 distinguishing drug-induced from pre-existing); secondary non-response algorithms (dose escalation, shortening of dosing interval as proxies); biologic switching algorithms (distinguishing within-class switching from class-switching); and documentation of algorithm performance characteristics (PPV, sensitivity, specificity) with transparent limitations.",
+      "rationale": "Claims-based RWE for biologics relies on algorithms that may not accurately capture biologic-specific events. ICD codes for \"infusion reaction\" are underused \u2014 many reactions are coded as \"adverse effect of drug\" or \"anaphylaxis.\" Immune-mediated AEs may be coded as the organ-specific disease (e.g., \"hepatitis\") without attribution to the biologic. Dose escalation requires inference from dosing patterns, not a specific code. Unvalidated algorithms produce unreliable results that undermine the credibility of biologic RWE studies. Validation against chart review or clinical trial data is essential.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBERW72",
+      "inquiry_domain": "RWE to Support Regulatory Submissions",
+      "question": "Is the target trial emulation framework being applied to biologic RWE studies that aim to support regulatory or HTA decisions, with explicit specification of the target trial protocol (eligibility, treatment strategies, outcomes, causal contrasts) and transparent assessment of emulation fidelity?",
+      "rubric_tests": "Evaluates whether target trial emulation includes: explicit specification of the hypothetical randomised trial being emulated (eligibility criteria, treatment strategies, assignment procedures, outcome definitions, causal contrasts, analysis plan); assessment of emulation fidelity (which elements of the target trial can be faithfully emulated vs which require assumptions); handling of time zero alignment (avoiding immortal time bias); grace period specification for treatment initiation; biologic-specific emulation challenges (weight-based dosing emulation, prior biologic exposure matching, concomitant immunosuppressant alignment); and sensitivity analyses for deviations from the target trial.",
+      "rationale": "Target trial emulation is increasingly accepted by FDA and EMA as the methodological standard for observational studies aiming to generate causal evidence. For biologic RWE studies supporting regulatory submissions or HTA dossiers, the target trial emulation framework provides a structured approach to design and interpret observational analyses. However, biologic-specific challenges (weight-based dosing variability, prior biologic exposure heterogeneity, concomitant immunosuppressant confounding) create unique emulation challenges that generic target trial frameworks don't address.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3534 @@
+{
+  "function_code": "STAT",
+  "modality": "small-molecule",
+  "function_name": "Biostatistics",
+  "question_count": 60,
+  "critical_index": {
+    "SR": {
+      "SG5": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT5",
+        "STAT6",
+        "STAT17",
+        "STAT24",
+        "STAT25",
+        "STAT47",
+        "STAT48"
+      ],
+      "SG6": [
+        "STAT25",
+        "STAT48"
+      ],
+      "SG8": [
+        "STAT42"
+      ]
+    },
+    "OE": {
+      "SG5": [
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT9",
+        "STAT10",
+        "STAT13",
+        "STAT14",
+        "STAT15",
+        "STAT16",
+        "STAT17",
+        "STAT18",
+        "STAT20",
+        "STAT21",
+        "STAT22",
+        "STAT23",
+        "STAT33",
+        "STAT34",
+        "STAT35",
+        "STAT36",
+        "STAT45",
+        "STAT46",
+        "STAT57",
+        "STAT58",
+        "STAT59",
+        "STAT60"
+      ],
+      "SG6": [
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT9",
+        "STAT10",
+        "STAT13",
+        "STAT14",
+        "STAT15",
+        "STAT16",
+        "STAT17",
+        "STAT18",
+        "STAT20",
+        "STAT21",
+        "STAT22",
+        "STAT23",
+        "STAT24",
+        "STAT25",
+        "STAT26",
+        "STAT29",
+        "STAT33",
+        "STAT34",
+        "STAT35",
+        "STAT36",
+        "STAT37",
+        "STAT38",
+        "STAT40",
+        "STAT42",
+        "STAT45",
+        "STAT46",
+        "STAT54",
+        "STAT55",
+        "STAT56",
+        "STAT57",
+        "STAT58",
+        "STAT59",
+        "STAT60"
+      ],
+      "SG7": [
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT9",
+        "STAT10",
+        "STAT13",
+        "STAT14",
+        "STAT15",
+        "STAT16",
+        "STAT17",
+        "STAT18",
+        "STAT20",
+        "STAT21",
+        "STAT22",
+        "STAT23",
+        "STAT24",
+        "STAT25",
+        "STAT26",
+        "STAT27",
+        "STAT28",
+        "STAT29",
+        "STAT33",
+        "STAT34",
+        "STAT35",
+        "STAT36",
+        "STAT37",
+        "STAT38",
+        "STAT39",
+        "STAT40",
+        "STAT42",
+        "STAT45",
+        "STAT46",
+        "STAT54",
+        "STAT55",
+        "STAT56",
+        "STAT57",
+        "STAT58",
+        "STAT59",
+        "STAT60"
+      ],
+      "SG8": [
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT9",
+        "STAT10",
+        "STAT13",
+        "STAT14",
+        "STAT15",
+        "STAT16",
+        "STAT17",
+        "STAT18",
+        "STAT20",
+        "STAT21",
+        "STAT22",
+        "STAT23",
+        "STAT24",
+        "STAT25",
+        "STAT26",
+        "STAT27",
+        "STAT28",
+        "STAT29",
+        "STAT33",
+        "STAT34",
+        "STAT35",
+        "STAT36",
+        "STAT37",
+        "STAT38",
+        "STAT39",
+        "STAT40",
+        "STAT42",
+        "STAT43",
+        "STAT45",
+        "STAT46",
+        "STAT54",
+        "STAT55",
+        "STAT56",
+        "STAT57",
+        "STAT58",
+        "STAT59",
+        "STAT60"
+      ]
+    },
+    "DD": {
+      "SG5": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT10",
+        "STAT17",
+        "STAT25"
+      ],
+      "SG6": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT10",
+        "STAT17",
+        "STAT24",
+        "STAT25",
+        "STAT27",
+        "STAT41",
+        "STAT42"
+      ],
+      "SG7": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT10",
+        "STAT17",
+        "STAT24",
+        "STAT25",
+        "STAT27",
+        "STAT41",
+        "STAT42"
+      ],
+      "SG8": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT10",
+        "STAT17",
+        "STAT24",
+        "STAT25",
+        "STAT27",
+        "STAT41",
+        "STAT42",
+        "STAT43"
+      ]
+    },
+    "RS": {
+      "SG6": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT10",
+        "STAT11",
+        "STAT17",
+        "STAT24",
+        "STAT25",
+        "STAT27",
+        "STAT41",
+        "STAT42",
+        "STAT44"
+      ],
+      "SG7": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT9",
+        "STAT10",
+        "STAT11",
+        "STAT12",
+        "STAT17",
+        "STAT18",
+        "STAT21",
+        "STAT22",
+        "STAT23",
+        "STAT24",
+        "STAT25",
+        "STAT26",
+        "STAT27",
+        "STAT28",
+        "STAT29",
+        "STAT31",
+        "STAT32",
+        "STAT33",
+        "STAT34",
+        "STAT35",
+        "STAT36",
+        "STAT37",
+        "STAT38",
+        "STAT39",
+        "STAT40",
+        "STAT41",
+        "STAT42",
+        "STAT44",
+        "STAT49",
+        "STAT50",
+        "STAT51",
+        "STAT52",
+        "STAT54",
+        "STAT55",
+        "STAT56",
+        "STAT58",
+        "STAT59"
+      ],
+      "SG8": [
+        "STAT1",
+        "STAT2",
+        "STAT3",
+        "STAT4",
+        "STAT5",
+        "STAT6",
+        "STAT9",
+        "STAT10",
+        "STAT11",
+        "STAT12",
+        "STAT17",
+        "STAT18",
+        "STAT21",
+        "STAT22",
+        "STAT23",
+        "STAT24",
+        "STAT25",
+        "STAT26",
+        "STAT27",
+        "STAT28",
+        "STAT29",
+        "STAT31",
+        "STAT32",
+        "STAT33",
+        "STAT34",
+        "STAT35",
+        "STAT36",
+        "STAT37",
+        "STAT38",
+        "STAT39",
+        "STAT40",
+        "STAT41",
+        "STAT42",
+        "STAT43",
+        "STAT44",
+        "STAT49",
+        "STAT50",
+        "STAT51",
+        "STAT52",
+        "STAT54",
+        "STAT55",
+        "STAT56",
+        "STAT58",
+        "STAT59"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "STAT1",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Evaluates whether the study design is scientifically justified, operationally feasible, statistically robust, and aligned with the clinical development phase and objective.",
+      "rubric_tests": "Design selection is a pivotal step in clinical development, directly impacting regulatory success, trial validity, resource utilization, and ethical acceptability. Designs misaligned with objectives or lacking justification may lead to delayed development, increased cost, or outright regulatory rejection. ICH E6(R2), ICH E9(R1), FDA, EMA, and MHRA all require clearly justified, well-documented, and fit-for-purpose designs.",
+      "rationale": "The appropriateness of study design is pivotal to trial integrity, interpretability of results, regulatory success, and operational feasibility. Designs that are misaligned with phase, indication, or objectives increase the likelihood of failure, inefficiencies, or rejection by agencies such as FDA, EMA, or MHRA. Guidance like ICH E6(R2) and ICH E9(R1) emphasizes careful design planning to reduce bias and error.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT2",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Is the control arm selection (placebo, SoC, historical, external) justified statistically?",
+      "rubric_tests": "Evaluates whether the chosen control arm is appropriate for the clinical context, supported by statistical justification, and aligned with regulatory, ethical, and scientific expectations for comparability and interpretability.",
+      "rationale": "The control arm is a cornerstone of trial validity. Inadequate justification undermines interpretability of treatment effect, inflates bias, and can lead to regulatory rejection. Whether using placebo, active SoC, historical or external controls, statistical comparability must be demonstrated. ICH E10, FDA, EMA, and MHRA all emphasize justification and methodological rigor in control selection. External controls are increasingly used but must be carefully adjusted to avoid bias and preserve validity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT3",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Are endpoints (primary, secondary, exploratory) clearly defined and measurable?",
+      "rubric_tests": "Assesses whether endpoints are explicitly defined, scientifically justified, clinically meaningful, and statistically measurable. Also evaluates alignment with the trial objectives, estimands, regulatory expectations, and feasibility of measurement and analysis.",
+      "rationale": "Endpoints drive trial design, regulatory approval, statistical analysis, and label claims. Ambiguous or inappropriate endpoints compromise data interpretability and may lead to regulatory rejection. ICH E9(R1) requires precise definition of endpoints aligned with estimands, while ICH E6(R2) emphasizes pre-specification and measurability. Endpoints must be valid, reliable, sensitive to change, and feasible for consistent measurement across geographies and populations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT4",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Are study designs powered adequately for subgroups and stratifications?",
+      "rubric_tests": "Evaluates whether the clinical trial design incorporates sufficient statistical power and sample size to detect meaningful effects within predefined subgroups or stratified populations, and whether this is planned prospectively, aligned with objectives, and operationally feasible.",
+      "rationale": "Subgroup and stratified analyses are crucial for personalized medicine, regulatory decision-making, health technology assessment, and label differentiation. Regulatory bodies increasingly expect sponsors to prespecify and adequately power key subgroup analyses\u2014especially when subpopulations are relevant to benefit-risk decisions or market access. Inadequate powering risks inconclusive findings, loss of credibility, or inability to support claims.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT5",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Is the sample size calculation documented and aligned with the protocol objectives?",
+      "rubric_tests": "Evaluates whether the trial\u2019s sample size has been statistically derived, explicitly documented, and appropriately linked to the study\u2019s objectives, endpoints, effect sizes, and assumptions. Ensures alignment with regulatory expectations, protocol goals, estimands, and statistical analysis plans.",
+      "rationale": "Sample size is a critical driver of trial validity, feasibility, resource allocation, and regulatory success. Undersized studies lack power to detect true effects; oversized studies raise ethical, operational, and financial concerns. ICH E9, FDA, EMA, and MHRA emphasize transparency, alignment of assumptions, and objective justification of sample size. Modern expectations include linkage to estimands and scenario-based evaluation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT6",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Are assumptions for effect size, variance, dropout, and power explicitly stated and justified?",
+      "rubric_tests": "Assesses whether the statistical assumptions that underlie the sample size calculation\u2014effect size, variability, dropout, and power\u2014are clearly articulated, evidence-based, and appropriate for the study design and population. Ensures transparency, methodological rigor, and audit-readiness for regulatory review.",
+      "rationale": "Sample size assumptions drive study validity, feasibility, and interpretability. If assumptions are arbitrary, optimistic, or undocumented, the trial risks being underpowered or misaligned with clinical reality. ICH E9, FDA, EMA, and MHRA emphasize the need to justify all key inputs used in power calculations. Increasingly, sponsors are expected to provide sensitivity analyses and references for effect size, standard deviation, event rate, and dropout.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT7",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Is re-estimation or adaptive resizing incorporated into the design if appropriate?",
+      "rubric_tests": "Assesses whether the study includes plans for interim sample size re-estimation (SSR) or adaptive resizing, where appropriate, based on statistical uncertainty, operational risk, or limited prior data. Evaluates compliance with regulatory guidelines, transparency of re-estimation rules, maintenance of trial integrity, and impact on power and error control.",
+      "rationale": "When initial assumptions (e.g., effect size, SD, event rate) are uncertain, incorporating a preplanned re-estimation strategy improves trial robustness without sacrificing integrity. Regulatory agencies (FDA, EMA, MHRA) accept SSR designs if they are prespecified, blinded or unblinded as appropriate, and properly control Type I error. SSR is especially valuable in early-phase pivotal trials, rare diseases, or heterogeneous populations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT8",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Are simulations used to validate assumptions for complex or adaptive designs?",
+      "rubric_tests": "Assesses whether simulations are employed to evaluate and validate the statistical operating characteristics (e.g., power, Type I error, sample size distribution) under varying assumptions in complex or adaptive trial designs. Focuses on trial integrity, regulatory acceptability, and robustness of design under uncertainty.",
+      "rationale": "Complex and adaptive designs introduce increased statistical and operational uncertainty. Traditional closed-form sample size formulae are often inadequate to capture the dynamics of interim decisions, multiple endpoints, or complex randomization. Simulations provide critical validation of design performance, enabling trial sponsors to evaluate power, Type I error, and risk under a variety of plausible conditions. Regulatory bodies (FDA, EMA, MHRA) explicitly expect simulation-based validation for adaptive and innovative designs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT9",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Is there a finalized and signed SAP before database lock or unblinding?",
+      "rubric_tests": "Evaluates whether the Statistical Analysis Plan (SAP) is completed, version-controlled, and formally approved before access to unblinded data or database lock. Confirms regulatory compliance, internal alignment, and readiness for inspection or submission.",
+      "rationale": "A finalized SAP before unblinding or database lock is a foundational requirement of Good Clinical Practice (GCP), ICH E9, FDA, EMA, and MHRA. It ensures pre-specification of primary and secondary analyses, avoids data-driven decisions, and protects trial integrity. Lack of a signed SAP undermines the credibility of results and may lead to regulatory delays, audit findings, or rejection of analyses.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT10",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Does the SAP cover primary/secondary endpoint analysis, handling of missing data, interim analyses, and multiplicity adjustments?",
+      "rubric_tests": "Evaluates whether the SAP includes a pre-specified, comprehensive framework covering primary and secondary endpoint analysis, strategies for handling missing data, predefined interim analyses (IAs), and statistical adjustments for multiplicity. Tests statistical rigor, transparency, and regulatory compliance.",
+      "rationale": "A complete SAP is critical for pre-specification, reducing bias, and ensuring transparency. Regulatory agencies (FDA, EMA, MHRA, ICH E9/E9(R1)) expect clear documentation of how endpoints will be analyzed, how missing data will be handled, how interim looks are governed, and how Type I error is controlled across hypotheses. Incomplete or ambiguous SAPs risk regulatory delay, rejection, or audit findings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT11",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Are statistical methods aligned with the data structure (e.g., time-to-event, binary, longitudinal)?",
+      "rubric_tests": "Assesses whether the statistical models selected in the SAP are appropriate for the type, distribution, and structure of the trial data, including endpoint type (e.g., binary, continuous), measurement frequency (e.g., repeated measures), and censoring (e.g., survival data).",
+      "rationale": "Regulatory authorities (FDA, EMA, ICH E9, MHRA) require that analysis methods match the data they evaluate. Inappropriate model selection leads to invalid inferences, bias, and regulatory risk. Statistical rigor, interpretability, and data efficiency all hinge on selecting the right model for the data structure \u2014 such as using Cox models for time-to-event, logistic regression for binary outcomes, or MMRM for longitudinal continuous data.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT12",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Are exploratory analyses (e.g., biomarker correlations, subgroup interactions) pre-specified?",
+      "rubric_tests": "Evaluates whether exploratory analyses\u2014especially those involving biomarkers, subgroup interactions, and novel hypotheses\u2014are planned, structured, and justified in the SAP prior to unblinding or database lock, reducing the risk of post hoc data dredging or spurious findings.",
+      "rationale": "Exploratory analyses provide critical signals for future development, patient stratification, and biomarker validation, but must be pre-specified to avoid bias. Regulators (FDA, EMA, MHRA) expect clear distinction between pre-planned and post hoc analyses. Pre-specification builds confidence in signals and supports efficient lifecycle management and future trial design.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT13",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Is the randomization schema (block, stratified, dynamic) adequately designed and implemented?",
+      "rubric_tests": "Evaluates whether the trial's randomization approach is methodologically sound, appropriately selected for the study design, aligned with key prognostic variables, and properly implemented via validated systems to ensure allocation concealment, balance, and integrity.",
+      "rationale": "Randomization is foundational for minimizing bias and confounding in clinical trials. Regulatory authorities (ICH E9, FDA, EMA, MHRA) require transparent and statistically sound randomization methods that align with trial objectives, particularly when stratification or dynamic allocation is used. Failures in randomization can compromise the validity of trial results and lead to regulatory rejection or audit findings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT14",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Are randomization and blinding methods fully documented and reproducible?",
+      "rubric_tests": "Evaluates whether all aspects of randomization and blinding are transparently documented, reproducible, and consistent with regulatory expectations. This includes method selection, sequence generation, concealment, system validation, role-based access, and reproducibility for audits or reanalysis.",
+      "rationale": "Clear documentation and reproducibility are regulatory imperatives (ICH E6(R2), FDA, EMA, MHRA). Authorities must be able to verify how randomization was conducted, whether allocation was concealed, and whether blinding was maintained. Lack of reproducibility compromises trial credibility, raises the risk of selection bias, and results in inspection findings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT15",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Is allocation concealment maintained (via IRT, centralized systems)?",
+      "rubric_tests": "Assesses whether assignment to treatment groups was protected from prediction or manipulation through centralized, secure, and validated systems\u2014ensuring true allocation concealment from investigators, participants, and trial team members up to the point of assignment.",
+      "rationale": "Allocation concealment prevents selection bias and is distinct from blinding. It ensures that neither investigators nor site staff can foresee upcoming treatment assignments, which is critical to maintaining trial integrity. Regulatory bodies (FDA, EMA, ICH E6(R2), MHRA) consider failure to maintain allocation concealment a critical GCP breach. It must be enforced through centralized randomization (e.g., IRT), system controls, and auditability.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT16",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Are emergency unblinding protocols in place and appropriately used?",
+      "rubric_tests": "Assesses whether clear, pre-specified procedures exist to unblind treatment assignment in urgent medical situations, and whether such procedures are governed, audited, and used appropriately during trial execution.",
+      "rationale": "Emergency unblinding protects patient safety while maintaining study integrity. Regulatory agencies (ICH E6(R2), FDA, EMA, MHRA) require predefined, tightly controlled processes for when treatment assignment must be revealed for safety or medical necessity. Improper or frequent unblinding undermines trial blinding and data integrity, and can invalidate results.\n",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT17",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Are interim analyses pre-specified with alpha-spending and decision rules documented?",
+      "rubric_tests": "Evaluates whether interim analyses (IAs) are statistically pre-specified, control type I error, and are operationalized with appropriate decision-making thresholds, DSMB involvement, and pre-defined stopping or continuation criteria.",
+      "rationale": "Interim analyses are high-stakes decisions that can introduce bias or inflate type I error if not rigorously pre-specified. Global regulations (ICH E9, FDA, EMA) demand alpha-spending plans and clearly documented rules to govern IA timing, conduct, and action. Pre-specified stopping rules for futility, efficacy, or safety preserve the scientific integrity of trials and protect patients.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT18",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Is the role of the DSMB and its statistical charter clearly defined?",
+      "rubric_tests": "Evaluates whether the DSMB\u2019s remit, responsibilities, statistical access, communication flow, voting rights, and decision authority are clearly codified in a formal charter and adhered to throughout the trial.",
+      "rationale": "The DSMB (Data and Safety Monitoring Board) plays a critical role in preserving patient safety, ensuring trial integrity, and adjudicating interim data. Global regulators (FDA, EMA, MHRA, ICH) expect that the DSMB\u2019s structure, independence, statistical access, and remit be documented in a formal, signed charter. This is essential to avoid bias, protect the blind, and guide decision-making under pre-defined terms. Vague or undocumented DSMB operations are frequent findings in GCP inspections and can invalidate interim results.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT19",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Are simulations or operating characteristics documented for adaptive or group sequential designs?",
+      "rubric_tests": "Assesses whether clinical trial designs involving interim looks or adaptations (e.g., adaptive, group sequential, Bayesian) are backed by documented simulations that justify error control, decision logic, and design performance under a range of assumptions.",
+      "rationale": "Adaptive and group sequential trials increase efficiency but carry risk of bias, operational missteps, or Type I error inflation if not rigorously planned and tested. Global regulatory guidance (ICH E9(R1), FDA adaptive design guidance, EMA reflection papers) emphasizes simulation-based validation of operating characteristics (OCs). Documentation ensures transparency, reproducibility, and confidence in statistical inference.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT20",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Is firewalled access to unblinded interim data properly controlled?",
+      "rubric_tests": "Evaluates whether access to unblinded interim data is appropriately restricted, documented, and monitored through clearly defined firewalls, ensuring trial integrity and compliance with ICH E6(R2), FDA, EMA, MHRA, and TransCelerate best practices.",
+      "rationale": "Interim unblinded data presents a significant risk to trial validity if accessed inappropriately. To avoid operational bias, manipulation of decision-making, or perception of misconduct, regulators and governance boards require stringent firewall controls. These must cover personnel, systems, data flow, audit trails, and emergency exceptions. Inspection bodies frequently issue critical findings for breaches in unblinded data access.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT21",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Are missing data patterns analyzed (MCAR, MAR, MNAR) and methods for imputation defined?",
+      "rubric_tests": "This rubric evaluates whether the nature of missing data in a clinical trial is formally assessed (e.g., Missing Completely at Random [MCAR], Missing at Random [MAR], Missing Not at Random [MNAR]), and whether planned methods for handling missing data\u2014such as imputation or model-based corrections\u2014are appropriate, defined, and justified in the statistical analysis plan.",
+      "rationale": "Missing data can bias trial results and threaten the validity of statistical inferences. Regulatory authorities (FDA, EMA, MHRA) and guidance such as ICH E9(R1) and the National Research Council emphasize the need for pre-specified, transparent strategies to identify the mechanism of missingness and apply appropriate statistical methods (e.g., multiple imputation, MMRM, tipping point analysis). Robust documentation ensures consistency, regulatory acceptability, and credibility of outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT22",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Are primary analyses robust to missingness (e.g., MMRM, multiple imputation, tipping point)?",
+      "rubric_tests": "This rubric assesses whether the primary statistical analyses in a clinical trial are sufficiently robust to the effects of missing data, using model-based approaches (e.g., MMRM, MI) and sensitivity frameworks (e.g., tipping point or delta-adjusted analyses). It evaluates alignment with the estimand framework, pre-specification in the SAP, and ability to support trial conclusions under missing data scenarios.",
+      "rationale": "Missing data, if not handled properly, can bias treatment effect estimates, compromise trial integrity, and lead to regulatory rejection. Modern expectations (FDA, EMA, ICH E9(R1)) require that the primary analysis be robust under plausible missingness assumptions, not just a single imputation. Tools like MMRM and MI, when properly used and accompanied by tipping point analyses, increase confidence in treatment effects and enable defensible, estimand-aligned conclusions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT23",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Are sensitivity analyses pre-specified and included in SAP and CSR?",
+      "rubric_tests": "This rubric evaluates whether sensitivity analyses are pre-planned, methodologically appropriate, and consistently presented in both the Statistical Analysis Plan (SAP) and the Clinical Study Report (CSR). It assesses consistency with estimands, appropriateness for handling uncertainty (e.g., missing data, protocol deviations), and their role in validating the robustness of primary conclusions.",
+      "rationale": "Sensitivity analyses help determine whether trial conclusions hold under plausible alternative assumptions or analytical choices (e.g., missing data mechanisms, outlier inclusion). Regulatory bodies including the FDA, EMA, and ICH E9(R1) require these analyses to be pre-specified in the SAP to avoid bias, and reported in the CSR to demonstrate transparency and robustness. Sensitivity analyses support sponsor credibility and reduce the risk of regulatory delay.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT24",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Is handling of intercurrent events aligned with ICH E9(R1) estimand principles?",
+      "rubric_tests": "This rubric evaluates whether intercurrent events (ICEs) are clearly identified, classified, and appropriately addressed using an estimand framework, as outlined in ICH E9(R1). It tests for the quality and completeness of strategy selection, documentation, and analysis consistency with the defined treatment effect of interest.",
+      "rationale": "ICH E9(R1) requires sponsors to define estimands that account for intercurrent events\u2014events occurring after treatment initiation that affect interpretation of outcomes (e.g., treatment discontinuation, rescue therapy, death). Misalignment between ICE strategies and analysis undermines regulatory confidence, confuses endpoint interpretation, and delays decision-making. Accurate handling of ICEs supports transparency, consistency, and better stakeholder understanding of trial objectives.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT25",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Is a hierarchy or other multiplicity correction method applied to multiple endpoints or comparisons?",
+      "rubric_tests": "This rubric evaluates whether the clinical trial uses appropriate methods (e.g., hierarchical testing, Bonferroni, Hochberg, fallback, graphical approaches) to control the family-wise Type I error rate across multiple primary and/or secondary endpoints, treatment arms, or interim looks. It also assesses whether the strategy is pre-specified, clearly documented, and consistently implemented in the analysis.",
+      "rationale": "Trials with multiple endpoints or comparisons increase the chance of a false-positive (Type I) error unless adjustments are made. Regulatory authorities (FDA, EMA, PMDA) require that sponsors predefine and control the overall Type I error across the family of hypotheses. Inadequate multiplicity control can lead to rejection of trial findings, even if nominal p-values are significant. Proper strategy selection ensures interpretability, statistical integrity, and regulatory compliance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT26",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Is the overall alpha preserved across interim and final analyses?",
+      "rubric_tests": "This rubric evaluates whether the cumulative Type I error rate is properly controlled when interim analyses (IA) are conducted alongside the final analysis. It assesses the design, documentation, and implementation of alpha-spending functions, group sequential designs, and pre-specified decision boundaries.",
+      "rationale": "Each interim look at the data increases the risk of inflating the Type I error unless the overall alpha is preserved using validated methods (e.g., O'Brien-Fleming, Pocock). Regulatory agencies (FDA, EMA) require pre-specification and robust implementation of such methods to ensure trial conclusions remain valid and reproducible. Failure to control cumulative alpha undermines trial integrity and may lead to denial of claims or regulatory delay.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT27",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Are multiplicity plans clearly linked to regulatory expectations (e.g., for co-primary endpoints)?",
+      "rubric_tests": "This rubric evaluates whether the multiplicity strategy\u2014particularly when involving co-primary endpoints, key secondary endpoints, multiple treatment arms, or regional variations\u2014is aligned with current regulatory guidelines, expectations, and precedents. It assesses whether the strategy facilitates clear regulatory review and supports claims on labels or in approval packages.",
+      "rationale": "Regulatory agencies (e.g., FDA, EMA, PMDA, Health Canada) expect sponsors to explicitly pre-specify and justify multiplicity strategies in alignment with the intended label claims and confirmatory objectives. Co-primary endpoints, regional multiplicity (e.g., China-specific endpoints), and endpoint families require clarity on control of family-wise Type I error. Poorly justified or misaligned strategies can result in non-approval, indication narrowing, or data re-analysis requests.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT28",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Are gatekeeping strategies used for secondary and exploratory endpoints?",
+      "rubric_tests": "This rubric assesses whether gatekeeping procedures (e.g., fixed-sequence, hierarchical, parallel, fallback, graphical methods) are appropriately applied to control the Type I error rate across families of secondary and exploratory endpoints. It evaluates transparency, regulatory alignment, and consistency across the SAP, protocol, CSR, and planned labeling claims.",
+      "rationale": "Secondary endpoints often form the basis for label expansions, market access negotiations, and real-world value demonstration. However, testing these endpoints without proper Type I error control\u2014particularly when confirmatory in nature\u2014risks regulatory rejection or misinterpretation. Gatekeeping strategies enable structured hypothesis testing while preserving the alpha level, ensuring credible statistical inferences.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT29",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Are subgroup analyses pre-specified with clear hypotheses (vs. post hoc fishing)?",
+      "rubric_tests": "This rubric assesses whether subgroup analyses are thoughtfully pre-specified, hypothesis-driven, and aligned with regulatory and scientific standards. It evaluates the credibility, statistical control, interpretability, and transparency of subgroup plans\u2014particularly those that may influence labeling, stratification, or future development.",
+      "rationale": "Subgroup analyses can inform precision medicine, identify responders/non-responders, and support population-specific indications, but post hoc or over-interpreted findings are at high risk of false positives. Regulatory agencies expect subgroup strategies to be pre-specified, clinically justified, and supported by adequate power and interaction testing. Poorly planned subgroup analyses are a common source of regulatory pushback, label restrictions, or non-approval.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT30",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Is interaction testing used rather than isolated subgroup p-values?",
+      "rubric_tests": "This rubric assesses whether subgroup analyses are supported by formal interaction testing rather than standalone p-values in each subgroup. It evaluates the statistical credibility of claimed treatment effect modifications, the risk of spurious findings, and compliance with regulatory expectations.",
+      "rationale": "Evaluating treatment effect differences across subgroups based on p-values within subgroups alone is statistically unsound, as it ignores interaction and correlation structure. Regulatory agencies (FDA, EMA, PMDA) and ICH E9 emphasize the importance of formal interaction testing, such as treatment-by-subgroup terms in appropriate models, to detect true effect modification. Misuse of within-subgroup p-values leads to inflated Type I error, poor reproducibility, and potential mislabeling or post-marketing risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT31",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Are exploratory endpoints analyzed descriptively or inferentially (and pre-defined as such)?",
+      "rubric_tests": "This rubric evaluates whether exploratory endpoints are clearly pre-defined, appropriately labeled in trial documents, and analyzed in a way that avoids misleading inferential conclusions. It tests consistency across the protocol, SAP, CSR, and labeling strategy, and examines whether exploratory endpoints are appropriately contextualized within regulatory and clinical development frameworks.",
+      "rationale": "Exploratory endpoints are valuable for hypothesis generation, identifying signals, and planning future trials\u2014but they are not typically intended for confirmatory conclusions or regulatory claims. Regulators require clear distinction between confirmatory, supportive, and exploratory endpoints. Conducting inferential analyses on exploratory endpoints without proper predefinition or contextualization can mislead stakeholders, undermine regulatory credibility, and inflate Type I error.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT32",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Are biomarker cutoffs and statistical approaches validated or exploratory?",
+      "rubric_tests": "This rubric evaluates whether biomarker analyses\u2014including cutoff selection, statistical methods, and interpretation\u2014are conducted using validated and pre-defined methodologies or are exploratory in nature. It tests statistical rigor, reproducibility, clinical relevance, and regulatory defensibility, particularly for biomarkers used in stratification, enrichment, or treatment selection.",
+      "rationale": "Biomarkers play an increasingly central role in precision medicine, yet their statistical treatment is often underpowered, post hoc, or not validated. Agencies such as the FDA and EMA expect transparent, pre-specified approaches when biomarkers are used for enrichment, stratification, or labeling. Poorly defined cutoffs or data-driven subgrouping using biomarkers increase the risk of false discoveries, regulatory setbacks, and misguided clinical development decisions. Proper validation ensures robustness, scientific credibility, and value to patients.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT33",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are statistical analyses performed in validated tools (e.g., SAS, R) under GxP-compliant environments?",
+      "rubric_tests": "This rubric evaluates whether statistical analyses are conducted using validated software platforms, in environments that meet GxP (Good Practice) standards, ensuring data integrity, traceability, reproducibility, auditability, and regulatory defensibility of all outputs that support clinical trial decisions and regulatory submissions.",
+      "rationale": "Statistical analyses underpin pivotal trial results and directly feed into key deliverables (e.g., CSRs, eCTD modules, summary tables, figures, and listings). If the statistical environment (hardware/software/user/process) is not validated or lacks compliance with GxP and 21 CFR Part 11, regulators may question the reliability of the analyses, suspend reviews, or request re-analysis. Maintaining a validated environment with change control, access logging, SOPs, and audit trails is essential for both internal confidence and external trust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT34",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are programs version-controlled and independently verified (double programming or QC)?",
+      "rubric_tests": "This rubric evaluates whether biostatistical programs\u2014used to generate analysis datasets (e.g., ADaM), TLFs (tables, listings, figures), and primary endpoint outputs\u2014are version-controlled, independently verified, and subject to rigorous Quality Control (QC) processes such as double programming, peer review, or unit testing. It ensures data integrity, traceability, and audit readiness.",
+      "rationale": "Programs used in the statistical analysis of clinical trial data must be independently verified and traceable, especially when contributing to regulatory filings (e.g., NDAs, BLAs, MAAs). Failure to version-control or independently verify statistical code can result in undetected errors, unreproducible results, and regulatory inspection findings. Agencies expect evidence that critical outputs (e.g., primary endpoints) are checked independently, especially in pivotal trials.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT35",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are outputs reproducible and audit-ready?",
+      "rubric_tests": "This rubric assesses whether statistical outputs\u2014especially those in the CSR and regulatory submissions\u2014are fully reproducible from source data using traceable, version-controlled code and are audit-ready in terms of metadata, documentation, and procedural transparency. It also examines whether the programming environment supports inspection readiness and long-term archiving of outputs and metadata.",
+      "rationale": "Regulators (FDA, EMA, MHRA, PMDA) expect reproducibility of key outputs from raw data using audit-trailed workflows. Inconsistencies between datasets, code, and output\u2014or missing documentation\u2014undermine trust in the results. Audit-readiness requires not just clean outputs but a reconstructable path from raw data \u2192 code \u2192 TLFs (tables, listings, figures), including versions and reviewer comments. This is critical for GxP compliance, inspection readiness, and efficient lifecycle review.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT36",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are macros, templates, and SOPs in place for core analyses?",
+      "rubric_tests": "This rubric assesses whether statistical programming relies on validated, standardized macros, templates, and Standard Operating Procedures (SOPs) for generating core outputs (e.g., ADaM datasets, tables, listings, figures). It evaluates consistency, efficiency, risk reduction, and compliance in routine and pivotal statistical deliverables.",
+      "rationale": "Consistent application of pre-validated macros and templates reduces variability, improves QC efficiency, and minimizes programming errors\u2014especially across large, multi-protocol programs. SOPs ensure team-wide compliance with best practices and regulatory expectations, particularly in GxP settings. Without these frameworks, programs are prone to inconsistencies, hard-to-trace errors, and submission risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT37",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Are TLFs consistent with the SAP and protocol-defined endpoints?",
+      "rubric_tests": "This rubric assesses whether Tables, Listings, and Figures (TLFs)\u2014particularly those in the Clinical Study Report (CSR)\u2014are aligned with the Statistical Analysis Plan (SAP) and protocol-defined objectives and endpoints. It evaluates traceability, completeness, and accuracy of planned analyses as implemented in output deliverables.",
+      "rationale": "Regulatory authorities (FDA, EMA, MHRA, PMDA) expect that CSR outputs reflect exactly what was pre-specified in the protocol and SAP. Deviations without documentation can lead to regulatory delays, requests for clarification, or concerns over selective reporting. This alignment also ensures transparency, statistical integrity, and consistency across modules of the eCTD submission.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT38",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Are outputs labeled clearly with proper titles, units, and footnotes?",
+      "rubric_tests": "This rubric evaluates whether titles, column/row headers, units, legends, and footnotes in tables, listings, and figures are clear, complete, and consistent with the protocol, SAP, and analysis objectives. It ensures that outputs are self-contained, interpretable without external reference, and ready for regulatory submission or inspection.",
+      "rationale": "Clear labeling is critical for regulatory interpretation, scientific clarity, and decision-making. Inconsistencies or omissions in TLF headers and footnotes can lead to misinterpretation of results, regulatory queries, or audit findings. ICH E3 and FDA\u2019s Technical Conformance Guide stress the importance of self-contained outputs, especially for pivotal endpoints and safety data.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT39",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Are statistical methods described in the CSR aligned with actual execution?",
+      "rubric_tests": "This rubric evaluates whether the statistical methods described in the CSR\u2014including analysis populations, model specifications, covariates, missing data handling, and adjustment procedures\u2014accurately reflect the actual analyses conducted and outputs generated.",
+      "rationale": "Regulatory agencies rely on the CSR to understand how analyses were performed and whether they were aligned with the Statistical Analysis Plan (SAP). Discrepancies between described and executed methods can trigger audit flags, reanalysis requests, or regulatory concern over transparency and reproducibility. ICH E3 and E9 require traceable, congruent reporting.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT40",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Is traceability from raw data to TLFs documented and auditable?",
+      "rubric_tests": "This rubric evaluates whether the transformation and processing of raw data (e.g., SDTM, ADaM) through to final Tables, Listings, and Figures (TLFs) is traceable, documented, and reproducible. It assesses if data derivation, coding, statistical analysis, and output generation can withstand regulatory audit and meet GxP expectations.",
+      "rationale": "Regulatory agencies (FDA, EMA, PMDA) and inspection bodies require clear audit trails linking raw data to clinical outputs to validate integrity and reproducibility. According to ICH E6(R2), ICH E3, and FDA\u2019s Technical Conformance Guides, this traceability is essential for inspection readiness, submission defensibility, and data transparency.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT41",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Have biostatistical components been part of regulatory meetings (e.g., EoP2, Type B/C)?",
+      "rubric_tests": "This rubric evaluates whether biostatistical considerations\u2014such as study design justification, endpoint definitions, estimand frameworks, sample size rationale, multiplicity handling, and analysis plans\u2014have been proactively integrated into regulatory agency interactions, including written briefing books and live meetings with FDA, EMA, PMDA, and others.",
+      "rationale": "Biostatistics plays a critical role in ensuring that trial designs and analysis plans are aligned with regulatory expectations. Agencies like the FDA (in Type B/C meetings), EMA (in SAWP), and PMDA (in consultation meetings) expect statistical rigor and transparency. Including statisticians in regulatory interactions reduces the risk of design flaws, unaccepted endpoints, or post-hoc critique of analysis approaches. According to ICH E9 and the FDA\u2019s guidance on formal meetings, early engagement on statistical issues is essential for filing success.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT42",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Are datasets CDISC-compliant (SDTM, ADaM) and submission-ready?",
+      "rubric_tests": "This rubric evaluates whether clinical datasets are prepared in compliance with CDISC standards (SDTM for raw clinical data, ADaM for analysis-ready data) and whether they meet technical and regulatory expectations for electronic submission (e.g., to FDA, EMA, PMDA) as part of the Common Technical Document (CTD). It assesses data structure, documentation, validation, and traceability.",
+      "rationale": "Global regulatory agencies (e.g., FDA, PMDA) require CDISC-compliant datasets in standardized formats for clinical trial submissions. SDTM and ADaM compliance ensures reviewability, auditability, and reproducibility. According to FDA\u2019s Study Data Technical Conformance Guide and EMA\u2019s eCTD submission requirements, noncompliant datasets may lead to data rejection, delays, or refusal to file (RTF).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT43",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Are mock ISS/ISE or briefing package analyses conducted?",
+      "rubric_tests": "This rubric evaluates whether mock Integrated Summary of Safety (ISS) and Integrated Summary of Efficacy (ISE) analyses\u2014or equivalent briefing package analyses\u2014have been conducted proactively to prepare for NDA/BLA/MAA submission or regulatory advisory meetings. It tests early integration planning, analytic traceability, and readiness for submission module development (e.g., CTD 2.7.3, 2.7.4, 5.3.5).",
+      "rationale": "Mock ISS/ISE or briefing book analyses allow teams to identify inconsistencies across studies, validate integration logic and derivations, and anticipate regulatory questions before formal submission. They form a critical step in both technical readiness (e.g., analysis outputs, pooled datasets) and strategic storytelling for agency interactions. Proactively conducting these analyses is endorsed by regulatory agencies (e.g., FDA\u2019s pre-NDA/BLA guidance) and improves submission quality.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT44",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Is there a statistical strategy for responding to regulatory questions or ad hoc analyses?",
+      "rubric_tests": "This rubric evaluates whether the biostatistics team has a proactive, structured plan to respond to regulatory queries, including the handling of post-submission questions, clarification requests, ad hoc analyses, and advisory committee data demands. It covers the responsiveness, documentation, reproducibility, and governance controls for unplanned or on-demand statistical outputs during regulatory review.",
+      "rationale": "Regulatory agencies often request additional analyses, sensitivity tests, or clarifications during review. These are frequently time-sensitive and high-stakes, especially in the lead-up to advisory committee meetings or label negotiations. A predefined statistical response framework reduces turnaround time, ensures consistency with the original SAP, and mitigates the risk of data misinterpretation or inconsistent outputs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT45",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Are biostatisticians embedded early in protocol development and feasibility assessments?",
+      "rubric_tests": "This rubric evaluates whether biostatistics expertise is integrated at the earliest stages of protocol design, feasibility reviews, and cross-functional planning. It assesses the timing, influence, and depth of engagement of biostatistics in clinical development strategy, ensuring statistical thinking shapes primary endpoints, estimands, sample size, feasibility, and study design integrity from the outset.",
+      "rationale": "Biostatisticians are critical to ensuring that protocols are scientifically sound, statistically valid, and operationally feasible. Embedding statisticians early in study design improves endpoint selection, estimand clarity, feasibility (enrollment, stratification, data volume), and alignment with regulatory expectations (ICH E9(R1), FDA, EMA). Lack of early involvement increases risk of underpowered trials, biased analysis populations, or infeasible assumptions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT46",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Do they collaborate with clinicians, clinical operations, safety, and regulatory in trial design?",
+      "rubric_tests": "This rubric evaluates the depth, structure, and continuity of collaboration between biostatistics and other key trial functions\u2014clinical, regulatory, clinical operations, and safety\u2014during trial design. It assesses whether biostatistical input is integrated through structured forums, contributes meaningfully to critical design decisions, and is aligned with operational and regulatory goals.",
+      "rationale": "Optimal trial design requires synthesizing clinical, operational, safety, and regulatory perspectives\u2014with biostatistics as a central integrator ensuring scientific and analytical rigor. Poor cross-functional engagement results in misaligned objectives, underpowered studies, unrealistic feasibility assumptions, and regulatory missteps. Early and sustained collaboration strengthens protocol design, estimand definition, endpoint justification, feasibility planning, and regulatory alignment.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT47",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Are they involved in modeling and simulation to support dose and regimen decisions?",
+      "rubric_tests": "This rubric evaluates whether biostatisticians are actively engaged in modeling and simulation (M&S) to support dose selection, regimen optimization, and decision-making in collaboration with clinical pharmacology, translational medicine, and clinical development. It emphasizes cross-functional application of statistical methods (e.g., exposure-response, Bayesian models, longitudinal modeling) to inform dose justification and regulatory readiness.",
+      "rationale": "Modeling and simulation approaches are essential for data-driven dose selection, especially in early-phase trials, rare diseases, pediatric development, and oncology. Biostatisticians, in partnership with clinical pharmacologists, help ensure that dose selection is based on quantitative evidence, not just empirical assumptions. Early and structured statistical involvement improves regulatory credibility, supports MIDD (Model-Informed Drug Development), and reduces trial failure due to suboptimal dosing.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT48",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Are statistical insights used in go/no-go, stage gate, and portfolio prioritization decisions?",
+      "rubric_tests": "This rubric evaluates whether statistical data and analyses are meaningfully integrated into strategic decision-making processes, including stage gate reviews, go/no-go decisions, and broader portfolio prioritization. It assesses both the technical rigor of inputs (e.g., probabilities, confidence intervals, modeling) and the institutional processes that enable biostatisticians to influence investment, development, or termination decisions.",
+      "rationale": "Statistical input is essential to quantify uncertainty, estimate probability of success (PoS), assess interim results, and inform value-based decision frameworks across a portfolio. Decisions that lack formal statistical reasoning risk bias, misinterpretation of signal, or poor capital allocation. Embedding biostatistical rigor into governance ensures transparent, data-driven development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT49",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Are statistical methodologies used to support external control comparisons (e.g., propensity scores, IPTW)?",
+      "rubric_tests": "This rubric evaluates the statistical rigor, justification, and implementation of methodologies used to enable external control arm comparisons, particularly those based on real-world data (RWD). It focuses on the use of techniques such as propensity scores, inverse probability of treatment weighting (IPTW), matching, regression adjustment, or Bayesian borrowing to establish comparability, minimize bias, and meet regulatory expectations.",
+      "rationale": "External control arms are increasingly used in rare disease, oncology, and other settings where randomization is infeasible. However, their validity hinges on robust statistical adjustment for confounding and bias. Regulatory authorities (e.g., FDA, EMA, MHRA) and initiatives such as RWE frameworks and RCT DUPLICATE emphasize the importance of fit-for-purpose statistical methodologies, pre-specification, and transparency.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT50",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Are assumptions and model specifications validated for real-world comparators?",
+      "rubric_tests": "This rubric evaluates the completeness, transparency, and technical robustness of the assumptions and model specifications used when applying real-world data (RWD) to support external comparators. It tests whether assumptions are pre-specified, validated against data structure and causal logic, and whether statistical models are stress-tested and sensitivity-analyzed for reliability.",
+      "rationale": "Real-world data lacks the control and structure of randomized trials, making it essential to validate all model assumptions such as exchangeability, positivity, consistency, and correct model specification. Improper or unvalidated assumptions can lead to bias, incorrect inference, and regulatory rejection. This is particularly critical in rare diseases, oncology, and single-arm study submissions where external comparators may play a pivotal role in regulatory decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT51",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Are external control data fit-for-purpose and statistically justified for inclusion?",
+      "rubric_tests": "This rubric evaluates whether the selection and use of external control datasets meet regulatory expectations for data fitness, relevance, and statistical justification, including the alignment of eligibility criteria, endpoints, timing, and covariates with the internal trial. It ensures the external dataset is credible, analyzable, and unbiased, and that its use is pre-specified, well-rationalized, and traceable.",
+      "rationale": "External comparators are increasingly relied upon in single-arm trials, particularly in oncology, rare diseases, and where placebo is unethical. Regulatory agencies (FDA, EMA, MHRA) expect robust fit-for-purpose assessments, covering endpoint definitions, baseline comparability, temporal alignment, and analytical consistency. If datasets are poorly matched or statistically weak, the comparator becomes misleading, weakening the trial\u2019s interpretability and regulatory defensibility.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT52",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Is FDA/EMA guidance on RWE-based comparisons being followed?",
+      "rubric_tests": "This rubric evaluates whether the use of real-world evidence (RWE) and external control data adheres to current regulatory expectations from the FDA, EMA, and other major agencies, particularly in terms of data quality, transparency, protocol pre-specification, statistical rigor, and fit-for-purpose assessment.",
+      "rationale": "Both FDA and EMA have published detailed frameworks and guidance documents to regulate the appropriate use of RWE in clinical evaluations. These outline expectations regarding study design, data provenance, analysis plans, bias mitigation, and regulatory engagement. Adherence to these guidelines enhances credibility, regulatory acceptance, and decision-making confidence, especially in settings like single-arm trials, rare diseases, or conditional approvals.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT53",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Are statistical methods clearly described in peer-reviewed publications or conference abstracts?",
+      "rubric_tests": "This rubric evaluates whether the statistical methods used in clinical trials or RWE studies are transparently reported in publications, including design, endpoints, analysis models, assumptions, and sensitivity analyses. It assesses consistency with ICH E3/E6(R2), CONSORT, and STROBE guidelines.",
+      "rationale": "Transparent, replicable reporting of statistical methodology is essential for scientific credibility, regulatory trust, and stakeholder confidence. Inadequate or opaque statistical reporting undermines peer review, erodes investor trust, and increases the risk of regulatory or journal rejections. Key regulatory and publishing standards emphasize the need for clarity and completeness in statistical sections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT54",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Is there alignment between protocol, SAP, registry entry (e.g., ClinicalTrials.gov), and publication?",
+      "rubric_tests": "This rubric evaluates whether the statistical analysis and endpoint framework is consistently described across the protocol, statistical analysis plan (SAP), trial registry (e.g., ClinicalTrials.gov, EudraCT), and peer-reviewed publications or public disclosures. It tests for consistency in study objectives, endpoints, timepoints, analytic methods, and population definitions.",
+      "rationale": "Regulatory agencies and scientific journals emphasize transparency and concordance between registered plans and published results to prevent selective reporting, p-hacking, or outcome switching. The FDAAA 801 Final Rule, ICH E6(R2), and CONSORT guidelines all require consistency to ensure data integrity and public trust. Discrepancies are viewed as red flags during due diligence, peer review, and regulatory filing.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT55",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Are statistical analyses presented with confidence intervals, effect sizes, and assumptions?",
+      "rubric_tests": "This rubric evaluates whether statistical results in publications, regulatory submissions, and public disclosures are presented with appropriate inferential context\u2014including confidence intervals (CIs), effect sizes, and explicit assumptions of the statistical model. It assesses alignment with ICH E3, CONSORT, STROBE, and GPP-3 (Good Publication Practice) standards.",
+      "rationale": "Reporting only p-values is no longer considered sufficient. Regulatory authorities, health technology assessment (HTA) agencies, and journals expect effect estimates (e.g., risk ratios, HRs, mean differences) alongside confidence intervals and stated model assumptions to enable proper interpretation, replication, and decision-making. Incomplete reporting impairs credibility and undermines trust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT56",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Are post-hoc analyses clearly identified as such?",
+      "rubric_tests": "This rubric evaluates whether analyses not pre-specified in the protocol or SAP (i.e., post hoc) are explicitly labeled and interpreted with appropriate caution in publications, CSRs, regulatory documents, and public disclosures.",
+      "rationale": "Post-hoc analyses can generate valuable insights, but if not clearly distinguished from pre-specified analyses, they pose risks of data dredging, inflated type I error, and misleading conclusions. Regulatory agencies (FDA, EMA), HTA bodies, and journals require transparent labeling and interpretation of such analyses to preserve scientific integrity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT57",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Is there adequate internal or outsourced statistical resourcing across programs?",
+      "rubric_tests": "This rubric evaluates whether biostatistical staffing\u2014internal and/or external\u2014is sufficient in number, seniority, and specialization to support the scale and complexity of development programs. It assesses capacity planning, continuity, skill mix, outsourcing oversight, and risk management.",
+      "rationale": "Inadequate or misaligned resourcing in biostatistics can result in protocol delays, poor data quality, underpowered studies, or failed regulatory interactions. Regulators (FDA, EMA, MHRA) expect sponsors to have fit-for-purpose resources in place across the development lifecycle. Capacity gaps or unmanaged outsourcing jeopardize scientific integrity and filing readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "STAT58",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Are key activities QA\u2019d (e.g., independent review, dual programming)?",
+      "rubric_tests": "This rubric evaluates the quality assurance mechanisms applied to critical statistical deliverables, including independent review, dual programming, code verification, documentation, and traceability. It ensures that biostatistical activities are reproducible, auditable, and aligned with GCP, ICH, and GxP expectations.",
+      "rationale": "Biostatistical outputs\u2014such as TLFs, SAPs, and derived datasets\u2014are pivotal for regulatory decisions and must meet the highest standards of accuracy and transparency. Independent QA processes reduce the risk of undetected errors, support reproducibility, and improve stakeholder trust in the integrity of findings. Regulatory bodies (e.g., FDA, EMA, MHRA) frequently request evidence of QA, especially in inspections or filings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT59",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Is there a biostatistics lead responsible for governance and quality across studies?",
+      "rubric_tests": "This rubric evaluates whether a senior statistical leader is assigned overarching responsibility for methodological consistency, deliverable quality, governance participation, and cross-program oversight. It examines whether this leader is accountable for implementing quality systems, aligning resources, guiding strategic input, and interfacing with internal/external stakeholders.",
+      "rationale": "A dedicated biostatistics lead is essential to maintain scientific integrity, consistency across studies, and alignment with regulatory expectations. This role provides strategic leadership and accountability for quality, timeline adherence, statistical risk management, and inspection readiness. Regulatory bodies expect clear ownership of statistical content and cross-program oversight, particularly in global submissions and governance structures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "STAT60",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Are lessons learned, deviations, and audits formally reviewed?",
+      "rubric_tests": "This rubric evaluates whether the biostatistics function systematically captures, reviews, and applies insights from prior audits, quality issues, and deviations, and whether these are fed back into process improvements, governance reviews, and training.",
+      "rationale": "Systematic review of deviations, audit findings, and lessons learned is critical to ensuring that recurring issues are prevented, processes are improved, and statistical quality evolves with experience. Regulatory agencies (FDA, EMA, MHRA) emphasize the need for continuous improvement and traceable corrective/preventive actions (CAPA). Formal review mechanisms are a key feature of an effective Quality Management System (QMS) and inspection readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

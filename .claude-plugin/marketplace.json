@@ -1,0 +1,22 @@
+{
+  "name": "oktopi-dev",
+  "owner": {
+    "name": "Oktopi",
+    "url": "https://github.com/oktopi-org"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Oktopi development workflows",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "oktopi-dev",
+      "source": "./plugins/oktopi-dev",
+      "description": "PDP gap-analysis toolkit: 12 function reviewer agents and 9 stage-gate skills generated from the shared Taxonomy-config",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["oktopi", "pdp", "gap-analysis", "stage-gate", "taxonomy"],
+      "strict": false
+    }
+  ]
+}

@@ -1,0 +1,3688 @@
+{
+  "function_code": "COM",
+  "modality": "small-molecule",
+  "function_name": "Commercial",
+  "question_count": 58,
+  "critical_index": {
+    "SR": {
+      "SG1": [
+        "COM1",
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9"
+      ],
+      "SG2": [
+        "COM1",
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9"
+      ],
+      "SG3": [
+        "COM1",
+        "COM5",
+        "COM6",
+        "COM7"
+      ],
+      "SG6": [
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "COM10",
+        "COM11",
+        "COM12",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ],
+      "SG7": [
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "COM10",
+        "COM11",
+        "COM12",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM41",
+        "COM43",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM54",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ],
+      "SG8": [
+        "COM3",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "COM10",
+        "COM11",
+        "COM12",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM41",
+        "COM43",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM54",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ],
+      "SG4": [
+        "COM5",
+        "COM6",
+        "COM7"
+      ],
+      "SG5": [
+        "COM5",
+        "COM7",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM19",
+        "COM20",
+        "COM22",
+        "COM23",
+        "COM26"
+      ],
+      "SG9": [
+        "COM6",
+        "COM7",
+        "COM11",
+        "COM12",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM41",
+        "COM43",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM54",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ]
+    },
+    "OE": {
+      "SG8": [
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM41",
+        "COM42",
+        "COM43",
+        "COM44",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM52",
+        "COM53",
+        "COM54"
+      ],
+      "SG9": [
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM28",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM41",
+        "COM42",
+        "COM43",
+        "COM44",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM53",
+        "COM54"
+      ],
+      "SG7": [
+        "COM41",
+        "COM43"
+      ]
+    },
+    "DD": {
+      "SG1": [
+        "COM1",
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9"
+      ],
+      "SG2": [
+        "COM1",
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9"
+      ],
+      "SG3": [
+        "COM1",
+        "COM5",
+        "COM6",
+        "COM7"
+      ],
+      "SG6": [
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "COM10",
+        "COM11",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ],
+      "SG7": [
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "COM10",
+        "COM11",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM41",
+        "COM43",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM54",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ],
+      "SG8": [
+        "COM3",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "COM10",
+        "COM11",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM41",
+        "COM43",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM54",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ],
+      "SG4": [
+        "COM5",
+        "COM6",
+        "COM7"
+      ],
+      "SG5": [
+        "COM5",
+        "COM7",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM22",
+        "COM23",
+        "COM26"
+      ],
+      "SG9": [
+        "COM6",
+        "COM7",
+        "COM11",
+        "COM13",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM19",
+        "COM20",
+        "COM21",
+        "COM22",
+        "COM23",
+        "COM24",
+        "COM25",
+        "COM26",
+        "COM27",
+        "COM29",
+        "COM30",
+        "COM31",
+        "COM32",
+        "COM33",
+        "COM34",
+        "COM35",
+        "COM36",
+        "COM37",
+        "COM38",
+        "COM39",
+        "COM40",
+        "COM41",
+        "COM43",
+        "COM45",
+        "COM46",
+        "COM47",
+        "COM48",
+        "COM49",
+        "COM50",
+        "COM51",
+        "COM52",
+        "COM54",
+        "COM55",
+        "COM56",
+        "COM57",
+        "COM58"
+      ]
+    },
+    "RS": {
+      "SG5": [
+        "COM5",
+        "COM8"
+      ],
+      "SG6": [
+        "COM5",
+        "COM6",
+        "COM8"
+      ],
+      "SG7": [
+        "COM5",
+        "COM6",
+        "COM8",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM31",
+        "COM49",
+        "COM51"
+      ],
+      "SG8": [
+        "COM5",
+        "COM6",
+        "COM8",
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM31",
+        "COM49",
+        "COM51"
+      ],
+      "SG9": [
+        "COM14",
+        "COM15",
+        "COM16",
+        "COM17",
+        "COM18",
+        "COM31",
+        "COM49",
+        "COM51"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "COM1",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Has a comprehensive market assessment been conducted (TAM, SAM, SOM)?",
+      "rubric_tests": "Clear definitions of TAM/SAM/SOM; triangulation of sources; segmentation by geography, channels, payers, subpopulations; documented assumptions and sensitivity analyses; replicability and audit readiness; alignment with BD, valuation, and investor expectations.",
+      "rationale": "Robust market sizing is essential for valuation modeling, investor/partner diligence, commercial and launch strategy, payer engagement, and internal capital allocation; poor market sizing can lead to valuation discount, diligence delays, and failed partnerships.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM2",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Are epidemiology and patient segmentation data available and credible?",
+      "rubric_tests": "Availability of credible, current epidemiology and patient segmentation data; triangulation of primary and secondary sources; alignment with regulatory, payer, and HTA expectations; relevance to target product profile (TPP) and label strategy; transparency of assumptions and audit readiness.",
+      "rationale": "Robust epidemiology and segmentation data are critical to support market opportunity, inform trial design, align with regulatory and payer expectations, enable realistic forecasting and valuation, and avoid misalignment in cross-functional planning; poor or unsubstantiated data can derail BD discussions and payer negotiations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM3",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Has peak sales potential been estimated, and is it supported by robust assumptions?",
+      "rubric_tests": "Availability of peak sales forecast; clear and validated assumptions; source triangulation; sensitivity analyses; segmentation by geography, payer, subpopulation, line of therapy; competitive landscape incorporated; aligned with BD, investor, and valuation models; audit-ready.",
+      "rationale": "Peak sales estimates drive valuation, partner interest, and capital allocation; must be based on transparent, credible assumptions aligned with market realities and competitive dynamics; poor or inflated estimates can damage BD credibility and delay deals.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM4",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Have analogs or benchmarks been used to triangulate market potential?",
+      "rubric_tests": "Use of relevant commercial analogs or benchmarks to validate and triangulate market potential, peak sales, uptake curves, pricing, and payer acceptance; documentation and justification of analog selection; consistency across BD, valuation, and HTA strategy; audit readiness.",
+      "rationale": "Analog and benchmark triangulation is a key validation tool for peak sales forecasts and market potential; strengthens credibility with BD, investors, and payers; prevents over-optimistic assumptions; poor or unsubstantiated analog selection is a frequent source of valuation challenge.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM5",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Is the TPP aligned with market and payer expectations?",
+      "rubric_tests": "Alignment of TPP claims and value propositions with market needs, payer expectations, HTA requirements, clinical guidelines, and competitive landscape; cross-functional ownership; documentation of payer insights; audit readiness.",
+      "rationale": "Alignment of TPP with market and payer expectations is critical for achieving commercial success, securing reimbursement, supporting HTA submissions, and driving differentiation versus competitors; misaligned TPPs lead to failed access or commercial underperformance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COM6",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Are differentiating features clearly articulated (efficacy, safety, route, convenience)?",
+      "rubric_tests": "Clarity and documentation of differentiating features of the asset vs current standard of care and pipeline competitors \u2014 across efficacy, safety, route of administration, convenience, dosing, value proposition; alignment with market, payer, HTA expectations; linkage to TPP, value story, and evidence strategy.",
+      "rationale": "Clear articulation of differentiation is essential for positioning, reimbursement, competitive success, and partner/investor valuation; vague or unsubstantiated differentiation leads to weak payer/reimbursement outcomes and diminished BD value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COM7",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Does the product address a high unmet need or a defined market gap?",
+      "rubric_tests": "Evidence that the product addresses a clearly defined and validated unmet medical need or market gap, aligned with payer/HTA priorities and market expectations; documented with supporting data and stakeholder insights; integrated into value proposition, TPP, and BD/partner messaging.",
+      "rationale": "Demonstrating that a product addresses an unmet need is central to payer/reimbursement success, market differentiation, HTA positive outcomes, and investor/partner interest; lack of validated unmet need positioning undermines market access, pricing potential, and BD value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM8",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Are TPP attributes supported by clinical data or early signals?",
+      "rubric_tests": "Whether each key TPP attribute is linked to and supported by current clinical data, early signals, preclinical translational data, or planned evidence; whether gaps and uncertainties are documented; whether alignment exists between TPP claims and the evolving evidence base; audit readiness for internal and external review.",
+      "rationale": "Payers, HTA bodies, partners, and investors require evidence-supported TPP claims \u2014 unsupported or speculative TPP claims damage credibility and access outcomes; alignment of TPP with clinical data prevents regulatory risk, BD risk, and reimbursement failures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COM9",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Has a comprehensive competitor analysis been performed (pipeline + marketed)?",
+      "rubric_tests": "Breadth, depth, and currency of competitor analysis \u2014 including marketed products, pipeline (clinical + preclinical), mechanism of action, differentiation, pricing, access/reimbursement, trial design, and market positioning; alignment to TPP, market access, BD, and valuation models; audit readiness.",
+      "rationale": "Robust competitor analysis informs positioning, differentiation, TPP claims, HTA/reimbursement strategy, and partner/investor valuation; lack of competitor insight \u2192 valuation risk, BD risk, HTA rejection, and poor commercial outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM10",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Are competitor profiles up to date (MOA, clinical status, launch timing, pricing)?",
+      "rubric_tests": "Whether competitor profiles are current, comprehensive, and regularly updated \u2014 covering MOA, clinical development status, trial readouts, regulatory progress, launch timing, pricing, access outcomes, and positioning; whether they are integrated into TPP, Market Access, BD, Regulatory planning; whether gaps/risks are documented.",
+      "rationale": "Outdated or incomplete competitor profiles \u2192 positioning risk, HTA failure, pricing misalignment, poor BD valuation. Up-to-date profiles drive market success, strategic agility, and investor/partner confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM11",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Is there a clear differentiation strategy vs. competitors?",
+      "rubric_tests": "Clarity, documentation, and validation of competitive differentiation strategy \u2014 across clinical outcomes, safety/tolerability, convenience, pricing/value, market access, real-world use, and patient-relevant outcomes; alignment to TPP, Market Access, HTA strategy, BD/valuation model; integration across functions; audit readiness.",
+      "rationale": "Without a clear, validated differentiation strategy, products risk commoditization, poor reimbursement, weak BD valuation, and market underperformance. Sophisticated partners and HTA bodies now require explicit, evidence-backed differentiation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM12",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Are emerging technologies or disruptive entrants monitored?",
+      "rubric_tests": "Whether emerging technologies, new platforms, novel MoAs, disruptive market entrants, adjacent/alternative modalities, new care models are actively monitored, assessed, and integrated into strategic planning across TPP, differentiation, Market Access, BD, Regulatory, Clinical; whether proactive horizon scanning and mitigation planning is in place.",
+      "rationale": "Failure to monitor emerging/disruptive entrants \u2192 positioning risk, obsolete differentiation, missed BD opportunities, HTA rejection (wrong comparator), loss of competitive advantage. Proactive monitoring enables strategic agility, early positioning, and BD leverage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM13",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Have initial pricing assumptions been modeled and benchmarked?",
+      "rubric_tests": "Whether initial pricing assumptions are explicitly modeled, benchmarked vs competitors and analogs, aligned to payer value drivers, informed by HTA outcomes, supported by budget impact and cost-effectiveness analysis, documented with transparent assumptions, reviewed cross-functionally, and ready for BD, HTA, and partner/investor diligence.",
+      "rationale": "Weak, speculative, or unbenchmarked pricing assumptions \u2192 frequent cause of valuation inflation, BD partner pushback, HTA rejection, and market access delays. Robust pricing models are core to value story, access strategy, and BD negotiations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM14",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Are health economic/value frameworks developed (e.g., cost-effectiveness models)?",
+      "rubric_tests": "Development and validation of health economic frameworks (e.g., CEA, QALY-based models, BIA, budget impact models, cost-consequence models) aligned to payer and HTA requirements, linked to clinical and real-world data, cross-functionally integrated, externally validated, and audit-ready.",
+      "rationale": "Robust and validated health economic/value models are essential to securing reimbursement, informing pricing strategy, enabling HTA success, supporting BD valuation, and driving partner/investor confidence",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM15",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?",
+      "rubric_tests": "Systematic consideration of HTA agency requirements (NICE, IQWiG, PBAC, G-BA, CADTH, HAS, etc.), alignment of evidence package, TPP, economic models, comparators, value story, with HTA guidelines and expectations, cross-functional integration, external validation, and audit readiness.",
+      "rationale": "Failure to align with HTA requirements results in negative reimbursement decisions, suboptimal pricing, delays to market access, and lost value capture.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM16",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Are pricing and reimbursement risks identified and addressed?",
+      "rubric_tests": "Whether pricing and reimbursement (P&R) risks are systematically identified, tracked, and mitigated \u2014 including clinical, economic, comparator, HTA, access, competitive, policy, and market dynamics \u2014 with cross-functional ownership, transparent documentation, mitigation plans, dynamic monitoring, and audit readiness.",
+      "rationale": "Proactively identifying and managing pricing and reimbursement risks is critical to achieving optimal market access, pricing outcomes, HTA success, BD valuation, and partner/investor confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM17",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Have payer advisory boards or research been conducted?",
+      "rubric_tests": "Whether payer insights (via advisory boards, structured research, interviews, landscape assessments) have been systematically gathered, validated, integrated into pricing, access, value communication, HTA strategy, evidence generation, BD, documented with governance and version control.",
+      "rationale": "Without payer insights, pricing, value, and market access strategies risk being misaligned with real-world payer expectations, resulting in HTA failure, pricing shortfalls, delayed access, and BD valuation risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM18",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Are payer value messages tested or defined?",
+      "rubric_tests": "Whether payer value messages are clearly defined, prioritized, tested with payers (ad boards, research, advisory panels), aligned with HTA value drivers, evidence strategy, and differentiation, documented, integrated across HTA, BD, Market Access, Pricing, and ready for external use.",
+      "rationale": "Without payer-tested value messages, market access strategies risk HTA rejection, pricing failure, suboptimal reimbursement, and inconsistent external communications.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM19",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Are there reimbursement precedents in the target indication?",
+      "rubric_tests": "Whether reimbursement precedents (HTA outcomes, payer decisions, comparator pricing/access, submission outcomes, value drivers) are systematically identified, mapped, analyzed, and integrated into pricing, value, HTA, Market Access, BD, with governance, version control, and audit readiness.",
+      "rationale": "Understanding reimbursement precedents is critical for de-risking pricing and access strategy, informing HTA alignment, guiding evidence generation, supporting BD valuation, and anticipating payer expectations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM20",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Is the expected reimbursed price range feasible for uptake?",
+      "rubric_tests": "Whether the expected reimbursed price range is realistic based on payer willingness-to-pay (WTP), HTA thresholds, budget impact, comparator benchmarks, contracting dynamics, market elasticity, and value story \u2014 validated via payer research, precedent analysis, modeling, and cross-functional alignment \u2014 with audit-ready documentation.",
+      "rationale": "Aligning price expectations with payer reality is critical to avoid misaligned BD valuations, HTA failure, poor access outcomes, suboptimal launch uptake, and revenue shortfalls.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM21",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Is there a clearly defined commercialization strategy (partnered vs. direct)?",
+      "rubric_tests": "Whether the commercialization strategy (partnered, direct, hybrid) is explicitly defined, documented, aligned with corporate objectives, asset characteristics, market requirements, partner/BD strategy, capabilities, and risk appetite \u2014 validated by scenario modeling and market insights, with cross-functional alignment and governance.",
+      "rationale": "A clearly defined and aligned commercialization strategy is essential to drive capital planning, partner negotiations, organizational readiness, and investor confidence \u2014 lack of clarity increases strategic risk and delays execution.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM22",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Are go-to-market models defined by geography (e.g., U.S. vs. EU vs. Asia)?",
+      "rubric_tests": "Whether go-to-market models are clearly defined, documented, and tailored for priority geographies (U.S., EU, Asia, ROW), aligned to market-specific access, pricing, reimbursement, regulatory, channel, and competitive dynamics, with cross-functional integration, scenario modeling, governance, and audit readiness.",
+      "rationale": "Market-specific GTM models are critical to align operational execution, pricing and access outcomes, revenue planning, resource allocation, and partner/investor confidence \u2014 generic or unsegmented models expose major risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM23",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Are launch sequence, pricing corridors, and market prioritization mapped?",
+      "rubric_tests": "Whether launch sequence, pricing corridors, and market prioritization are clearly defined, documented, scenario-modeled, and aligned to regulatory timing, access and reimbursement dynamics, pricing strategy, revenue modeling, BD strategy, and organizational readiness \u2014 with cross-functional integration, governance, and audit readiness.",
+      "rationale": "Mapping launch sequence, pricing corridors, and market prioritization is critical to optimize revenue capture, manage reference pricing risk, sequence regulatory and HTA submissions, and ensure aligned BD and operational execution \u2014 poor mapping exposes major market and financial risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM24",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Are distribution and channel strategies defined?",
+      "rubric_tests": "Whether distribution and channel strategies (wholesale, specialty, retail, hospital, direct-to-patient, digital) are clearly defined, documented, aligned to market requirements and product profile, linked to pricing, access, contracting, supply chain, field force strategy, and revenue forecasting, with cross-functional ownership and governance.",
+      "rationale": "Clear distribution and channel strategies are critical for optimal patient access, revenue realization, pricing integrity, contracting efficiency, and operational readiness \u2014 gaps expose significant market access, commercial, and supply risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM25",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Is a launch plan or launch excellence framework in place?",
+      "rubric_tests": "Whether a launch plan and/or launch excellence framework is clearly defined, structured, version-controlled, linked to corporate and asset strategy, covering cross-functional workstreams (MA, Pricing, Regulatory, Commercial, Medical, Supply, HEOR, BD), with execution roadmaps, readiness KPIs, governance, and dynamic risk management.",
+      "rationale": "A clear launch plan and excellence framework drives alignment, readiness, speed to market, revenue realization, and external confidence \u2014 lack of structure exposes significant execution, market access, and revenue risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM26",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Are key milestones defined (regulatory, supply, market shaping, field force)?",
+      "rubric_tests": "Whether key milestones across Regulatory, Supply, Market Shaping, and Field Force are clearly defined, documented, integrated into the launch plan, sequenced and interdependent, linked to KPIs and readiness reviews, and monitored through cross-functional governance \u2014 with version control and audit readiness.",
+      "rationale": "Defining and sequencing key milestones ensures coordinated execution, drives launch readiness and revenue realization, enables risk mitigation, and builds investor and partner confidence \u2014 lack of clear milestones exposes the launch to major execution risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM27",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Are internal capabilities or partners identified for launch execution?",
+      "rubric_tests": "Whether internal capabilities and external partners are clearly identified, assessed, and mapped to launch execution needs across key functions (Regulatory, MA, Pricing, HEOR, Commercial, Supply, QA, Medical, Field, BD), linked to workstreams, resourcing plans, risk mitigation, and embedded in launch governance \u2014 with version control and audit readiness.",
+      "rationale": "Mapping internal capabilities and partner needs is essential to ensure launch readiness, avoid execution gaps, de-risk resource and capacity constraints, and support partner/investor confidence \u2014 failure leads to fragmented, delayed, or under-resourced launches.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM28",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Is a launch budget and resource plan developed?",
+      "rubric_tests": "Whether a launch budget and resource plan are clearly defined, documented, version-controlled, aligned to launch strategy, workstreams, milestones, risk scenarios, covering both internal and external costs, FTE, partners, with cross-functional ownership, governance, and audit readiness.",
+      "rationale": "A clear launch budget and resource plan ensures funding readiness, resource alignment, investor/partner confidence, and de-risked execution \u2014 gaps lead to underfunded launches, misaligned resources, and execution delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Expected"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM29",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Are initial branding concepts or value propositions in development?",
+      "rubric_tests": "Whether initial branding concepts and value propositions are in active development, aligned to product differentiation, TPP, market and payer needs, HTA drivers, competitive positioning, KOL/payer insights, embedded into early launch planning and cross-functional strategies, and version-controlled for governance and audit readiness.",
+      "rationale": "Early development of branding and value propositions is critical for market shaping, payer engagement, stakeholder alignment, competitive positioning, and driving internal readiness and external confidence \u2014 failure results in fragmented messaging and market confusion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM30",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Are key customer segments identified (e.g., specialists, PCPs, hospitals)?",
+      "rubric_tests": "Whether key customer segments (specialists, PCPs, hospitals, payers, patients, advocacy groups, integrated delivery networks, retail, digital channels) are clearly identified, documented, segmented, prioritized, with insights, value drivers, and engagement strategies mapped and linked to launch strategy, field force design, MA, Pricing, and Commercial plans \u2014 with governance and audit readiness.",
+      "rationale": "Identifying and prioritizing key customer segments drives targeted launch planning, resource allocation, market shaping, access success, and revenue realization \u2014 lack of segmentation leads to diluted efforts and poor market traction.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM31",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Are clinical and economic value stories integrated into messaging?",
+      "rubric_tests": "Whether clinical and economic value stories are clearly defined, integrated, and aligned across payer, HTA, clinician, patient, and internal audiences; supported by evidence, linked to TPP, competitive positioning, MA strategy, embedded in early messaging and branding, with cross-functional alignment, validation, and governance.",
+      "rationale": "Integrated clinical and economic value stories are essential for payer acceptance, HTA success, competitive differentiation, stakeholder engagement, and commercial success \u2014 failure results in fragmented messaging and poor access outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM32",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Is there a patient-centered approach in brand planning?",
+      "rubric_tests": "Whether a patient-centered approach is clearly embedded in brand planning \u2014 with patient insights, unmet needs, journey mapping, patient-relevant outcomes, equity considerations, and co-creation with patient groups reflected in positioning, messaging, value stories, and stakeholder engagement, aligned with TPP, HTA, MA, and Commercial strategies, and documented with version control and governance.",
+      "rationale": "A patient-centered brand plan drives relevance, differentiation, market shaping, payer/HTA success, and trust with stakeholders \u2014 lack of this results in tone-deaf messaging, misaligned positioning, and missed access and uptake opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM33",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Are KOLs identified and engaged across key markets?",
+      "rubric_tests": "Whether KOLs (Key Opinion Leaders) are clearly identified, mapped, segmented, prioritized, and actively engaged across key markets, with insights and advocacy integrated into brand and evidence strategy, aligned with MA, Medical, Commercial, BD, and with version control, governance, and audit readiness.",
+      "rationale": "Strategic KOL engagement is critical to drive scientific advocacy, market shaping, credibility, HTA influence, stakeholder education, and launch success \u2014 poor KOL mapping/engagement leads to credibility gaps and suboptimal access/uptake.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM34",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Are early adopter physicians, advocates, and societies mapped?",
+      "rubric_tests": "Whether early adopter physicians, advocates, and professional societies are identified, mapped, segmented, prioritized, with influence networks and decision pathways documented, and engagement strategies linked to market shaping, education, field force strategy, payer access, and brand planning \u2014 with cross-functional alignment, governance, and audit readiness.",
+      "rationale": "Mapping and engaging early adopters and key advocates accelerates market education, clinical adoption, guideline inclusion, and payer acceptance \u2014 lack of structured mapping results in slow uptake, weak advocacy, and missed launch potential.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM35",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Are patient advocacy organizations involved or consulted?",
+      "rubric_tests": "Whether patient advocacy organizations are identified, mapped, prioritized, engaged, and their perspectives integrated into brand planning, value strategy, evidence generation, HTA, access strategy, policy shaping, and patient support initiatives \u2014 with cross-functional alignment, compliance, governance, version control, and audit readiness.",
+      "rationale": "Engaging advocacy organizations enhances credibility, trust, patient-centeredness, policy impact, market access, and equity \u2014 lack of structured engagement leads to mistrust, missed insights, and reduced market and payer support.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM36",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Is stakeholder mapping aligned with scientific and commercial strategy?",
+      "rubric_tests": "Whether stakeholder mapping (clinical, scientific, payer, HTA, advocacy, regulatory, KOL, patient, policymaker, digital, influencer) is comprehensive, prioritized, and linked to scientific strategy (evidence generation, TPP alignment, HTA/payer strategy, publication, guidelines) and commercial strategy (market shaping, positioning, access, uptake), with cross-functional governance, version control, and audit readiness.",
+      "rationale": "Alignment of stakeholder mapping with scientific and commercial strategy drives credibility, consistency, advocacy, market access, uptake, and long-term success \u2014 failure results in fragmented engagement, mistrust, and lost strategic opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM37",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Are there clear lifecycle opportunities (e.g., new indications, combinations, formulations)?",
+      "rubric_tests": "Whether lifecycle management (LCM) opportunities \u2014 including new indications, combinations, formulations, line extensions, geographic expansions, label expansions, device integrations, new dosing regimens \u2014 are identified, mapped, prioritized, resourced, and aligned to corporate, scientific, and commercial strategy, with cross-functional ownership, governance, version control, and audit readiness.",
+      "rationale": "Structured lifecycle planning is critical to maximize asset value, extend market exclusivity, optimize revenue trajectory, build franchise potential, and de-risk competitive threats \u2014 lack of LCM strategy leads to lost growth opportunities and value erosion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM38",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Is there potential for line extensions or geographic expansion?",
+      "rubric_tests": "Whether line extension opportunities (new formulations, device integrations, alternate dosing, age groups, combo packs, co-administration) and geographic expansion opportunities (new markets, emerging markets, local partnerships, optimized sequencing) are identified, prioritized, evaluated, and linked to scientific, regulatory, market access, and commercial strategy, with cross-functional alignment, governance, version control, and audit readiness.",
+      "rationale": "Proactive planning of line extensions and geographic expansion is key to franchise growth, lifecycle value optimization, global reach, and revenue maximization \u2014 lack of structure results in fragmented execution, delayed growth, and competitive disadvantage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM39",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Is the asset part of a broader platform or portfolio strategy?",
+      "rubric_tests": "Whether the asset\u2019s role within a broader platform/portfolio strategy is clearly defined, articulated, prioritized, with synergies to scientific platform, franchise development, market shaping, technology leverage, lifecycle expansion, business development, and whether this alignment is integrated into portfolio governance, cross-functionally agreed, version-controlled, and audit-ready.",
+      "rationale": "Linking assets to a platform or portfolio strategy amplifies long-term value, drives synergistic development, attracts partners/investors, and enhances franchise potential \u2014 lack of linkage leads to siloed development, missed synergies, and sub-optimized corporate value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM40",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Are there adjacent market opportunities or follow-on assets?",
+      "rubric_tests": "Whether adjacent market opportunities (related diseases, new patient segments, adjacent therapeutic areas, new geographies, service layers) and follow-on assets (next-generation molecules, combinations, novel modalities, diagnostics, digital/companion solutions) are identified, mapped, prioritized, with scientific, commercial, BD, and lifecycle alignment, integrated into portfolio planning, governance, and investment strategy, with version control and audit readiness.",
+      "rationale": "Mapping and pursuing adjacent market and follow-on opportunities enables franchise building, market leadership, competitive defense, platform leverage, and investor value \u2014 lack of structure leads to missed growth, value erosion, and partner skepticism.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM41",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Are commercial supply and distribution plans in place?",
+      "rubric_tests": "Whether commercial supply and distribution plans are defined, documented, version-controlled, covering manufacturing capacity, quality systems, CMO/CDMO alignment, supply chain scalability, packaging, serialization, channel strategy, regional logistics, and compliance \u2014 aligned with launch plan, regulatory approvals, MA/market access timelines, and audit-ready.",
+      "rationale": "Robust supply and distribution planning is critical to ensure launch readiness, market access success, patient availability, and to prevent stock-outs, revenue loss, or regulatory risk \u2014 lack of planning results in launch delays, compliance issues, and partner confidence erosion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM42",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Are partnerships or 3PLs identified for commercial-scale logistics?",
+      "rubric_tests": "Whether 3rd Party Logistics (3PL) providers and distribution partnerships for commercial-scale logistics are identified, qualified, contracted, and their roles clearly mapped to supply chain strategy, covering global, regional, local needs, including cold chain, warehousing, transport, serialization, customs clearance, inventory management, and aligned to launch and ongoing supply plans with cross-functional governance and audit readiness.",
+      "rationale": "Qualified 3PLs and partnerships are critical to ensure scalable, compliant, and cost-effective commercial logistics \u2014 lack of readiness results in launch delays, supply disruptions, regulatory non-compliance, and partner/investor concerns.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM43",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Are cold chain, specialty pharmacy, or hospital distribution needs addressed?",
+      "rubric_tests": "Whether specialty distribution needs \u2014 cold chain, controlled temperature, specialty pharmacy, hospital/clinic channels, controlled handling, investigational/early access pathways \u2014 are mapped, validated, contracted, with compliance, monitoring, risk management, fully aligned to product profile and launch strategy, with cross-functional governance and audit readiness.",
+      "rationale": "Robust specialty distribution readiness protects product integrity, access, compliance, and launch success \u2014 gaps cause delays, failures, regulatory action, and commercial loss.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM44",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Is serialization and trade compliance planning underway?",
+      "rubric_tests": "Whether serialization and trade compliance \u2014 covering global/country-specific serialization mandates (DSCSA, EU FMD, Russia, China, others), track & trace, import/export controls, customs clearance, controlled substances trade controls, export license requirements, anti-bribery/anti-corruption (ABAC) and sanctions screening \u2014 is mapped, validated, contracted, and integrated into supply chain operations, regulatory submissions, product labeling, IT systems, with governance, cross-functional alignment, and audit readiness.",
+      "rationale": "Serialization and trade compliance are regulatory imperatives \u2014 failure leads to launch blocks, product seizure, legal penalties, market shutdowns, brand/reputation risk, and investor/partner confidence loss.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM45",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Is there a credible commercial leadership team or advisor network?",
+      "rubric_tests": "Whether a commercial leadership team and/or advisor network with proven experience \u2014 in launches, market access, branding, pricing, global markets, specialty channels, payer negotiation, digital commercialization, BD partnerships, and franchise building \u2014 is identified, engaged, aligned, with cross-functional integration, governance, credibility in the market, investor confidence, and audit trail.",
+      "rationale": "Credible commercial leadership is key for investor trust, partner confidence, market shaping, and execution success \u2014 weak or missing leadership is a top diligence red flag and derails financing, BD, and launch readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM46",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Are key commercial roles filled or in plan (marketing, access, sales)?",
+      "rubric_tests": "Whether key commercial leadership and execution roles \u2014 marketing, market access, sales/field force, commercial operations, analytics, medical affairs liaison (if applicable), digital, BD partnerships \u2014 are filled, formally recruited, or included in a hiring plan; whether organizational design is clear, resourcing is aligned to launch plan, roles and responsibilities documented, and whether this is governed, version-controlled, and aligned with investors/partners expectations.",
+      "rationale": "Early identification and resourcing of key commercial roles is a top readiness signal for investors, BD partners, governance bodies \u2014 lack of clarity or gaps delay launch readiness, impair market access, and erode partner confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM47",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Are internal vs. external capabilities clearly defined?",
+      "rubric_tests": "Whether internal vs. external resourcing decisions \u2014 across core commercial functions (marketing, access, sales, operations, analytics, digital, BD, medical affairs interface, patient services, specialty distribution, supply chain, training) \u2014 are clearly mapped, documented, governed, resourced, with clear ownership, accountability, budget alignment, scalability planning, and partner management, supporting a credible launch plan, investor/partner confidence, and execution discipline.",
+      "rationale": "Clear internal vs. external capability mapping is critical for launch efficiency, scalability, quality, cost optimization, and governance \u2014 lack of clarity leads to execution risk, partner distrust, compliance gaps, and value erosion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM48",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Is the commercial org structure scalable across phases (prelaunch to scale-up)?",
+      "rubric_tests": "Whether the commercial organizational design is fit-for-purpose and scalable across key phases:Early commercial (strategy, TPP shaping, market access groundwork); Prelaunch (brand building, field force design, access engagement); Launch execution; Post-launch growth and lifecycle management. Tests clarity of roles, resourcing and timing, budget alignment, internal vs. external mix, talent pipeline, partner readiness, and cross-functional integration \u2014 governed and aligned with corporate growth strategy and investor expectations.",
+      "rationale": "Scalable org design ensures execution agility, cost-effectiveness, and risk mitigation \u2014 gaps lead to bottlenecks, burnout, hiring frictions, market execution failures, and investor distrust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM49",
+      "inquiry_domain": "Real-World Evidence (RWE) & Value Demonstration",
+      "question": "Are RWE plans developed to support reimbursement, uptake, or differentiation?",
+      "rubric_tests": "Whether RWE strategy and plans are developed, aligned to HTA/reimbursement requirements, clinical adoption, payer negotiations, guideline inclusion, market uptake, differentiation vs competitors; integrated with clinical, market access, commercial and medical plans; supported by validated data sources and rigorous study designs; operationalized with governance, quality control, timelines, cross-functional alignment, and audit readiness.",
+      "rationale": "Strategic RWE is a critical success factor for payer/reimbursement approval, clinical adoption, and commercial differentiation \u2014 weak RWE is a top reason for HTA rejection, pricing downgrades, and market underperformance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM50",
+      "inquiry_domain": "Real-World Evidence (RWE) & Value Demonstration",
+      "question": "Are registries, claims analyses, or natural history studies in progress?",
+      "rubric_tests": "Whether registries, claims analyses, and natural history studies are planned or in progress to generate real-world data aligned to HTA, reimbursement, clinical adoption, unmet need validation, comparator definition, and patient journey mapping; with study quality, data source validation, operational readiness, governance, and cross-functional integration.",
+      "rationale": "Registries, claims analyses, and natural history studies are critical for payer and HTA acceptance, demonstration of unmet need, differentiation, and support of pricing, reimbursement, and uptake \u2014 gaps result in major risk to market access.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM51",
+      "inquiry_domain": "Real-World Evidence (RWE) & Value Demonstration",
+      "question": "Is there a strategy to generate data post-approval to support additional claims?",
+      "rubric_tests": "Whether a clear post-approval evidence strategy exists to generate RWE or interventional data to support additional label claims, pricing/reimbursement revisions, expanded indications, HTA resubmissions, guideline updates, differentiation, lifecycle management, and partner/investor expectations; with alignment to regulatory, access, clinical, and commercial goals, and supported by governance, version control, and audit readiness.",
+      "rationale": "Post-approval data strategies are critical for label expansion, reimbursement optimization, differentiation, and lifecycle value \u2014 absence creates risk of competitive erosion, lost access opportunities, and diminished long-term asset value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "COM52",
+      "inquiry_domain": "Digital & Omnichannel Strategy",
+      "question": "Are digital engagement plans in place (HCPs, patients, payers)?",
+      "rubric_tests": "Whether digital engagement strategies and plans are in place for key customer groups (HCPs, patients, payers), aligned to customer journeys and access needs, integrated with overall brand and commercial plans, with defined channels, content strategy, personalization approach, regulatory/compliance alignment, measurement/KPIs, governance, and audit readiness.",
+      "rationale": "Digital engagement is critical for driving awareness, education, uptake, and retention across HCPs, patients, and payers \u2014 lack of strategy leads to lost differentiation, poor customer experience, and underperformance in an increasingly digital-first market.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM53",
+      "inquiry_domain": "Digital & Omnichannel Strategy",
+      "question": "Are CRM, digital content, and analytics platforms identified or integrated?",
+      "rubric_tests": "Whether CRM, digital content management (DCM), and analytics platforms are identified, selected, validated, and integrated to support seamless customer engagement, content delivery, measurement, personalization, and optimization across HCP, patient, and payer touchpoints; aligned with regulatory and privacy requirements; governed with cross-functional accountability and audit readiness.",
+      "rationale": "Robust CRM, content, and analytics platforms are critical enablers of omnichannel engagement, customer insight, and execution excellence \u2014 gaps lead to fragmented customer experience, poor performance measurement, compliance risks, and loss of competitive advantage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM54",
+      "inquiry_domain": "Digital & Omnichannel Strategy",
+      "question": "Is there an omnichannel marketing or medical affairs plan?",
+      "rubric_tests": "Whether an integrated omnichannel marketing and/or medical affairs plan is documented, aligned to brand, launch, and scientific communication strategies; supported by customer journey mapping, channel mix, content strategy, personalization, compliance alignment, cross-functional governance, measurement frameworks, and audit readiness.",
+      "rationale": "Omnichannel marketing and medical engagement plans are essential to deliver personalized, high-impact interactions with HCPs, patients, and payers \u2014 lack of integration leads to fragmented experiences, reduced effectiveness, compliance risks, and suboptimal commercial and scientific outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM55",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are revenue forecasts realistic and well-documented?",
+      "rubric_tests": "Whether revenue forecasts are evidence-based, realistic, and well-documented; supported by validated assumptions, triangulated with market data, competitive intelligence, analogs, payer and HTA insights, launch timelines, access probabilities, and adoption curves; with scenario analysis, sensitivity testing, governance sign-off, and audit readiness.",
+      "rationale": "Robust, transparent revenue forecasting is critical for investor confidence, valuation, internal resource allocation, BD negotiations, and launch planning \u2014 unrealistic or poorly documented forecasts erode credibility and increase financial and execution risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM56",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are assumptions (uptake curve, market share, price, attrition) transparent?",
+      "rubric_tests": "Whether key forecast assumptions (uptake curve, market share, price, attrition, patient eligibility) are fully transparent, documented, evidence-based, triangulated with analogs, validated cross-functionally, version-controlled, scenario-tested, and consistent with external communications and governance-approved.",
+      "rationale": "Transparent, evidence-based assumptions are critical to forecast credibility, investor trust, internal alignment, and financial risk management \u2014 lack of transparency leads to over-optimism, disconnects with execution, and value erosion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM57",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are sensitivity/scenario analyses conducted for key risks?",
+      "rubric_tests": "Whether comprehensive sensitivity and scenario analyses are conducted on key forecast risks (adoption, market share, pricing, access probability, launch timing, competitor dynamics, patient funnel, attrition), documented in risk-adjusted models, reviewed with cross-functional stakeholders, and used in governance and external communications.",
+      "rationale": "Sensitivity and scenario analyses are critical to financial risk management, investor and partner trust, and informed decision-making \u2014 absence results in over-optimism, poor contingency planning, and increased execution and financial risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COM58",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are forecasts aligned with clinical and regulatory timelines?",
+      "rubric_tests": "Whether revenue forecasts are fully aligned with clinical development and regulatory timelines, including trial readouts, submission milestones, approval timelines, potential delays, manufacturing readiness, post-approval commitments, and impact on launch timing, ramp curves, and country sequencing.",
+      "rationale": "Forecasts that are disconnected from clinical and regulatory realities lead to over-optimism, misaligned resource planning, BD mistrust, and erosion of investor credibility \u2014 alignment is critical for grounded valuation and operational readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

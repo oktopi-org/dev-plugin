@@ -1,0 +1,4548 @@
+{
+  "function_code": "STAT",
+  "modality": "biologics",
+  "function_name": "Biostatistics",
+  "question_count": 76,
+  "critical_index": {
+    "SR": {
+      "SG5": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT32",
+        "BSTAT41",
+        "BSTAT47",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT68",
+        "BSTAT69",
+        "BSTAT73",
+        "BSTAT74"
+      ],
+      "SG6": [
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT12",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT41",
+        "BSTAT47",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG4": [
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT47",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT68",
+        "BSTAT73",
+        "BSTAT74"
+      ],
+      "SG7": [
+        "BSTAT5",
+        "BSTAT18",
+        "BSTAT24",
+        "BSTAT41",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG8": [
+        "BSTAT18",
+        "BSTAT41",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT75"
+      ]
+    },
+    "OE": {
+      "SG5": [
+        "BSTAT5",
+        "BSTAT13",
+        "BSTAT14",
+        "BSTAT15",
+        "BSTAT16",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT20",
+        "BSTAT58",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT68"
+      ],
+      "SG6": [
+        "BSTAT5",
+        "BSTAT9",
+        "BSTAT10",
+        "BSTAT13",
+        "BSTAT14",
+        "BSTAT15",
+        "BSTAT16",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT20",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT33",
+        "BSTAT34",
+        "BSTAT35",
+        "BSTAT36",
+        "BSTAT37",
+        "BSTAT40",
+        "BSTAT58",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT73"
+      ],
+      "SG7": [
+        "BSTAT5",
+        "BSTAT9",
+        "BSTAT10",
+        "BSTAT13",
+        "BSTAT14",
+        "BSTAT15",
+        "BSTAT16",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT20",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT33",
+        "BSTAT34",
+        "BSTAT35",
+        "BSTAT36",
+        "BSTAT37",
+        "BSTAT40",
+        "BSTAT42",
+        "BSTAT58",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT65",
+        "BSTAT73"
+      ],
+      "SG8": [
+        "BSTAT5",
+        "BSTAT9",
+        "BSTAT10",
+        "BSTAT13",
+        "BSTAT14",
+        "BSTAT15",
+        "BSTAT16",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT20",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT33",
+        "BSTAT34",
+        "BSTAT35",
+        "BSTAT36",
+        "BSTAT37",
+        "BSTAT39",
+        "BSTAT40",
+        "BSTAT42",
+        "BSTAT58",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT65",
+        "BSTAT73"
+      ]
+    },
+    "DD": {
+      "SG5": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT32",
+        "BSTAT41",
+        "BSTAT47",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT68",
+        "BSTAT69",
+        "BSTAT73",
+        "BSTAT74"
+      ],
+      "SG6": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT12",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT41",
+        "BSTAT47",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG7": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT12",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT41",
+        "BSTAT42",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG8": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT12",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT41",
+        "BSTAT42",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT75"
+      ],
+      "SG4": [
+        "BSTAT5",
+        "BSTAT47",
+        "BSTAT48",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT68",
+        "BSTAT73",
+        "BSTAT74"
+      ]
+    },
+    "RS": {
+      "SG6": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT9",
+        "BSTAT10",
+        "BSTAT11",
+        "BSTAT12",
+        "BSTAT13",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT21",
+        "BSTAT22",
+        "BSTAT23",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT28",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT37",
+        "BSTAT41",
+        "BSTAT42",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT47",
+        "BSTAT54",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG7": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT9",
+        "BSTAT10",
+        "BSTAT11",
+        "BSTAT12",
+        "BSTAT13",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT21",
+        "BSTAT22",
+        "BSTAT23",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT28",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT37",
+        "BSTAT39",
+        "BSTAT41",
+        "BSTAT42",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT47",
+        "BSTAT54",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT72",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG8": [
+        "BSTAT1",
+        "BSTAT2",
+        "BSTAT3",
+        "BSTAT4",
+        "BSTAT5",
+        "BSTAT6",
+        "BSTAT9",
+        "BSTAT10",
+        "BSTAT11",
+        "BSTAT12",
+        "BSTAT13",
+        "BSTAT17",
+        "BSTAT18",
+        "BSTAT21",
+        "BSTAT22",
+        "BSTAT23",
+        "BSTAT24",
+        "BSTAT25",
+        "BSTAT26",
+        "BSTAT27",
+        "BSTAT28",
+        "BSTAT29",
+        "BSTAT32",
+        "BSTAT37",
+        "BSTAT39",
+        "BSTAT40",
+        "BSTAT41",
+        "BSTAT42",
+        "BSTAT43",
+        "BSTAT44",
+        "BSTAT47",
+        "BSTAT54",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT65",
+        "BSTAT66",
+        "BSTAT67",
+        "BSTAT69",
+        "BSTAT70",
+        "BSTAT71",
+        "BSTAT72",
+        "BSTAT73",
+        "BSTAT74",
+        "BSTAT75",
+        "BSTAT76"
+      ],
+      "SG5": [
+        "BSTAT5",
+        "BSTAT41",
+        "BSTAT47",
+        "BSTAT61",
+        "BSTAT62",
+        "BSTAT63",
+        "BSTAT64",
+        "BSTAT67",
+        "BSTAT68",
+        "BSTAT73",
+        "BSTAT74"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "BSTAT1",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Evaluates whether the study design is scientifically justified, operationally feasible, statistically robust, and aligned with the clinical development phase and objective for a mAb/bispecific program.",
+      "rubric_tests": "Design selection is pivotal in biologic development, directly impacting regulatory success, trial validity, resource utilization, and ethical acceptability. Designs must account for biologic-specific factors including immunogenicity risk, PK variability, dose\u2013response complexity, and target-mediated drug disposition (TMDD). Designs misaligned with objectives or lacking justification may lead to delayed development, increased cost, or regulatory rejection. ICH E6(R2), ICH E9(R1), ICH S6(R1), FDA, EMA, and MHRA all require clearly justified, well-documented, and fit-for-purpose designs.",
+      "rationale": "The appropriateness of study design is pivotal to trial integrity, interpretability of results, regulatory success, and operational feasibility for mAb/bispecific programs. Designs that fail to account for biologic-specific pharmacology (e.g., non-linear PK, immunogenicity, target biology) increase the likelihood of failure. Guidance like ICH E6(R2), ICH E9(R1), and ICH S6(R1) emphasizes careful design planning to reduce bias and error.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT2",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Is the control arm selection (placebo, SoC, active comparator, biosimilar, historical, external) justified statistically for the biologic program?",
+      "rubric_tests": "Evaluates whether the chosen control arm is appropriate for the clinical context of a mAb/bispecific, supported by statistical justification, and aligned with regulatory, ethical, and scientific expectations. For biologic programs, this includes consideration of biosimilar comparators, biologic SoC, and the feasibility of placebo controls given disease severity and available treatments.",
+      "rationale": "The control arm is a cornerstone of trial validity. For mAb/bispecific programs, control selection must consider biologic-specific factors including immunogenicity differences between products, route of administration (IV vs SC), and comparability of biologic SoC agents. ICH E10, ICH S6(R1), FDA, and EMA emphasize justification and methodological rigor. External controls using biologic real-world data require careful adjustment for biologic-specific confounders.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT3",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Are endpoints (primary, secondary, exploratory) clearly defined and measurable, including biologic-specific endpoints such as immunogenicity, PK/PD, and biomarker endpoints?",
+      "rubric_tests": "Assesses whether endpoints are explicitly defined, scientifically justified, clinically meaningful, and statistically measurable for a mAb/bispecific program. Includes evaluation of biologic-specific endpoints such as anti-drug antibody (ADA) incidence and titer, neutralizing antibody (NAb) status, PK parameters (Cmax, AUC, Ctrough), receptor occupancy (RO), target engagement biomarkers, and pharmacodynamic endpoints.",
+      "rationale": "Endpoints drive trial design, regulatory approval, statistical analysis, and label claims. For biologics, immunogenicity and PK/PD endpoints are often co-primary or key secondary. Ambiguous or inappropriate endpoints compromise data interpretability. ICH E9(R1) requires precise definition aligned with estimands; ICH S6(R1) and FDA immunogenicity guidance require pre-specified ADA/NAb analysis plans. Endpoints must be valid, reliable, and feasible for consistent measurement.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT4",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Are study designs powered adequately for subgroups and stratifications, including biologic-relevant subgroups (e.g., ADA status, biomarker-defined populations, prior biologic exposure)?",
+      "rubric_tests": "Evaluates whether the clinical trial design incorporates sufficient statistical power to detect meaningful effects within predefined subgroups relevant to mAb/bispecific programs, including immunogenicity subgroups (ADA+/ADA\u2212), biomarker-defined populations (e.g., target expression level), prior biologic exposure, and weight-based dosing strata.",
+      "rationale": "Subgroup and stratified analyses are crucial for biologic programs where patient heterogeneity in immunogenicity, target expression, and prior biologic exposure can significantly impact treatment effect. Regulatory bodies increasingly expect sponsors to prespecify and adequately power key subgroup analyses for biologics\u2014especially ADA-stratified analyses and biomarker-defined subpopulations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT5",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Is the sample size calculation documented and aligned with the protocol objectives, accounting for biologic-specific variability and dropout patterns?",
+      "rubric_tests": "Evaluates whether the trial sample size has been statistically derived, explicitly documented, and appropriately linked to the study objectives for a mAb/bispecific program. Includes consideration of biologic-specific sources of variability (immunogenicity-related attrition, PK variability from TMDD, weight-based dosing strata) and their impact on power.",
+      "rationale": "Sample size for biologic programs must account for higher PK variability than small molecules, potential immunogenicity-driven dropout, and subgroup analyses (e.g., ADA+/ADA\u2212). ICH E9, FDA, EMA, and MHRA emphasize transparency and alignment of assumptions. Modern expectations include linkage to estimands and scenario-based evaluation accounting for biologic-specific uncertainty.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT6",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Are assumptions for effect size, variance, dropout, and power explicitly stated and justified, including biologic-specific parameters (e.g., immunogenicity-driven attrition, PK variability)?",
+      "rubric_tests": "Assesses whether the statistical assumptions underlying the sample size calculation are clearly articulated and evidence-based for a mAb/bispecific program. Includes validation of assumptions for biologic-specific factors: immunogenicity-related discontinuation rates, inter-subject PK variability from TMDD, and heterogeneous treatment effects across biomarker subgroups.",
+      "rationale": "For biologic programs, assumptions about dropout, variability, and effect size must be grounded in biologic-specific data. Immunogenicity can cause unexpected attrition; TMDD introduces non-linear PK variability; biomarker heterogeneity affects treatment effects. ICH E9 and regulatory guidance require justified, evidence-based assumptions with sensitivity analyses.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT7",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Is re-estimation or adaptive resizing incorporated into the design if appropriate, considering biologic-specific uncertainty?",
+      "rubric_tests": "Assesses whether the study includes plans for interim sample size re-estimation (SSR) or adaptive resizing for a mAb/bispecific program, where appropriate, based on biologic-specific uncertainties such as immunogenicity rates, PK variability, and biomarker-driven response heterogeneity.",
+      "rationale": "When initial assumptions are uncertain\u2014common in biologic programs due to limited prior biologic data, novel targets, or complex PK\u2014incorporating a preplanned re-estimation strategy improves trial robustness. Regulatory agencies accept SSR designs if prespecified and properly controlling Type I error. SSR is especially valuable for first-in-class biologics or bispecifics with limited precedent.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT8",
+      "inquiry_domain": "Sample Size Justification",
+      "question": "Are simulations used to validate assumptions for complex or adaptive designs, including biologic-specific PK/PD and immunogenicity scenarios?",
+      "rubric_tests": "Assesses whether simulations evaluate statistical operating characteristics under varying biologic-specific assumptions, including immunogenicity impact on efficacy/PK, dose\u2013response under TMDD, and biomarker-driven enrichment or stratification scenarios.",
+      "rationale": "Complex biologic trial designs introduce unique statistical and operational uncertainty. Simulations must capture biologic-specific dynamics including non-linear PK, immunogenicity impact on exposure-response, and target-mediated clearance. Regulatory bodies (FDA, EMA) explicitly expect simulation-based validation for adaptive and innovative biologic designs, particularly for bispecifics with novel mechanisms.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT9",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Is there a finalized and signed SAP before database lock or unblinding?",
+      "rubric_tests": "Evaluates whether the SAP is completed, version-controlled, and formally approved before access to unblinded data or database lock. Confirms regulatory compliance, internal alignment, and readiness for inspection or submission.",
+      "rationale": "A finalized SAP before unblinding or database lock is a foundational requirement of GCP, ICH E9, FDA, EMA, and MHRA. It ensures pre-specification of primary and secondary analyses, avoids data-driven decisions, and protects trial integrity. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT10",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Does the SAP cover primary/secondary endpoint analysis, handling of missing data, interim analyses, multiplicity adjustments, and biologic-specific analyses (immunogenicity, PK/PD)?",
+      "rubric_tests": "Evaluates whether the SAP includes a comprehensive framework covering all analyses relevant to a mAb/bispecific program: primary and secondary endpoint analysis, missing data strategies, interim analyses, multiplicity adjustments, and biologic-specific statistical plans for immunogenicity (ADA/NAb analysis), PK/PD modeling, exposure-response analysis, and biomarker endpoints.",
+      "rationale": "For biologic programs, the SAP must go beyond standard content to include pre-specified immunogenicity analysis plans (ADA cut-point validation, tiered testing strategy), PK/PD analysis methods, and exposure-response approaches. FDA and EMA immunogenicity guidance requires detailed statistical plans for ADA assessment. Incomplete biologic-specific SAP content risks regulatory delay.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT11",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Are statistical methods aligned with the data structure, including biologic-specific data types (e.g., ADA titer data, non-linear PK, receptor occupancy)?",
+      "rubric_tests": "Assesses whether statistical models are appropriate for all data types in a mAb/bispecific program, including standard clinical endpoints and biologic-specific data: ADA incidence and titer (categorical/ordinal/continuous), non-linear PK from TMDD (non-compartmental and population PK methods), receptor occupancy (bounded proportion data), and longitudinal biomarker measurements.",
+      "rationale": "Biologic programs generate unique data structures that require specialized statistical approaches. ADA data requires tiered analysis; non-linear PK from TMDD demands population PK modeling rather than simple NCA; receptor occupancy is bounded. Regulatory authorities require appropriate model selection. Inappropriate methods lead to invalid inferences and regulatory risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT12",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Are exploratory analyses (e.g., biomarker correlations, subgroup interactions, immunogenicity impact on efficacy/safety) pre-specified?",
+      "rubric_tests": "Evaluates whether exploratory analyses relevant to a mAb/bispecific program\u2014including biomarker\u2013response correlations, ADA impact on PK/efficacy/safety, target engagement correlations, and bispecific arm-specific biomarker analyses\u2014are planned and justified in the SAP prior to unblinding.",
+      "rationale": "For biologic programs, exploratory analyses around immunogenicity impact on efficacy and safety, biomarker-response relationships, and target engagement are critical for lifecycle management and label strategy. Regulators expect clear distinction between pre-planned and post hoc analyses. Pre-specification builds confidence in signals and supports future biologic development decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT13",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Is the randomization schema adequately designed and implemented, accounting for biologic-specific stratification factors (e.g., prior biologic exposure, ADA status, weight-based dosing tier)?",
+      "rubric_tests": "Evaluates whether the randomization approach is methodologically sound and aligned with key prognostic variables relevant to mAb/bispecific programs, including prior biologic use, body weight (for weight-based dosing), baseline biomarker levels, and concomitant immunosuppressant use.",
+      "rationale": "For biologic programs, stratification factors must reflect biologic-specific sources of heterogeneity. Prior biologic exposure and concomitant immunosuppression affect both efficacy and immunogenicity risk. Weight-based dosing tiers can affect exposure and treatment effect. Regulatory authorities require transparent and sound randomization aligned with these biologic-specific prognostic factors.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT14",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Are randomization and blinding methods fully documented and reproducible?",
+      "rubric_tests": "Evaluates whether all aspects of randomization and blinding are transparently documented, reproducible, and consistent with regulatory expectations. This includes method selection, sequence generation, concealment, system validation, role-based access, and reproducibility for audits or reanalysis.",
+      "rationale": "Clear documentation and reproducibility are regulatory imperatives (ICH E6(R2), FDA, EMA, MHRA). Authorities must be able to verify how randomization was conducted, whether allocation was concealed, and whether blinding was maintained. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT15",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Is allocation concealment maintained (via IRT, centralized systems)?",
+      "rubric_tests": "Assesses whether assignment to treatment groups was protected from prediction or manipulation through centralized, secure, and validated systems.",
+      "rationale": "Allocation concealment prevents selection bias and is critical to maintaining trial integrity. Regulatory bodies consider failure to maintain allocation concealment a critical GCP breach. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT16",
+      "inquiry_domain": "Randomization & Blinding",
+      "question": "Are emergency unblinding protocols in place and appropriately used, including provisions for biologic-specific safety events (e.g., anaphylaxis, severe infusion reactions, cytokine release syndrome)?",
+      "rubric_tests": "Assesses whether clear, pre-specified procedures exist to unblind treatment assignment in urgent medical situations relevant to mAb/bispecific programs, including biologic-specific acute events such as anaphylaxis, severe infusion/injection-site reactions, cytokine release syndrome (CRS), and immune-mediated adverse events.",
+      "rationale": "Emergency unblinding for biologic programs must address biologic-specific acute safety events that require immediate treatment decisions. CRS in bispecifics, anaphylaxis from mAbs, and severe infusion reactions may necessitate unblinding for appropriate clinical management. Protocols must balance patient safety with study integrity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT17",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Are interim analyses pre-specified with alpha-spending and decision rules documented, including biologic-specific monitoring triggers (e.g., immunogenicity signal, CRS incidence)?",
+      "rubric_tests": "Evaluates whether interim analyses are statistically pre-specified, control type I error, and include biologic-specific monitoring triggers such as immunogenicity incidence thresholds, CRS grading, and infusion reaction rates that may warrant early safety review or adaptation.",
+      "rationale": "For mAb/bispecific programs, interim analyses must incorporate biologic-specific safety signals alongside standard efficacy monitoring. Immunogenicity emergence, CRS in bispecifics, and infusion reactions require pre-defined monitoring triggers. Regulatory agencies demand alpha-spending plans and clearly documented rules, including biologic-specific stopping criteria.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT18",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Is the role of the DSMB and its statistical charter clearly defined, with competency in biologic-specific safety assessment (immunogenicity, CRS, immune-mediated events)?",
+      "rubric_tests": "Evaluates whether the DSMB charter includes remit for biologic-specific safety monitoring, including immunogenicity trends, CRS events, immune-mediated adverse events, and whether the DSMB includes expertise in biologic pharmacology and immunology.",
+      "rationale": "For mAb/bispecific programs, the DSMB must have competency in biologic-specific safety signals. CRS monitoring is critical for bispecific T-cell engagers; immunogenicity trends require specialized interpretation; immune-mediated adverse events need expert adjudication. The DSMB charter must specify biologic-specific monitoring responsibilities and expertise requirements.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT19",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Are simulations or operating characteristics documented for adaptive or group sequential designs?",
+      "rubric_tests": "Assesses whether clinical trial designs involving interim looks or adaptations are backed by documented simulations that justify error control, decision logic, and design performance under a range of assumptions.",
+      "rationale": "Adaptive and group sequential trials increase efficiency but carry risk of bias or Type I error inflation if not rigorously planned. ICH E9(R1), FDA adaptive design guidance, and EMA reflection papers emphasize simulation-based validation. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT20",
+      "inquiry_domain": "Interim Analysis & DSMB",
+      "question": "Is firewalled access to unblinded interim data properly controlled?",
+      "rubric_tests": "Evaluates whether access to unblinded interim data is appropriately restricted, documented, and monitored through clearly defined firewalls.",
+      "rationale": "Interim unblinded data presents a significant risk to trial validity if accessed inappropriately. Regulators require stringent firewall controls. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT21",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Are missing data patterns analyzed (MCAR, MAR, MNAR) and methods for imputation defined, including immunogenicity-driven and infusion-related discontinuations?",
+      "rubric_tests": "Evaluates whether missing data patterns are formally assessed for a mAb/bispecific program, including biologic-specific causes of missingness: immunogenicity-driven discontinuation (ADA-related loss of efficacy or adverse events), infusion/injection reactions leading to dropout, and CRS-related treatment interruptions.",
+      "rationale": "For biologic programs, missing data mechanisms are often related to immunogenicity or tolerability. ADA development can cause progressive loss of efficacy leading to MNAR missingness. Infusion reactions cause informative dropout. These biologic-specific mechanisms must be identified and addressed with appropriate statistical methods. FDA and EMA guidance requires pre-specified strategies aligned with the estimand framework.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT22",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Are primary analyses robust to missingness (e.g., MMRM, multiple imputation, tipping point)?",
+      "rubric_tests": "Assesses whether primary analyses are sufficiently robust to missing data using model-based approaches and sensitivity frameworks.",
+      "rationale": "Missing data can bias treatment effect estimates and compromise trial integrity. Modern expectations require robust primary analyses under plausible missingness assumptions. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT23",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Are sensitivity analyses pre-specified and included in SAP and CSR?",
+      "rubric_tests": "Evaluates whether sensitivity analyses are pre-planned, methodologically appropriate, and consistently presented in both the SAP and CSR.",
+      "rationale": "Sensitivity analyses determine whether conclusions hold under alternative assumptions. Regulatory bodies require pre-specification in the SAP and reporting in the CSR. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT24",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Is handling of intercurrent events aligned with ICH E9(R1) estimand principles, including biologic-specific intercurrent events (e.g., ADA-driven switching, immunosuppressant addition, dose modification for immunogenicity)?",
+      "rubric_tests": "Evaluates whether intercurrent events specific to mAb/bispecific programs are identified and handled per ICH E9(R1): treatment switching due to immunogenicity, addition of concomitant immunosuppressants to manage ADA, dose interruption/modification for infusion reactions or CRS, and rescue medication use. Strategies (treatment policy, hypothetical, composite, while-on-treatment, principal stratum) must be defined for each biologic-specific ICE.",
+      "rationale": "For biologic programs, intercurrent events often arise from immunogenicity (dose modification, treatment switching, immunosuppressant addition) and tolerability (infusion reaction dose delays). These are distinct from small molecule ICEs and require biologic-specific estimand strategies. Misalignment between ICE handling and estimand is a top cause of statistical rejection.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT25",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Is a hierarchy or other multiplicity correction method applied to multiple endpoints or comparisons, including biologic-specific endpoint families (efficacy, immunogenicity, PK)?",
+      "rubric_tests": "Evaluates whether appropriate multiplicity methods are applied across the endpoint families typical of mAb/bispecific programs: primary efficacy endpoints, key secondary efficacy endpoints, immunogenicity endpoints (ADA incidence, NAb), PK endpoints (exposure parameters), and biomarker endpoints.",
+      "rationale": "Biologic programs typically test multiple endpoint families spanning efficacy, immunogenicity, and PK. The multiplicity strategy must account for the broader family of hypotheses typical of biologic submissions. Regulatory authorities require pre-defined and controlled Type I error across all confirmatory hypotheses.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT26",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Is the overall alpha preserved across interim and final analyses?",
+      "rubric_tests": "Evaluates whether the cumulative Type I error rate is properly controlled when interim analyses are conducted alongside the final analysis.",
+      "rationale": "Each interim look increases the risk of inflating Type I error. Regulatory agencies require pre-specification and robust implementation of alpha-spending methods. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT27",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Are multiplicity plans clearly linked to regulatory expectations (e.g., for co-primary endpoints)?",
+      "rubric_tests": "Evaluates whether the multiplicity strategy is aligned with current regulatory guidelines and expectations, particularly for co-primary endpoints, key secondary endpoints, and multiple treatment arms.",
+      "rationale": "Regulatory agencies expect sponsors to explicitly pre-specify and justify multiplicity strategies in alignment with the intended label claims. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT28",
+      "inquiry_domain": "Multiplicity & Type I Error Control",
+      "question": "Are gatekeeping strategies used for secondary and exploratory endpoints?",
+      "rubric_tests": "Assesses whether gatekeeping procedures are appropriately applied to control Type I error across families of secondary and exploratory endpoints.",
+      "rationale": "Secondary endpoints often drive label expansions and market access negotiations. Without proper gatekeeping, regulators will refuse label claims. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT29",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Are subgroup analyses pre-specified with clear hypotheses, including biologic-relevant subgroups (ADA status, prior biologic use, biomarker expression level, weight-based dosing tier)?",
+      "rubric_tests": "Assesses whether subgroup analyses relevant to mAb/bispecific programs are pre-specified with clear hypotheses, including: ADA-positive vs ADA-negative subgroups, prior biologic-experienced vs na\u00efve populations, biomarker expression levels (e.g., target receptor density), and weight-based dosing tiers.",
+      "rationale": "For biologic programs, subgroup analyses around immunogenicity status, prior biologic exposure, and biomarker-defined populations are critical for precision medicine and regulatory decision-making. Regulatory agencies expect pre-specification, clinical justification, and adequate power. Poorly planned subgroup analyses are a common source of regulatory pushback for biologics.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT30",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Is interaction testing used rather than isolated subgroup p-values?",
+      "rubric_tests": "Assesses whether subgroup analyses are supported by formal interaction testing rather than standalone p-values in each subgroup.",
+      "rationale": "Regulatory agencies emphasize the importance of formal interaction testing to detect true effect modification. Misuse of within-subgroup p-values leads to inflated Type I error and potential mislabeling. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT31",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Are exploratory endpoints analyzed descriptively or inferentially (and pre-defined as such)?",
+      "rubric_tests": "Evaluates whether exploratory endpoints are clearly pre-defined, appropriately labeled, and analyzed without misleading inferential conclusions.",
+      "rationale": "Exploratory endpoints are valuable for hypothesis generation but are not typically intended for confirmatory conclusions. Regulators require clear distinction between confirmatory, supportive, and exploratory endpoints. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT32",
+      "inquiry_domain": "Subgroup & Exploratory Analyses",
+      "question": "Are biomarker cutoffs and statistical approaches validated or exploratory, including biologic-specific biomarkers (target expression, receptor occupancy, ADA titer thresholds)?",
+      "rubric_tests": "Evaluates whether biomarker analyses relevant to mAb/bispecific programs\u2014including target expression cutoffs (e.g., IHC scoring), receptor occupancy thresholds, ADA titer-based subgrouping, and soluble target level cutpoints\u2014are conducted using validated, pre-defined methodologies or are exploratory.",
+      "rationale": "For biologic programs, biomarker cutoffs for target expression, RO, and immunogenicity are increasingly used for patient selection and enrichment. FDA and EMA expect transparent, pre-specified approaches. Data-driven cutoff selection without validation increases false discovery risk and can misdirect clinical development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT33",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are statistical analyses performed in validated tools (e.g., SAS, R) under GxP-compliant environments?",
+      "rubric_tests": "Evaluates whether statistical analyses are conducted using validated software in GxP-compliant environments ensuring data integrity, traceability, reproducibility, and regulatory defensibility.",
+      "rationale": "Statistical analyses underpin pivotal trial results. If the environment is not validated or GxP-compliant, regulators may question reliability. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT34",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are programs version-controlled and independently verified (double programming or QC)?",
+      "rubric_tests": "Evaluates whether biostatistical programs are version-controlled, independently verified, and subject to rigorous QC processes.",
+      "rationale": "Programs used in analysis must be independently verified and traceable. Failure to version-control or verify statistical code can result in undetected errors and inspection findings. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT35",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are outputs reproducible and audit-ready?",
+      "rubric_tests": "Assesses whether statistical outputs are fully reproducible from source data using traceable, version-controlled code and are audit-ready.",
+      "rationale": "Regulators expect reproducibility of key outputs from raw data using audit-trailed workflows. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT36",
+      "inquiry_domain": "Software, Tools, and Validation",
+      "question": "Are macros, templates, and SOPs in place for core analyses?",
+      "rubric_tests": "Assesses whether statistical programming relies on validated, standardized macros, templates, and SOPs for generating core outputs.",
+      "rationale": "Consistent application of pre-validated macros and templates reduces error risk and increases efficiency. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT37",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Are TLFs consistent with the SAP and protocol-defined endpoints, including biologic-specific TLFs (immunogenicity summary tables, PK parameter tables, exposure-response figures)?",
+      "rubric_tests": "Evaluates whether TLFs include all biologic-specific outputs required for mAb/bispecific submissions: ADA incidence/titer summary tables, PK parameter summary tables (by dose, weight tier, ADA status), exposure-response figures, receptor occupancy plots, and immunogenicity impact on efficacy/safety summary tables.",
+      "rationale": "For biologic programs, TLFs must include a broader set of outputs than small molecule programs. FDA and EMA expect dedicated immunogenicity summary tables, PK parameter tables stratified by relevant factors, and exposure-response analyses. Missing biologic-specific TLFs can delay filing or trigger regulatory questions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT38",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Are outputs labeled clearly with proper titles, units, and footnotes?",
+      "rubric_tests": "Assesses whether all TLF outputs are clearly labeled with appropriate titles, measurement units, and informative footnotes.",
+      "rationale": "Clear labeling is essential for regulatory review and interpretation. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT39",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Are statistical methods described in the CSR aligned with actual execution?",
+      "rubric_tests": "Evaluates whether statistical methods described in the CSR match what was actually performed in the analysis.",
+      "rationale": "Regulatory reviewers cross-check CSR methods descriptions against actual analyses. Misalignment undermines credibility. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT40",
+      "inquiry_domain": "CSR Tables, Listings, and Figures (TLFs)",
+      "question": "Is traceability from raw data to TLFs documented and auditable?",
+      "rubric_tests": "Assesses whether traceability from raw data to final TLFs is documented and audit-ready.",
+      "rationale": "Full traceability from raw data to outputs is a regulatory expectation for inspection readiness. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT41",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Have biostatistical components been part of regulatory meetings (e.g., EoP2, Type B/C, BLA pre-submission), including biologic-specific statistical topics (immunogenicity analysis plan, PK/PD strategy)?",
+      "rubric_tests": "Evaluates whether biologic-specific biostatistical topics were included in regulatory interactions: immunogenicity analysis strategy, PK/PD modeling approach, exposure-response methodology, and biologic-specific endpoint definitions. Includes BLA-specific pre-submission meetings.",
+      "rationale": "For mAb/bispecific programs, regulatory meetings must cover biologic-specific statistical topics. FDA and EMA frequently raise immunogenicity analysis plans, PK/PD modeling choices, and biosimilarity assessment methods. Failure to address these proactively risks late-stage regulatory questions and delays to BLA/MAA filing.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT42",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Are datasets CDISC-compliant (SDTM, ADaM) and submission-ready, including biologic-specific domains (IS/immunogenicity, PP/PK parameters, PC/pharmacokinetic concentrations)?",
+      "rubric_tests": "Evaluates whether CDISC datasets include biologic-specific domains: IS domain for immunogenicity (ADA/NAb), PP domain for PK parameters, PC domain for concentration-time data, and appropriate ADaM datasets for exposure-response and immunogenicity analyses.",
+      "rationale": "Biologic submissions require specialized CDISC domains. The IS domain for immunogenicity data, PP for PK parameters, and PC for concentration data must be properly structured per CDISC standards. Incomplete biologic-specific CDISC domains can delay FDA review or trigger data standards questions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT43",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Are mock ISS/ISE or briefing package analyses conducted, including integrated immunogenicity and PK summaries?",
+      "rubric_tests": "Evaluates whether mock integrated summaries include biologic-specific pooled analyses: integrated immunogenicity summaries across studies, pooled PK parameter analyses, exposure-response analyses across the development program, and integrated ADA impact on efficacy/safety analyses.",
+      "rationale": "For biologic programs, integrated summaries must include pooled immunogenicity and PK data across the development program. FDA expects integrated immunogenicity summaries in BLA submissions. Mock ISS/ISE should include biologic-specific analyses to identify gaps early.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT44",
+      "inquiry_domain": "Regulatory Interactions & Filing Readiness",
+      "question": "Is there a statistical strategy for responding to regulatory questions or ad hoc analyses, including anticipated biologic-specific queries (immunogenicity impact, exposure-response, comparability)?",
+      "rubric_tests": "Evaluates whether the statistical team has prepared for anticipated biologic-specific regulatory queries: ADA impact on efficacy and safety, exposure-response relationships, PK comparability across formulations or manufacturing changes, and dose justification.",
+      "rationale": "Biologic programs attract specific regulatory questions about immunogenicity impact, exposure-response relationships, and manufacturing comparability. Having pre-planned analytical strategies for these predictable queries accelerates response time and improves submission quality.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT45",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Are biostatisticians embedded early in protocol development and feasibility assessments?",
+      "rubric_tests": "Evaluates whether biostatisticians are involved from the earliest stages of protocol development and contribute to feasibility assessments.",
+      "rationale": "Early biostatistician involvement ensures that study design, sample size, and analysis plans are aligned from the outset. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT46",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Do biostatisticians collaborate with clinicians, clinical pharmacology, immunogenicity scientists, clinical operations, safety, and regulatory in trial design?",
+      "rubric_tests": "Evaluates whether biostatisticians collaborate with biologic-specific functions: clinical pharmacology (for PK/PD modeling and exposure-response), immunogenicity scientists (for ADA/NAb analysis strategy), biomarker teams (for target engagement and patient selection), and regulatory for biologic-specific filing requirements.",
+      "rationale": "For mAb/bispecific programs, biostatisticians must work closely with clinical pharmacology and immunogenicity teams to ensure statistical plans align with biologic-specific analyses. Siloed design leads to misaligned PK/PD strategies, inadequate immunogenicity analysis plans, and missed opportunities for integrated analysis.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT47",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Are biostatisticians involved in modeling and simulation to support dose and regimen decisions, including population PK/PD and exposure-response modeling for biologics?",
+      "rubric_tests": "Evaluates whether biostatisticians contribute to biologic-specific modeling: population PK modeling incorporating TMDD, exposure-response analyses for dose justification, model-based dose selection across weight tiers, and simulation of dosing regimens (e.g., IV to SC switching, loading dose strategies).",
+      "rationale": "For biologic programs, dose and regimen decisions rely heavily on population PK/PD modeling. Biostatisticians must be involved in modeling non-linear PK from TMDD, simulating weight-based dosing strategies, and supporting exposure-response analyses that inform dose justification in BLA/MAA submissions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT48",
+      "inquiry_domain": "Integration with Other Functions",
+      "question": "Are statistical insights used in go/no-go, stage gate, and portfolio prioritization decisions?",
+      "rubric_tests": "Evaluates whether statistical insights are integrated into governance and decision-making frameworks.",
+      "rationale": "Statistical insights are essential for evidence-based decision-making at stage gates and portfolio reviews. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT49",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Are statistical methodologies used to support external control comparisons (e.g., propensity scores, IPTW), including biologic-specific confounders (prior biologic use, immunosuppressant history)?",
+      "rubric_tests": "Evaluates whether external control methodologies account for biologic-specific confounders: prior biologic exposure and sequencing effects, concomitant immunosuppressant use, body weight (for weight-based dosing comparability), and disease severity markers relevant to biologic response.",
+      "rationale": "External control comparisons for biologic programs must adjust for biologic-specific confounders that are often absent in small molecule comparisons. Prior biologic exposure significantly affects treatment response and immunogenicity risk. Immunosuppressant use modifies both efficacy and ADA development. These factors must be properly adjusted in external control analyses.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT50",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Are assumptions and model specifications validated for real-world comparators?",
+      "rubric_tests": "Evaluates whether assumptions and model specifications for real-world comparators are validated and appropriate.",
+      "rationale": "Model assumptions for real-world comparisons must be validated. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT51",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Are external control data fit-for-purpose and statistically justified for inclusion?",
+      "rubric_tests": "Evaluates whether external control data are appropriate, comparable, and statistically justified for use in supporting the biologic program.",
+      "rationale": "External control data must be fit-for-purpose and statistically justified. This requirement applies equally to biologic programs, though biologic-specific data quality considerations (e.g., biosimilar switching in external data) add complexity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT52",
+      "inquiry_domain": "Real-World Data & External Controls",
+      "question": "Is FDA/EMA guidance on RWE-based comparisons being followed?",
+      "rubric_tests": "Evaluates whether RWE-based comparisons follow current FDA/EMA guidance on real-world evidence.",
+      "rationale": "Regulatory guidance on RWE continues to evolve. Compliance with current guidance is essential for regulatory acceptance. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT53",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Are statistical methods clearly described in peer-reviewed publications or conference abstracts?",
+      "rubric_tests": "Evaluates whether statistical methods are transparently described in publications and abstracts.",
+      "rationale": "Transparent reporting of statistical methods supports scientific integrity. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT54",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Is there alignment between protocol, SAP, registry entry (e.g., ClinicalTrials.gov), and publication?",
+      "rubric_tests": "Evaluates consistency across all trial documentation including registry entries.",
+      "rationale": "Alignment across documents is essential for transparency and regulatory credibility. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT55",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Are statistical analyses presented with confidence intervals, effect sizes, and assumptions?",
+      "rubric_tests": "Evaluates whether results are presented with appropriate statistical measures.",
+      "rationale": "Complete statistical reporting supports interpretability and reproducibility. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT56",
+      "inquiry_domain": "Publications & Transparency",
+      "question": "Are post-hoc analyses clearly identified as such?",
+      "rubric_tests": "Evaluates whether post-hoc analyses are transparently labeled.",
+      "rationale": "Clear identification of post-hoc analyses is essential for scientific credibility. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT57",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Is there adequate internal or outsourced statistical resourcing across programs, including biologic-specific statistical expertise (immunogenicity analysis, population PK/PD, exposure-response)?",
+      "rubric_tests": "Evaluates whether the biostatistics function has adequate resourcing and competency in biologic-specific statistical methods: immunogenicity data analysis, population PK/PD modeling support, exposure-response methodology, and adaptive/Bayesian design expertise relevant to biologic development.",
+      "rationale": "Biologic programs require specialized statistical expertise beyond standard clinical trial biostatistics. Immunogenicity analysis, population PK support, and exposure-response methods are critical skill areas. Inadequate resourcing in these areas can lead to delayed analyses, poor-quality submissions, and regulatory risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT58",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Are key activities QA'd (e.g., independent review, dual programming)?",
+      "rubric_tests": "Evaluates whether key biostatistical activities are subject to quality assurance processes.",
+      "rationale": "QA of critical statistical outputs is essential for data integrity and audit readiness. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Expected",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT59",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Is there a biostatistics lead responsible for governance and quality across studies?",
+      "rubric_tests": "Evaluates whether a designated biostatistics lead oversees governance and quality.",
+      "rationale": "Governance leadership is essential for consistency and quality across the program. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT60",
+      "inquiry_domain": "Resourcing, Oversight, and Governance",
+      "question": "Are lessons learned, deviations, and audits formally reviewed?",
+      "rubric_tests": "Evaluates whether the biostatistics function conducts formal retrospective reviews.",
+      "rationale": "Continuous improvement through formal review is essential for organizational learning. This requirement applies equally to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT61",
+      "inquiry_domain": "Immunogenicity Statistical Assessment",
+      "question": "Is the statistical analysis plan for immunogenicity (ADA/NAb) pre-specified, including cut-point determination, tiered testing strategy, and prevalence/incidence analysis methods?",
+      "rubric_tests": "Evaluates whether the immunogenicity statistical plan is comprehensive and pre-specified: screening and confirmatory cut-point validation methodology, titer determination approach, NAb assay analysis plan, treatment-emergent vs treatment-boosted ADA classification criteria, and incidence/prevalence calculation methods. Assesses alignment with FDA immunogenicity guidance (2019) and EMA immunogenicity guidance.",
+      "rationale": "Immunogenicity assessment is a critical regulatory requirement for all mAb/bispecific programs. FDA and EMA require pre-specified, validated, tiered testing strategies with documented statistical cut-point determination. Inadequate immunogenicity statistical plans are a frequent source of regulatory questions and can delay BLA/MAA approval. The statistical framework must align with the assay validation approach.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT62",
+      "inquiry_domain": "Immunogenicity Statistical Assessment",
+      "question": "Is the statistical approach for evaluating ADA impact on PK, efficacy, and safety pre-defined and appropriately powered?",
+      "rubric_tests": "Evaluates whether the analysis plan includes pre-specified methods for assessing the impact of ADA status on key clinical outcomes: ADA impact on PK (drug clearance, trough levels), ADA impact on efficacy endpoints (by ADA status and titer), ADA impact on safety (hypersensitivity, infusion reactions, immune-mediated adverse events), and NAb impact on target engagement and pharmacodynamic activity.",
+      "rationale": "Understanding the clinical impact of immunogenicity is a cornerstone of biologic risk-benefit assessment. FDA and EMA expect integrated analyses demonstrating whether ADA affects drug exposure, efficacy, or safety. These analyses must be pre-specified to avoid post hoc claims. Inadequate ADA impact analysis is a top regulatory query for biologic submissions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT63",
+      "inquiry_domain": "Immunogenicity Statistical Assessment",
+      "question": "For bispecific antibodies, is the immunogenicity analysis plan designed to assess domain-specific ADA responses and their differential impact?",
+      "rubric_tests": "Evaluates whether the immunogenicity statistical plan for bispecific programs includes: domain-specific ADA characterization (anti-arm A, anti-arm B, anti-linker), differential impact analysis of domain-specific ADA on PK and target engagement for each binding arm, and statistical methods for handling the increased complexity of multi-domain immunogenicity data.",
+      "rationale": "Bispecific antibodies may elicit ADA responses to different structural domains, each potentially affecting different pharmacological activities. FDA and EMA expect domain-specific immunogenicity characterization for bispecifics. Statistical plans must account for the increased complexity, including correlation analysis between domain-specific ADA and arm-specific pharmacology.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT64",
+      "inquiry_domain": "Biologic Exposure-Response & PK/PD Statistics",
+      "question": "Is the statistical framework for exposure-response analysis pre-specified, including methods appropriate for non-linear biologic PK (TMDD) and weight-based dosing?",
+      "rubric_tests": "Evaluates whether the exposure-response analysis plan is pre-specified and appropriate for biologic pharmacology: population PK modeling incorporating TMDD and non-linear clearance; exposure-efficacy analysis methods for dose justification (logistic regression, E-R for time-to-event, longitudinal E-R); statistical approaches for weight-based vs flat dosing evaluation using simulation-based comparisons of exposure distributions; dose-optimization across patient subgroups using covariate-adjusted exposure predictions; and model qualification/validation approaches (VPC, bootstrap, external validation). Assesses alignment with FDA exposure-response guidance and ICH E4.",
+      "rationale": "Exposure-response analysis is the centerpiece of biologic dose justification and is increasingly scrutinized by FDA and EMA. For mAbs with TMDD, standard PK approaches are inadequate\u2014population PK modeling with mechanistic components is expected. The statistical framework must support dose-exposure characterization, exposure-efficacy evaluation, and dose optimization. FDA now routinely conducts its own E-R analyses during BLA review; inconsistencies with sponsor analyses create significant regulatory risk. The E-R package should be developed as a submission-ready deliverable from the outset.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT65",
+      "inquiry_domain": "Biosimilarity & Comparability Statistics",
+      "question": "If applicable (manufacturing changes, biosimilar development), is the statistical framework for comparability or biosimilarity assessment pre-specified, including equivalence margins, PK bioequivalence design, and analytical similarity assessment?",
+      "rubric_tests": "Evaluates whether comparability/biosimilarity statistical plans include: equivalence margin justification for clinical endpoints, PK bioequivalence study design and analysis (e.g., crossover vs parallel, geometric mean ratio approach), analytical similarity statistical methods (e.g., quality range approach, equivalence testing for CQAs), and tiered statistical approach for functional and structural comparisons.",
+      "rationale": "Manufacturing changes and biosimilar development require rigorous statistical frameworks for demonstrating comparability. FDA and EMA have specific guidance on biosimilar statistical requirements including equivalence margin justification, PK study design, and analytical similarity assessment. Even for originator programs, manufacturing changes may require statistical comparability demonstrations that follow biosimilar-like principles.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT66",
+      "inquiry_domain": "Immunogenicity Statistical Assessment",
+      "question": "Is the statistical framework for the Integrated Summary of Immunogenicity (ISI) pre-specified, including methods for pooling ADA/NAb data across studies with heterogeneous assays, populations, and treatment durations?",
+      "rubric_tests": "Evaluates whether the ISI statistical plan addresses: cross-study pooling methodology for ADA incidence/prevalence when assay platforms, cut-points, drug tolerance levels, and sampling schedules differ across studies; meta-analytic or integrated approaches for summarizing ADA impact on PK, efficacy, and safety across the development program; reconciliation of ADA results from studies using different assay generations or platforms; and time-to-event analysis for ADA onset, persistence, and resolution across program duration. Assesses alignment with FDA ISI guidance (2019) and EMA immunogenicity guideline (2017).",
+      "rationale": "FDA requires an Integrated Summary of Immunogenicity (ISI) in BLA Module 5.3.5.3, and EMA expects equivalent integrated immunogenicity data in MAA. The statistical challenge of pooling immunogenicity data across studies with different assays, cut-points, and drug tolerance levels is substantial and frequently underestimated. Inadequate ISI methodology is a recurring source of FDA information requests and can delay BLA approval. The ISI should be a living document initiated early in development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT67",
+      "inquiry_domain": "Immunogenicity Statistical Assessment",
+      "question": "Has the biostatistics team evaluated whether ADA assay drug tolerance levels are adequate relative to expected steady-state drug concentrations, and is this assessment documented with implications for data interpretability?",
+      "rubric_tests": "Evaluates whether the statistical team has formally assessed the relationship between ADA assay drug tolerance and observed/predicted steady-state trough concentrations across dose levels. Tests whether: drug tolerance vs. Ctrough comparisons are documented; the impact of limited drug tolerance on ADA incidence estimates is quantified (e.g., potential underestimation); sensitivity analyses or alternative approaches (acid dissociation, sample dilution, drug depletion) are evaluated statistically; and limitations are transparently reported in the ISI and CSR.",
+      "rationale": "FDA review of 28 approved biologics found >50% had ADA assay drug tolerance below steady-state drug concentrations, severely limiting data interpretability. ADA-negative results in the context of high drug levels may represent false negatives rather than true absence of immune response. Biostatisticians must assess and communicate this limitation, as it directly affects the reliability of ADA impact analyses on PK, efficacy, and safety. Failure to address this is an increasingly common FDA review finding.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT68",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "Are Bayesian or model-based adaptive dose-finding methods (e.g., CRM, BOIN, EWOC, mTPI-2) considered and appropriately implemented for biologic dose escalation and optimization?",
+      "rubric_tests": "Evaluates whether dose-finding study designs for mAb/bispecific programs use appropriate Bayesian or model-based methods: continual reassessment method (CRM) or Bayesian optimal interval (BOIN) designs for dose escalation; exposure-response-driven dose optimization (EWOC); Bayesian dose-expansion cohort designs incorporating PK/PD data; prior specification and sensitivity to prior choice; and operating characteristics documentation for the chosen dose-finding design. Assesses alignment with FDA guidance on adaptive designs and Bayesian approaches.",
+      "rationale": "Biologic dose-finding differs fundamentally from small molecules: dose-toxicity curves may plateau, maximum tolerated dose may not exist, and the optimal biologic dose (OBD) may be driven by exposure-response rather than toxicity. Bayesian methods are now the standard for oncology dose-finding and increasingly expected by FDA for mAb/bispecific programs. Traditional 3+3 designs are considered inadequate for most biologic programs. FDA has specific guidance on Bayesian clinical trials (2010, updated 2019).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BSTAT69",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "Is the estimand framework explicitly addressing immunogenicity as both an intercurrent event (affecting PK/efficacy) and an outcome of interest, with appropriate strategies for this dual role?",
+      "rubric_tests": "Evaluates whether the estimand framework recognizes and addresses the unique dual nature of immunogenicity in biologic programs: ADA development as an intercurrent event that modifies the treatment effect (altering PK, reducing efficacy, causing adverse events leading to discontinuation); ADA development as a safety/characterization outcome that must be reported; and the interaction between these two roles. Tests whether strategies (treatment policy, hypothetical, principal stratum) are explicitly defined for immunogenicity-related intercurrent events, and whether estimand definitions account for the fact that the \"treatment\" being evaluated is the drug + its immunogenicity profile.",
+      "rationale": "Immunogenicity occupies a unique position in the ICH E9(R1) estimand framework for biologics: it is simultaneously an intercurrent event that changes the treatment effect and an outcome that must be characterized. This dual role creates estimand complexities that have no direct parallel in small molecule development. FDA statistical reviewers increasingly scrutinize whether sponsors have coherent estimand strategies that account for this duality, and inconsistent handling is a growing source of regulatory questions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT70",
+      "inquiry_domain": "Biologic Exposure-Response & PK/PD Statistics",
+      "question": "For programs with IV-to-SC formulation bridging, is the statistical design for PK bioequivalence pre-specified, including equivalence margins, study design (crossover vs. parallel), and handling of differential immunogenicity between administration routes?",
+      "rubric_tests": "Evaluates whether the IV-to-SC bridging statistical framework includes: equivalence margin justification for PK parameters (AUC, Cmax) using clinical relevance and exposure-response data; study design selection (crossover if feasible, parallel with appropriate adjustments); pre-specified analysis for differential immunogenicity between IV and SC routes (SC typically has higher immunogenicity); sample size accounting for higher PK variability with SC dosing; and sensitivity analyses for ADA impact on PK comparability. Assesses alignment with FDA guidance on demonstrating comparability of formulation changes.",
+      "rationale": "SC formulations are increasingly pursued for mAbs (e.g., Opdivo Qvantig approved Dec 2024 as first SC PD-1 inhibitor). The statistical design for PK bridging must account for biologic-specific challenges: SC administration typically produces higher immunogenicity, SC PK is inherently more variable, and bioavailability differences must be justified against exposure-response data. Inadequate bridging study design can delay or prevent approval of SC formulations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT71",
+      "inquiry_domain": "Study Design Appropriateness",
+      "question": "For multi-regional clinical trials (MRCTs), are ICH E17 consistency requirements addressed, including statistical plans for regional treatment effect consistency and ethnicity-related immunogenicity variability?",
+      "rubric_tests": "Evaluates whether MRCT statistical plans for mAb/bispecific programs include: pre-specified consistency assessment methods (e.g., qualitative interaction tests, forest plots, Japanese PMDA method 1/2); sample size considerations for regional consistency (particularly for Japan, China, where regional requirements may apply); explicit plans for evaluating regional differences in immunogenicity (ADA incidence can vary by ethnicity due to HLA polymorphisms and genetic factors); handling of regional co-primary or co-secondary endpoints; and region-specific regulatory requirements (e.g., China-inclusive MRCTs with NMPA requirements, Japan bridging per ICH E5).",
+      "rationale": "MRCTs for biologics face unique challenges: immunogenicity can vary significantly by ethnicity due to HLA polymorphisms, regional regulatory requirements differ (PMDA, NMPA, EMA), and ICH E17 consistency assessment is increasingly scrutinized. For bispecific antibodies and immunomodulatory mAbs, regional differences in immune response can create genuine treatment effect heterogeneity. Failure to plan for regional consistency assessment is a common cause of regulatory delays in global biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT72",
+      "inquiry_domain": "Biologic Exposure-Response & PK/PD Statistics",
+      "question": "Is a concentration-QTc (C-QTc) analysis planned and appropriately designed for the mAb/bispecific program, consistent with ICH E14/S7B Q&A guidance for biologics?",
+      "rubric_tests": "Evaluates whether the C-QTc analysis plan for the biologic program includes: justification for whether a dedicated thorough QT study is needed or C-QTc from clinical trials is sufficient (per ICH E14 Q&A); pre-specified linear mixed-effects model for concentration-QTc relationship; appropriate handling of biologic-specific PK (non-linear, TMDD) in the C-QTc model; consideration of whether cytokine release or immune-mediated effects could cause QTc changes independent of direct drug effect; and documentation of the QTc risk assessment strategy.",
+      "rationale": "FDA expects C-QTc analysis even for biologics, per ICH E14/S7B Q&A guidance. While most mAbs have low intrinsic QTc risk due to their mechanism of action and lack of ion channel binding, the analysis is still required for regulatory completeness. For some biologics (e.g., cytokine modulators, bispecifics causing CRS), QTc effects may occur through indirect mechanisms. Failure to plan C-QTc analysis is a surprisingly common oversight in biologic programs that results in last-minute scrambling during BLA preparation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT73",
+      "inquiry_domain": "Biologic Exposure-Response & PK/PD Statistics",
+      "question": "Is the exposure-response analysis for safety pre-specified, including exposure-safety relationships for biologic-specific adverse events (immunogenicity, infusion reactions, infections, immune-mediated AEs)?",
+      "rubric_tests": "Evaluates whether the exposure-safety analysis plan includes: exposure-ADA relationship (does higher exposure reduce or increase immunogenicity risk?); exposure-infusion reaction relationship; exposure-infection risk for immunomodulatory biologics; exposure-immune-mediated AE relationship; and appropriate statistical methods (logistic regression, time-to-event, or exposure quartile analyses) for each safety endpoint. Assesses whether covariate effects (body weight, concomitant immunosuppressants, ADA status) on exposure-safety are pre-planned.",
+      "rationale": "Exposure-safety analysis for biologics is a critical component of dose justification and labeling. FDA expects sponsors to demonstrate that the selected dose balances efficacy and safety across the exposure range. For biologics, unique exposure-safety relationships exist: immunogenicity may increase or decrease with exposure, infection risk scales with immunosuppressive potency, and CRS risk in bispecifics is often related to first-dose exposure. Pre-specification prevents cherry-picking of dose-safety narratives.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT74",
+      "inquiry_domain": "Biologic Exposure-Response & PK/PD Statistics",
+      "question": "Are covariate effects on biologic exposure (body weight, ADA status, albumin, disease burden) formally evaluated, and is the dose justification across patient subgroups statistically supported?",
+      "rubric_tests": "Evaluates whether the population PK/exposure-response program includes: formal covariate analysis for key biologic-specific covariates (body weight, ADA status, albumin, baseline disease burden, concomitant immunosuppressants); simulation-based evaluation of dose adequacy across covariate-defined subgroups; statistical justification for flat vs. weight-based dosing decisions; and evaluation of dose modification criteria (e.g., dose adjustment for patients who develop ADA or lose response). Assesses whether the covariate-dose justification package is adequate for BLA/MAA dose section.",
+      "rationale": "Body weight is the single most important covariate for mAb exposure, and the flat vs. weight-based dosing decision has major commercial and clinical implications. FDA expects rigorous statistical evaluation of dose adequacy across the weight range, including simulation of exposure distributions at the extremes. ADA status as a covariate on PK is equally critical. Inadequate covariate-dose justification is a frequent FDA query that can result in post-marketing commitments or dose labeling restrictions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT75",
+      "inquiry_domain": "Missing Data & Sensitivity Analyses",
+      "question": "For oncology mAb/bispecific programs, are estimand strategies for subsequent anti-cancer therapy, treatment beyond progression, and crossover explicitly defined and statistically addressed?",
+      "rubric_tests": "Evaluates whether the estimand framework for oncology biologic programs addresses: subsequent anti-cancer therapy as an intercurrent event (treatment policy vs. hypothetical estimand); treatment beyond progression (particularly for immune checkpoint inhibitors where pseudoprogression may occur); crossover from control to investigational arm (RPSFT, IPCW, or other methods for adjusting OS); immune-related response criteria (iRECIST) and their statistical implications; and delayed treatment effects (non-proportional hazards) common with immuno-oncology biologics.",
+      "rationale": "Oncology mAb/bispecific programs face unique estimand challenges: subsequent therapy dilutes OS signals, pseudoprogression complicates PFS assessment, and delayed treatment effects from immune-mediated mechanisms violate proportional hazards assumptions. FDA and EMA increasingly require explicit estimand definitions for these intercurrent events. The statistical approach to non-proportional hazards (restricted mean survival time, milestone survival, MaxCombo tests) must be pre-specified.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BSTAT76",
+      "inquiry_domain": "Statistical Analysis Plan (SAP)",
+      "question": "Are statistical methods for patient-reported outcome (PRO) endpoints pre-specified, including MCID determination, responder analysis, and handling of informative missingness related to biologic-specific AEs?",
+      "rubric_tests": "Evaluates whether the SAP includes a robust PRO analysis framework: minimum clinically important difference (MCID) anchored to clinical outcomes and justified for the specific biologic indication; pre-specified responder analysis using validated thresholds; handling of informative missingness due to biologic-specific adverse events (infusion reactions, immunogenicity-driven discontinuation); mixed-model or pattern-mixture approaches for longitudinal PRO data; and alignment with FDA PRO guidance (2009) and EMA reflection paper on PROs. Assesses whether PRO endpoints are positioned to support labeling claims.",
+      "rationale": "PRO endpoints increasingly drive label claims, HTA assessments, and market differentiation for biologics. For mAb programs, informative missingness due to biologic-specific adverse events (infusion reactions, CRS, immunogenicity) can bias PRO analyses. FDA PRO guidance requires pre-specified analysis plans with validated MCIDs. Biologic-specific considerations include the timing of PRO assessments relative to infusion visits and the impact of administration burden on PRO scores.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    }
+  ]
+}

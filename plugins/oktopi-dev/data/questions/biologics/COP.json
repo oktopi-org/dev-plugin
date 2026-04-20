@@ -1,0 +1,4710 @@
+{
+  "function_code": "COP",
+  "modality": "biologics",
+  "function_name": "Clinical Operations",
+  "question_count": 82,
+  "critical_index": {
+    "SR": {},
+    "OE": {
+      "SG4": [
+        "BCOP1",
+        "BCOP2",
+        "BCOP3",
+        "BCOP4"
+      ],
+      "SG5": [
+        "BCOP1",
+        "BCOP2",
+        "BCOP3",
+        "BCOP4",
+        "BCOP5",
+        "BCOP6",
+        "BCOP7",
+        "BCOP8",
+        "BCOP9",
+        "BCOP10",
+        "BCOP11",
+        "BCOP12",
+        "BCOP13",
+        "BCOP14",
+        "BCOP15",
+        "BCOP16",
+        "BCOP17",
+        "BCOP18",
+        "BCOP19",
+        "BCOP20",
+        "BCOP21",
+        "BCOP22",
+        "BCOP23",
+        "BCOP24",
+        "BCOP25",
+        "BCOP26",
+        "BCOP27",
+        "BCOP28",
+        "BCOP29",
+        "BCOP30",
+        "BCOP31",
+        "BCOP32",
+        "BCOP33",
+        "BCOP34",
+        "BCOP35",
+        "BCOP36",
+        "BCOP37",
+        "BCOP38",
+        "BCOP39",
+        "BCOP40",
+        "BCOP41",
+        "BCOP42",
+        "BCOP43",
+        "BCOP44",
+        "BCOP45",
+        "BCOP46",
+        "BCOP47",
+        "BCOP48",
+        "BCOP49",
+        "BCOP50",
+        "BCOP51",
+        "BCOP52",
+        "BCOP53",
+        "BCOP54",
+        "BCOP55",
+        "BCOP56",
+        "BCOP57",
+        "BCOP58",
+        "BCOP59",
+        "BCOP60",
+        "BCOP61",
+        "BCOP62",
+        "BCOP63",
+        "BCOP64",
+        "BCOP65",
+        "BCOP66",
+        "BCOP67",
+        "BCOP68",
+        "BCOP69",
+        "BCOP70",
+        "BCOP71",
+        "BCOP72",
+        "BCOP73",
+        "BCOP74",
+        "BCOP75",
+        "BCOP76",
+        "BCOP77",
+        "BCOP78",
+        "BCOP79",
+        "BCOP80",
+        "BCOP81",
+        "BCOP82"
+      ],
+      "SG6": [
+        "BCOP1",
+        "BCOP2",
+        "BCOP3",
+        "BCOP4",
+        "BCOP5",
+        "BCOP6",
+        "BCOP7",
+        "BCOP8",
+        "BCOP9",
+        "BCOP10",
+        "BCOP11",
+        "BCOP12",
+        "BCOP13",
+        "BCOP14",
+        "BCOP15",
+        "BCOP16",
+        "BCOP17",
+        "BCOP18",
+        "BCOP19",
+        "BCOP20",
+        "BCOP21",
+        "BCOP22",
+        "BCOP23",
+        "BCOP24",
+        "BCOP25",
+        "BCOP26",
+        "BCOP27",
+        "BCOP28",
+        "BCOP29",
+        "BCOP30",
+        "BCOP31",
+        "BCOP32",
+        "BCOP33",
+        "BCOP34",
+        "BCOP35",
+        "BCOP36",
+        "BCOP37",
+        "BCOP38",
+        "BCOP39",
+        "BCOP40",
+        "BCOP41",
+        "BCOP42",
+        "BCOP43",
+        "BCOP44",
+        "BCOP45",
+        "BCOP46",
+        "BCOP47",
+        "BCOP48",
+        "BCOP49",
+        "BCOP50",
+        "BCOP51",
+        "BCOP52",
+        "BCOP53",
+        "BCOP54",
+        "BCOP55",
+        "BCOP56",
+        "BCOP57",
+        "BCOP58",
+        "BCOP59",
+        "BCOP60",
+        "BCOP61",
+        "BCOP62",
+        "BCOP63",
+        "BCOP64",
+        "BCOP65",
+        "BCOP66",
+        "BCOP67",
+        "BCOP68",
+        "BCOP69",
+        "BCOP70",
+        "BCOP71",
+        "BCOP72",
+        "BCOP73",
+        "BCOP74",
+        "BCOP75",
+        "BCOP76",
+        "BCOP77",
+        "BCOP78",
+        "BCOP79",
+        "BCOP80",
+        "BCOP81",
+        "BCOP82"
+      ],
+      "SG7": [
+        "BCOP1",
+        "BCOP2",
+        "BCOP3",
+        "BCOP4",
+        "BCOP5",
+        "BCOP6",
+        "BCOP7",
+        "BCOP8",
+        "BCOP9",
+        "BCOP10",
+        "BCOP11",
+        "BCOP12",
+        "BCOP13",
+        "BCOP14",
+        "BCOP15",
+        "BCOP16",
+        "BCOP17",
+        "BCOP18",
+        "BCOP19",
+        "BCOP20",
+        "BCOP21",
+        "BCOP22",
+        "BCOP23",
+        "BCOP24",
+        "BCOP25",
+        "BCOP26",
+        "BCOP27",
+        "BCOP28",
+        "BCOP29",
+        "BCOP30",
+        "BCOP31",
+        "BCOP32",
+        "BCOP33",
+        "BCOP34",
+        "BCOP35",
+        "BCOP36",
+        "BCOP37",
+        "BCOP38",
+        "BCOP39",
+        "BCOP40",
+        "BCOP41",
+        "BCOP42",
+        "BCOP43",
+        "BCOP44",
+        "BCOP45",
+        "BCOP46",
+        "BCOP47",
+        "BCOP48",
+        "BCOP49",
+        "BCOP50",
+        "BCOP51",
+        "BCOP52",
+        "BCOP53",
+        "BCOP54",
+        "BCOP55",
+        "BCOP56",
+        "BCOP57",
+        "BCOP58",
+        "BCOP59",
+        "BCOP60",
+        "BCOP61",
+        "BCOP62",
+        "BCOP63",
+        "BCOP64",
+        "BCOP65",
+        "BCOP66",
+        "BCOP67",
+        "BCOP68",
+        "BCOP69",
+        "BCOP70",
+        "BCOP71",
+        "BCOP72",
+        "BCOP73",
+        "BCOP74",
+        "BCOP75",
+        "BCOP76",
+        "BCOP77",
+        "BCOP78",
+        "BCOP79",
+        "BCOP80",
+        "BCOP81",
+        "BCOP82"
+      ],
+      "SG8": [
+        "BCOP1",
+        "BCOP2",
+        "BCOP3",
+        "BCOP4",
+        "BCOP5",
+        "BCOP6",
+        "BCOP7",
+        "BCOP8",
+        "BCOP9",
+        "BCOP10",
+        "BCOP11",
+        "BCOP12",
+        "BCOP13",
+        "BCOP14",
+        "BCOP15",
+        "BCOP16",
+        "BCOP17",
+        "BCOP18",
+        "BCOP19",
+        "BCOP20",
+        "BCOP21",
+        "BCOP22",
+        "BCOP23",
+        "BCOP24",
+        "BCOP25",
+        "BCOP26",
+        "BCOP27",
+        "BCOP28",
+        "BCOP29",
+        "BCOP30",
+        "BCOP31",
+        "BCOP32",
+        "BCOP33",
+        "BCOP34",
+        "BCOP35",
+        "BCOP36",
+        "BCOP37",
+        "BCOP38",
+        "BCOP39",
+        "BCOP40",
+        "BCOP41",
+        "BCOP42",
+        "BCOP43",
+        "BCOP44",
+        "BCOP45",
+        "BCOP46",
+        "BCOP47",
+        "BCOP48",
+        "BCOP49",
+        "BCOP50",
+        "BCOP51",
+        "BCOP52",
+        "BCOP53",
+        "BCOP54",
+        "BCOP55",
+        "BCOP56",
+        "BCOP57",
+        "BCOP58",
+        "BCOP59",
+        "BCOP60",
+        "BCOP61",
+        "BCOP62",
+        "BCOP63",
+        "BCOP64",
+        "BCOP65",
+        "BCOP66",
+        "BCOP67",
+        "BCOP68",
+        "BCOP69",
+        "BCOP70",
+        "BCOP71",
+        "BCOP72",
+        "BCOP73",
+        "BCOP74",
+        "BCOP75",
+        "BCOP76",
+        "BCOP77",
+        "BCOP78",
+        "BCOP79",
+        "BCOP80",
+        "BCOP81",
+        "BCOP82"
+      ]
+    },
+    "DD": {},
+    "RS": {
+      "SG8": [
+        "BCOP25",
+        "BCOP26",
+        "BCOP27",
+        "BCOP28"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "BCOP1",
+      "inquiry_domain": "Clinical Development Plan Operations",
+      "question": "Is the protocol operationally feasible based on input from clinical ops and sites, including biologic-specific operational requirements (infusion infrastructure, cold chain, immunogenicity sampling)?",
+      "rubric_tests": "Evaluates whether the protocol has been assessed for operational feasibility with explicit consideration of biologic-specific requirements: IV infusion capacity and chair time availability at sites; SC self-administration training requirements; cold chain storage capability (2\u20138\u00b0C or frozen); immunogenicity sampling schedule burden on patients and sites; step-up dosing logistics for bispecific T-cell engagers (inpatient vs outpatient); premedication and post-infusion observation requirements; and cytokine release syndrome (CRS) monitoring infrastructure.",
+      "rationale": "Biologic protocols introduce operational complexities absent in small molecule trials. Infusion chair availability, cold chain infrastructure, extended observation periods post-dosing, and CRS monitoring capability at sites are make-or-break operational requirements. Failure to assess these during protocol development leads to site dropout, slow enrollment, and protocol amendments. Sites without adequate infusion infrastructure or CRS management capability cannot safely run bispecific programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP2",
+      "inquiry_domain": "Clinical Development Plan Operations",
+      "question": "Are endpoints, assessments, and visit schedules realistically executable at intended sites, including biologic-specific assessments (PK sampling, immunogenicity draws, biomarker collections, infusion-day procedures)?",
+      "rubric_tests": "Evaluates whether the visit schedule accounts for biologic-specific assessment burden: PK sampling windows (pre-dose, end-of-infusion, post-infusion time points); immunogenicity sample collection (ADA/NAb draws at specified intervals); biomarker sample processing requirements (real-time processing, centrifugation, storage); infusion-day procedures (premedication, infusion, observation period); injection-site reaction assessments for SC products; and total patient time commitment per visit (often 4\u20138 hours for IV biologics vs 30 min for oral drugs).",
+      "rationale": "Biologic visit schedules are inherently more complex and time-consuming than small molecule trials. IV infusions require 1\u20134 hours plus observation; PK/ADA sampling adds multiple blood draws per visit; some biomarker samples require immediate processing. Sites underestimate chair time and patient burden unless this is explicitly evaluated during feasibility. High screen failure rates in biologic trials often trace back to patient reluctance about visit burden.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP3",
+      "inquiry_domain": "Clinical Development Plan Operations",
+      "question": "Is a clinical operations strategy documented for each trial phase, reflecting biologic-specific phase progression considerations (dose escalation logistics, formulation bridging, IV-to-SC transition)?",
+      "rubric_tests": "Evaluates whether the phase-specific operations strategy accounts for biologic development patterns: Phase 1 dose escalation with cohort-by-cohort enrollment and DSMB review cadence; step-up dosing schedules for T-cell engagers requiring initial hospitalization; transition from IV to SC formulation across phases; comparator sourcing for biologic active-comparator trials; and expansion cohort logistics in oncology biologic programs.",
+      "rationale": "Biologic development follows distinct operational patterns. Phase 1 dose escalation requires tight cohort management with DSMB review gates. Bispecific T-cell engagers often require inpatient monitoring for initial cycles. Formulation transitions (IV\u2192SC, lyophilized\u2192liquid) across phases create operational discontinuities. The operations strategy must anticipate these phase-specific biologic complexities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP4",
+      "inquiry_domain": "Clinical Development Plan Operations",
+      "question": "Is operational input integrated into scenario planning for timelines and enrollment, including biologic-specific timeline drivers (drug manufacturing lead times, cold chain readiness, site infusion capacity constraints)?",
+      "rubric_tests": "Evaluates whether scenario planning incorporates biologic-specific timeline risks: drug product manufacturing lead times (typically 6\u201312 months for mAbs); cold chain logistics setup and validation timelines; site infusion capacity constraints and chair time availability; IRT programming complexity for weight-based dosing; comparator biologic sourcing timelines; and country-specific biologic import requirements (cold chain customs clearance, biological product import permits).",
+      "rationale": "Biologic timeline planning must account for fundamentally different operational lead times. Drug manufacturing for mAbs takes months, not weeks. Cold chain validation across global sites requires advance planning. Weight-based dosing IRT programming adds complexity. Country-specific regulations for importing biological products create additional delays. Failure to incorporate these factors into scenario planning results in chronic timeline slippage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP5",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Has formal site feasibility been completed using country-specific and site-level data, including assessment of biologic-specific infrastructure (infusion suites, cold chain, CRS management capability, pharmacy compounding)?",
+      "rubric_tests": "Evaluates whether site feasibility includes biologic-specific capability assessment: infusion suite availability and chair capacity; pharmacy capability for biologic preparation (aseptic reconstitution, dilution, labeling); cold chain storage capacity (refrigerated/frozen space, temperature monitoring, backup systems); CRS/anaphylaxis management capability (monitoring equipment, trained staff, emergency protocols); experience with biologic clinical trials; and laboratory capacity for PK/ADA sample processing and shipping.",
+      "rationale": "Site feasibility for biologic trials must go beyond standard assessments. Sites without adequate infusion infrastructure, pharmacy compounding capability, or CRS management protocols cannot safely participate. Cold chain failures result in lost drug product and patient dosing delays. These biologic-specific infrastructure requirements are the most common reason for site non-activation or early dropout in mAb/bispecific programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP6",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are sites selected based on historical performance, relevant patient populations, capacity, and experience with biologic administration (infusion protocols, immunogenicity monitoring, biologic-specific AE management)?",
+      "rubric_tests": "Evaluates whether site selection criteria include biologic-specific experience metrics: prior experience administering IV/SC biologics; familiarity with biologic-specific adverse event management (infusion reactions, CRS, immune-mediated AEs); track record with complex PK/ADA sampling schedules; pharmacy experience with biologic preparation and cold chain management; and PI/sub-investigator experience with biologic dose modification algorithms.",
+      "rationale": "Sites with no prior biologic trial experience face steep learning curves on infusion management, ADA sampling, cold chain compliance, and biologic-specific safety management. Site selection must weight biologic experience alongside standard enrollment metrics. Selecting sites purely on patient volume without evaluating biologic capability leads to operational failures, protocol deviations, and safety events.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP7",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are geographic regions and countries aligned with epidemiology, regulatory feasibility, access, and biologic-specific regulatory requirements (biologic import permits, cold chain infrastructure maturity)?",
+      "rubric_tests": "Evaluates whether country selection accounts for biologic-specific regulatory and logistical factors: biologic product import licensing requirements and timelines; cold chain infrastructure maturity and reliability by region; country-specific biologic labeling and pharmacy requirements; regulatory requirements for immunogenicity testing by region; and availability of qualified central/local laboratories for PK/ADA sample analysis.",
+      "rationale": "Country selection for biologic trials requires assessment of cold chain infrastructure reliability, biologic import permit timelines, and regional laboratory capabilities. Some countries have prolonged biologic import processes; others lack reliable cold chain during last-mile delivery. These factors can make otherwise attractive countries non-viable for biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP8",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are site contracting timelines, IRB/EC timelines, and startup metrics benchmarked, including biologic-specific startup activities (cold chain validation, pharmacy qualification, infusion training)?",
+      "rubric_tests": "Evaluates whether startup benchmarks include biologic-specific milestones: pharmacy qualification and training for biologic preparation; cold chain validation at site (temperature mapping, monitoring system setup); infusion protocol training and competency assessment; IRT/IWRS setup for weight-based dosing; CRS management protocol training (for bispecifics); and ADA/PK sample collection and processing training.",
+      "rationale": "Biologic site startup takes longer than small molecule trials due to additional qualification steps: pharmacy must be trained on aseptic preparation; cold chain must be validated; infusion protocols must be reviewed with site staff. These biologic-specific startup activities should be benchmarked separately and tracked as critical-path milestones.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP9",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Is a comprehensive recruitment strategy in place, addressing biologic-specific recruitment challenges (infusion visit burden, injection training, patient concerns about biologic therapy)?",
+      "rubric_tests": "Evaluates whether recruitment strategies address biologic-specific barriers: patient willingness to receive IV infusions or self-inject SC; time commitment for infusion visits (4\u20138 hours including observation); needle phobia and injection training requirements for SC products; patient education about biologic mechanisms and immunogenicity; prior biologic therapy history requirements and washout periods; and referral pathways from clinicians experienced with biologics.",
+      "rationale": "Biologic trials face unique recruitment challenges. Patients may be reluctant to receive infusions, commit to extended visit times, or switch from established biologic therapy. Prior biologic exposure requirements narrow the eligible population. Recruitment strategies must explicitly address these barriers through patient education, visit burden mitigation, and targeted outreach to appropriate referral networks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP10",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Are realistic enrollment forecasts and screen failure rates documented, accounting for biologic-specific screening criteria (prior biologic exposure, immunogenicity status, biomarker requirements)?",
+      "rubric_tests": "Evaluates whether enrollment forecasts account for biologic-specific screen failure drivers: biomarker-based eligibility (target expression levels, receptor status); prior biologic therapy history and washout requirements; anti-drug antibody screening at baseline (pre-existing ADA); body weight requirements for weight-based dosing cohorts; and concomitant medication restrictions (immunosuppressants, other biologics). Biologic trials typically have higher screen failure rates (40\u201360%) than small molecule trials (20\u201330%).",
+      "rationale": "Screen failure rates in biologic trials are significantly higher than small molecule trials due to biomarker-based eligibility, prior biologic exposure requirements, and more complex inclusion/exclusion criteria. Failure to account for biologic-specific screen failure rates results in underestimated enrollment timelines and site frustration. Historical biologic trial data should inform enrollment projections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP11",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Are diversity, inclusion, and geographic access addressed in recruitment planning, including considerations for biologic-specific access barriers (proximity to infusion centers, insurance coverage for biologics)?",
+      "rubric_tests": "Evaluates whether diversity and access planning addresses biologic-specific barriers: geographic access to infusion-capable sites (patients in rural areas may lack access); insurance and reimbursement barriers for biologic investigational products during trial; transportation burden for frequent infusion visits; work/life disruption from extended visit times; language and cultural barriers to informed consent for biologic therapy concepts; and socioeconomic factors affecting cold chain compliance for home-administered SC products.",
+      "rationale": "Biologic trials face amplified access barriers compared to oral drug trials. Infusion requirements tether patients to specialized sites, creating geographic and socioeconomic barriers. Insurance complexities around biologic products can create enrollment barriers. Diversity and inclusion plans must explicitly address these biologic-specific access challenges to avoid enrollment of non-representative populations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP12",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Are retention plans in place, addressing biologic-specific retention risks (infusion fatigue, injection-site reactions, immunogenicity-driven loss of response, ADA-related adverse events)?",
+      "rubric_tests": "Evaluates whether retention strategies address biologic-specific dropout drivers: infusion fatigue over long treatment periods; injection-site reactions leading to SC discontinuation; immunogenicity-driven loss of efficacy (secondary non-response); infusion reactions leading to dose discontinuation; patient burden from frequent PK/ADA blood draws; and CRS-related anxiety after initial dosing cycles for bispecifics. Includes plans for proactive patient engagement, visit flexibility, and AE management support.",
+      "rationale": "Biologic trials have unique retention challenges. Infusion fatigue over months/years of treatment, immunogenicity-driven secondary non-response, and injection-site reactions are biologic-specific dropout drivers. Retention plans must include proactive strategies: flexible visit scheduling, infusion-day support, patient education on expected side effects, and early intervention when ADA-related efficacy loss is suspected.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP13",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Are key startup milestones (regulatory greenlight, site initiation) tracked with accurate forecasts, including biologic-specific milestones (drug supply readiness, cold chain validation, pharmacy qualification)?",
+      "rubric_tests": "Evaluates whether startup milestone tracking includes biologic-specific critical-path items: drug product availability and release testing completion; cold chain logistics setup and route validation; IRT/IWRS programming and UAT for weight-based dosing; pharmacy qualification visits and competency sign-off; infusion protocol training completion; ADA/PK sample kit distribution and central lab readiness; and CRS management protocol approval and staff training (for bispecifics).",
+      "rationale": "Biologic trial startup has additional critical-path milestones that do not exist in small molecule trials. Drug manufacturing lead times, cold chain validation, and pharmacy qualification are often the longest-lead items. These must be tracked explicitly as startup milestones with clear accountability and escalation paths.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP14",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Are startup SOPs, checklists, and trackers standardized across studies?",
+      "rubric_tests": "Evaluates whether startup processes are standardized, documented, and consistently applied across studies within the clinical operations function.",
+      "rationale": "Standardized startup processes reduce variability and errors. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP15",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Are regulatory document packages complete and validated?",
+      "rubric_tests": "Evaluates whether regulatory submission packages are complete, accurate, and validated prior to submission to health authorities and ethics committees.",
+      "rationale": "Complete regulatory document packages are essential for timely startup. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP16",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Is a Trial Master File (TMF) being established at or before site activation?",
+      "rubric_tests": "Evaluates whether the TMF is initiated and structured at or before site activation, with appropriate document categories and filing plans in place.",
+      "rationale": "Early TMF establishment is critical for inspection readiness. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP17",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are CROs, labs, and technology vendors selected via competitive process, with demonstrated biologic trial experience (cold chain logistics, immunogenicity sample handling, infusion monitoring)?",
+      "rubric_tests": "Evaluates whether vendor selection criteria include biologic-specific competency: CRO experience with biologic clinical trials (infusion protocols, ADA sampling, cold chain management); central laboratory capabilities for immunogenicity assays and PK bioanalysis; IRT vendor experience with weight-based dosing algorithms; cold chain logistics provider reliability and geographic coverage; and specialty vendors for CRS monitoring equipment or home-infusion services.",
+      "rationale": "Vendors without biologic trial experience introduce operational risk. Central labs must handle immunogenicity samples with specific processing and shipping requirements. IRT vendors must manage complex weight-based dosing. Cold chain logistics providers must maintain temperature integrity across global supply chains. Vendor selection must evaluate biologic-specific capabilities alongside cost and capacity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP18",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are roles and responsibilities clearly delineated between sponsor and vendors?",
+      "rubric_tests": "Evaluates whether RACI matrices and scope documents clearly define responsibilities for all trial activities between sponsor and outsourced partners.",
+      "rationale": "Clear role delineation prevents gaps and overlaps. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP19",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are KPIs in place for oversight, including biologic-specific operational KPIs (cold chain excursion rate, ADA sample integrity, infusion completion rate, drug accountability accuracy)?",
+      "rubric_tests": "Evaluates whether vendor KPI dashboards include biologic-specific metrics: cold chain temperature excursion rate; ADA/PK sample processing compliance (time to freeze, centrifugation protocol adherence); infusion completion rate and infusion reaction incidence; drug accountability accuracy for high-value biologic product; dose preparation accuracy (correct dose for weight-based dosing); and IRT compliance rate.",
+      "rationale": "Standard CRO KPIs (query resolution, monitoring visit frequency) are necessary but insufficient for biologic programs. Cold chain excursion rates, sample integrity metrics, and infusion completion rates are biologic-specific operational indicators that directly impact data quality and patient safety. These KPIs must be tracked and reviewed at oversight committee meetings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP20",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are vendor contracts linked to clear deliverables and penalties/incentives?",
+      "rubric_tests": "Evaluates whether vendor contracts include performance-linked terms with clear deliverables, milestone payments, and penalty/incentive structures.",
+      "rationale": "Performance-linked contracts drive accountability. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP21",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are clinical trial budgets built bottom-up with line-item granularity, including biologic-specific cost categories (drug manufacturing, cold chain logistics, infusion services, immunogenicity testing)?",
+      "rubric_tests": "Evaluates whether budgets include biologic-specific line items: drug product manufacturing and release testing costs (significantly higher than small molecules); cold chain logistics (validated shippers, temperature monitors, dry ice, courier services); infusion services and chair time costs; central laboratory immunogenicity testing (ADA/NAb screening, confirmatory, titer); PK bioanalytical costs; specialty equipment for CRS monitoring; and comparator biologic sourcing costs.",
+      "rationale": "Biologic trial budgets are typically 2\u20135x higher than equivalent small molecule trials due to drug manufacturing costs, cold chain logistics, infusion services, and specialized laboratory testing. Failure to budget for biologic-specific cost categories results in mid-trial budget overruns and program delays. Drug product cost alone can represent 30\u201340% of total trial cost for mAb programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP22",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are assumptions for site payments, patient costs, and vendor fees benchmarked, including biologic-specific cost benchmarks (infusion chair time rates, cold chain service fees)?",
+      "rubric_tests": "Evaluates whether cost assumptions are benchmarked against biologic trial industry data: infusion chair time rates by country; cold chain shipping costs per shipment; central lab immunogenicity assay costs per sample; pharmacy preparation fees for biologic reconstitution/dilution; and patient reimbursement for extended visit times.",
+      "rationale": "Biologic trial cost assumptions differ substantially from small molecule benchmarks. Infusion chair time varies by country and site type. Cold chain shipping costs vary by route and season. Immunogenicity assay costs are specific to biologic programs. Using small molecule benchmarks for biologic budgets leads to systematic underestimation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP23",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are internal/external FTE resources appropriately allocated, including biologic-specific roles (cold chain manager, immunogenicity sample coordinator, infusion site liaison)?",
+      "rubric_tests": "Evaluates whether resource planning includes biologic-specific roles and competencies: cold chain/supply chain management expertise; immunogenicity sample coordination; infusion protocol training specialists; CRS management medical monitors (for bispecifics); and clinical pharmacology operational support for PK/ADA sample logistics.",
+      "rationale": "Biologic programs require specialized operational roles that do not exist in small molecule programs. Cold chain management, immunogenicity sample coordination, and infusion training require dedicated resources. Under-resourcing these biologic-specific roles leads to cold chain failures, sample integrity issues, and protocol deviations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP24",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Is contingency built in for site expansion, enrollment delays, or vendor shifts, including biologic-specific contingencies (drug resupply lead times, cold chain backup, additional infusion capacity)?",
+      "rubric_tests": "Evaluates whether contingency planning includes biologic-specific risks: drug resupply lead times if additional manufacturing batches are needed (6\u201312 months for mAbs); cold chain backup plans for equipment failure or logistics disruption; additional infusion capacity if enrollment shifts between sites; and contingency for increased immunogenicity-driven dropout rates.",
+      "rationale": "Biologic contingency planning must account for long manufacturing lead times (cannot rapidly produce additional drug supply), cold chain vulnerability, and unpredictable immunogenicity-driven attrition. Standard contingency assumptions from small molecule programs are inadequate for biologics.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP25",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Is a Monitoring Plan documented and consistent with trial phase, geography, and risk, including biologic-specific monitoring focus areas (drug storage compliance, infusion protocol adherence, ADA sample handling)?",
+      "rubric_tests": "Evaluates whether the monitoring plan includes biologic-specific focus areas: drug storage temperature verification at each visit; drug accountability and reconciliation for high-value biologic product; infusion protocol adherence (rate, duration, premedication, observation period); ADA/PK sample collection compliance (timing, processing, storage, shipping); injection-site reaction documentation for SC products; and CRS grading and management protocol adherence for bispecifics.",
+      "rationale": "Monitoring plans for biologic trials must include explicit focus on biologic-specific compliance areas. Cold chain compliance, infusion protocol adherence, and immunogenicity sample integrity are critical monitoring targets that do not exist in small molecule monitoring plans. Failure to include these creates blind spots that can compromise data quality and patient safety.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BCOP26",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Are CRAs trained and deployed with appropriate ratios, including training on biologic-specific monitoring procedures (cold chain verification, infusion documentation, ADA sample collection auditing)?",
+      "rubric_tests": "Evaluates whether CRA training includes biologic-specific competencies: cold chain documentation review and temperature excursion identification; drug accountability for biologic products (including expiry management for short-dated biologics); infusion documentation review (rate, duration, reactions, dose modifications); ADA/PK sample collection verification (timing relative to dosing, processing compliance); and weight-based dose calculation verification against IRT records.",
+      "rationale": "CRAs monitoring biologic trials need training beyond standard GCP monitoring. Verifying cold chain compliance, auditing infusion documentation, and ensuring ADA sample integrity require specific competencies. Deploying CRAs without biologic monitoring training leads to missed findings on drug storage, dosing errors, and sample quality issues.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BCOP27",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Is monitoring being done per plan (on-site, remote, risk-based)?",
+      "rubric_tests": "Evaluates whether monitoring activities are executed according to the monitoring plan schedule and approach.",
+      "rationale": "Monitoring execution per plan is essential for data quality and compliance. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BCOP28",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Are major protocol deviations, GCP issues, or site performance problems tracked and resolved, including biologic-specific deviation categories (cold chain excursions, dosing errors, infusion protocol deviations, ADA sample failures)?",
+      "rubric_tests": "Evaluates whether deviation tracking includes biologic-specific categories: temperature excursions during drug storage or transport; dosing errors from weight-based calculations or preparation mistakes; infusion rate deviations or premature infusion termination; missed or incorrectly processed ADA/PK samples; premedication protocol deviations; and observation period non-compliance following infusion.",
+      "rationale": "Biologic trials have unique deviation categories that must be tracked separately and trended. Cold chain excursions, dosing errors from complex weight-based calculations, and sample integrity failures are biologic-specific issues that require root cause analysis and corrective action. Lumping these into generic \"protocol deviation\" categories masks biologic-specific operational risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "BCOP29",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality",
+      "question": "Is a Risk Assessment Categorization Tool (RACT) or similar framework in place, with biologic-specific risk categories (drug product integrity, cold chain, infusion safety, immunogenicity sample quality)?",
+      "rubric_tests": "Evaluates whether the risk assessment framework includes biologic-specific risk categories: drug product integrity risks (temperature excursion, physical damage, expiry management); infusion safety risks (anaphylaxis, CRS, infusion reactions); immunogenicity sample quality risks (collection timing, processing, storage, shipping); weight-based dosing calculation accuracy; and cold chain logistics risks across the supply chain.",
+      "rationale": "Risk assessment frameworks for biologic trials must include risk categories that do not apply to small molecule programs. Drug product integrity (biologics are sensitive to temperature, agitation, light), infusion safety, and sample quality are biologic-specific risks that must be explicitly categorized, assessed, and mitigated within the RACT or equivalent framework.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP30",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality",
+      "question": "Are triggers for increased monitoring, data queries, or site retraining documented, including biologic-specific triggers (repeated cold chain excursions, dosing errors, infusion reaction clusters)?",
+      "rubric_tests": "Evaluates whether escalation triggers include biologic-specific thresholds: repeated cold chain temperature excursions at a site; pattern of weight-based dosing calculation errors; cluster of infusion reactions above expected rate; ADA sample rejection rate above threshold; drug accountability discrepancies for biologic product; and CRS management protocol non-adherence.",
+      "rationale": "Biologic-specific triggers for escalated monitoring are essential because biologic-specific operational failures have direct patient safety implications. Repeated cold chain failures risk drug degradation and patient harm. Dosing errors from weight-based calculations can cause over- or under-exposure. These triggers must be defined and acted upon with urgency.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP31",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality",
+      "question": "Are key risk indicators (KRIs) tracked in real time, including biologic-specific KRIs (cold chain compliance rate, infusion completion rate, ADA sample evaluability rate)?",
+      "rubric_tests": "Evaluates whether KRI dashboards include biologic-specific indicators: cold chain compliance rate (% shipments/storage within specification); infusion completion rate (% infusions completed per protocol without interruption); ADA sample evaluability rate (% samples meeting quality criteria for analysis); drug utilization rate and wastage; weight-based dosing accuracy rate; and immunogenicity-driven discontinuation rate.",
+      "rationale": "Real-time KRI tracking for biologic programs must include biologic-specific operational metrics. These indicators provide early warning of systemic operational issues that can compromise trial integrity, patient safety, and data quality. Aggregate KRI trends across sites enable centralized detection of emerging biologic-specific problems.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP32",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality",
+      "question": "Is centralized monitoring used to detect outliers or protocol deviations?",
+      "rubric_tests": "Evaluates whether centralized statistical monitoring is implemented to detect data anomalies, site-level outliers, and protocol deviations using algorithmic or analytical approaches.",
+      "rationale": "Centralized monitoring per ICH E6(R2) is essential for efficient quality oversight. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP33",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are site communications regular and tracked?",
+      "rubric_tests": "Evaluates whether sponsor-site communications are systematic, documented, and tracked for responsiveness.",
+      "rationale": "Regular site communication supports trial quality. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP34",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are site closeout visits and documentation up-to-date, including biologic-specific closeout activities (drug product return/destruction, cold chain documentation archiving, infusion equipment return)?",
+      "rubric_tests": "Evaluates whether closeout procedures include biologic-specific activities: return or witnessed destruction of unused biologic drug product with documentation; cold chain monitoring records archived; drug accountability reconciliation for all biologic product received, dispensed, and returned; infusion equipment and ancillary supplies returned; central laboratory final sample shipment confirmation; and site pharmacy closeout documentation.",
+      "rationale": "Biologic site closeout requires additional activities beyond standard closeout. High-value biologic drug product must be accounted for and destroyed per protocol. Cold chain records must be archived for inspection. Pharmacy documentation must be complete. These biologic-specific closeout activities are often overlooked, creating inspection findings.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP35",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are protocol deviations tracked and trends reviewed for root causes?",
+      "rubric_tests": "Evaluates whether deviations are tracked, categorized, trended, and subject to root cause analysis.",
+      "rationale": "Deviation tracking and trending supports continuous improvement. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP36",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Is there a clear issue escalation and resolution path?",
+      "rubric_tests": "Evaluates whether escalation procedures are documented, understood, and followed by all team members.",
+      "rationale": "Clear escalation paths ensure timely issue resolution. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP37",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Are safety events communicated rapidly between sites, CROs, and sponsors, with specific processes for biologic-specific safety events (infusion reactions, CRS, anaphylaxis, immune-mediated AEs)?",
+      "rubric_tests": "Evaluates whether safety communication processes include biologic-specific urgency pathways: immediate notification protocols for anaphylaxis and severe infusion reactions; CRS grading and reporting pathways for bispecific T-cell engagers; immune-mediated adverse event identification and reporting; ADA-related safety event reporting (loss of response, hypersensitivity); and rapid safety communication to all sites following a biologic-specific safety signal (e.g., class-wide immunogenicity concern).",
+      "rationale": "Biologic safety events often require more urgent communication than small molecule AEs. Anaphylaxis and CRS are acute, life-threatening events requiring immediate response. Immune-mediated AEs may have delayed onset and require heightened surveillance. ADA-related safety signals may require protocol-wide communication. Safety communication processes must account for these biologic-specific urgency requirements.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP38",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Is there a documented process for SAE reconciliation and safety query resolution?",
+      "rubric_tests": "Evaluates whether SAE reconciliation between clinical database, safety database, and regulatory submissions is documented and executed per timeline.",
+      "rationale": "SAE reconciliation is critical for data integrity and regulatory compliance. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP39",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Are investigators trained on protocol amendments and safety updates, including biologic-specific training (updated infusion guidelines, CRS management algorithms, immunogenicity-related dose modifications)?",
+      "rubric_tests": "Evaluates whether investigator training on amendments includes biologic-specific content: updated infusion rate guidelines or premedication changes; revised CRS management algorithms or grading criteria; immunogenicity-related dose modification procedures; injection-site reaction management updates for SC products; and new safety information relevant to the biologic class or mechanism.",
+      "rationale": "Biologic protocol amendments frequently involve changes to infusion procedures, CRS management, or immunogenicity-related dose modifications that require hands-on retraining of site staff. Standard amendment notification processes are insufficient; biologic-specific amendments require competency verification, not just document acknowledgment.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP40",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Are consent processes compliant with evolving regulations (e.g., remote/eConsent), with biologic-specific consent elements (immunogenicity risk, infusion procedures, biological sample use)?",
+      "rubric_tests": "Evaluates whether informed consent processes include biologic-specific elements: explanation of immunogenicity risk and ADA monitoring; description of infusion/injection procedures and observation requirements; biological sample collection, storage, and potential future use; CRS risk and management for bispecific programs; long-term immunogenicity monitoring requirements; and explanation of biosimilar/comparator biologic if applicable.",
+      "rationale": "Biologic informed consent requires additional elements not present in small molecule consents. Patients must understand immunogenicity risk, the purpose of ADA monitoring, infusion procedures, CRS risk, and biological sample use. Regulatory bodies and ethics committees increasingly scrutinize biologic-specific consent language for completeness and patient comprehensibility.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP41",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Are data entry and query resolution timelines monitored, with biologic-specific data entry priorities (infusion data, dosing calculations, ADA results, cold chain documentation)?",
+      "rubric_tests": "Evaluates whether data entry prioritization includes biologic-specific critical data: infusion start/stop times, rates, and reactions; weight-based dose calculations and actual dose administered; cold chain temperature documentation and excursion reporting; ADA/PK sample collection times relative to dosing; CRS grading and management data; and injection-site reaction assessments.",
+      "rationale": "Biologic trials generate complex, safety-critical data that requires prioritized entry. Infusion data, dosing calculations, and cold chain documentation are time-sensitive and safety-relevant. Delayed entry of these data elements can mask safety signals and complicate dose modification decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP42",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Are site-level metrics reviewed in real time?",
+      "rubric_tests": "Evaluates whether site-level performance metrics are monitored in real time to enable proactive issue identification and intervention.",
+      "rationale": "Real-time site performance monitoring enables early intervention. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP43",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Are lock timelines tracked and tied to operational readiness, including biologic-specific lock prerequisites (ADA result reconciliation, PK data integration, cold chain excursion adjudication)?",
+      "rubric_tests": "Evaluates whether database lock prerequisites include biologic-specific completeness checks: ADA/NAb results received, reconciled, and integrated from central immunogenicity lab; PK concentration data reconciled with dosing records; cold chain excursion reports adjudicated and drug product disposition determined; infusion data completeness and accuracy verified; and weight-based dose calculation accuracy confirmed across all subjects.",
+      "rationale": "Biologic database locks have additional prerequisites beyond standard data cleaning. Immunogenicity results from central labs may have long turnaround times. PK data integration requires dosing-sampling time reconciliation. Cold chain excursion adjudication determines whether affected drug product data should be included. These biologic-specific prerequisites must be identified and tracked as lock prerequisites.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP44",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Is there a Data Entry Plan linked to monitoring and site performance?",
+      "rubric_tests": "Evaluates whether a documented Data Entry Plan aligns data collection priorities with monitoring activities and site performance metrics.",
+      "rationale": "A clear Data Entry Plan supports data quality. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP45",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Is the TMF system validated and audit-ready?",
+      "rubric_tests": "Evaluates whether the eTMF system is validated per 21 CFR Part 11/Annex 11 and maintained in an inspection-ready state.",
+      "rationale": "A validated TMF system is essential for regulatory compliance. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP46",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Are essential documents complete and filed in a timely manner, including biologic-specific essential documents (cold chain validation records, pharmacy qualifications, infusion training logs, drug product certificates of analysis)?",
+      "rubric_tests": "Evaluates whether TMF filing includes biologic-specific essential documents: drug product certificates of analysis and batch release documentation; cold chain validation records and temperature monitoring logs; pharmacy qualification and competency documentation; infusion protocol training records; ADA/PK sample collection training logs; CRS management protocol training records (for bispecifics); and IRT/IWRS validation documentation for weight-based dosing.",
+      "rationale": "Biologic TMFs contain additional essential document categories. Inspectors specifically look for cold chain documentation, pharmacy qualification records, and biologic-specific training evidence. Missing biologic-specific documents are a frequent inspection finding and can result in clinical holds or warning letters.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP47",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Is TMF completeness >85% at interim reviews and >95% before closeout?",
+      "rubric_tests": "Evaluates whether TMF completeness metrics meet or exceed industry benchmarks at key milestones.",
+      "rationale": "TMF completeness benchmarks support inspection readiness. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP48",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Are audit trail, versioning, and access logs in place?",
+      "rubric_tests": "Evaluates whether document control systems maintain audit trails, version control, and access logging.",
+      "rationale": "Audit trail and version control are regulatory requirements. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP49",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Are clinical operations aligned with ICH E6(R2)/E6(R3), local regulations, and sponsor SOPs, including biologic-specific regulatory requirements (biologic product handling, cold chain GxP, immunogenicity monitoring requirements)?",
+      "rubric_tests": "Evaluates whether GCP compliance extends to biologic-specific regulatory requirements: biologic product handling regulations (21 CFR 312 for IND biologics, EU GMP Annex 1 for aseptic products); cold chain GxP requirements (WHO GDP, PDA Technical Reports); immunogenicity monitoring per FDA/EMA guidance; biologic-specific pharmacovigilance requirements (FDA post-marketing immunogenicity commitments); and country-specific biologic product regulations.",
+      "rationale": "Biologic clinical operations must comply with additional regulatory frameworks beyond standard GCP. Cold chain GDP, biologic product handling regulations, and immunogenicity monitoring requirements create additional compliance obligations. GCP training must include biologic-specific modules. Inspection readiness must cover these biologic-specific compliance areas.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP50",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Are mock audits, GCP training, and inspection readiness reviews conducted, with biologic-specific inspection scenarios (cold chain compliance, drug accountability for biologics, infusion documentation, ADA sample integrity)?",
+      "rubric_tests": "Evaluates whether inspection readiness activities include biologic-specific scenarios: mock inspection of cold chain documentation and temperature records; drug accountability audit for biologic product (receipt, storage, dispensing, return, destruction); infusion documentation review (rate, duration, reactions, dose modifications); ADA sample collection and processing audit; pharmacy qualification and competency documentation review; and CRS management protocol compliance review.",
+      "rationale": "Regulatory inspectors of biologic trials focus on biologic-specific operational areas: cold chain compliance, drug accountability for high-value products, and infusion documentation. Mock audits that omit these biologic-specific scenarios create false confidence in inspection readiness. Common biologic-specific inspection findings include cold chain gaps, drug accountability discrepancies, and missing pharmacy qualification records.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP51",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Is documentation available for training, deviations, monitoring, and data integrity?",
+      "rubric_tests": "Evaluates whether comprehensive documentation is available to demonstrate GCP compliance in all key operational areas.",
+      "rationale": "Complete documentation is the foundation of inspection readiness. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP52",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Are any major audit findings (internal, CRO, regulators) addressed and closed?",
+      "rubric_tests": "Evaluates whether audit findings are tracked to resolution with documented CAPAs and evidence of effectiveness.",
+      "rationale": "Timely CAPA closure demonstrates quality commitment. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP53",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are EDC, CTMS, eTMF, eConsent, and IRT systems in place and validated, including biologic-specific system configurations (weight-based dosing IRT, cold chain monitoring systems, infusion device interfaces)?",
+      "rubric_tests": "Evaluates whether clinical trial systems include biologic-specific configurations: IRT/IWRS programmed for weight-based dosing with dose calculation verification; cold chain temperature monitoring system integration; EDC configuration for infusion data capture (start/stop times, rates, reactions); integration with infusion pump data capture (if applicable); ADA/PK sample tracking system; and CRS grading capture with automated safety alerting.",
+      "rationale": "Biologic trials require system configurations that do not exist in small molecule programs. Weight-based dosing IRT must accurately calculate doses across weight ranges and verify against pharmacy records. Cold chain monitoring systems must alert to temperature excursions in real time. EDC must capture complex infusion-day data. These configurations must be validated before first patient first visit.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP54",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Is system interoperability established (e.g., CTMS \u2194 EDC)?",
+      "rubric_tests": "Evaluates whether clinical trial systems are appropriately integrated to enable efficient data flow and reduce manual data transfer.",
+      "rationale": "System interoperability reduces errors and improves efficiency. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP55",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are role-based access and audit trails maintained?",
+      "rubric_tests": "Evaluates whether system access is controlled by role and all activities are logged with audit trails.",
+      "rationale": "Role-based access and audit trails are regulatory requirements. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP56",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are backup and business continuity processes documented?",
+      "rubric_tests": "Evaluates whether system backup and business continuity plans are documented, tested, and current.",
+      "rationale": "Business continuity planning protects trial data integrity. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP57",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Is there regular interaction between Clinical Ops, Medical, Regulatory, Safety, Biometrics, and biologic-specific functions (Clinical Pharmacology, Immunogenicity/Bioanalytical, CMC/Supply Chain)?",
+      "rubric_tests": "Evaluates whether cross-functional governance includes biologic-specific functional partners: Clinical Pharmacology (for PK/PD sampling logistics and dose modification implementation); Immunogenicity/Bioanalytical (for ADA sample collection, processing, and results integration); CMC/Drug Supply (for manufacturing timelines, drug product availability, and cold chain management); and Device Engineering (for auto-injector or infusion device operations, if applicable).",
+      "rationale": "Biologic programs require cross-functional interaction with functions that play minimal roles in small molecule trials. Clinical Pharmacology, Immunogenicity/Bioanalytical, and CMC/Supply Chain are critical partners for biologic clinical operations. Inadequate engagement with these functions leads to sample collection errors, drug supply disruptions, and dose modification implementation failures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP58",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Are cross-functional governance structures in place?",
+      "rubric_tests": "Evaluates whether governance structures (steering committees, trial teams, escalation paths) are established and functioning.",
+      "rationale": "Governance structures ensure aligned decision-making. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP59",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Are timelines tracked and reported in integrated dashboards or governance packs?",
+      "rubric_tests": "Evaluates whether trial timelines are tracked in real time and reported through integrated dashboards accessible to governance bodies.",
+      "rationale": "Timeline tracking enables proactive management. This requirement applies equally to biologic and small molecule programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP60",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Are internal and vendor teams aligned on success criteria and critical risks, including biologic-specific critical risks (cold chain failure, drug supply shortage, immunogenicity-driven attrition)?",
+      "rubric_tests": "Evaluates whether all stakeholders share a common understanding of biologic-specific critical risks: cold chain failure scenarios and contingency plans; drug supply shortage risk from manufacturing delays; immunogenicity-driven enrollment or retention shortfalls; infusion capacity constraints at key sites; and CRS management readiness across the site network.",
+      "rationale": "Alignment on biologic-specific critical risks is essential because these risks can be program-terminating. A cold chain failure affecting a large drug shipment can halt enrollment for months. Manufacturing delays for biologic drug product cannot be resolved quickly. Immunogenicity-driven attrition is unpredictable and can invalidate enrollment assumptions. All teams must understand and jointly mitigate these risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP61",
+      "inquiry_domain": "Cold Chain, Drug Supply & IP Management",
+      "question": "Is a comprehensive drug supply plan in place for the biologic product, including manufacturing-to-site cold chain mapping, temperature excursion procedures, and drug product shelf-life management?",
+      "rubric_tests": "Evaluates whether the drug supply plan addresses the full cold chain lifecycle: manufacturing site to depot to site drug flow mapping; validated shipping configurations (2\u20138\u00b0C or frozen) with qualified shippers; temperature monitoring devices and real-time alerting; temperature excursion assessment procedures and product disposition criteria; shelf-life management and re-testing/extension processes; drug product recall procedures; and contingency plans for cold chain equipment failure at sites.",
+      "rationale": "Biologic drug products are sensitive to temperature, agitation, light, and freeze-thaw cycles. A single cold chain failure can render an entire shipment unusable. Unlike small molecules, biologic drug product cannot be easily replaced due to long manufacturing lead times. Comprehensive cold chain planning from manufacturing to patient dosing is the single most critical operational requirement unique to biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP62",
+      "inquiry_domain": "Cold Chain, Drug Supply & IP Management",
+      "question": "Are site pharmacy operations for biologic preparation standardized, with documented procedures for reconstitution, dilution, labeling, and stability after preparation?",
+      "rubric_tests": "Evaluates whether pharmacy operations include: standardized reconstitution and dilution procedures (solvent type, volume, mixing method); in-use stability data and maximum hold times post-preparation; labeling requirements for prepared infusion bags/syringes; aseptic technique requirements and competency verification; drug product visual inspection procedures (particulates, discoloration); and waste handling for biologic product (biohazard requirements).",
+      "rationale": "Pharmacy preparation errors are a significant risk in biologic trials. Incorrect reconstitution solvent, excessive agitation, or improper dilution can denature the protein product. In-use stability limits the time between preparation and administration. Standardized, auditable pharmacy procedures with competency verification are essential to ensure patients receive the intended dose of intact biologic product.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP63",
+      "inquiry_domain": "Cold Chain, Drug Supply & IP Management",
+      "question": "Is drug accountability rigorous for high-value biologic product, including unit-level tracking, reconciliation, and witnessed destruction documentation?",
+      "rubric_tests": "Evaluates whether drug accountability procedures match the high value and regulatory sensitivity of biologic products: unit-level tracking from receipt through dispensing to return/destruction; reconciliation of received vs. dispensed vs. returned units; witnessed destruction with documentation; temperature monitoring records linked to specific drug units; expiry management and alerting for short-dated biologic product; and IRT/IWRS reconciliation with pharmacy records.",
+      "rationale": "Biologic drug products can cost $10,000\u2013$50,000+ per treatment course. Drug accountability must be rigorous: every vial/syringe must be tracked from receipt to disposition. Discrepancies in biologic drug accountability are high-severity inspection findings. Unlike small molecules (where a missing tablet is a minor finding), a missing biologic vial raises significant questions about diversion, cold chain integrity, and patient dosing accuracy.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP64",
+      "inquiry_domain": "Infusion/Injection Administration & Site Readiness",
+      "question": "Are infusion/injection administration procedures standardized across sites, with documented protocols for rate titration, premedication, observation periods, and reaction management?",
+      "rubric_tests": "Evaluates whether infusion/injection protocols are standardized: infusion rate schedule (initial rate, titration steps, maximum rate); premedication regimen and timing; post-infusion/injection observation period requirements; infusion reaction grading scale and management algorithm; dose modification rules for reactions (rate reduction, interruption, discontinuation); step-up dosing protocols for T-cell engaging bispecifics (hospitalization criteria, CRS monitoring frequency); and SC injection training and competency verification for self-administration.",
+      "rationale": "Inconsistent infusion/injection administration across sites creates safety risks, data variability, and protocol deviations. Infusion rate variations affect PK parameters. Inconsistent premedication affects reaction rates. Variable observation periods may miss delayed reactions. Standardized, site-auditable administration protocols are essential for biologic trial quality and patient safety.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP65",
+      "inquiry_domain": "Infusion/Injection Administration & Site Readiness",
+      "question": "Do sites have documented emergency response capabilities for biologic-specific acute reactions (anaphylaxis kit, CRS management protocol, trained personnel available during infusions)?",
+      "rubric_tests": "Evaluates whether sites maintain: anaphylaxis emergency response kit (epinephrine, antihistamines, corticosteroids, resuscitation equipment); CRS management protocol with tocilizumab or equivalent availability (for bispecific T-cell engagers); trained personnel present during infusion/injection period and observation; access to intensive care transfer for severe reactions; and documented emergency response drills or competency assessments.",
+      "rationale": "Biologic administration carries risk of acute, life-threatening reactions (anaphylaxis, severe CRS) that require immediate medical intervention. Sites must demonstrate emergency response capability before administering biologic products. Lack of emergency preparedness is a patient safety risk and a regulatory compliance failure. For bispecific T-cell engagers, tocilizumab or equivalent must be available on-site.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP66",
+      "inquiry_domain": "Immunogenicity Sample & Biospecimen Operations",
+      "question": "Is a comprehensive biospecimen operations plan in place for immunogenicity (ADA/NAb), PK, and biomarker sample collection, processing, storage, and shipping?",
+      "rubric_tests": "Evaluates whether the biospecimen plan covers: ADA/PK sample collection timing relative to dosing (pre-dose trough, end-of-infusion, post-infusion time points); sample processing requirements (centrifugation, aliquoting, freezing within specified timeframes); sample storage conditions (\u221220\u00b0C or \u221270\u00b0C for serum/plasma); shipping logistics with validated frozen shippers; sample tracking system from collection to central lab receipt; and contingency plans for sample collection errors or equipment failures.",
+      "rationale": "Immunogenicity and PK samples are critical regulatory deliverables for biologic BLA submissions. Sample quality depends on precise collection timing (relative to dosing), proper processing (within specified timeframes), and maintained cold chain during storage and shipping. Unlike routine safety labs, ADA/PK samples require specialized handling that sites must be trained on and monitored for compliance. Poor sample quality can render immunogenicity data uninterpretable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP67",
+      "inquiry_domain": "Immunogenicity Sample & Biospecimen Operations",
+      "question": "Are site staff trained and competency-verified on biologic-specific sample collection procedures, including timing relative to dosing, processing protocols, and sample integrity requirements?",
+      "rubric_tests": "Evaluates whether site training includes: sample collection timing protocols (e.g., ADA sample must be drawn pre-dose, not post-dose; PK trough must be within specified window of next dose); sample processing training (centrifuge settings, aliquot volumes, tube types, labeling); storage condition requirements and temperature monitoring; shipping procedures with validated kits; documentation requirements (collection time, processing time, storage conditions); and retraining triggers (sample rejection, protocol deviation, staff turnover).",
+      "rationale": "Incorrect sample collection timing or processing is the most common operational failure in biologic immunogenicity programs. An ADA sample drawn after dosing (when drug levels are high) will produce false-negative results due to drug interference. A PK sample drawn outside the protocol window produces unreliable concentration data. Site staff must understand *why* timing and processing matter, not just *what* to do. Competency verification (not just attendance) is essential.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP68",
+      "inquiry_domain": "Cold Chain, Drug Supply & IP Management",
+      "question": "For weight-based dosing biologics, is the dose calculation and verification workflow documented, including IRT dose assignment, pharmacy calculation, independent verification, and dose preparation accuracy checks?",
+      "rubric_tests": "Evaluates whether the weight-based dosing workflow includes safeguards against dosing errors: IRT/IWRS dose calculation based on verified body weight; pharmacy independent dose calculation verification; dose preparation documentation (number of vials, dilution volume, final concentration); independent check of prepared dose against IRT assignment; procedure for weight changes between visits and dose recalculation; and documentation of any dose rounding rules.",
+      "rationale": "Weight-based dosing calculation errors are a significant and underappreciated risk in biologic trials. Multiple handoffs (IRT \u2192 pharmacy \u2192 nurse) create opportunities for error. A 10% dosing error for a biologic can significantly affect PK exposure and treatment response. Documented, multi-step verification workflows with independent checks are essential. This is a common inspection focus area and source of protocol deviations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP69",
+      "inquiry_domain": "Infusion/Injection Administration & Site Readiness",
+      "question": "For SC self-administration programs, is a comprehensive patient training and competency verification program in place, including device training, injection technique, storage instructions, and missed dose procedures?",
+      "rubric_tests": "Evaluates whether SC self-administration programs include: device-specific training (auto-injector, pre-filled syringe) with demonstration and return demonstration; injection technique training (site selection, rotation, aseptic technique); home storage requirements and temperature monitoring instructions; missed dose and late dose procedures; injection-site reaction identification and reporting; sharps disposal procedures; and competency reassessment schedule.",
+      "rationale": "SC self-administration introduces operational complexities not present in clinic-administered biologics. Patient compliance with storage requirements, injection technique, and dosing schedule directly impacts drug exposure and immunogenicity risk. Inadequate patient training leads to injection errors, cold chain failures at home, and immunogenicity signal confounding. A structured competency program with reassessment is essential.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP70",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Is a biologic-specific risk management plan operationalized at sites, including REMS elements (if applicable), infusion reaction protocols, and immunogenicity monitoring schedules?",
+      "rubric_tests": "Evaluates whether the operational risk management plan addresses: REMS implementation if required (e.g., restricted distribution, prescriber certification, patient registration); infusion reaction risk mitigation protocols (premedication, rate titration, observation); CRS risk management for bispecific T-cell engagers (step-up dosing, hospitalization, tocilizumab availability); immunogenicity monitoring schedule compliance; and long-term follow-up requirements for immunogenicity assessment post-treatment.",
+      "rationale": "Biologic products may be subject to REMS requirements that impose operational obligations on sites (restricted distribution, patient registries, prescriber certification). Even without REMS, biologic risk management plans include operational components (premedication protocols, observation requirements, emergency preparedness) that must be systematically implemented and monitored across all sites.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP71",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are comparator biologic sourcing and management procedures in place, including procurement, cold chain maintenance, blinding (if applicable), and expiry management for comparator products?",
+      "rubric_tests": "Evaluates whether active-comparator biologic trial operations include: comparator biologic procurement strategy (commercial supply, clinical supply agreement); country-specific import and labeling requirements for comparator; cold chain management for comparator (may differ from investigational product); blinding procedures for open-label vs. double-blind comparator biologics (matching placebo, double-dummy); expiry management and resupply for comparator product; and comparator drug accountability separate from investigational product.",
+      "rationale": "Comparator biologic sourcing and management is a substantial operational challenge that does not exist for comparator small molecules (which are readily available as tablets). Comparator biologics require separate cold chain management, may have different storage conditions than the investigational product, and may be difficult to source commercially across all trial countries. Blinding IV biologics requires matching placebo infusions (double-dummy), adding operational complexity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP72",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are medical device and combination product operational requirements addressed, including device training, complaint handling, and device accountability for pre-filled syringes, auto-injectors, or infusion devices?",
+      "rubric_tests": "Evaluates whether device-related operational requirements are managed: device training for site staff and patients (auto-injectors, pre-filled syringes); device complaint handling and reporting procedures (malfunction, failure, use error); device accountability tracking (serial numbers, lot numbers); device-related adverse event reporting (per 21 CFR 803 / EU MDR); packaging and labeling for combination products; and device performance monitoring (failure rates, use errors, complaints).",
+      "rationale": "Many biologic products are combination products (drug + device). Pre-filled syringes, auto-injectors, and on-body delivery devices introduce device-specific operational requirements (training, accountability, complaint handling) that are distinct from drug operations. Clinical operations must manage device accountability, complaint reporting, and device-specific training as separate workstreams. Device complaints are often underreported in biologic trials.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP73",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Is the clinical quality management system aligned with ICH E6(R3) principles, including documented identification of critical-to-quality (CtQ) factors specific to biologic trial operations (cold chain integrity, infusion safety, immunogenicity sample quality, dosing accuracy)?",
+      "rubric_tests": "Evaluates whether the sponsor has implemented an ICH E6(R3)-compliant quality management approach for biologic trials: critical-to-quality factors identified and documented (e.g., cold chain integrity as CtQ for drug product quality; dosing accuracy as CtQ for weight-based biologics; ADA sample timing as CtQ for immunogenicity data integrity); proportionate risk-based quality management linked to CtQ factors; quality tolerance limits defined for biologic-specific KRIs; and documented quality-by-design rationale for monitoring intensity, data collection, and oversight activities.",
+      "rationale": "ICH E6(R3) represents a fundamental shift from procedural compliance to quality-by-design in clinical trials. For biologic programs, this means explicitly identifying which operational elements are critical to quality (cold chain, dosing accuracy, sample integrity, infusion safety) and designing proportionate quality systems around them. Sponsors who continue operating under E6(R2) procedural thinking will face inspection findings as E6(R3) implementation progresses. Biologic programs are ideal candidates for proportionate monitoring given their inherently higher operational risk profile.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP74",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are decentralized trial (DCT) elements operationalized for biologic-specific needs, including home infusion/injection services, direct-to-patient drug shipping with cold chain, remote safety monitoring, and telehealth visits?",
+      "rubric_tests": "Evaluates whether DCT elements appropriate for biologic programs are implemented with adequate controls: home infusion services for maintenance IV dosing (qualified nursing, emergency protocols, infusion monitoring equipment); home SC injection administration or training by visiting nurses; direct-to-patient cold chain drug shipping with validated shippers and temperature monitoring; remote/telehealth visits between infusion visits for safety assessment; wearable or ePRO-based remote safety monitoring; and regulatory compliance with country-specific requirements for home administration of investigational biologics.",
+      "rationale": "DCT elements are increasingly used in biologic programs to reduce patient burden, improve retention, and increase access. However, home infusion of biologics introduces unique operational risks: cold chain compliance during home delivery, emergency response capability at home (anaphylaxis, CRS), unsupervised injection technique for SC products, and data capture from non-site settings. These require specific SOPs, vendor qualification, and monitoring approaches distinct from standard DCT elements used for oral drug trials.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP75",
+      "inquiry_domain": "Clinical Development Plan Operations",
+      "question": "Is a formal operational impact assessment conducted before implementing protocol amendments, evaluating cascading effects on biologic-specific operations (IRT dosing algorithms, infusion protocols, cold chain logistics, pharmacy procedures, sample collection schedules)?",
+      "rubric_tests": "Evaluates whether amendment impact assessment includes: IRT/IWRS reprogramming requirements and UAT timeline for dosing algorithm changes; infusion protocol updates and site retraining requirements; cold chain logistics adjustments (new drug strengths, storage conditions, shipping configurations); pharmacy procedure updates and requalification needs; sample collection schedule changes and central lab protocol updates; site re-consent requirements and timeline; amendment-driven deviation rate tracking post-implementation; and operational cost and timeline impact quantification.",
+      "rationale": "Biologic programs average 2\u20133 substantial protocol amendments per pivotal trial, each cascading through multiple biologic-specific operational systems. A dose modification amendment requires IRT reprogramming, pharmacy retraining, infusion protocol updates, site retraining, and patient re-consent \u2014 each with its own lead time. Failure to conduct formal operational impact assessment before amendment implementation leads to deviation spikes, dosing errors during transition, and timeline slippage. Amendment-driven deviations are a top-5 source of protocol non-compliance in biologic programs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP76",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are country-specific biologic regulatory and operational requirements mapped and planned for, including biological sample export restrictions, local comparator sourcing mandates, country-specific ICF requirements for biomarker/genetic samples, and regional biologic import timelines?",
+      "rubric_tests": "Evaluates whether country planning includes detailed biologic-specific regulatory mapping: China biological sample export restrictions (HGRAC approval for genetic material); Japan separate ICF requirements for exploratory biomarker/genetic samples; Brazil ANVISA biologic import and cold chain requirements; India CDSCO requirements for biologic clinical trials and local comparator sourcing; South Korea MFDS biologic-specific IND requirements; EU country-specific requirements for handling of genetically modified organisms (if applicable to bispecifics); and Middle East/North Africa biologic product registration requirements for clinical supply import.",
+      "rationale": "Country-specific biologic regulatory requirements are the most underestimated source of startup delays in global biologic programs. China's biological sample export restrictions can delay central immunogenicity analysis by months. Brazil's biologic import process adds 3\u20136 months to site activation. Japan's consent requirements for biomarker samples require separate ICF documents. Failure to map these requirements during country selection leads to cascading delays that are difficult to recover.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP77",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Is the operational infrastructure for long-term safety follow-up planned and resourced, including extended immunogenicity monitoring, delayed immune-mediated AE surveillance, and malignancy follow-up for immunomodulatory biologics?",
+      "rubric_tests": "Evaluates whether long-term follow-up operations include: extended ADA monitoring schedule post-treatment completion (typically 6\u201312 months); delayed immune-mediated adverse event surveillance protocols; malignancy follow-up for immunosuppressive/immunomodulatory biologics; patient retention strategies for multi-year follow-up periods; simplified visit schedules and remote data collection for follow-up phase; registry infrastructure if long-term post-marketing safety commitments are anticipated; and resource planning for follow-up operations extending beyond primary trial completion.",
+      "rationale": "Biologic programs frequently require extended safety follow-up that outlasts the primary treatment period by 1\u20135 years. Immunogenicity monitoring must continue post-treatment to assess ADA persistence and resolution. Immunomodulatory biologics may require long-term malignancy surveillance per FDA post-marketing commitments. The operational infrastructure for this follow-up \u2014 patient retention, visit scheduling, data capture \u2014 must be planned from trial inception, not as an afterthought at trial completion. Under-resourced follow-up leads to high dropout and incomplete safety datasets.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP78",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Is IRT/IWRS design, validation, and ongoing performance management adequate for the complexity of biologic dosing, including weight-based dose calculation, multi-vial dose banding, dose modification algorithms, and IRT-pharmacy reconciliation?",
+      "rubric_tests": "Evaluates whether IRT/IWRS management addresses biologic-specific complexity: weight-based dose calculation accuracy across the clinically relevant weight range; dose banding rules and vial combination optimization to minimize waste; dose modification algorithms for AE-driven dose reductions, immunogenicity-related changes, or step-up dosing; UAT scenarios covering edge cases (extreme weights, dose modifications, treatment interruptions, re-challenge); IRT-pharmacy reconciliation workflows and discrepancy resolution; IRT error detection and alerting (dose outside expected range, weight change flagging); ongoing IRT performance monitoring (calculation accuracy, dispensing errors); and IRT change control for mid-trial modifications.",
+      "rationale": "IRT errors in biologic trials are a top-3 operational risk and a frequent source of FDA 483 findings. Weight-based dosing creates calculation complexity absent in fixed-dose small molecule trials. Multiple vial strengths and dose banding add permutations that must be exhaustively tested during UAT. Dose modification algorithms (for toxicity, immunogenicity, step-up dosing) create branching logic that compounds error risk. IRT-pharmacy reconciliation failures can result in patients receiving incorrect doses. Dedicated IRT quality management is essential \u2014 this cannot be managed as a standard system validation exercise.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP79",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are site payment structures appropriately designed for biologic trial complexity, including variable infusion visit payments, dose preparation fees, extended observation reimbursement, and Fair Market Value assessment for biologic-specific procedures?",
+      "rubric_tests": "Evaluates whether site payment models account for biologic-specific visit complexity: variable chair time payments (first infusion vs. maintenance, with/without observation extensions); pharmacy preparation fees for biologic reconstitution/dilution; sample collection fees for multiple PK/ADA draws per visit; extended observation period reimbursement; CRS monitoring fees for bispecific programs; screen failure compensation proportional to screening burden; Fair Market Value documentation for biologic-specific procedures; and payment for investigator/site staff time for biologic-specific training.",
+      "rationale": "Biologic site payments are substantially more complex than small molecule trials and frequently lead to site dissatisfaction, payment disputes, and delayed enrollment. Infusion visits vary in duration and complexity. Pharmacy preparation of biologics requires dedicated time and skill. Multiple sample collections per visit increase site workload. Sites that feel under-compensated for biologic-specific effort become low-performing or dropout. Fair Market Value assessment must reflect the genuine burden of biologic trial procedures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP80",
+      "inquiry_domain": "Immunogenicity Sample & Biospecimen Operations",
+      "question": "Are central immunogenicity laboratory operations managed with defined turnaround timelines, result integration workflows, re-testing triggers, and contingency plans for laboratory performance issues or sample stability concerns?",
+      "rubric_tests": "Evaluates whether central immunogenicity lab management includes: contracted turnaround timelines for ADA/NAb results with escalation for delays; result integration workflow from central lab into EDC and safety database; re-testing triggers and procedures (borderline results, sample quality concerns, clinical correlation needs); laboratory performance monitoring (turnaround time, sample rejection rate, assay failure rate); contingency plans for lab transfer if performance is inadequate; long-term sample storage stability monitoring and re-testing schedule; and communication protocols between sponsor bioanalytical team, operations team, and central lab.",
+      "rationale": "Central immunogenicity laboratory operations are a critical dependency for biologic programs that is often managed reactively rather than proactively. ADA result turnaround delays can impact dose modification decisions. Result integration failures between lab systems and EDC create data discrepancies. Sample stability issues during long-term storage can compromise the integrity of the immunogenicity dataset. These operational relationships require defined governance, not ad hoc management.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP81",
+      "inquiry_domain": "Clinical Development Plan Operations",
+      "question": "Are operational plans in place for biologic-specific phase transitions, including patient rollover from dose-finding to expansion, IV-to-SC formulation switching, and transition from clinical to commercial drug supply?",
+      "rubric_tests": "Evaluates whether phase transition operations include: patient rollover logistics from Phase 1 dose-finding to expansion cohorts or Phase 2 (consent, dosing continuity, data transfer); IV-to-SC formulation transition planning (site retraining, patient education, new drug supply, updated IRT); clinical-to-commercial drug supply transition (comparability documentation, relabeling, cold chain reconfiguration); investigator/site transition support between phases; and data continuity and traceability across phase transitions.",
+      "rationale": "Biologic programs have more complex phase transitions than small molecule programs. Patients may continue from dose escalation into expansion on different dose levels. Formulation changes (IV\u2192SC, lyophilized\u2192liquid) between phases require complete operational reconfiguration. The transition from clinical to commercial drug supply requires manufacturing comparability and potentially relabeling. These transitions are operationally disruptive and must be planned well in advance to avoid dosing gaps or data continuity issues.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BCOP82",
+      "inquiry_domain": "Cold Chain, Drug Supply & IP Management",
+      "question": "Is a biologic-specific business continuity and supply chain resilience plan documented, addressing manufacturing disruption, cold chain logistics failure, site access restrictions affecting infusion visits, and pandemic/geopolitical supply chain risks?",
+      "rubric_tests": "Evaluates whether business continuity planning addresses biologic-specific vulnerabilities: manufacturing site disruption contingency (alternate manufacturing, safety stock strategy given 6\u201312 month lead times); cold chain logistics failure scenarios (carrier disruption, equipment failure, natural disaster affecting cold chain infrastructure); site access restrictions preventing infusion visits (pandemic, natural disaster, geopolitical instability); drug product shortage management procedures (dose interruption protocols, bridging strategies); cross-border supply chain risks (customs delays, import permit issues, sanction-related disruptions); and communication protocols for supply-related dosing interruptions.",
+      "rationale": "COVID demonstrated that biologic trials are uniquely vulnerable to supply chain disruption. Manufacturing cannot be rapidly scaled. Cold chain logistics depend on functioning global transport infrastructure. Infusion visits cannot be converted to home visits without extensive planning. Drug product shortages can result in treatment interruptions with immunogenicity consequences (re-immunization risk upon retreatment). Biologic-specific business continuity planning must go far beyond generic BCP to address these unique vulnerabilities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

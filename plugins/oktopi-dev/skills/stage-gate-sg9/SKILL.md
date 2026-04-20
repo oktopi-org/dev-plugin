@@ -1,0 +1,1151 @@
+---
+name: Stage Gate SG9 — Launch & Post-Market Lifecycle Management
+description: Stage-gate SG9 review goal for an Oktopi PDP: Launch & Post-Market Lifecycle Management. Use when assessing readiness to exit SG9 across CMC, clinical, regulatory, and commercial functions.
+---
+
+# Stage Gate SG9: Launch & Post-Market Lifecycle Management
+
+**Goal.** Execute a compliant launch and sustain post-market obligations, lifecycle planning, and RWE/safety monitoring.
+
+**Primary focus areas.** PSUR/PBRER, REMS/RMP, LCM indications, RWE commitments
+
+## How to use
+
+1. Confirm the modality (small-molecule or biologics) and mode (SR, OE, DD, RS) in scope.
+2. For each function, run the corresponding function reviewer agent (`<function>-reviewer`).
+3. Feed each agent this stage-gate code (SG9) and mode so it filters on Critical questions first.
+4. Consolidate gaps per function into a single go/no-go decision for SG9.
+
+## Critical questions at this stage-gate, by mode
+
+### SR — Strategic Readiness
+
+- **CDM**
+  - `BBCDM1` *(BIO)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `BBCDM16` *(BIO)* — Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?
+  - `BBCDM17` *(BIO)* — Are safety data actively reviewed (e.g., DSMB, internal safety committees)?
+  - `BBCDM19` *(BIO)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `BBCDM25` *(BIO)* — Are KOLs engaged or consulted for trial design and positioning?
+  - `BBCDM26` *(BIO)* — Are publications, congress presentations, and medical communications planned?
+  - `BBCDM27` *(BIO)* — Is there a plan for MSL engagement, payer education, or scientific advisory boards?
+  - `BBCDM28` *(BIO)* — Are real-world evidence (RWE) or post-marketing studies being considered?
+  - `BBCDM41` *(BIO)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `BBCDM57` *(BIO)* — Is immunogenicity monitoring prospectively integrated into the clinical programme with pre-defined decision criteria?
+  - `BBCDM58` *(BIO)* — Are immunogenicity-related clinical events (infusion reactions, loss of response, hypersensitivity) prospectively tracked and correlated with ADA status?
+  - `BBCDM59` *(BIO)* — Is a clinical immunogenicity risk mitigation strategy in place (e.g., concomitant immunosuppression, immune tolerance induction, SC vs. IV route optimisation)?
+  - `BBCDM60` *(BIO)* — Is the administration regimen (IV/SC, dosing frequency, infusion time) optimised for the target treatment setting and patient population?
+  - `BBCDM61` *(BIO)* — Are patient-reported outcomes (PROs) capturing biologic-specific treatment burden (infusion time, injection site reactions, CRS symptoms)?
+  - `BBCDM62` *(BIO)* — For combination regimens: is the clinical trial design appropriate to evaluate the contribution of each component and the combination benefit-risk?
+  - `CDM1` *(SM)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `CDM23` *(SM)* — Are publications, congress presentations, and medical communication materials planned or underway?
+  - `CDM24` *(SM)* — Is there a plan for Medical Science Liaison (MSL) engagement, payer education, or scientific advisory boards?
+  - `CDM25` *(SM)* — Are real-world evidence (RWE) or post-marketing studies being considered?
+  - `CDM38` *(SM)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `CDM39` *(SM)* — Is the positioning clear vs. existing and emerging therapies?
+  - `CDM45` *(SM)* — Is there a lifecycle management plan (e.g., label expansion, line extensions)?
+  - `CDM46` *(SM)* — Are post-approval study commitments or Phase 4 trials planned or required?
+  - `CDM47` *(SM)* — Are registries or real-world studies planned for value demonstration?
+  - `CDM51` *(SM)* — Is the clinical leadership experienced and credible?
+  - `CDM52` *(SM)* — Is medical oversight provided by board-certified physicians in the relevant area?
+- **CMC**
+  - `BBCMC62` *(BIO)* — Are post-approval process change and lifecycle management strategies planned?
+  - `BBCMC68` *(BIO)* — Is continued process verification (CPV) / ongoing process verification established with appropriate statistical monitoring?
+- **COM**
+  - `BBCOM16` *(BIO)* — Are pricing and reimbursement risks identified and addressed?
+  - `BBCOM17` *(BIO)* — Have payer advisory boards or research been conducted?
+  - `BBCOM18` *(BIO)* — Are payer value messages tested or defined?
+  - `BBCOM19` *(BIO)* — Are there reimbursement precedents in the target indication?
+  - `BBCOM20` *(BIO)* — Is the expected reimbursed price range feasible for uptake?
+  - `BBCOM21` *(BIO)* — Is there a clearly defined commercialization strategy (partnered vs. direct)?
+  - `BBCOM22` *(BIO)* — Are go-to-market models defined by geography (e.g., U.S. vs. EU vs. Asia)?
+  - `BBCOM23` *(BIO)* — Are launch sequence, pricing corridors, and market prioritization mapped?
+  - `BBCOM24` *(BIO)* — Are distribution and channel strategies defined?
+  - `BBCOM25` *(BIO)* — Is a launch plan or launch excellence framework in place?
+  - `BBCOM26` *(BIO)* — Are key milestones defined (regulatory, supply, market shaping, field force)?
+  - `BBCOM27` *(BIO)* — Are internal capabilities or partners identified for launch execution?
+  - `BBCOM28` *(BIO)* — Is a launch budget and resource plan developed?
+  - `BBCOM29` *(BIO)* — Are initial branding concepts or value propositions in development?
+  - `BBCOM30` *(BIO)* — Are key customer segments identified (e.g., specialists, PCPs, hospitals)?
+  - `BBCOM31` *(BIO)* — Are clinical and economic value stories integrated into messaging?
+  - `BBCOM32` *(BIO)* — Is there a patient-centered approach in brand planning?
+  - `BBCOM33` *(BIO)* — Are KOLs identified and engaged across key markets?
+  - `BBCOM34` *(BIO)* — Are early adopter physicians, advocates, and societies mapped?
+  - `BBCOM35` *(BIO)* — Are patient advocacy organizations involved or consulted?
+  - `BBCOM36` *(BIO)* — Is stakeholder mapping aligned with scientific and commercial strategy?
+  - `BBCOM37` *(BIO)* — Are there clear lifecycle opportunities (e.g., new indications, combinations, formulations)?
+  - `BBCOM38` *(BIO)* — Is there potential for line extensions or geographic expansion?
+  - `BBCOM39` *(BIO)* — Is the asset part of a broader platform or portfolio strategy?
+  - `BBCOM40` *(BIO)* — Are there adjacent market opportunities or follow-on assets?
+  - `BBCOM41` *(BIO)* — Are commercial supply and distribution plans in place?
+  - `BBCOM42` *(BIO)* — Are partnerships or 3PLs identified for commercial-scale logistics?
+  - `BBCOM43` *(BIO)* — Are cold chain, specialty pharmacy, or hospital distribution needs addressed?
+  - `BBCOM44` *(BIO)* — Is serialization and trade compliance planning underway?
+  - `BBCOM45` *(BIO)* — Is there a credible commercial leadership team or advisor network?
+  - `BBCOM46` *(BIO)* — Are key commercial roles filled or in plan (marketing, access, sales)?
+  - `BBCOM47` *(BIO)* — Are internal vs. external capabilities clearly defined?
+  - `BBCOM48` *(BIO)* — Is the commercial org structure scalable across phases (prelaunch to scale-up)?
+  - `BBCOM49` *(BIO)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `BBCOM50` *(BIO)* — Are registries, claims analyses, or natural history studies in progress?
+  - `BBCOM51` *(BIO)* — Is there a strategy to generate data post-approval to support additional claims?
+  - `BBCOM52` *(BIO)* — Are digital engagement plans in place (HCPs, patients, payers)?
+  - `BBCOM53` *(BIO)* — Are CRM, digital content, and analytics platforms identified or integrated?
+  - `BBCOM54` *(BIO)* — Is there an omnichannel marketing or medical affairs plan?
+  - `BBCOM55` *(BIO)* — Are revenue forecasts realistic and well-documented?
+  - `BBCOM56` *(BIO)* — Are assumptions (uptake curve, market share, price, attrition) transparent?
+  - `BBCOM57` *(BIO)* — Are sensitivity/scenario analyses conducted for key risks?
+  - `BBCOM58` *(BIO)* — Are forecasts aligned with clinical and regulatory timelines?
+  - `BBCOM59` *(BIO)* — Is the buy-and-bill vs. specialty pharmacy channel strategy defined, and are provider economics modeled for IV biologics?
+  - `BBCOM60` *(BIO)* — Is a patient support programme (hub services) designed for biologic-specific needs (copay assistance, injection training, infusion scheduling, adherence support)?
+  - `BBCOM61` *(BIO)* — Is the biosimilar defence and loss-of-exclusivity (LOE) strategy defined?
+  - `BBCOM62` *(BIO)* — Are site-of-care economics and infusion network strategy addressed for IV biologics?
+  - `BBCOM63` *(BIO)* — For physician-administered (buy-and-bill) biologics, are provider economics comprehensively modelled, including ASP+6% reimbursement mechanics, acquisition cost vs reimbursement...
+  - `BBCOM64` *(BIO)* — Is the emerging PBM private-label biosimilar market model assessed as a competitive threat, including the dynamics of PBM-owned biosimilar products, formulary exclusion of origi...
+  - `BBCOM65` *(BIO)* — Is the rebate and contracting strategy designed to defend market position against biosimilar competition, including assessment of rebate wall sustainability, gross-to-net dynami...
+  - `BBCOM66` *(BIO)* — For IV-administered biologics, is an infusion network and site-of-care strategy developed, including hospital outpatient department (HOPD) vs physician office vs home infusion e...
+  - `BBCOM67` *(BIO)* — Is the patient support programme (hub services) designed as a competitive differentiator, with comprehensive services including benefits verification, prior authorisation suppor...
+  - `BBCOM68` *(BIO)* — Has the impact of the Inflation Reduction Act (IRA) Medicare drug price negotiation provisions been assessed, including eligibility timeline for biologic negotiation, pricing im...
+  - `BBCOM69` *(BIO)* — Is the medical benefit vs pharmacy benefit channel strategy defined, including the implications of route of administration (IV = medical benefit, SC = pharmacy benefit) on reimb...
+  - `BBCOM7` *(BIO)* — Does the product address a high unmet need or a defined market gap?
+  - `BBCOM70` *(BIO)* — Are biologic-specific cost of goods sold (COGS) and margin assumptions realistic, reflecting the fundamentally higher manufacturing costs of biologics (cell culture, purificatio...
+  - `BBCOM71` *(BIO)* — For hospital-administered biologics, is the institutional formulary and tender strategy defined, including Pharmacy & Therapeutics (P&T) committee engagement, hospital group pur...
+  - `BBCOM72` *(BIO)* — For SC self-administration biologics, is the patient journey and commercial model designed to maximise treatment initiation, persistence, and adherence, including device prefere...
+  - `COM11` *(SM)* — Is there a clear differentiation strategy vs. competitors?
+  - `COM12` *(SM)* — Are emerging technologies or disruptive entrants monitored?
+  - `COM13` *(SM)* — Have initial pricing assumptions been modeled and benchmarked?
+  - `COM14` *(SM)* — Are health economic/value frameworks developed (e.g., cost-effectiveness models)?
+  - `COM15` *(SM)* — Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?
+  - `COM16` *(SM)* — Are pricing and reimbursement risks identified and addressed?
+  - `COM17` *(SM)* — Have payer advisory boards or research been conducted?
+  - `COM18` *(SM)* — Are payer value messages tested or defined?
+  - `COM19` *(SM)* — Are there reimbursement precedents in the target indication?
+  - `COM20` *(SM)* — Is the expected reimbursed price range feasible for uptake?
+  - `COM21` *(SM)* — Is there a clearly defined commercialization strategy (partnered vs. direct)?
+  - `COM22` *(SM)* — Are go-to-market models defined by geography (e.g., U.S. vs. EU vs. Asia)?
+  - `COM23` *(SM)* — Are launch sequence, pricing corridors, and market prioritization mapped?
+  - `COM24` *(SM)* — Are distribution and channel strategies defined?
+  - `COM25` *(SM)* — Is a launch plan or launch excellence framework in place?
+  - `COM26` *(SM)* — Are key milestones defined (regulatory, supply, market shaping, field force)?
+  - `COM27` *(SM)* — Are internal capabilities or partners identified for launch execution?
+  - `COM29` *(SM)* — Are initial branding concepts or value propositions in development?
+  - `COM30` *(SM)* — Are key customer segments identified (e.g., specialists, PCPs, hospitals)?
+  - `COM31` *(SM)* — Are clinical and economic value stories integrated into messaging?
+  - `COM32` *(SM)* — Is there a patient-centered approach in brand planning?
+  - `COM33` *(SM)* — Are KOLs identified and engaged across key markets?
+  - `COM34` *(SM)* — Are early adopter physicians, advocates, and societies mapped?
+  - `COM35` *(SM)* — Are patient advocacy organizations involved or consulted?
+  - `COM36` *(SM)* — Is stakeholder mapping aligned with scientific and commercial strategy?
+  - `COM37` *(SM)* — Are there clear lifecycle opportunities (e.g., new indications, combinations, formulations)?
+  - `COM38` *(SM)* — Is there potential for line extensions or geographic expansion?
+  - `COM39` *(SM)* — Is the asset part of a broader platform or portfolio strategy?
+  - `COM40` *(SM)* — Are there adjacent market opportunities or follow-on assets?
+  - `COM41` *(SM)* — Are commercial supply and distribution plans in place?
+  - `COM43` *(SM)* — Are cold chain, specialty pharmacy, or hospital distribution needs addressed?
+  - `COM45` *(SM)* — Is there a credible commercial leadership team or advisor network?
+  - `COM46` *(SM)* — Are key commercial roles filled or in plan (marketing, access, sales)?
+  - `COM47` *(SM)* — Are internal vs. external capabilities clearly defined?
+  - `COM48` *(SM)* — Is the commercial org structure scalable across phases (prelaunch to scale-up)?
+  - `COM49` *(SM)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `COM50` *(SM)* — Are registries, claims analyses, or natural history studies in progress?
+  - `COM51` *(SM)* — Is there a strategy to generate data post-approval to support additional claims?
+  - `COM52` *(SM)* — Are digital engagement plans in place (HCPs, patients, payers)?
+  - `COM54` *(SM)* — Is there an omnichannel marketing or medical affairs plan?
+  - `COM55` *(SM)* — Are revenue forecasts realistic and well-documented?
+  - `COM56` *(SM)* — Are assumptions (uptake curve, market share, price, attrition) transparent?
+  - `COM57` *(SM)* — Are sensitivity/scenario analyses conducted for key risks?
+  - `COM58` *(SM)* — Are forecasts aligned with clinical and regulatory timelines?
+  - `COM6` *(SM)* — Are differentiating features clearly articulated (efficacy, safety, route, convenience)?
+  - `COM7` *(SM)* — Does the product address a high unmet need or a defined market gap?
+- **ERW**
+  - `BBERW21` *(BIO)* — Are real-world treatment patterns described (lines of therapy, combinations, switching)?
+  - `BBERW22` *(BIO)* — Are data available on medication adherence, persistence, and discontinuation?
+  - `BBERW23` *(BIO)* — Are health outcomes (e.g., survival, QoL, exacerbation rates, relapse) captured in real-world settings?
+  - `BBERW24` *(BIO)* — Are patient-reported outcomes or functional status included?
+  - `BBERW25` *(BIO)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `BBERW26` *(BIO)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `BBERW27` *(BIO)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `BBERW28` *(BIO)* — Are data on off-label use, medication errors, or misuse captured?
+  - `BBERW29` *(BIO)* — Are healthcare resource utilization (HCRU) and cost data available (hospitalization, ER, ICU, outpatient)?
+  - `BBERW30` *(BIO)* — Are direct medical, non-medical, and indirect costs assessed?
+  - `BBERW31` *(BIO)* — Is the budget impact of new therapies modeled using RWE inputs?
+  - `BBERW32` *(BIO)* — Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?
+  - `BBERW33` *(BIO)* — Are RWE strategies aligned with current regulatory guidance (FDA RWE Framework, EMA Big Data)?
+  - `BBERW34` *(BIO)* — Are prior interactions with regulators regarding RWE use documented?
+  - `BBERW35` *(BIO)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `BBERW36` *(BIO)* — Is there a pre-specified RWE Statistical Analysis Plan (SAP) for regulatory interactions?
+  - `BBERW37` *(BIO)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `BBERW38` *(BIO)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `BBERW39` *(BIO)* — Are burden-of-illness studies or observational registries in place for the indication?
+  - `BBERW40` *(BIO)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `BBERW41` *(BIO)* — Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?
+  - `BBERW42` *(BIO)* — Are registry protocols designed to capture effectiveness, safety, and QoL over time?
+  - `BBERW43` *(BIO)* — Are registries linked to biobanks or digital tools (e.g., wearables, ePROs)?
+  - `BBERW44` *(BIO)* — Are data from compassionate use or expanded access programs integrated?
+  - `BBERW45` *(BIO)* — Are decentralized or digital tools (e.g., apps, sensors, wearables) used to collect RWD?
+  - `BBERW46` *(BIO)* — Are patient engagement platforms or eConsent frameworks in place?
+  - `BBERW47` *(BIO)* — Is data quality (completeness, timeliness, interoperability) evaluated for digital endpoints?
+  - `BBERW48` *(BIO)* — Are these tools aligned with evidence-generation strategy?
+  - `BBERW49` *(BIO)* — Are RWE insights being used to inform inclusion/exclusion criteria and site selection?
+  - `BBERW50` *(BIO)* — Are real-world progression patterns used to define trial endpoints?
+  - `BBERW51` *(BIO)* — Is the CDP integrated with RWE to support lifecycle evidence needs?
+  - `BBERW52` *(BIO)* — Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?
+  - `BBERW53` *(BIO)* — Are statistical methods for causal inference in observational data validated?
+  - `BBERW54` *(BIO)* — Is there an experienced epidemiology or RWE team supporting the asset?
+  - `BBERW55` *(BIO)* — Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?
+  - `BBERW56` *(BIO)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `BBERW57` *(BIO)* — Are lifecycle plans in place for label expansion, new indications, or new populations?
+  - `BBERW58` *(BIO)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+  - `BBERW59` *(BIO)* — Are real-world biosimilar switching patterns, outcomes, and economic impact tracked and analysed?
+  - `BBERW60` *(BIO)* — Are real-world immunogenicity and immune-mediated safety outcomes captured using appropriate data sources and coding?
+  - `BBERW61` *(BIO)* — Are real-world treatment sequencing and line-of-therapy analyses designed for biologic therapeutic areas?
+  - `BBERW62` *(BIO)* — Are site-of-care and administration burden data captured to support biologic value differentiation and access strategy?
+  - `BBERW63` *(BIO)* — Are the limitations of real-world immunogenicity data formally assessed, including the absence of standardised ADA testing in routine clinical practice, assay heterogeneity acro...
+  - `BBERW64` *(BIO)* — Is the RWE methodology for analysing biologic switching, sequencing, and cycling patterns robust, including proper handling of channelling bias, time-varying confounding, and th...
+  - `BBERW65` *(BIO)* — For biologic programmes using external control arms (ECAs) in regulatory submissions, is the ECA methodology aligned with FDA and EMA frameworks, including pre-specification, ta...
+  - `BBERW66` *(BIO)* — Is the RWE strategy for biosimilar switching and interchangeability evidence generation defined, including non-medical switching outcome studies, multiple-switch safety analyses...
+  - `BBERW67` *(BIO)* — Has the Inflation Reduction Act (IRA) impact on RWE evidence requirements been assessed, including the role of real-world comparative effectiveness data in Medicare price negoti...
+  - `BBERW68` *(BIO)* — For rare disease or orphan biologic programmes, is a prospective natural history study in place or planned to characterise disease progression, establish external comparator bas...
+  - `BBERW69` *(BIO)* — Is the real-world administration burden of biologic therapy quantified, including infusion chair time, observation periods, site-of-care resource use, patient time and travel co...
+  - `BBERW70` *(BIO)* — Is real-world biologic persistence and adherence comprehensively measured, with biologic-specific methodology addressing the distinction between primary non-response, secondary ...
+  - `BBERW71` *(BIO)* — Are claims-based algorithms for biologic-relevant endpoints validated against clinical data, including algorithms for infusion reactions, immune-mediated AEs, secondary non-resp...
+  - `BBERW72` *(BIO)* — Is the target trial emulation framework being applied to biologic RWE studies that aim to support regulatory or HTA decisions, with explicit specification of the target trial pr...
+  - `ERW25` *(SM)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `ERW26` *(SM)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `ERW27` *(SM)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `ERW32` *(SM)* — Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?
+  - `ERW35` *(SM)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `ERW37` *(SM)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `ERW38` *(SM)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `ERW39` *(SM)* — Are burden-of-illness studies or observational registries in place for the indication?
+  - `ERW40` *(SM)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `ERW41` *(SM)* — Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?
+  - `ERW44` *(SM)* — Are data from compassionate use or expanded access programs integrated?
+  - `ERW45` *(SM)* — Are decentralized or digital tools (e.g., apps, sensors, wearables) used to collect RWD?
+  - `ERW48` *(SM)* — Are these tools aligned with evidence-generation strategy?
+  - `ERW51` *(SM)* — Is the CDP integrated with RWE to support lifecycle evidence needs?
+  - `ERW52` *(SM)* — Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?
+  - `ERW54` *(SM)* — Is there an experienced epidemiology or RWE team supporting the asset?
+  - `ERW55` *(SM)* — Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?
+  - `ERW56` *(SM)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `ERW57` *(SM)* — Are lifecycle plans in place for label expansion, new indications, or new populations?
+  - `ERW58` *(SM)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+- **PM**
+  - `BPM31` *(BIO)* — Are PM processes standardised across the organisation — with templates, SOPs, and training that enable consistent project management practices regardless of programme or therape...
+  - `BPM32` *(BIO)* — Are programme performance metrics tracked and benchmarked — including schedule performance (on-time milestone delivery), budget performance (actual vs planned), and cycle time m...
+  - `BPM33` *(BIO)* — Is there a dedicated, experienced project management function with pharmaceutical development expertise — not just general PM methodology — leading programme execution?
+  - `BPM34` *(BIO)* — Are phase transition plans in place — with defined handover processes, knowledge transfer requirements, and team continuity management for major transitions (preclinical→clinica...
+  - `BPM35` *(BIO)* — Is the filing-to-launch transition explicitly planned as a cross-functional programme — with parallel workstreams for regulatory review management, commercial launch preparation...
+  - `BPM36` *(BIO)* — Is post-approval lifecycle management planned as a continuation of programme management — with ongoing project plans for post-marketing commitments, label expansions, new indica...
+- **REG**
+  - `BBREG1` *(BIO)* — Is there a formal, written global regulatory strategy document?
+  - `BBREG2` *(BIO)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `BBREG3` *(BIO)* — Are regulatory plans synchronised with clinical, CMC, and commercial timelines?
+  - `BBREG31` *(BIO)* — Is there a formal benefit-risk assessment?
+  - `BBREG32` *(BIO)* — Are mitigation plans documented for key risk areas?
+  - `BBREG33` *(BIO)* — Are there known issues with platform or class-based precedents?
+  - `BBREG34` *(BIO)* — Are all submission documents finalised, QA-checked, and archived?
+  - `BBREG35` *(BIO)* — Are submissions inspection-ready (e.g., QA certificates, GLP/GCP statements)?
+  - `BBREG36` *(BIO)* — Are Biologics Master Files or cross-references to CDMO filings appropriately managed?
+  - `BBREG37` *(BIO)* — Are correspondence logs and submission trackers complete and maintained?
+  - `BBREG38` *(BIO)* — Has a plan been defined for BLA/MAA submission timing and format?
+  - `BBREG39` *(BIO)* — Are region-specific approval pathways chosen?
+  - `BBREG40` *(BIO)* — Are bridging strategies and waivers identified for global submissions?
+  - `BBREG41` *(BIO)* — Are registration-enabling studies complete or scheduled?
+  - `BBREG42` *(BIO)* — Are Risk Management Plans (RMPs), REMS, or pharmacovigilance plans under development?
+  - `BBREG43` *(BIO)* — Are pharmacovigilance systems compliant with EU/US requirements?
+  - `BBREG44` *(BIO)* — Are post-approval commitments anticipated and resourced?
+  - `BBREG45` *(BIO)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `BBREG61` *(BIO)* — Are human factors engineering studies planned or completed for self-administration devices?
+  - `BBREG62` *(BIO)* — Is device design control documentation (Design History File) integrated with the BLA?
+  - `BBREG63` *(BIO)* — Is the BIMO (Bioresearch Monitoring) inspection readiness strategy defined alongside the manufacturing PAI, including clinical site selection for inspection, data integrity veri...
+  - `BBREG64` *(BIO)* — Is an Advisory Committee (AdComm) preparation strategy developed, including likelihood assessment, briefing document authoring plan, voting question strategy, panel composition ...
+  - `BBREG65` *(BIO)* — Has the team systematically reviewed FDA's published CRL database (291 CRLs, July-September 2025) to identify BLA-specific deficiency patterns and proactively de-risk their own ...
+  - `BBREG66` *(BIO)* — For programs pursuing accelerated approval, is the confirmatory trial regulatory strategy prospectively defined, including trial design agreement with FDA (SPA if applicable), e...
+  - `BBREG67` *(BIO)* — Has a rolling submission or real-time review strategy been evaluated for the BLA, with module-by-module submission timing optimised relative to CMC readiness, clinical data matu...
+  - `BBREG68` *(BIO)* — Is the BPCIA patent and exclusivity strategy defined, including Purple Book listing, patent dance preparation, 12-year BLA exclusivity timeline, and proactive lifecycle manageme...
+  - `BBREG69` *(BIO)* — For multi-indication biologic programs, is the sequential indication filing strategy defined, including sBLA timing relative to first approval, cross-referencing of existing saf...
+  - `BBREG70` *(BIO)* — Is the INN/USAN naming strategy defined per WHO INN stem conventions and FDA nonproprietary naming guidance for biologics, including proper suffix application and differentiatio...
+  - `BBREG71` *(BIO)* — Is the regulatory strategy for manufacturing site transfers (clinical-scale CDMO to commercial-scale facility) defined, including comparability data requirements, supplement fil...
+  - `BBREG72` *(BIO)* — Is the post-approval change management framework for biologics understood and planned for, including the distinction between Prior Approval Supplements (PAS), Changes Being Effe...
+  - `REG1` *(SM)* — Is there a formal, written global regulatory strategy document?
+  - `REG2` *(SM)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `REG3` *(SM)* — Are regulatory plans synchronized with clinical, CMC, and commercial timelines?
+  - `REG44` *(SM)* — Are post-approval commitments anticipated and resourced?
+  - `REG45` *(SM)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `REG46` *(SM)* — Is there an experienced internal or external regulatory lead assigned?
+  - `REG50` *(SM)* — Are registration requirements evaluated for China, LATAM, MENA, SEA, Africa?
+- **SAF**
+  - `BSAF1` *(BIO)* — Is the SMP aligned with the risk profile of the mAb/bispecific, including biologic-specific risks (immunogenicity, infusion reactions, CRS, immune-mediated AEs, target-mediated ...
+  - `BSAF3` *(BIO)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC) with biologic-specific competency (immunology, immunogenicity interpretation, CRS man...
+  - `BSAF41` *(BIO)* — Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?
+  - `BSAF42` *(BIO)* — Is the clinical trial safety data linked to the global safety database, with biologic-specific data integration (immunogenicity results linked to safety events, infusion data li...
+  - `BSAF43` *(BIO)* — Is reconciliation between clinical and safety databases performed and documented?
+  - `BSAF44` *(BIO)* — Are clinical trial and post-marketing safety managed in an integrated PV framework, with biologic-specific post-marketing safety considerations (long-term immunogenicity monitor...
+  - `BSAF45` *(BIO)* — Are safety findings communicated effectively, with biologic-specific safety communications (immunogenicity updates, infusion reaction rate changes, CRS management algorithm modi...
+  - `BSAF46` *(BIO)* — Are newsletters, protocol updates, or safety bulletins issued as needed?
+  - `BSAF47` *(BIO)* — Is there a safety escalation pathway for emerging risks, with biologic-specific escalation triggers (unexpected immunogenicity signal, CRS severity escalation, novel immune-medi...
+  - `BSAF48` *(BIO)* — Are Phase 3 and long-term extension studies adequately powered to detect rare AEs, including biologic-specific rare events (progressive multifocal leukoencephalopathy, serious o...
+  - `BSAF49` *(BIO)* — Is there a Risk Management Plan (RMP) or REMS strategy developed, with biologic-specific risk minimization measures (infusion management requirements, CRS monitoring mandates, i...
+  - `BSAF50` *(BIO)* — Are plans in place for post-marketing surveillance (PASS, registries), with biologic-specific post-marketing commitments (long-term immunogenicity registries, pregnancy exposure...
+  - `BSAF51` *(BIO)* — Is a named medical safety officer accountable for clinical safety strategy?
+  - `BSAF52` *(BIO)* — Is there an experienced cross-functional safety team with biologic-specific expertise (immunology, immunogenicity, biologic pharmacology, CRS management)?
+  - `BSAF53` *(BIO)* — Are external advisors or safety boards in place for high-risk programs, with biologic-specific advisory expertise (immunology KOLs, biologic safety experts, CRS management speci...
+  - `BSAF54` *(BIO)* — Are tools in place for safety data mining and signal evaluation, configured for biologic-specific signal detection (immunogenicity-safety linkage, temporal pattern analysis, exp...
+  - `BSAF55` *(BIO)* — Is a comprehensive immunogenicity safety monitoring plan integrated into the overall SMP, with defined criteria for clinical correlation of ADA with safety outcomes (hypersensit...
+  - `BSAF56` *(BIO)* — Is the clinical impact of immunogenicity prospectively assessed through pre-defined ADA-stratified safety analyses (ADA+ vs ADA− AE incidence, ADA-positive patient disposition, ...
+  - `BSAF57` *(BIO)* — Is there a standardized infusion/injection reaction management algorithm in the protocol, with defined grading criteria, rate modification rules, premedication adjustments, re-c...
+  - `BSAF58` *(BIO)* — For bispecific T-cell engagers, is a comprehensive CRS prevention, monitoring, grading, and management protocol in place, including step-up dosing rationale, tocilizumab availab...
+  - `BSAF59` *(BIO)* — Is there a systematic surveillance program for immune-mediated adverse events, with organ-specific monitoring algorithms, diagnostic workup requirements, and management protocol...
+  - `BSAF60` *(BIO)* — Are immune-mediated AE patterns tracked across the program to identify organ-specific susceptibility profiles, risk factors, and optimal management strategies, feeding into bene...
+  - `SAF1` *(SM)* — Is the SMP aligned with the risk profile of the compound and clinical population?
+  - `SAF16` *(SM)* — Is benefit-risk documented for key milestones (e.g., FIH, end of Phase 2, pivotal trial entry)?
+  - `SAF17` *(SM)* — Are emerging safety data incorporated into dynamic benefit-risk models?
+  - `SAF18` *(SM)* — Are thresholds for tolerability and risk management clearly defined?
+  - `SAF19` *(SM)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?
+  - `SAF2` *(SM)* — Are roles and responsibilities for safety surveillance clearly defined across teams?
+  - `SAF45` *(SM)* — Are safety findings communicated effectively to investigators, regulators, and internal teams?
+  - `SAF50` *(SM)* — Are plans in place for post-marketing surveillance (e.g., PASS, registries)?
+  - `SAF51` *(SM)* — Is a named medical safety officer accountable for clinical safety strategy?
+- **TM**
+  - `TM52` *(SM)* — Is platform data leveraged across programs to refine translational strategy?
+  - `TM53` *(SM)* — Is there an experienced translational medicine lead assigned?
+  - `TM54` *(SM)* — Are team members skilled in biomarker science, modeling, systems biology, and clinical integration?
+  - `TM55` *(SM)* — Are external collaborations (academia, CROs, biomarker consortia) in place?
+  - `TM56` *(SM)* — Is there a fit-for-purpose governance and decision-making structure?
+
+### OE — Operational Execution
+
+- **CDM**
+  - `BBCDM16` *(BIO)* — Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?
+  - `BBCDM17` *(BIO)* — Are safety data actively reviewed (e.g., DSMB, internal safety committees)?
+  - `BBCDM18` *(BIO)* — Are AE, SAE, and SUSAR data adequately collected and reported?
+  - `BBCDM19` *(BIO)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `BBCDM60` *(BIO)* — Is the administration regimen (IV/SC, dosing frequency, infusion time) optimised for the target treatment setting and patient population?
+  - `BBCDM61` *(BIO)* — Are patient-reported outcomes (PROs) capturing biologic-specific treatment burden (infusion time, injection site reactions, CRS symptoms)?
+  - `BBCDM62` *(BIO)* — For combination regimens: is the clinical trial design appropriate to evaluate the contribution of each component and the combination benefit-risk?
+  - `CDM16` *(SM)* — Are adverse event (AE), SAE, and SUSAR data adequately collected and reported?
+  - `CDM46` *(SM)* — Are post-approval study commitments or Phase 4 trials planned or required?
+  - `CDM47` *(SM)* — Are registries or real-world studies planned for value demonstration?
+- **CMC**
+  - `BBCMC62` *(BIO)* — Are post-approval process change and lifecycle management strategies planned?
+  - `BBCMC68` *(BIO)* — Is continued process verification (CPV) / ongoing process verification established with appropriate statistical monitoring?
+- **COM**
+  - `COM24` *(SM)* — Are distribution and channel strategies defined?
+  - `COM25` *(SM)* — Is a launch plan or launch excellence framework in place?
+  - `COM26` *(SM)* — Are key milestones defined (regulatory, supply, market shaping, field force)?
+  - `COM27` *(SM)* — Are internal capabilities or partners identified for launch execution?
+  - `COM28` *(SM)* — Is a launch budget and resource plan developed?
+  - `COM29` *(SM)* — Are initial branding concepts or value propositions in development?
+  - `COM30` *(SM)* — Are key customer segments identified (e.g., specialists, PCPs, hospitals)?
+  - `COM31` *(SM)* — Are clinical and economic value stories integrated into messaging?
+  - `COM32` *(SM)* — Is there a patient-centered approach in brand planning?
+  - `COM33` *(SM)* — Are KOLs identified and engaged across key markets?
+  - `COM34` *(SM)* — Are early adopter physicians, advocates, and societies mapped?
+  - `COM35` *(SM)* — Are patient advocacy organizations involved or consulted?
+  - `COM36` *(SM)* — Is stakeholder mapping aligned with scientific and commercial strategy?
+  - `COM41` *(SM)* — Are commercial supply and distribution plans in place?
+  - `COM42` *(SM)* — Are partnerships or 3PLs identified for commercial-scale logistics?
+  - `COM43` *(SM)* — Are cold chain, specialty pharmacy, or hospital distribution needs addressed?
+  - `COM44` *(SM)* — Is serialization and trade compliance planning underway?
+  - `COM46` *(SM)* — Are key commercial roles filled or in plan (marketing, access, sales)?
+  - `COM47` *(SM)* — Are internal vs. external capabilities clearly defined?
+  - `COM48` *(SM)* — Is the commercial org structure scalable across phases (prelaunch to scale-up)?
+  - `COM49` *(SM)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `COM50` *(SM)* — Are registries, claims analyses, or natural history studies in progress?
+  - `COM51` *(SM)* — Is there a strategy to generate data post-approval to support additional claims?
+  - `COM52` *(SM)* — Are digital engagement plans in place (HCPs, patients, payers)?
+  - `COM53` *(SM)* — Are CRM, digital content, and analytics platforms identified or integrated?
+  - `COM54` *(SM)* — Is there an omnichannel marketing or medical affairs plan?
+- **COP**
+  - `COP37` *(SM)* — Are safety events communicated rapidly between sites, CROs, and sponsors?
+  - `COP38` *(SM)* — Is there a documented process for SAE reconciliation and safety query resolution?
+- **ERW**
+  - `BBERW56` *(BIO)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `BBERW57` *(BIO)* — Are lifecycle plans in place for label expansion, new indications, or new populations?
+  - `BBERW58` *(BIO)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+  - `BBERW59` *(BIO)* — Are real-world biosimilar switching patterns, outcomes, and economic impact tracked and analysed?
+  - `BBERW60` *(BIO)* — Are real-world immunogenicity and immune-mediated safety outcomes captured using appropriate data sources and coding?
+  - `BBERW61` *(BIO)* — Are real-world treatment sequencing and line-of-therapy analyses designed for biologic therapeutic areas?
+  - `BBERW62` *(BIO)* — Are site-of-care and administration burden data captured to support biologic value differentiation and access strategy?
+  - `BBERW63` *(BIO)* — Are the limitations of real-world immunogenicity data formally assessed, including the absence of standardised ADA testing in routine clinical practice, assay heterogeneity acro...
+  - `BBERW64` *(BIO)* — Is the RWE methodology for analysing biologic switching, sequencing, and cycling patterns robust, including proper handling of channelling bias, time-varying confounding, and th...
+  - `BBERW65` *(BIO)* — For biologic programmes using external control arms (ECAs) in regulatory submissions, is the ECA methodology aligned with FDA and EMA frameworks, including pre-specification, ta...
+  - `BBERW66` *(BIO)* — Is the RWE strategy for biosimilar switching and interchangeability evidence generation defined, including non-medical switching outcome studies, multiple-switch safety analyses...
+  - `BBERW67` *(BIO)* — Has the Inflation Reduction Act (IRA) impact on RWE evidence requirements been assessed, including the role of real-world comparative effectiveness data in Medicare price negoti...
+  - `BBERW68` *(BIO)* — For rare disease or orphan biologic programmes, is a prospective natural history study in place or planned to characterise disease progression, establish external comparator bas...
+  - `BBERW69` *(BIO)* — Is the real-world administration burden of biologic therapy quantified, including infusion chair time, observation periods, site-of-care resource use, patient time and travel co...
+  - `BBERW70` *(BIO)* — Is real-world biologic persistence and adherence comprehensively measured, with biologic-specific methodology addressing the distinction between primary non-response, secondary ...
+  - `BBERW71` *(BIO)* — Are claims-based algorithms for biologic-relevant endpoints validated against clinical data, including algorithms for infusion reactions, immune-mediated AEs, secondary non-resp...
+  - `BBERW72` *(BIO)* — Is the target trial emulation framework being applied to biologic RWE studies that aim to support regulatory or HTA decisions, with explicit specification of the target trial pr...
+  - `ERW23` *(SM)* — Are health outcomes (e.g., survival, QoL, exacerbation rates, relapse) captured in real-world settings?
+  - `ERW24` *(SM)* — Are patient-reported outcomes or functional status included?
+  - `ERW25` *(SM)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `ERW26` *(SM)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `ERW27` *(SM)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `ERW28` *(SM)* — Are data on off-label use, medication errors, or misuse captured?
+  - `ERW35` *(SM)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `ERW37` *(SM)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `ERW38` *(SM)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `ERW39` *(SM)* — Are burden-of-illness studies or observational registries in place for the indication?
+  - `ERW40` *(SM)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `ERW41` *(SM)* — Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?
+  - `ERW42` *(SM)* — Are registry protocols designed to capture effectiveness, safety, and QoL over time?
+  - `ERW43` *(SM)* — Are registries linked to biobanks or digital tools (e.g., wearables, ePROs)?
+  - `ERW44` *(SM)* — Are data from compassionate use or expanded access programs integrated?
+  - `ERW45` *(SM)* — Are decentralized or digital tools (e.g., apps, sensors, wearables) used to collect RWD?
+  - `ERW46` *(SM)* — Are patient engagement platforms or eConsent frameworks in place?
+  - `ERW47` *(SM)* — Is data quality (completeness, timeliness, interoperability) evaluated for digital endpoints?
+  - `ERW48` *(SM)* — Are these tools aligned with evidence-generation strategy?
+  - `ERW52` *(SM)* — Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?
+  - `ERW53` *(SM)* — Are statistical methods for causal inference in observational data validated?
+  - `ERW54` *(SM)* — Is there an experienced epidemiology or RWE team supporting the asset?
+  - `ERW55` *(SM)* — Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?
+  - `ERW56` *(SM)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `ERW58` *(SM)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+- **PM**
+  - `BPM31` *(BIO)* — Are PM processes standardised across the organisation — with templates, SOPs, and training that enable consistent project management practices regardless of programme or therape...
+  - `BPM32` *(BIO)* — Are programme performance metrics tracked and benchmarked — including schedule performance (on-time milestone delivery), budget performance (actual vs planned), and cycle time m...
+  - `BPM33` *(BIO)* — Is there a dedicated, experienced project management function with pharmaceutical development expertise — not just general PM methodology — leading programme execution?
+  - `BPM34` *(BIO)* — Are phase transition plans in place — with defined handover processes, knowledge transfer requirements, and team continuity management for major transitions (preclinical→clinica...
+  - `BPM35` *(BIO)* — Is the filing-to-launch transition explicitly planned as a cross-functional programme — with parallel workstreams for regulatory review management, commercial launch preparation...
+  - `BPM36` *(BIO)* — Is post-approval lifecycle management planned as a continuation of programme management — with ongoing project plans for post-marketing commitments, label expansions, new indica...
+- **REG**
+  - `BBREG31` *(BIO)* — Is there a formal benefit-risk assessment?
+  - `BBREG32` *(BIO)* — Are mitigation plans documented for key risk areas?
+  - `BBREG33` *(BIO)* — Are there known issues with platform or class-based precedents?
+  - `BBREG34` *(BIO)* — Are all submission documents finalised, QA-checked, and archived?
+  - `BBREG35` *(BIO)* — Are submissions inspection-ready (e.g., QA certificates, GLP/GCP statements)?
+  - `BBREG36` *(BIO)* — Are Biologics Master Files or cross-references to CDMO filings appropriately managed?
+  - `BBREG37` *(BIO)* — Are correspondence logs and submission trackers complete and maintained?
+  - `BBREG38` *(BIO)* — Has a plan been defined for BLA/MAA submission timing and format?
+  - `BBREG39` *(BIO)* — Are region-specific approval pathways chosen?
+  - `BBREG40` *(BIO)* — Are bridging strategies and waivers identified for global submissions?
+  - `BBREG41` *(BIO)* — Are registration-enabling studies complete or scheduled?
+  - `BBREG42` *(BIO)* — Are Risk Management Plans (RMPs), REMS, or pharmacovigilance plans under development?
+  - `BBREG43` *(BIO)* — Are pharmacovigilance systems compliant with EU/US requirements?
+  - `BBREG44` *(BIO)* — Are post-approval commitments anticipated and resourced?
+  - `BBREG45` *(BIO)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `BBREG61` *(BIO)* — Are human factors engineering studies planned or completed for self-administration devices?
+  - `BBREG62` *(BIO)* — Is device design control documentation (Design History File) integrated with the BLA?
+  - `BBREG63` *(BIO)* — Is the BIMO (Bioresearch Monitoring) inspection readiness strategy defined alongside the manufacturing PAI, including clinical site selection for inspection, data integrity veri...
+  - `BBREG64` *(BIO)* — Is an Advisory Committee (AdComm) preparation strategy developed, including likelihood assessment, briefing document authoring plan, voting question strategy, panel composition ...
+  - `BBREG65` *(BIO)* — Has the team systematically reviewed FDA's published CRL database (291 CRLs, July-September 2025) to identify BLA-specific deficiency patterns and proactively de-risk their own ...
+  - `BBREG66` *(BIO)* — For programs pursuing accelerated approval, is the confirmatory trial regulatory strategy prospectively defined, including trial design agreement with FDA (SPA if applicable), e...
+  - `BBREG67` *(BIO)* — Has a rolling submission or real-time review strategy been evaluated for the BLA, with module-by-module submission timing optimised relative to CMC readiness, clinical data matu...
+  - `BBREG68` *(BIO)* — Is the BPCIA patent and exclusivity strategy defined, including Purple Book listing, patent dance preparation, 12-year BLA exclusivity timeline, and proactive lifecycle manageme...
+  - `BBREG69` *(BIO)* — For multi-indication biologic programs, is the sequential indication filing strategy defined, including sBLA timing relative to first approval, cross-referencing of existing saf...
+  - `BBREG70` *(BIO)* — Is the INN/USAN naming strategy defined per WHO INN stem conventions and FDA nonproprietary naming guidance for biologics, including proper suffix application and differentiatio...
+  - `BBREG71` *(BIO)* — Is the regulatory strategy for manufacturing site transfers (clinical-scale CDMO to commercial-scale facility) defined, including comparability data requirements, supplement fil...
+  - `BBREG72` *(BIO)* — Is the post-approval change management framework for biologics understood and planned for, including the distinction between Prior Approval Supplements (PAS), Changes Being Effe...
+  - `REG43` *(SM)* — Are pharmacovigilance systems compliant with EU/US requirements (e.g., QPPV, PV system master file)?
+  - `REG44` *(SM)* — Are post-approval commitments anticipated and resourced?
+  - `REG45` *(SM)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `REG50` *(SM)* — Are registration requirements evaluated for China, LATAM, MENA, SEA, Africa?
+  - `REG51` *(SM)* — Are local regulatory agents or affiliates engaged?
+  - `REG52` *(SM)* — Are local-language dossiers and administrative documents planned?
+- **SAF**
+  - `BSAF1` *(BIO)* — Is the SMP aligned with the risk profile of the mAb/bispecific, including biologic-specific risks (immunogenicity, infusion reactions, CRS, immune-mediated AEs, target-mediated ...
+  - `BSAF10` *(BIO)* — Is there a global process for unblinding in life-threatening cases, with specific provisions for biologic-specific emergencies (anaphylaxis, severe CRS) requiring immediate trea...
+  - `BSAF11` *(BIO)* — Are statistical methods and thresholds for signal detection defined, including biologic-specific signal detection approaches (immunogenicity-safety correlation, exposure-safety ...
+  - `BSAF12` *(BIO)* — Is signal detection based on aggregate data review (e.g., by SMQs, PTs, SOCs), including biologic-specific SMQs (anaphylactic/anaphylactoid reactions, infusion-related reactions...
+  - `BSAF13` *(BIO)* — Are data reviewed for temporal trends, dose dependence, and organ system clustering, including biologic-specific patterns (cycle dependence, immunogenicity-temporal correlation,...
+  - `BSAF14` *(BIO)* — Are emerging signals evaluated for biological plausibility, consistency across trials, and biologic-specific mechanism-based assessment (target biology, Fc effector function, im...
+  - `BSAF15` *(BIO)* — Is there an ongoing integrated benefit-risk assessment plan that accounts for biologic-specific risk dimensions (immunogenicity risk, infusion burden, immune-mediated AE risk, l...
+  - `BSAF16` *(BIO)* — Is benefit-risk documented for key milestones (FIH, end of Phase 2, pivotal trial entry, BLA/MAA)?
+  - `BSAF17` *(BIO)* — Are emerging safety data incorporated into dynamic benefit-risk models, including biologic-specific data streams (immunogenicity trends, exposure-safety relationships, cumulativ...
+  - `BSAF18` *(BIO)* — Are thresholds for tolerability and risk management clearly defined, including biologic-specific tolerability thresholds (maximum acceptable ADA incidence, CRS grade thresholds,...
+  - `BSAF19` *(BIO)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies, including biologic-specific risk mitigations (premedication, step-up dosing, observa...
+  - `BSAF2` *(BIO)* — Are roles and responsibilities for safety surveillance clearly defined, including biologic-specific safety roles (immunogenicity safety lead, CRS management medical monitor, inf...
+  - `BSAF20` *(BIO)* — Are stopping rules, dose modification criteria, and safety monitoring well justified, with biologic-specific dose modification guidance (ADA-driven modifications, CRS-driven ste...
+  - `BSAF21` *(BIO)* — Are risks anticipated from nonclinical or earlier phase data appropriately addressed, including biologic-specific nonclinical findings (tissue cross-reactivity, exaggerated phar...
+  - `BSAF22` *(BIO)* — Are trial participants stratified or excluded based on safety biomarkers or comorbidities, including biologic-specific exclusion criteria (prior biologic hypersensitivity, hepat...
+  - `BSAF23` *(BIO)* — Are safety data integrated across studies and presented in standardized formats (ISS, DSUR), with biologic-specific integrated analyses (Integrated Summary of Immunogenicity lin...
+  - `BSAF24` *(BIO)* — Are cumulative safety data reviewed periodically by the sponsor's medical safety team?
+  - `BSAF25` *(BIO)* — Are data visualizations used to support safety interpretation, including biologic-specific visualizations (ADA-safety correlation plots, infusion reaction time-course charts, CR...
+  - `BSAF26` *(BIO)* — Is there a formal process for adjudication of complex or unexpected events, including biologic-specific adjudication (infusion reaction vs CRS differentiation, immune-mediated A...
+  - `BSAF27` *(BIO)* — Are abnormal lab findings evaluated in context of expected biologic effects, including biologic-specific expected lab changes (lymphocyte depletion for anti-CD20, complement con...
+  - `BSAF28` *(BIO)* — Are predefined laboratory criteria used to detect toxicity signals, including biologic-specific laboratory monitoring (cytokine panels for CRS, complement levels, immunoglobulin...
+  - `BSAF29` *(BIO)* — Are central laboratories used with consistent normal ranges and alert flags?
+  - `BSAF3` *(BIO)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC) with biologic-specific competency (immunology, immunogenicity interpretation, CRS man...
+  - `BSAF30` *(BIO)* — Are vital signs and ECG abnormalities assessed systematically, including biologic-specific vital sign monitoring (pre/during/post-infusion vital signs, CRS-associated hemodynami...
+  - `BSAF31` *(BIO)* — Are immunogenicity, hypersensitivity, and cytokine release being actively monitored with pre-defined criteria, grading scales, and management algorithms?
+  - `BSAF32` *(BIO)* — Are QT/QTc and other cardiac safety signals evaluated, including biologic-specific cardiac considerations (CRS-associated cardiac events, troponin monitoring for T-cell engaging...
+  - `BSAF33` *(BIO)* — Are pregnancy exposures and outcomes tracked, with biologic-specific reproductive safety considerations (IgG placental transfer via FcRn, neonatal immune effects, live vaccine r...
+  - `BSAF34` *(BIO)* — Is suicidality monitored for CNS or other high-risk programs (e.g., using C-SSRS)?
+  - `BSAF35` *(BIO)* — Are investigators trained on AE/SAE reporting, safety endpoints, and biologic-specific risk mitigations (infusion reaction management, CRS recognition and grading, anaphylaxis p...
+  - `BSAF36` *(BIO)* — Are investigator brochures regularly updated with new safety findings, including biologic-specific safety sections (immunogenicity data, infusion reaction rates, immune-mediated...
+  - `BSAF37` *(BIO)* — Are sites informed rapidly about emerging safety issues or protocol amendments?
+  - `BSAF38` *(BIO)* — Are safety reports submitted on time (SUSARs, DSURs, IND annual reports), with biologic-specific safety reporting elements (immunogenicity data in DSURs, CRS summary in annual r...
+  - `BSAF39` *(BIO)* — Are all expedited and periodic reports consistent with regulatory expectations (FDA, EMA, PMDA)?
+  - `BSAF4` *(BIO)* — Are AEs, SAEs, and AESIs systematically collected and classified, with biologic-specific AESIs pre-defined (infusion reactions, injection-site reactions, CRS, immune-mediated AE...
+  - `BSAF40` *(BIO)* — Are reference safety information (RSI) and Investigator Brochure up to date, with biologic-specific RSI elements (immunogenicity-related events, infusion reactions, CRS, immune-...
+  - `BSAF41` *(BIO)* — Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?
+  - `BSAF42` *(BIO)* — Is the clinical trial safety data linked to the global safety database, with biologic-specific data integration (immunogenicity results linked to safety events, infusion data li...
+  - `BSAF43` *(BIO)* — Is reconciliation between clinical and safety databases performed and documented?
+  - `BSAF44` *(BIO)* — Are clinical trial and post-marketing safety managed in an integrated PV framework, with biologic-specific post-marketing safety considerations (long-term immunogenicity monitor...
+  - `BSAF45` *(BIO)* — Are safety findings communicated effectively, with biologic-specific safety communications (immunogenicity updates, infusion reaction rate changes, CRS management algorithm modi...
+  - `BSAF46` *(BIO)* — Are newsletters, protocol updates, or safety bulletins issued as needed?
+  - `BSAF47` *(BIO)* — Is there a safety escalation pathway for emerging risks, with biologic-specific escalation triggers (unexpected immunogenicity signal, CRS severity escalation, novel immune-medi...
+  - `BSAF48` *(BIO)* — Are Phase 3 and long-term extension studies adequately powered to detect rare AEs, including biologic-specific rare events (progressive multifocal leukoencephalopathy, serious o...
+  - `BSAF49` *(BIO)* — Is there a Risk Management Plan (RMP) or REMS strategy developed, with biologic-specific risk minimization measures (infusion management requirements, CRS monitoring mandates, i...
+  - `BSAF5` *(BIO)* — Are AE collection methods standardized across sites, with specific guidance for biologic-specific AE capture (infusion reaction documentation, CRS grading, injection-site assess...
+  - `BSAF50` *(BIO)* — Are plans in place for post-marketing surveillance (PASS, registries), with biologic-specific post-marketing commitments (long-term immunogenicity registries, pregnancy exposure...
+  - `BSAF51` *(BIO)* — Is a named medical safety officer accountable for clinical safety strategy?
+  - `BSAF52` *(BIO)* — Is there an experienced cross-functional safety team with biologic-specific expertise (immunology, immunogenicity, biologic pharmacology, CRS management)?
+  - `BSAF53` *(BIO)* — Are external advisors or safety boards in place for high-risk programs, with biologic-specific advisory expertise (immunology KOLs, biologic safety experts, CRS management speci...
+  - `BSAF54` *(BIO)* — Are tools in place for safety data mining and signal evaluation, configured for biologic-specific signal detection (immunogenicity-safety linkage, temporal pattern analysis, exp...
+  - `BSAF55` *(BIO)* — Is a comprehensive immunogenicity safety monitoring plan integrated into the overall SMP, with defined criteria for clinical correlation of ADA with safety outcomes (hypersensit...
+  - `BSAF56` *(BIO)* — Is the clinical impact of immunogenicity prospectively assessed through pre-defined ADA-stratified safety analyses (ADA+ vs ADA− AE incidence, ADA-positive patient disposition, ...
+  - `BSAF57` *(BIO)* — Is there a standardized infusion/injection reaction management algorithm in the protocol, with defined grading criteria, rate modification rules, premedication adjustments, re-c...
+  - `BSAF58` *(BIO)* — For bispecific T-cell engagers, is a comprehensive CRS prevention, monitoring, grading, and management protocol in place, including step-up dosing rationale, tocilizumab availab...
+  - `BSAF59` *(BIO)* — Is there a systematic surveillance program for immune-mediated adverse events, with organ-specific monitoring algorithms, diagnostic workup requirements, and management protocol...
+  - `BSAF6` *(BIO)* — Are electronic data capture (EDC) and medical coding systems validated and configured for biologic-specific safety data capture (infusion reaction eCRF modules, CRS grading form...
+  - `BSAF60` *(BIO)* — Are immune-mediated AE patterns tracked across the program to identify organ-specific susceptibility profiles, risk factors, and optimal management strategies, feeding into bene...
+  - `BSAF61` *(BIO)* — Is there a defined process for distinguishing between pharmacodynamic effects (intended mechanism) and safety signals for immunomodulatory/immune-activating biologics, with docu...
+  - `BSAF62` *(BIO)* — Is there a documented class-wide safety monitoring strategy that incorporates learnings from other approved biologics with the same target, mechanism, or structural class, and a...
+  - `BSAF63` *(BIO)* — For immunosuppressive/immunomodulatory biologics, is there a comprehensive infection surveillance program, including screening for latent infections (TB, hepatitis B/C), monitor...
+  - `BSAF64` *(BIO)* — Is there an integrated safety-PK-immunogenicity analysis framework that enables real-time correlation of safety events with drug exposure levels and ADA status, supporting mecha...
+  - `BSAF65` *(BIO)* — Is the safety database adequacy assessment performed per ICH E1 guidelines, with biologic-specific considerations for safety database size (longer exposure durations needed for ...
+  - `BSAF66` *(BIO)* — For FIH and early-phase biologic studies, is the starting dose safety assessment based on appropriate biologic-specific methodology (MABEL for immune-activating biologics, NOAEL...
+  - `BSAF67` *(BIO)* — For bispecific T-cell engagers, is immune effector cell-associated neurotoxicity syndrome (ICANS) prospectively monitored with standardized grading (ASTCT/ICE score), defined ma...
+  - `BSAF68` *(BIO)* — Has the risk of ADA cross-reacting with and neutralizing the endogenous counterpart of the therapeutic protein been formally assessed, with a prospective monitoring plan if the ...
+  - `BSAF69` *(BIO)* — Is there a defined process for assessing the clinical safety implications of manufacturing process changes (new cell line, facility transfer, scale-up, formulation change), incl...
+  - `BSAF7` *(BIO)* — Are SAEs being reported within required timelines, with expedited processes for biologic-specific serious events (anaphylaxis, severe CRS, serious infusion reactions, serious im...
+  - `BSAF70` *(BIO)* — Is a prospective safety labeling strategy being developed in parallel with safety data collection, including proposed Warnings & Precautions language, Adverse Reactions table de...
+  - `BSAF71` *(BIO)* — Is a structured, FDA/EMA-aligned benefit-risk framework being used (e.g., FDA's 5-dimension framework, PrOACT-URL, BRAT), with biologic-specific adaptations for immunogenicity i...
+  - `BSAF72` *(BIO)* — Are pediatric-specific biologic safety considerations addressed, including differential immunogenicity profiles in children, vaccine schedule interactions with immunosuppressive...
+  - `BSAF73` *(BIO)* — For programs pursuing accelerated approval, is the safety monitoring framework adequate for the dual-phase period when commercial use and confirmatory trial safety evaluation oc...
+  - `BSAF74` *(BIO)* — For biologic combination therapies (mAb + mAb, mAb + chemotherapy, bispecific + checkpoint inhibitor), is the overlapping and additive toxicity profile systematically assessed, ...
+  - `BSAF75` *(BIO)* — For licensed-in, licensed-out, or co-developed biologic programs, is there a documented safety data transfer plan ensuring signal detection continuity, complete safety database ...
+  - `BSAF76` *(BIO)* — Is post-marketing real-world safety evidence from approved biologics in the same class systematically reviewed and integrated into the development program's safety monitoring st...
+  - `BSAF8` *(BIO)* — Are SAEs reconciled between clinical and safety databases?
+  - `BSAF9` *(BIO)* — Is there clear medical review and causality assessment for all SAEs, with biologic-specific causality considerations (temporal relationship to infusion, ADA status at time of ev...
+  - `SAF1` *(SM)* — Is the SMP aligned with the risk profile of the compound and clinical population?
+  - `SAF10` *(SM)* — Is there a global process for unblinding in life-threatening cases?
+  - `SAF11` *(SM)* — Are statistical methods and thresholds for signal detection defined and actively used?
+  - `SAF12` *(SM)* — Is signal detection based on aggregate data review (e.g., by SMQs, PTs, SOCs)?
+  - `SAF13` *(SM)* — Are data reviewed for temporal trends, dose dependence, and organ system clustering?
+  - `SAF14` *(SM)* — Are emerging signals evaluated for biological plausibility and consistency across trials?
+  - `SAF15` *(SM)* — Is there an ongoing integrated benefit-risk assessment plan?
+  - `SAF18` *(SM)* — Are thresholds for tolerability and risk management clearly defined?
+  - `SAF19` *(SM)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?
+  - `SAF2` *(SM)* — Are roles and responsibilities for safety surveillance clearly defined across teams?
+  - `SAF20` *(SM)* — Are stopping rules, dose modification criteria, and safety monitoring well justified?
+  - `SAF21` *(SM)* — Are risks anticipated from nonclinical or earlier phase data appropriately addressed?
+  - `SAF22` *(SM)* — Are trial participants stratified or excluded based on safety biomarkers or comorbidities?
+  - `SAF23` *(SM)* — Are safety data integrated across studies and presented in standardized formats (e.g., ISS, DSUR)?
+  - `SAF24` *(SM)* — Are cumulative safety data reviewed periodically by the sponsor’s medical safety team?
+  - `SAF25` *(SM)* — Are data visualizations (e.g., waterfall plots, timelines, lab trajectories) used to support interpretation?
+  - `SAF26` *(SM)* — Is there a formal process for adjudication of complex or unexpected events?
+  - `SAF27` *(SM)* — Are abnormal lab findings evaluated in the context of expected clinical effects or underlying disease?
+  - `SAF28` *(SM)* — Are predefined laboratory criteria used to detect toxicity signals (e.g., Hy’s law, QT prolongation)?
+  - `SAF29` *(SM)* — Are central laboratories used with consistent normal ranges and alert flags?
+  - `SAF3` *(SM)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC)?
+  - `SAF30` *(SM)* — Are vital signs and ECG abnormalities assessed systematically and consistently?
+  - `SAF31` *(SM)* — Are immunogenicity, hypersensitivity, or cytokine release being monitored, if applicable?
+  - `SAF32` *(SM)* — Are QT/QTc and other cardiac safety signals evaluated per ICH E14?
+  - `SAF33` *(SM)* — Are pregnancy exposures and outcomes tracked with appropriate follow-up?
+  - `SAF34` *(SM)* — Is suicidality monitored for CNS or other high-risk programs (e.g., using C-SSRS)?
+  - `SAF35` *(SM)* — Are investigators trained on AE/SAE reporting, safety endpoints, and risk mitigation?
+  - `SAF36` *(SM)* — Are investigator brochures regularly updated with new safety findings?
+  - `SAF37` *(SM)* — Are sites informed rapidly about emerging safety issues or protocol amendments?
+  - `SAF38` *(SM)* — Are safety reports submitted on time (e.g., SUSARs, DSURs, IND annual reports)?
+  - `SAF39` *(SM)* — Are all expedited and periodic reports consistent with regulatory expectations (FDA, EMA, PMDA)?
+  - `SAF4` *(SM)* — Are adverse events (AEs), serious adverse events (SAEs), and adverse events of special interest (AESIs) being systematically collected and coded (e.g., MedDRA)?
+  - `SAF40` *(SM)* — Are reference safety information (RSI) and Investigator Brochure up to date?
+  - `SAF41` *(SM)* — Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?
+  - `SAF42` *(SM)* — Is the clinical trial safety data linked to the global safety database (e.g., Argus, ARISg, Veeva Vault)?
+  - `SAF43` *(SM)* — Is reconciliation between clinical and safety databases performed and documented?
+  - `SAF44` *(SM)* — Are clinical trial and post-marketing safety managed in an integrated PV framework?
+  - `SAF45` *(SM)* — Are safety findings communicated effectively to investigators, regulators, and internal teams?
+  - `SAF46` *(SM)* — Are newsletters, protocol updates, or safety bulletins issued as needed?
+  - `SAF47` *(SM)* — Is there a safety escalation pathway for emerging risks?
+  - `SAF48` *(SM)* — Are Phase 3 and long-term extension studies adequately powered to detect rare AEs?
+  - `SAF49` *(SM)* — Is there a Risk Management Plan (RMP) or REMS strategy developed, if applicable?
+  - `SAF5` *(SM)* — Are AE collection methods standardized across sites and protocols?
+  - `SAF50` *(SM)* — Are plans in place for post-marketing surveillance (e.g., PASS, registries)?
+  - `SAF51` *(SM)* — Is a named medical safety officer accountable for clinical safety strategy?
+  - `SAF52` *(SM)* — Is there an experienced cross-functional safety team (MDs, PhDs, statisticians, PV leads)?
+  - `SAF53` *(SM)* — Are external advisors or safety boards in place for high-risk programs?
+  - `SAF54` *(SM)* — Are tools in place for safety data mining and signal evaluation (e.g., Empirica, SAS JMP)?
+  - `SAF6` *(SM)* — Are electronic data capture (EDC) and medical coding systems validated and up-to-date?
+  - `SAF7` *(SM)* — Are SAEs being reported within required timelines (regulatory and sponsor)?
+  - `SAF8` *(SM)* — Are SAEs reconciled between clinical and safety databases?
+  - `SAF9` *(SM)* — Is there clear medical review and causality assessment for all SAEs?
+- **TM**
+  - `TM53` *(SM)* — Is there an experienced translational medicine lead assigned?
+  - `TM54` *(SM)* — Are team members skilled in biomarker science, modeling, systems biology, and clinical integration?
+  - `TM55` *(SM)* — Are external collaborations (academia, CROs, biomarker consortia) in place?
+  - `TM56` *(SM)* — Is there a fit-for-purpose governance and decision-making structure?
+
+### DD — Due Diligence
+
+- **CDM**
+  - `BBCDM1` *(BIO)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `BBCDM16` *(BIO)* — Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?
+  - `BBCDM17` *(BIO)* — Are safety data actively reviewed (e.g., DSMB, internal safety committees)?
+  - `BBCDM19` *(BIO)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `BBCDM25` *(BIO)* — Are KOLs engaged or consulted for trial design and positioning?
+  - `BBCDM26` *(BIO)* — Are publications, congress presentations, and medical communications planned?
+  - `BBCDM27` *(BIO)* — Is there a plan for MSL engagement, payer education, or scientific advisory boards?
+  - `BBCDM28` *(BIO)* — Are real-world evidence (RWE) or post-marketing studies being considered?
+  - `BBCDM41` *(BIO)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `BBCDM57` *(BIO)* — Is immunogenicity monitoring prospectively integrated into the clinical programme with pre-defined decision criteria?
+  - `BBCDM58` *(BIO)* — Are immunogenicity-related clinical events (infusion reactions, loss of response, hypersensitivity) prospectively tracked and correlated with ADA status?
+  - `BBCDM59` *(BIO)* — Is a clinical immunogenicity risk mitigation strategy in place (e.g., concomitant immunosuppression, immune tolerance induction, SC vs. IV route optimisation)?
+  - `BBCDM60` *(BIO)* — Is the administration regimen (IV/SC, dosing frequency, infusion time) optimised for the target treatment setting and patient population?
+  - `BBCDM61` *(BIO)* — Are patient-reported outcomes (PROs) capturing biologic-specific treatment burden (infusion time, injection site reactions, CRS symptoms)?
+  - `BBCDM62` *(BIO)* — For combination regimens: is the clinical trial design appropriate to evaluate the contribution of each component and the combination benefit-risk?
+  - `CDM1` *(SM)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `CDM23` *(SM)* — Are publications, congress presentations, and medical communication materials planned or underway?
+  - `CDM24` *(SM)* — Is there a plan for Medical Science Liaison (MSL) engagement, payer education, or scientific advisory boards?
+  - `CDM25` *(SM)* — Are real-world evidence (RWE) or post-marketing studies being considered?
+  - `CDM38` *(SM)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `CDM39` *(SM)* — Is the positioning clear vs. existing and emerging therapies?
+  - `CDM45` *(SM)* — Is there a lifecycle management plan (e.g., label expansion, line extensions)?
+  - `CDM46` *(SM)* — Are post-approval study commitments or Phase 4 trials planned or required?
+  - `CDM47` *(SM)* — Are registries or real-world studies planned for value demonstration?
+  - `CDM51` *(SM)* — Is the clinical leadership experienced and credible?
+  - `CDM52` *(SM)* — Is medical oversight provided by board-certified physicians in the relevant area?
+- **CMC**
+  - `BBCMC62` *(BIO)* — Are post-approval process change and lifecycle management strategies planned?
+  - `BBCMC68` *(BIO)* — Is continued process verification (CPV) / ongoing process verification established with appropriate statistical monitoring?
+- **COM**
+  - `BBCOM16` *(BIO)* — Are pricing and reimbursement risks identified and addressed?
+  - `BBCOM17` *(BIO)* — Have payer advisory boards or research been conducted?
+  - `BBCOM18` *(BIO)* — Are payer value messages tested or defined?
+  - `BBCOM19` *(BIO)* — Are there reimbursement precedents in the target indication?
+  - `BBCOM20` *(BIO)* — Is the expected reimbursed price range feasible for uptake?
+  - `BBCOM21` *(BIO)* — Is there a clearly defined commercialization strategy (partnered vs. direct)?
+  - `BBCOM22` *(BIO)* — Are go-to-market models defined by geography (e.g., U.S. vs. EU vs. Asia)?
+  - `BBCOM23` *(BIO)* — Are launch sequence, pricing corridors, and market prioritization mapped?
+  - `BBCOM24` *(BIO)* — Are distribution and channel strategies defined?
+  - `BBCOM25` *(BIO)* — Is a launch plan or launch excellence framework in place?
+  - `BBCOM26` *(BIO)* — Are key milestones defined (regulatory, supply, market shaping, field force)?
+  - `BBCOM27` *(BIO)* — Are internal capabilities or partners identified for launch execution?
+  - `BBCOM28` *(BIO)* — Is a launch budget and resource plan developed?
+  - `BBCOM29` *(BIO)* — Are initial branding concepts or value propositions in development?
+  - `BBCOM30` *(BIO)* — Are key customer segments identified (e.g., specialists, PCPs, hospitals)?
+  - `BBCOM31` *(BIO)* — Are clinical and economic value stories integrated into messaging?
+  - `BBCOM32` *(BIO)* — Is there a patient-centered approach in brand planning?
+  - `BBCOM33` *(BIO)* — Are KOLs identified and engaged across key markets?
+  - `BBCOM34` *(BIO)* — Are early adopter physicians, advocates, and societies mapped?
+  - `BBCOM35` *(BIO)* — Are patient advocacy organizations involved or consulted?
+  - `BBCOM36` *(BIO)* — Is stakeholder mapping aligned with scientific and commercial strategy?
+  - `BBCOM37` *(BIO)* — Are there clear lifecycle opportunities (e.g., new indications, combinations, formulations)?
+  - `BBCOM38` *(BIO)* — Is there potential for line extensions or geographic expansion?
+  - `BBCOM39` *(BIO)* — Is the asset part of a broader platform or portfolio strategy?
+  - `BBCOM40` *(BIO)* — Are there adjacent market opportunities or follow-on assets?
+  - `BBCOM41` *(BIO)* — Are commercial supply and distribution plans in place?
+  - `BBCOM42` *(BIO)* — Are partnerships or 3PLs identified for commercial-scale logistics?
+  - `BBCOM43` *(BIO)* — Are cold chain, specialty pharmacy, or hospital distribution needs addressed?
+  - `BBCOM44` *(BIO)* — Is serialization and trade compliance planning underway?
+  - `BBCOM45` *(BIO)* — Is there a credible commercial leadership team or advisor network?
+  - `BBCOM46` *(BIO)* — Are key commercial roles filled or in plan (marketing, access, sales)?
+  - `BBCOM47` *(BIO)* — Are internal vs. external capabilities clearly defined?
+  - `BBCOM48` *(BIO)* — Is the commercial org structure scalable across phases (prelaunch to scale-up)?
+  - `BBCOM49` *(BIO)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `BBCOM50` *(BIO)* — Are registries, claims analyses, or natural history studies in progress?
+  - `BBCOM51` *(BIO)* — Is there a strategy to generate data post-approval to support additional claims?
+  - `BBCOM52` *(BIO)* — Are digital engagement plans in place (HCPs, patients, payers)?
+  - `BBCOM53` *(BIO)* — Are CRM, digital content, and analytics platforms identified or integrated?
+  - `BBCOM54` *(BIO)* — Is there an omnichannel marketing or medical affairs plan?
+  - `BBCOM55` *(BIO)* — Are revenue forecasts realistic and well-documented?
+  - `BBCOM56` *(BIO)* — Are assumptions (uptake curve, market share, price, attrition) transparent?
+  - `BBCOM57` *(BIO)* — Are sensitivity/scenario analyses conducted for key risks?
+  - `BBCOM58` *(BIO)* — Are forecasts aligned with clinical and regulatory timelines?
+  - `BBCOM59` *(BIO)* — Is the buy-and-bill vs. specialty pharmacy channel strategy defined, and are provider economics modeled for IV biologics?
+  - `BBCOM60` *(BIO)* — Is a patient support programme (hub services) designed for biologic-specific needs (copay assistance, injection training, infusion scheduling, adherence support)?
+  - `BBCOM61` *(BIO)* — Is the biosimilar defence and loss-of-exclusivity (LOE) strategy defined?
+  - `BBCOM62` *(BIO)* — Are site-of-care economics and infusion network strategy addressed for IV biologics?
+  - `BBCOM63` *(BIO)* — For physician-administered (buy-and-bill) biologics, are provider economics comprehensively modelled, including ASP+6% reimbursement mechanics, acquisition cost vs reimbursement...
+  - `BBCOM64` *(BIO)* — Is the emerging PBM private-label biosimilar market model assessed as a competitive threat, including the dynamics of PBM-owned biosimilar products, formulary exclusion of origi...
+  - `BBCOM65` *(BIO)* — Is the rebate and contracting strategy designed to defend market position against biosimilar competition, including assessment of rebate wall sustainability, gross-to-net dynami...
+  - `BBCOM66` *(BIO)* — For IV-administered biologics, is an infusion network and site-of-care strategy developed, including hospital outpatient department (HOPD) vs physician office vs home infusion e...
+  - `BBCOM67` *(BIO)* — Is the patient support programme (hub services) designed as a competitive differentiator, with comprehensive services including benefits verification, prior authorisation suppor...
+  - `BBCOM68` *(BIO)* — Has the impact of the Inflation Reduction Act (IRA) Medicare drug price negotiation provisions been assessed, including eligibility timeline for biologic negotiation, pricing im...
+  - `BBCOM69` *(BIO)* — Is the medical benefit vs pharmacy benefit channel strategy defined, including the implications of route of administration (IV = medical benefit, SC = pharmacy benefit) on reimb...
+  - `BBCOM7` *(BIO)* — Does the product address a high unmet need or a defined market gap?
+  - `BBCOM70` *(BIO)* — Are biologic-specific cost of goods sold (COGS) and margin assumptions realistic, reflecting the fundamentally higher manufacturing costs of biologics (cell culture, purificatio...
+  - `BBCOM71` *(BIO)* — For hospital-administered biologics, is the institutional formulary and tender strategy defined, including Pharmacy & Therapeutics (P&T) committee engagement, hospital group pur...
+  - `BBCOM72` *(BIO)* — For SC self-administration biologics, is the patient journey and commercial model designed to maximise treatment initiation, persistence, and adherence, including device prefere...
+  - `COM11` *(SM)* — Is there a clear differentiation strategy vs. competitors?
+  - `COM13` *(SM)* — Have initial pricing assumptions been modeled and benchmarked?
+  - `COM14` *(SM)* — Are health economic/value frameworks developed (e.g., cost-effectiveness models)?
+  - `COM15` *(SM)* — Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?
+  - `COM16` *(SM)* — Are pricing and reimbursement risks identified and addressed?
+  - `COM17` *(SM)* — Have payer advisory boards or research been conducted?
+  - `COM18` *(SM)* — Are payer value messages tested or defined?
+  - `COM19` *(SM)* — Are there reimbursement precedents in the target indication?
+  - `COM20` *(SM)* — Is the expected reimbursed price range feasible for uptake?
+  - `COM21` *(SM)* — Is there a clearly defined commercialization strategy (partnered vs. direct)?
+  - `COM22` *(SM)* — Are go-to-market models defined by geography (e.g., U.S. vs. EU vs. Asia)?
+  - `COM23` *(SM)* — Are launch sequence, pricing corridors, and market prioritization mapped?
+  - `COM24` *(SM)* — Are distribution and channel strategies defined?
+  - `COM25` *(SM)* — Is a launch plan or launch excellence framework in place?
+  - `COM26` *(SM)* — Are key milestones defined (regulatory, supply, market shaping, field force)?
+  - `COM27` *(SM)* — Are internal capabilities or partners identified for launch execution?
+  - `COM29` *(SM)* — Are initial branding concepts or value propositions in development?
+  - `COM30` *(SM)* — Are key customer segments identified (e.g., specialists, PCPs, hospitals)?
+  - `COM31` *(SM)* — Are clinical and economic value stories integrated into messaging?
+  - `COM32` *(SM)* — Is there a patient-centered approach in brand planning?
+  - `COM33` *(SM)* — Are KOLs identified and engaged across key markets?
+  - `COM34` *(SM)* — Are early adopter physicians, advocates, and societies mapped?
+  - `COM35` *(SM)* — Are patient advocacy organizations involved or consulted?
+  - `COM36` *(SM)* — Is stakeholder mapping aligned with scientific and commercial strategy?
+  - `COM37` *(SM)* — Are there clear lifecycle opportunities (e.g., new indications, combinations, formulations)?
+  - `COM38` *(SM)* — Is there potential for line extensions or geographic expansion?
+  - `COM39` *(SM)* — Is the asset part of a broader platform or portfolio strategy?
+  - `COM40` *(SM)* — Are there adjacent market opportunities or follow-on assets?
+  - `COM41` *(SM)* — Are commercial supply and distribution plans in place?
+  - `COM43` *(SM)* — Are cold chain, specialty pharmacy, or hospital distribution needs addressed?
+  - `COM45` *(SM)* — Is there a credible commercial leadership team or advisor network?
+  - `COM46` *(SM)* — Are key commercial roles filled or in plan (marketing, access, sales)?
+  - `COM47` *(SM)* — Are internal vs. external capabilities clearly defined?
+  - `COM48` *(SM)* — Is the commercial org structure scalable across phases (prelaunch to scale-up)?
+  - `COM49` *(SM)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `COM50` *(SM)* — Are registries, claims analyses, or natural history studies in progress?
+  - `COM51` *(SM)* — Is there a strategy to generate data post-approval to support additional claims?
+  - `COM52` *(SM)* — Are digital engagement plans in place (HCPs, patients, payers)?
+  - `COM54` *(SM)* — Is there an omnichannel marketing or medical affairs plan?
+  - `COM55` *(SM)* — Are revenue forecasts realistic and well-documented?
+  - `COM56` *(SM)* — Are assumptions (uptake curve, market share, price, attrition) transparent?
+  - `COM57` *(SM)* — Are sensitivity/scenario analyses conducted for key risks?
+  - `COM58` *(SM)* — Are forecasts aligned with clinical and regulatory timelines?
+  - `COM6` *(SM)* — Are differentiating features clearly articulated (efficacy, safety, route, convenience)?
+  - `COM7` *(SM)* — Does the product address a high unmet need or a defined market gap?
+- **ERW**
+  - `BBERW21` *(BIO)* — Are real-world treatment patterns described (lines of therapy, combinations, switching)?
+  - `BBERW22` *(BIO)* — Are data available on medication adherence, persistence, and discontinuation?
+  - `BBERW23` *(BIO)* — Are health outcomes (e.g., survival, QoL, exacerbation rates, relapse) captured in real-world settings?
+  - `BBERW24` *(BIO)* — Are patient-reported outcomes or functional status included?
+  - `BBERW25` *(BIO)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `BBERW26` *(BIO)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `BBERW27` *(BIO)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `BBERW28` *(BIO)* — Are data on off-label use, medication errors, or misuse captured?
+  - `BBERW29` *(BIO)* — Are healthcare resource utilization (HCRU) and cost data available (hospitalization, ER, ICU, outpatient)?
+  - `BBERW30` *(BIO)* — Are direct medical, non-medical, and indirect costs assessed?
+  - `BBERW31` *(BIO)* — Is the budget impact of new therapies modeled using RWE inputs?
+  - `BBERW32` *(BIO)* — Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?
+  - `BBERW33` *(BIO)* — Are RWE strategies aligned with current regulatory guidance (FDA RWE Framework, EMA Big Data)?
+  - `BBERW34` *(BIO)* — Are prior interactions with regulators regarding RWE use documented?
+  - `BBERW35` *(BIO)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `BBERW36` *(BIO)* — Is there a pre-specified RWE Statistical Analysis Plan (SAP) for regulatory interactions?
+  - `BBERW37` *(BIO)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `BBERW38` *(BIO)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `BBERW39` *(BIO)* — Are burden-of-illness studies or observational registries in place for the indication?
+  - `BBERW40` *(BIO)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `BBERW41` *(BIO)* — Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?
+  - `BBERW42` *(BIO)* — Are registry protocols designed to capture effectiveness, safety, and QoL over time?
+  - `BBERW43` *(BIO)* — Are registries linked to biobanks or digital tools (e.g., wearables, ePROs)?
+  - `BBERW44` *(BIO)* — Are data from compassionate use or expanded access programs integrated?
+  - `BBERW45` *(BIO)* — Are decentralized or digital tools (e.g., apps, sensors, wearables) used to collect RWD?
+  - `BBERW46` *(BIO)* — Are patient engagement platforms or eConsent frameworks in place?
+  - `BBERW47` *(BIO)* — Is data quality (completeness, timeliness, interoperability) evaluated for digital endpoints?
+  - `BBERW48` *(BIO)* — Are these tools aligned with evidence-generation strategy?
+  - `BBERW49` *(BIO)* — Are RWE insights being used to inform inclusion/exclusion criteria and site selection?
+  - `BBERW50` *(BIO)* — Are real-world progression patterns used to define trial endpoints?
+  - `BBERW51` *(BIO)* — Is the CDP integrated with RWE to support lifecycle evidence needs?
+  - `BBERW52` *(BIO)* — Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?
+  - `BBERW53` *(BIO)* — Are statistical methods for causal inference in observational data validated?
+  - `BBERW54` *(BIO)* — Is there an experienced epidemiology or RWE team supporting the asset?
+  - `BBERW55` *(BIO)* — Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?
+  - `BBERW56` *(BIO)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `BBERW57` *(BIO)* — Are lifecycle plans in place for label expansion, new indications, or new populations?
+  - `BBERW58` *(BIO)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+  - `BBERW59` *(BIO)* — Are real-world biosimilar switching patterns, outcomes, and economic impact tracked and analysed?
+  - `BBERW60` *(BIO)* — Are real-world immunogenicity and immune-mediated safety outcomes captured using appropriate data sources and coding?
+  - `BBERW61` *(BIO)* — Are real-world treatment sequencing and line-of-therapy analyses designed for biologic therapeutic areas?
+  - `BBERW62` *(BIO)* — Are site-of-care and administration burden data captured to support biologic value differentiation and access strategy?
+  - `BBERW63` *(BIO)* — Are the limitations of real-world immunogenicity data formally assessed, including the absence of standardised ADA testing in routine clinical practice, assay heterogeneity acro...
+  - `BBERW64` *(BIO)* — Is the RWE methodology for analysing biologic switching, sequencing, and cycling patterns robust, including proper handling of channelling bias, time-varying confounding, and th...
+  - `BBERW65` *(BIO)* — For biologic programmes using external control arms (ECAs) in regulatory submissions, is the ECA methodology aligned with FDA and EMA frameworks, including pre-specification, ta...
+  - `BBERW66` *(BIO)* — Is the RWE strategy for biosimilar switching and interchangeability evidence generation defined, including non-medical switching outcome studies, multiple-switch safety analyses...
+  - `BBERW67` *(BIO)* — Has the Inflation Reduction Act (IRA) impact on RWE evidence requirements been assessed, including the role of real-world comparative effectiveness data in Medicare price negoti...
+  - `BBERW68` *(BIO)* — For rare disease or orphan biologic programmes, is a prospective natural history study in place or planned to characterise disease progression, establish external comparator bas...
+  - `BBERW69` *(BIO)* — Is the real-world administration burden of biologic therapy quantified, including infusion chair time, observation periods, site-of-care resource use, patient time and travel co...
+  - `BBERW70` *(BIO)* — Is real-world biologic persistence and adherence comprehensively measured, with biologic-specific methodology addressing the distinction between primary non-response, secondary ...
+  - `BBERW71` *(BIO)* — Are claims-based algorithms for biologic-relevant endpoints validated against clinical data, including algorithms for infusion reactions, immune-mediated AEs, secondary non-resp...
+  - `BBERW72` *(BIO)* — Is the target trial emulation framework being applied to biologic RWE studies that aim to support regulatory or HTA decisions, with explicit specification of the target trial pr...
+  - `ERW25` *(SM)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `ERW26` *(SM)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `ERW27` *(SM)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `ERW32` *(SM)* — Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?
+  - `ERW35` *(SM)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `ERW37` *(SM)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `ERW38` *(SM)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `ERW39` *(SM)* — Are burden-of-illness studies or observational registries in place for the indication?
+  - `ERW40` *(SM)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `ERW41` *(SM)* — Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?
+  - `ERW44` *(SM)* — Are data from compassionate use or expanded access programs integrated?
+  - `ERW51` *(SM)* — Is the CDP integrated with RWE to support lifecycle evidence needs?
+  - `ERW52` *(SM)* — Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?
+  - `ERW54` *(SM)* — Is there an experienced epidemiology or RWE team supporting the asset?
+  - `ERW55` *(SM)* — Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?
+  - `ERW56` *(SM)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `ERW57` *(SM)* — Are lifecycle plans in place for label expansion, new indications, or new populations?
+  - `ERW58` *(SM)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+- **PM**
+  - `BPM31` *(BIO)* — Are PM processes standardised across the organisation — with templates, SOPs, and training that enable consistent project management practices regardless of programme or therape...
+  - `BPM32` *(BIO)* — Are programme performance metrics tracked and benchmarked — including schedule performance (on-time milestone delivery), budget performance (actual vs planned), and cycle time m...
+  - `BPM33` *(BIO)* — Is there a dedicated, experienced project management function with pharmaceutical development expertise — not just general PM methodology — leading programme execution?
+  - `BPM34` *(BIO)* — Are phase transition plans in place — with defined handover processes, knowledge transfer requirements, and team continuity management for major transitions (preclinical→clinica...
+  - `BPM35` *(BIO)* — Is the filing-to-launch transition explicitly planned as a cross-functional programme — with parallel workstreams for regulatory review management, commercial launch preparation...
+  - `BPM36` *(BIO)* — Is post-approval lifecycle management planned as a continuation of programme management — with ongoing project plans for post-marketing commitments, label expansions, new indica...
+- **REG**
+  - `BBREG1` *(BIO)* — Is there a formal, written global regulatory strategy document?
+  - `BBREG2` *(BIO)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `BBREG3` *(BIO)* — Are regulatory plans synchronised with clinical, CMC, and commercial timelines?
+  - `BBREG31` *(BIO)* — Is there a formal benefit-risk assessment?
+  - `BBREG32` *(BIO)* — Are mitigation plans documented for key risk areas?
+  - `BBREG33` *(BIO)* — Are there known issues with platform or class-based precedents?
+  - `BBREG34` *(BIO)* — Are all submission documents finalised, QA-checked, and archived?
+  - `BBREG35` *(BIO)* — Are submissions inspection-ready (e.g., QA certificates, GLP/GCP statements)?
+  - `BBREG36` *(BIO)* — Are Biologics Master Files or cross-references to CDMO filings appropriately managed?
+  - `BBREG37` *(BIO)* — Are correspondence logs and submission trackers complete and maintained?
+  - `BBREG38` *(BIO)* — Has a plan been defined for BLA/MAA submission timing and format?
+  - `BBREG39` *(BIO)* — Are region-specific approval pathways chosen?
+  - `BBREG40` *(BIO)* — Are bridging strategies and waivers identified for global submissions?
+  - `BBREG41` *(BIO)* — Are registration-enabling studies complete or scheduled?
+  - `BBREG42` *(BIO)* — Are Risk Management Plans (RMPs), REMS, or pharmacovigilance plans under development?
+  - `BBREG43` *(BIO)* — Are pharmacovigilance systems compliant with EU/US requirements?
+  - `BBREG44` *(BIO)* — Are post-approval commitments anticipated and resourced?
+  - `BBREG45` *(BIO)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `BBREG61` *(BIO)* — Are human factors engineering studies planned or completed for self-administration devices?
+  - `BBREG62` *(BIO)* — Is device design control documentation (Design History File) integrated with the BLA?
+  - `BBREG63` *(BIO)* — Is the BIMO (Bioresearch Monitoring) inspection readiness strategy defined alongside the manufacturing PAI, including clinical site selection for inspection, data integrity veri...
+  - `BBREG64` *(BIO)* — Is an Advisory Committee (AdComm) preparation strategy developed, including likelihood assessment, briefing document authoring plan, voting question strategy, panel composition ...
+  - `BBREG65` *(BIO)* — Has the team systematically reviewed FDA's published CRL database (291 CRLs, July-September 2025) to identify BLA-specific deficiency patterns and proactively de-risk their own ...
+  - `BBREG66` *(BIO)* — For programs pursuing accelerated approval, is the confirmatory trial regulatory strategy prospectively defined, including trial design agreement with FDA (SPA if applicable), e...
+  - `BBREG67` *(BIO)* — Has a rolling submission or real-time review strategy been evaluated for the BLA, with module-by-module submission timing optimised relative to CMC readiness, clinical data matu...
+  - `BBREG68` *(BIO)* — Is the BPCIA patent and exclusivity strategy defined, including Purple Book listing, patent dance preparation, 12-year BLA exclusivity timeline, and proactive lifecycle manageme...
+  - `BBREG69` *(BIO)* — For multi-indication biologic programs, is the sequential indication filing strategy defined, including sBLA timing relative to first approval, cross-referencing of existing saf...
+  - `BBREG70` *(BIO)* — Is the INN/USAN naming strategy defined per WHO INN stem conventions and FDA nonproprietary naming guidance for biologics, including proper suffix application and differentiatio...
+  - `BBREG71` *(BIO)* — Is the regulatory strategy for manufacturing site transfers (clinical-scale CDMO to commercial-scale facility) defined, including comparability data requirements, supplement fil...
+  - `BBREG72` *(BIO)* — Is the post-approval change management framework for biologics understood and planned for, including the distinction between Prior Approval Supplements (PAS), Changes Being Effe...
+  - `REG1` *(SM)* — Is there a formal, written global regulatory strategy document?
+  - `REG2` *(SM)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `REG3` *(SM)* — Are regulatory plans synchronized with clinical, CMC, and commercial timelines?
+  - `REG44` *(SM)* — Are post-approval commitments anticipated and resourced?
+  - `REG45` *(SM)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `REG46` *(SM)* — Is there an experienced internal or external regulatory lead assigned?
+  - `REG50` *(SM)* — Are registration requirements evaluated for China, LATAM, MENA, SEA, Africa?
+- **SAF**
+  - `BSAF1` *(BIO)* — Is the SMP aligned with the risk profile of the mAb/bispecific, including biologic-specific risks (immunogenicity, infusion reactions, CRS, immune-mediated AEs, target-mediated ...
+  - `BSAF3` *(BIO)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC) with biologic-specific competency (immunology, immunogenicity interpretation, CRS man...
+  - `BSAF41` *(BIO)* — Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?
+  - `BSAF42` *(BIO)* — Is the clinical trial safety data linked to the global safety database, with biologic-specific data integration (immunogenicity results linked to safety events, infusion data li...
+  - `BSAF43` *(BIO)* — Is reconciliation between clinical and safety databases performed and documented?
+  - `BSAF44` *(BIO)* — Are clinical trial and post-marketing safety managed in an integrated PV framework, with biologic-specific post-marketing safety considerations (long-term immunogenicity monitor...
+  - `BSAF45` *(BIO)* — Are safety findings communicated effectively, with biologic-specific safety communications (immunogenicity updates, infusion reaction rate changes, CRS management algorithm modi...
+  - `BSAF46` *(BIO)* — Are newsletters, protocol updates, or safety bulletins issued as needed?
+  - `BSAF47` *(BIO)* — Is there a safety escalation pathway for emerging risks, with biologic-specific escalation triggers (unexpected immunogenicity signal, CRS severity escalation, novel immune-medi...
+  - `BSAF48` *(BIO)* — Are Phase 3 and long-term extension studies adequately powered to detect rare AEs, including biologic-specific rare events (progressive multifocal leukoencephalopathy, serious o...
+  - `BSAF49` *(BIO)* — Is there a Risk Management Plan (RMP) or REMS strategy developed, with biologic-specific risk minimization measures (infusion management requirements, CRS monitoring mandates, i...
+  - `BSAF50` *(BIO)* — Are plans in place for post-marketing surveillance (PASS, registries), with biologic-specific post-marketing commitments (long-term immunogenicity registries, pregnancy exposure...
+  - `BSAF51` *(BIO)* — Is a named medical safety officer accountable for clinical safety strategy?
+  - `BSAF52` *(BIO)* — Is there an experienced cross-functional safety team with biologic-specific expertise (immunology, immunogenicity, biologic pharmacology, CRS management)?
+  - `BSAF53` *(BIO)* — Are external advisors or safety boards in place for high-risk programs, with biologic-specific advisory expertise (immunology KOLs, biologic safety experts, CRS management speci...
+  - `BSAF54` *(BIO)* — Are tools in place for safety data mining and signal evaluation, configured for biologic-specific signal detection (immunogenicity-safety linkage, temporal pattern analysis, exp...
+  - `BSAF55` *(BIO)* — Is a comprehensive immunogenicity safety monitoring plan integrated into the overall SMP, with defined criteria for clinical correlation of ADA with safety outcomes (hypersensit...
+  - `BSAF56` *(BIO)* — Is the clinical impact of immunogenicity prospectively assessed through pre-defined ADA-stratified safety analyses (ADA+ vs ADA− AE incidence, ADA-positive patient disposition, ...
+  - `BSAF57` *(BIO)* — Is there a standardized infusion/injection reaction management algorithm in the protocol, with defined grading criteria, rate modification rules, premedication adjustments, re-c...
+  - `BSAF58` *(BIO)* — For bispecific T-cell engagers, is a comprehensive CRS prevention, monitoring, grading, and management protocol in place, including step-up dosing rationale, tocilizumab availab...
+  - `BSAF59` *(BIO)* — Is there a systematic surveillance program for immune-mediated adverse events, with organ-specific monitoring algorithms, diagnostic workup requirements, and management protocol...
+  - `BSAF60` *(BIO)* — Are immune-mediated AE patterns tracked across the program to identify organ-specific susceptibility profiles, risk factors, and optimal management strategies, feeding into bene...
+  - `SAF1` *(SM)* — Is the SMP aligned with the risk profile of the compound and clinical population?
+  - `SAF16` *(SM)* — Is benefit-risk documented for key milestones (e.g., FIH, end of Phase 2, pivotal trial entry)?
+  - `SAF17` *(SM)* — Are emerging safety data incorporated into dynamic benefit-risk models?
+  - `SAF18` *(SM)* — Are thresholds for tolerability and risk management clearly defined?
+  - `SAF19` *(SM)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?
+  - `SAF2` *(SM)* — Are roles and responsibilities for safety surveillance clearly defined across teams?
+  - `SAF45` *(SM)* — Are safety findings communicated effectively to investigators, regulators, and internal teams?
+  - `SAF50` *(SM)* — Are plans in place for post-marketing surveillance (e.g., PASS, registries)?
+  - `SAF51` *(SM)* — Is a named medical safety officer accountable for clinical safety strategy?
+- **TM**
+  - `TM53` *(SM)* — Is there an experienced translational medicine lead assigned?
+  - `TM54` *(SM)* — Are team members skilled in biomarker science, modeling, systems biology, and clinical integration?
+  - `TM55` *(SM)* — Are external collaborations (academia, CROs, biomarker consortia) in place?
+  - `TM56` *(SM)* — Is there a fit-for-purpose governance and decision-making structure?
+
+### RS — Regulatory Submission
+
+- **CDM**
+  - `BBCDM1` *(BIO)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `BBCDM16` *(BIO)* — Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?
+  - `BBCDM17` *(BIO)* — Are safety data actively reviewed (e.g., DSMB, internal safety committees)?
+  - `BBCDM18` *(BIO)* — Are AE, SAE, and SUSAR data adequately collected and reported?
+  - `BBCDM19` *(BIO)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `BBCDM28` *(BIO)* — Are real-world evidence (RWE) or post-marketing studies being considered?
+  - `BBCDM57` *(BIO)* — Is immunogenicity monitoring prospectively integrated into the clinical programme with pre-defined decision criteria?
+  - `BBCDM58` *(BIO)* — Are immunogenicity-related clinical events (infusion reactions, loss of response, hypersensitivity) prospectively tracked and correlated with ADA status?
+  - `BBCDM59` *(BIO)* — Is a clinical immunogenicity risk mitigation strategy in place (e.g., concomitant immunosuppression, immune tolerance induction, SC vs. IV route optimisation)?
+  - `BBCDM60` *(BIO)* — Is the administration regimen (IV/SC, dosing frequency, infusion time) optimised for the target treatment setting and patient population?
+  - `BBCDM61` *(BIO)* — Are patient-reported outcomes (PROs) capturing biologic-specific treatment burden (infusion time, injection site reactions, CRS symptoms)?
+  - `BBCDM62` *(BIO)* — For combination regimens: is the clinical trial design appropriate to evaluate the contribution of each component and the combination benefit-risk?
+  - `CDM1` *(SM)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `CDM16` *(SM)* — Are adverse event (AE), SAE, and SUSAR data adequately collected and reported?
+  - `CDM25` *(SM)* — Are real-world evidence (RWE) or post-marketing studies being considered?
+  - `CDM38` *(SM)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `CDM39` *(SM)* — Is the positioning clear vs. existing and emerging therapies?
+  - `CDM45` *(SM)* — Is there a lifecycle management plan (e.g., label expansion, line extensions)?
+  - `CDM46` *(SM)* — Are post-approval study commitments or Phase 4 trials planned or required?
+  - `CDM47` *(SM)* — Are registries or real-world studies planned for value demonstration?
+- **CMC**
+  - `BBCMC62` *(BIO)* — Are post-approval process change and lifecycle management strategies planned?
+  - `BBCMC68` *(BIO)* — Is continued process verification (CPV) / ongoing process verification established with appropriate statistical monitoring?
+- **COM**
+  - `BBCOM16` *(BIO)* — Are pricing and reimbursement risks identified and addressed?
+  - `BBCOM17` *(BIO)* — Have payer advisory boards or research been conducted?
+  - `BBCOM18` *(BIO)* — Are payer value messages tested or defined?
+  - `BBCOM19` *(BIO)* — Are there reimbursement precedents in the target indication?
+  - `BBCOM31` *(BIO)* — Are clinical and economic value stories integrated into messaging?
+  - `BBCOM32` *(BIO)* — Is there a patient-centered approach in brand planning?
+  - `BBCOM49` *(BIO)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `BBCOM65` *(BIO)* — Is the rebate and contracting strategy designed to defend market position against biosimilar competition, including assessment of rebate wall sustainability, gross-to-net dynami...
+  - `BBCOM66` *(BIO)* — For IV-administered biologics, is an infusion network and site-of-care strategy developed, including hospital outpatient department (HOPD) vs physician office vs home infusion e...
+  - `COM14` *(SM)* — Are health economic/value frameworks developed (e.g., cost-effectiveness models)?
+  - `COM15` *(SM)* — Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?
+  - `COM16` *(SM)* — Are pricing and reimbursement risks identified and addressed?
+  - `COM17` *(SM)* — Have payer advisory boards or research been conducted?
+  - `COM18` *(SM)* — Are payer value messages tested or defined?
+  - `COM31` *(SM)* — Are clinical and economic value stories integrated into messaging?
+  - `COM49` *(SM)* — Are RWE plans developed to support reimbursement, uptake, or differentiation?
+  - `COM51` *(SM)* — Is there a strategy to generate data post-approval to support additional claims?
+- **ERW**
+  - `BBERW21` *(BIO)* — Are real-world treatment patterns described (lines of therapy, combinations, switching)?
+  - `BBERW22` *(BIO)* — Are data available on medication adherence, persistence, and discontinuation?
+  - `BBERW23` *(BIO)* — Are health outcomes (e.g., survival, QoL, exacerbation rates, relapse) captured in real-world settings?
+  - `BBERW24` *(BIO)* — Are patient-reported outcomes or functional status included?
+  - `BBERW25` *(BIO)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `BBERW26` *(BIO)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `BBERW27` *(BIO)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `BBERW28` *(BIO)* — Are data on off-label use, medication errors, or misuse captured?
+  - `BBERW29` *(BIO)* — Are healthcare resource utilization (HCRU) and cost data available (hospitalization, ER, ICU, outpatient)?
+  - `BBERW30` *(BIO)* — Are direct medical, non-medical, and indirect costs assessed?
+  - `BBERW31` *(BIO)* — Is the budget impact of new therapies modeled using RWE inputs?
+  - `BBERW32` *(BIO)* — Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?
+  - `BBERW33` *(BIO)* — Are RWE strategies aligned with current regulatory guidance (FDA RWE Framework, EMA Big Data)?
+  - `BBERW34` *(BIO)* — Are prior interactions with regulators regarding RWE use documented?
+  - `BBERW35` *(BIO)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `BBERW36` *(BIO)* — Is there a pre-specified RWE Statistical Analysis Plan (SAP) for regulatory interactions?
+  - `BBERW37` *(BIO)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `BBERW38` *(BIO)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `BBERW39` *(BIO)* — Are burden-of-illness studies or observational registries in place for the indication?
+  - `BBERW40` *(BIO)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `BBERW41` *(BIO)* — Are prospective non-interventional studies, disease registries, or pragmatic trials initiated or planned?
+  - `BBERW42` *(BIO)* — Are registry protocols designed to capture effectiveness, safety, and QoL over time?
+  - `BBERW43` *(BIO)* — Are registries linked to biobanks or digital tools (e.g., wearables, ePROs)?
+  - `BBERW44` *(BIO)* — Are data from compassionate use or expanded access programs integrated?
+  - `BBERW45` *(BIO)* — Are decentralized or digital tools (e.g., apps, sensors, wearables) used to collect RWD?
+  - `BBERW46` *(BIO)* — Are patient engagement platforms or eConsent frameworks in place?
+  - `BBERW47` *(BIO)* — Is data quality (completeness, timeliness, interoperability) evaluated for digital endpoints?
+  - `BBERW48` *(BIO)* — Are these tools aligned with evidence-generation strategy?
+  - `BBERW49` *(BIO)* — Are RWE insights being used to inform inclusion/exclusion criteria and site selection?
+  - `BBERW50` *(BIO)* — Are real-world progression patterns used to define trial endpoints?
+  - `BBERW51` *(BIO)* — Is the CDP integrated with RWE to support lifecycle evidence needs?
+  - `BBERW52` *(BIO)* — Are there in-house or partner capabilities in advanced analytics (e.g., machine learning, NLP)?
+  - `BBERW53` *(BIO)* — Are statistical methods for causal inference in observational data validated?
+  - `BBERW54` *(BIO)* — Is there an experienced epidemiology or RWE team supporting the asset?
+  - `BBERW55` *(BIO)* — Are external collaborations (e.g., IQVIA, Flatiron, OMOP, SENTINEL) in place?
+  - `BBERW56` *(BIO)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `BBERW57` *(BIO)* — Are lifecycle plans in place for label expansion, new indications, or new populations?
+  - `BBERW58` *(BIO)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+  - `BBERW59` *(BIO)* — Are real-world biosimilar switching patterns, outcomes, and economic impact tracked and analysed?
+  - `BBERW60` *(BIO)* — Are real-world immunogenicity and immune-mediated safety outcomes captured using appropriate data sources and coding?
+  - `BBERW61` *(BIO)* — Are real-world treatment sequencing and line-of-therapy analyses designed for biologic therapeutic areas?
+  - `BBERW62` *(BIO)* — Are site-of-care and administration burden data captured to support biologic value differentiation and access strategy?
+  - `BBERW63` *(BIO)* — Are the limitations of real-world immunogenicity data formally assessed, including the absence of standardised ADA testing in routine clinical practice, assay heterogeneity acro...
+  - `BBERW64` *(BIO)* — Is the RWE methodology for analysing biologic switching, sequencing, and cycling patterns robust, including proper handling of channelling bias, time-varying confounding, and th...
+  - `BBERW65` *(BIO)* — For biologic programmes using external control arms (ECAs) in regulatory submissions, is the ECA methodology aligned with FDA and EMA frameworks, including pre-specification, ta...
+  - `BBERW66` *(BIO)* — Is the RWE strategy for biosimilar switching and interchangeability evidence generation defined, including non-medical switching outcome studies, multiple-switch safety analyses...
+  - `BBERW67` *(BIO)* — Has the Inflation Reduction Act (IRA) impact on RWE evidence requirements been assessed, including the role of real-world comparative effectiveness data in Medicare price negoti...
+  - `BBERW68` *(BIO)* — For rare disease or orphan biologic programmes, is a prospective natural history study in place or planned to characterise disease progression, establish external comparator bas...
+  - `BBERW69` *(BIO)* — Is the real-world administration burden of biologic therapy quantified, including infusion chair time, observation periods, site-of-care resource use, patient time and travel co...
+  - `BBERW70` *(BIO)* — Is real-world biologic persistence and adherence comprehensively measured, with biologic-specific methodology addressing the distinction between primary non-response, secondary ...
+  - `BBERW71` *(BIO)* — Are claims-based algorithms for biologic-relevant endpoints validated against clinical data, including algorithms for infusion reactions, immune-mediated AEs, secondary non-resp...
+  - `BBERW72` *(BIO)* — Is the target trial emulation framework being applied to biologic RWE studies that aim to support regulatory or HTA decisions, with explicit specification of the target trial pr...
+  - `ERW23` *(SM)* — Are health outcomes (e.g., survival, QoL, exacerbation rates, relapse) captured in real-world settings?
+  - `ERW24` *(SM)* — Are patient-reported outcomes or functional status included?
+  - `ERW25` *(SM)* — Are RWE strategies in place to detect rare, delayed, or population-specific AEs?
+  - `ERW26` *(SM)* — Are large-scale data sets used for long-term pharmacovigilance or signal detection?
+  - `ERW27` *(SM)* — Are RWE studies aligned with Risk Management Plans (RMPs) or REMS requirements?
+  - `ERW28` *(SM)* — Are data on off-label use, medication errors, or misuse captured?
+  - `ERW31` *(SM)* — Is the budget impact of new therapies modeled using RWE inputs?
+  - `ERW32` *(SM)* — Are payer-relevant endpoints (e.g., time to progression, return to work) supported by real-world data?
+  - `ERW33` *(SM)* — Are RWE strategies aligned with current regulatory guidance (FDA RWE Framework, EMA Big Data)?
+  - `ERW34` *(SM)* — Are prior interactions with regulators regarding RWE use documented?
+  - `ERW35` *(SM)* — Is RWE planned for label expansion, orphan designation, or accelerated approval?
+  - `ERW36` *(SM)* — Is there a pre-specified RWE Statistical Analysis Plan (SAP) for regulatory interactions?
+  - `ERW37` *(SM)* — Are real-world data used to support HTA dossiers or economic models (e.g., NICE, PBAC)?
+  - `ERW38` *(SM)* — Are endpoints relevant to reimbursement captured in real-world settings (QoL, hospitalization)?
+  - `ERW40` *(SM)* — Have payers been consulted on acceptable real-world endpoints and comparators?
+  - `ERW51` *(SM)* — Is the CDP integrated with RWE to support lifecycle evidence needs?
+  - `ERW56` *(SM)* — Are long-term RWE studies in place or planned to meet regulatory or HTA conditions?
+  - `ERW58` *(SM)* — Are comparative effectiveness studies or pragmatic RCTs planned or underway?
+- **PM**
+  - `BPM31` *(BIO)* — Are PM processes standardised across the organisation — with templates, SOPs, and training that enable consistent project management practices regardless of programme or therape...
+  - `BPM32` *(BIO)* — Are programme performance metrics tracked and benchmarked — including schedule performance (on-time milestone delivery), budget performance (actual vs planned), and cycle time m...
+  - `BPM33` *(BIO)* — Is there a dedicated, experienced project management function with pharmaceutical development expertise — not just general PM methodology — leading programme execution?
+  - `BPM34` *(BIO)* — Are phase transition plans in place — with defined handover processes, knowledge transfer requirements, and team continuity management for major transitions (preclinical→clinica...
+  - `BPM35` *(BIO)* — Is the filing-to-launch transition explicitly planned as a cross-functional programme — with parallel workstreams for regulatory review management, commercial launch preparation...
+  - `BPM36` *(BIO)* — Is post-approval lifecycle management planned as a continuation of programme management — with ongoing project plans for post-marketing commitments, label expansions, new indica...
+- **REG**
+  - `BBREG1` *(BIO)* — Is there a formal, written global regulatory strategy document?
+  - `BBREG2` *(BIO)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `BBREG3` *(BIO)* — Are regulatory plans synchronised with clinical, CMC, and commercial timelines?
+  - `BBREG31` *(BIO)* — Is there a formal benefit-risk assessment?
+  - `BBREG32` *(BIO)* — Are mitigation plans documented for key risk areas?
+  - `BBREG33` *(BIO)* — Are there known issues with platform or class-based precedents?
+  - `BBREG34` *(BIO)* — Are all submission documents finalised, QA-checked, and archived?
+  - `BBREG35` *(BIO)* — Are submissions inspection-ready (e.g., QA certificates, GLP/GCP statements)?
+  - `BBREG36` *(BIO)* — Are Biologics Master Files or cross-references to CDMO filings appropriately managed?
+  - `BBREG37` *(BIO)* — Are correspondence logs and submission trackers complete and maintained?
+  - `BBREG38` *(BIO)* — Has a plan been defined for BLA/MAA submission timing and format?
+  - `BBREG39` *(BIO)* — Are region-specific approval pathways chosen?
+  - `BBREG40` *(BIO)* — Are bridging strategies and waivers identified for global submissions?
+  - `BBREG41` *(BIO)* — Are registration-enabling studies complete or scheduled?
+  - `BBREG42` *(BIO)* — Are Risk Management Plans (RMPs), REMS, or pharmacovigilance plans under development?
+  - `BBREG43` *(BIO)* — Are pharmacovigilance systems compliant with EU/US requirements?
+  - `BBREG44` *(BIO)* — Are post-approval commitments anticipated and resourced?
+  - `BBREG45` *(BIO)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `BBREG61` *(BIO)* — Are human factors engineering studies planned or completed for self-administration devices?
+  - `BBREG62` *(BIO)* — Is device design control documentation (Design History File) integrated with the BLA?
+  - `BBREG63` *(BIO)* — Is the BIMO (Bioresearch Monitoring) inspection readiness strategy defined alongside the manufacturing PAI, including clinical site selection for inspection, data integrity veri...
+  - `BBREG64` *(BIO)* — Is an Advisory Committee (AdComm) preparation strategy developed, including likelihood assessment, briefing document authoring plan, voting question strategy, panel composition ...
+  - `BBREG65` *(BIO)* — Has the team systematically reviewed FDA's published CRL database (291 CRLs, July-September 2025) to identify BLA-specific deficiency patterns and proactively de-risk their own ...
+  - `BBREG66` *(BIO)* — For programs pursuing accelerated approval, is the confirmatory trial regulatory strategy prospectively defined, including trial design agreement with FDA (SPA if applicable), e...
+  - `BBREG67` *(BIO)* — Has a rolling submission or real-time review strategy been evaluated for the BLA, with module-by-module submission timing optimised relative to CMC readiness, clinical data matu...
+  - `BBREG68` *(BIO)* — Is the BPCIA patent and exclusivity strategy defined, including Purple Book listing, patent dance preparation, 12-year BLA exclusivity timeline, and proactive lifecycle manageme...
+  - `BBREG69` *(BIO)* — For multi-indication biologic programs, is the sequential indication filing strategy defined, including sBLA timing relative to first approval, cross-referencing of existing saf...
+  - `BBREG70` *(BIO)* — Is the INN/USAN naming strategy defined per WHO INN stem conventions and FDA nonproprietary naming guidance for biologics, including proper suffix application and differentiatio...
+  - `BBREG71` *(BIO)* — Is the regulatory strategy for manufacturing site transfers (clinical-scale CDMO to commercial-scale facility) defined, including comparability data requirements, supplement fil...
+  - `BBREG72` *(BIO)* — Is the post-approval change management framework for biologics understood and planned for, including the distinction between Prior Approval Supplements (PAS), Changes Being Effe...
+  - `REG1` *(SM)* — Is there a formal, written global regulatory strategy document?
+  - `REG2` *(SM)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `REG3` *(SM)* — Are regulatory plans synchronized with clinical, CMC, and commercial timelines?
+  - `REG43` *(SM)* — Are pharmacovigilance systems compliant with EU/US requirements (e.g., QPPV, PV system master file)?
+  - `REG44` *(SM)* — Are post-approval commitments anticipated and resourced?
+  - `REG45` *(SM)* — Are label extensions, post-marketing studies, or conditional approvals considered?
+  - `REG46` *(SM)* — Is there an experienced internal or external regulatory lead assigned?
+  - `REG47` *(SM)* — Are roles and responsibilities defined for regional regulatory activities?
+  - `REG49` *(SM)* — Are regulatory service providers (consultants, publishers, CROs) reputable and documented?
+  - `REG50` *(SM)* — Are registration requirements evaluated for China, LATAM, MENA, SEA, Africa?
+  - `REG51` *(SM)* — Are local regulatory agents or affiliates engaged?
+  - `REG52` *(SM)* — Are local-language dossiers and administrative documents planned?
+  - `REG55` *(SM)* — Are variations, amendments, and renewals tracked and submitted on time?
+- **SAF**
+  - `BSAF1` *(BIO)* — Is the SMP aligned with the risk profile of the mAb/bispecific, including biologic-specific risks (immunogenicity, infusion reactions, CRS, immune-mediated AEs, target-mediated ...
+  - `BSAF10` *(BIO)* — Is there a global process for unblinding in life-threatening cases, with specific provisions for biologic-specific emergencies (anaphylaxis, severe CRS) requiring immediate trea...
+  - `BSAF11` *(BIO)* — Are statistical methods and thresholds for signal detection defined, including biologic-specific signal detection approaches (immunogenicity-safety correlation, exposure-safety ...
+  - `BSAF12` *(BIO)* — Is signal detection based on aggregate data review (e.g., by SMQs, PTs, SOCs), including biologic-specific SMQs (anaphylactic/anaphylactoid reactions, infusion-related reactions...
+  - `BSAF13` *(BIO)* — Are data reviewed for temporal trends, dose dependence, and organ system clustering, including biologic-specific patterns (cycle dependence, immunogenicity-temporal correlation,...
+  - `BSAF14` *(BIO)* — Are emerging signals evaluated for biological plausibility, consistency across trials, and biologic-specific mechanism-based assessment (target biology, Fc effector function, im...
+  - `BSAF15` *(BIO)* — Is there an ongoing integrated benefit-risk assessment plan that accounts for biologic-specific risk dimensions (immunogenicity risk, infusion burden, immune-mediated AE risk, l...
+  - `BSAF16` *(BIO)* — Is benefit-risk documented for key milestones (FIH, end of Phase 2, pivotal trial entry, BLA/MAA)?
+  - `BSAF17` *(BIO)* — Are emerging safety data incorporated into dynamic benefit-risk models, including biologic-specific data streams (immunogenicity trends, exposure-safety relationships, cumulativ...
+  - `BSAF18` *(BIO)* — Are thresholds for tolerability and risk management clearly defined, including biologic-specific tolerability thresholds (maximum acceptable ADA incidence, CRS grade thresholds,...
+  - `BSAF19` *(BIO)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies, including biologic-specific risk mitigations (premedication, step-up dosing, observa...
+  - `BSAF2` *(BIO)* — Are roles and responsibilities for safety surveillance clearly defined, including biologic-specific safety roles (immunogenicity safety lead, CRS management medical monitor, inf...
+  - `BSAF20` *(BIO)* — Are stopping rules, dose modification criteria, and safety monitoring well justified, with biologic-specific dose modification guidance (ADA-driven modifications, CRS-driven ste...
+  - `BSAF22` *(BIO)* — Are trial participants stratified or excluded based on safety biomarkers or comorbidities, including biologic-specific exclusion criteria (prior biologic hypersensitivity, hepat...
+  - `BSAF23` *(BIO)* — Are safety data integrated across studies and presented in standardized formats (ISS, DSUR), with biologic-specific integrated analyses (Integrated Summary of Immunogenicity lin...
+  - `BSAF24` *(BIO)* — Are cumulative safety data reviewed periodically by the sponsor's medical safety team?
+  - `BSAF25` *(BIO)* — Are data visualizations used to support safety interpretation, including biologic-specific visualizations (ADA-safety correlation plots, infusion reaction time-course charts, CR...
+  - `BSAF26` *(BIO)* — Is there a formal process for adjudication of complex or unexpected events, including biologic-specific adjudication (infusion reaction vs CRS differentiation, immune-mediated A...
+  - `BSAF27` *(BIO)* — Are abnormal lab findings evaluated in context of expected biologic effects, including biologic-specific expected lab changes (lymphocyte depletion for anti-CD20, complement con...
+  - `BSAF28` *(BIO)* — Are predefined laboratory criteria used to detect toxicity signals, including biologic-specific laboratory monitoring (cytokine panels for CRS, complement levels, immunoglobulin...
+  - `BSAF29` *(BIO)* — Are central laboratories used with consistent normal ranges and alert flags?
+  - `BSAF3` *(BIO)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC) with biologic-specific competency (immunology, immunogenicity interpretation, CRS man...
+  - `BSAF30` *(BIO)* — Are vital signs and ECG abnormalities assessed systematically, including biologic-specific vital sign monitoring (pre/during/post-infusion vital signs, CRS-associated hemodynami...
+  - `BSAF31` *(BIO)* — Are immunogenicity, hypersensitivity, and cytokine release being actively monitored with pre-defined criteria, grading scales, and management algorithms?
+  - `BSAF32` *(BIO)* — Are QT/QTc and other cardiac safety signals evaluated, including biologic-specific cardiac considerations (CRS-associated cardiac events, troponin monitoring for T-cell engaging...
+  - `BSAF33` *(BIO)* — Are pregnancy exposures and outcomes tracked, with biologic-specific reproductive safety considerations (IgG placental transfer via FcRn, neonatal immune effects, live vaccine r...
+  - `BSAF34` *(BIO)* — Is suicidality monitored for CNS or other high-risk programs (e.g., using C-SSRS)?
+  - `BSAF35` *(BIO)* — Are investigators trained on AE/SAE reporting, safety endpoints, and biologic-specific risk mitigations (infusion reaction management, CRS recognition and grading, anaphylaxis p...
+  - `BSAF36` *(BIO)* — Are investigator brochures regularly updated with new safety findings, including biologic-specific safety sections (immunogenicity data, infusion reaction rates, immune-mediated...
+  - `BSAF37` *(BIO)* — Are sites informed rapidly about emerging safety issues or protocol amendments?
+  - `BSAF38` *(BIO)* — Are safety reports submitted on time (SUSARs, DSURs, IND annual reports), with biologic-specific safety reporting elements (immunogenicity data in DSURs, CRS summary in annual r...
+  - `BSAF39` *(BIO)* — Are all expedited and periodic reports consistent with regulatory expectations (FDA, EMA, PMDA)?
+  - `BSAF4` *(BIO)* — Are AEs, SAEs, and AESIs systematically collected and classified, with biologic-specific AESIs pre-defined (infusion reactions, injection-site reactions, CRS, immune-mediated AE...
+  - `BSAF40` *(BIO)* — Are reference safety information (RSI) and Investigator Brochure up to date, with biologic-specific RSI elements (immunogenicity-related events, infusion reactions, CRS, immune-...
+  - `BSAF41` *(BIO)* — Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?
+  - `BSAF42` *(BIO)* — Is the clinical trial safety data linked to the global safety database, with biologic-specific data integration (immunogenicity results linked to safety events, infusion data li...
+  - `BSAF43` *(BIO)* — Is reconciliation between clinical and safety databases performed and documented?
+  - `BSAF44` *(BIO)* — Are clinical trial and post-marketing safety managed in an integrated PV framework, with biologic-specific post-marketing safety considerations (long-term immunogenicity monitor...
+  - `BSAF45` *(BIO)* — Are safety findings communicated effectively, with biologic-specific safety communications (immunogenicity updates, infusion reaction rate changes, CRS management algorithm modi...
+  - `BSAF46` *(BIO)* — Are newsletters, protocol updates, or safety bulletins issued as needed?
+  - `BSAF47` *(BIO)* — Is there a safety escalation pathway for emerging risks, with biologic-specific escalation triggers (unexpected immunogenicity signal, CRS severity escalation, novel immune-medi...
+  - `BSAF48` *(BIO)* — Are Phase 3 and long-term extension studies adequately powered to detect rare AEs, including biologic-specific rare events (progressive multifocal leukoencephalopathy, serious o...
+  - `BSAF49` *(BIO)* — Is there a Risk Management Plan (RMP) or REMS strategy developed, with biologic-specific risk minimization measures (infusion management requirements, CRS monitoring mandates, i...
+  - `BSAF5` *(BIO)* — Are AE collection methods standardized across sites, with specific guidance for biologic-specific AE capture (infusion reaction documentation, CRS grading, injection-site assess...
+  - `BSAF50` *(BIO)* — Are plans in place for post-marketing surveillance (PASS, registries), with biologic-specific post-marketing commitments (long-term immunogenicity registries, pregnancy exposure...
+  - `BSAF51` *(BIO)* — Is a named medical safety officer accountable for clinical safety strategy?
+  - `BSAF52` *(BIO)* — Is there an experienced cross-functional safety team with biologic-specific expertise (immunology, immunogenicity, biologic pharmacology, CRS management)?
+  - `BSAF53` *(BIO)* — Are external advisors or safety boards in place for high-risk programs, with biologic-specific advisory expertise (immunology KOLs, biologic safety experts, CRS management speci...
+  - `BSAF54` *(BIO)* — Are tools in place for safety data mining and signal evaluation, configured for biologic-specific signal detection (immunogenicity-safety linkage, temporal pattern analysis, exp...
+  - `BSAF55` *(BIO)* — Is a comprehensive immunogenicity safety monitoring plan integrated into the overall SMP, with defined criteria for clinical correlation of ADA with safety outcomes (hypersensit...
+  - `BSAF56` *(BIO)* — Is the clinical impact of immunogenicity prospectively assessed through pre-defined ADA-stratified safety analyses (ADA+ vs ADA− AE incidence, ADA-positive patient disposition, ...
+  - `BSAF57` *(BIO)* — Is there a standardized infusion/injection reaction management algorithm in the protocol, with defined grading criteria, rate modification rules, premedication adjustments, re-c...
+  - `BSAF58` *(BIO)* — For bispecific T-cell engagers, is a comprehensive CRS prevention, monitoring, grading, and management protocol in place, including step-up dosing rationale, tocilizumab availab...
+  - `BSAF59` *(BIO)* — Is there a systematic surveillance program for immune-mediated adverse events, with organ-specific monitoring algorithms, diagnostic workup requirements, and management protocol...
+  - `BSAF6` *(BIO)* — Are electronic data capture (EDC) and medical coding systems validated and configured for biologic-specific safety data capture (infusion reaction eCRF modules, CRS grading form...
+  - `BSAF60` *(BIO)* — Are immune-mediated AE patterns tracked across the program to identify organ-specific susceptibility profiles, risk factors, and optimal management strategies, feeding into bene...
+  - `BSAF61` *(BIO)* — Is there a defined process for distinguishing between pharmacodynamic effects (intended mechanism) and safety signals for immunomodulatory/immune-activating biologics, with docu...
+  - `BSAF62` *(BIO)* — Is there a documented class-wide safety monitoring strategy that incorporates learnings from other approved biologics with the same target, mechanism, or structural class, and a...
+  - `BSAF63` *(BIO)* — For immunosuppressive/immunomodulatory biologics, is there a comprehensive infection surveillance program, including screening for latent infections (TB, hepatitis B/C), monitor...
+  - `BSAF64` *(BIO)* — Is there an integrated safety-PK-immunogenicity analysis framework that enables real-time correlation of safety events with drug exposure levels and ADA status, supporting mecha...
+  - `BSAF65` *(BIO)* — Is the safety database adequacy assessment performed per ICH E1 guidelines, with biologic-specific considerations for safety database size (longer exposure durations needed for ...
+  - `BSAF66` *(BIO)* — For FIH and early-phase biologic studies, is the starting dose safety assessment based on appropriate biologic-specific methodology (MABEL for immune-activating biologics, NOAEL...
+  - `BSAF67` *(BIO)* — For bispecific T-cell engagers, is immune effector cell-associated neurotoxicity syndrome (ICANS) prospectively monitored with standardized grading (ASTCT/ICE score), defined ma...
+  - `BSAF68` *(BIO)* — Has the risk of ADA cross-reacting with and neutralizing the endogenous counterpart of the therapeutic protein been formally assessed, with a prospective monitoring plan if the ...
+  - `BSAF69` *(BIO)* — Is there a defined process for assessing the clinical safety implications of manufacturing process changes (new cell line, facility transfer, scale-up, formulation change), incl...
+  - `BSAF7` *(BIO)* — Are SAEs being reported within required timelines, with expedited processes for biologic-specific serious events (anaphylaxis, severe CRS, serious infusion reactions, serious im...
+  - `BSAF70` *(BIO)* — Is a prospective safety labeling strategy being developed in parallel with safety data collection, including proposed Warnings & Precautions language, Adverse Reactions table de...
+  - `BSAF71` *(BIO)* — Is a structured, FDA/EMA-aligned benefit-risk framework being used (e.g., FDA's 5-dimension framework, PrOACT-URL, BRAT), with biologic-specific adaptations for immunogenicity i...
+  - `BSAF72` *(BIO)* — Are pediatric-specific biologic safety considerations addressed, including differential immunogenicity profiles in children, vaccine schedule interactions with immunosuppressive...
+  - `BSAF73` *(BIO)* — For programs pursuing accelerated approval, is the safety monitoring framework adequate for the dual-phase period when commercial use and confirmatory trial safety evaluation oc...
+  - `BSAF74` *(BIO)* — For biologic combination therapies (mAb + mAb, mAb + chemotherapy, bispecific + checkpoint inhibitor), is the overlapping and additive toxicity profile systematically assessed, ...
+  - `BSAF75` *(BIO)* — For licensed-in, licensed-out, or co-developed biologic programs, is there a documented safety data transfer plan ensuring signal detection continuity, complete safety database ...
+  - `BSAF76` *(BIO)* — Is post-marketing real-world safety evidence from approved biologics in the same class systematically reviewed and integrated into the development program's safety monitoring st...
+  - `BSAF8` *(BIO)* — Are SAEs reconciled between clinical and safety databases?
+  - `BSAF9` *(BIO)* — Is there clear medical review and causality assessment for all SAEs, with biologic-specific causality considerations (temporal relationship to infusion, ADA status at time of ev...
+  - `SAF1` *(SM)* — Is the SMP aligned with the risk profile of the compound and clinical population?
+  - `SAF10` *(SM)* — Is there a global process for unblinding in life-threatening cases?
+  - `SAF12` *(SM)* — Is signal detection based on aggregate data review (e.g., by SMQs, PTs, SOCs)?
+  - `SAF13` *(SM)* — Are data reviewed for temporal trends, dose dependence, and organ system clustering?
+  - `SAF14` *(SM)* — Are emerging signals evaluated for biological plausibility and consistency across trials?
+  - `SAF15` *(SM)* — Is there an ongoing integrated benefit-risk assessment plan?
+  - `SAF16` *(SM)* — Is benefit-risk documented for key milestones (e.g., FIH, end of Phase 2, pivotal trial entry)?
+  - `SAF17` *(SM)* — Are emerging safety data incorporated into dynamic benefit-risk models?
+  - `SAF18` *(SM)* — Are thresholds for tolerability and risk management clearly defined?
+  - `SAF19` *(SM)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?
+  - `SAF2` *(SM)* — Are roles and responsibilities for safety surveillance clearly defined across teams?
+  - `SAF24` *(SM)* — Are cumulative safety data reviewed periodically by the sponsor’s medical safety team?
+  - `SAF28` *(SM)* — Are predefined laboratory criteria used to detect toxicity signals (e.g., Hy’s law, QT prolongation)?
+  - `SAF29` *(SM)* — Are central laboratories used with consistent normal ranges and alert flags?
+  - `SAF31` *(SM)* — Are immunogenicity, hypersensitivity, or cytokine release being monitored, if applicable?
+  - `SAF32` *(SM)* — Are QT/QTc and other cardiac safety signals evaluated per ICH E14?
+  - `SAF33` *(SM)* — Are pregnancy exposures and outcomes tracked with appropriate follow-up?
+  - `SAF34` *(SM)* — Is suicidality monitored for CNS or other high-risk programs (e.g., using C-SSRS)?
+  - `SAF35` *(SM)* — Are investigators trained on AE/SAE reporting, safety endpoints, and risk mitigation?
+  - `SAF37` *(SM)* — Are sites informed rapidly about emerging safety issues or protocol amendments?
+  - `SAF39` *(SM)* — Are all expedited and periodic reports consistent with regulatory expectations (FDA, EMA, PMDA)?
+  - `SAF40` *(SM)* — Are reference safety information (RSI) and Investigator Brochure up to date?
+  - `SAF41` *(SM)* — Are any clinical holds, IRB concerns, or safety-related protocol amendments documented?
+  - `SAF43` *(SM)* — Is reconciliation between clinical and safety databases performed and documented?
+  - `SAF44` *(SM)* — Are clinical trial and post-marketing safety managed in an integrated PV framework?
+  - `SAF45` *(SM)* — Are safety findings communicated effectively to investigators, regulators, and internal teams?
+  - `SAF5` *(SM)* — Are AE collection methods standardized across sites and protocols?
+  - `SAF50` *(SM)* — Are plans in place for post-marketing surveillance (e.g., PASS, registries)?
+  - `SAF51` *(SM)* — Is a named medical safety officer accountable for clinical safety strategy?
+  - `SAF6` *(SM)* — Are electronic data capture (EDC) and medical coding systems validated and up-to-date?
+  - `SAF7` *(SM)* — Are SAEs being reported within required timelines (regulatory and sponsor)?
+  - `SAF8` *(SM)* — Are SAEs reconciled between clinical and safety databases?
+  - `SAF9` *(SM)* — Is there clear medical review and causality assessment for all SAEs?
+
+## Data sources
+
+- `data/stage-gates.json` — goal and focus for every stage-gate
+- `data/questions/small-molecule/<FN>.json` — full rubric per small-molecule question
+- `data/questions/biologics/<FN>.json` — full rubric per biologics question
+- `data/heatmap/<modality>.json` — priority map `{question_id: {mode: {sg: label}}}`

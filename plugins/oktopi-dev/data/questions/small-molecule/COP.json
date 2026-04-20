@@ -1,0 +1,3487 @@
+{
+  "function_code": "COP",
+  "modality": "small-molecule",
+  "function_name": "Clinical Operations",
+  "question_count": 60,
+  "critical_index": {
+    "SR": {},
+    "OE": {
+      "SG4": [
+        "COP1",
+        "COP2",
+        "COP3",
+        "COP4",
+        "COP5",
+        "COP6",
+        "COP7"
+      ],
+      "SG5": [
+        "COP1",
+        "COP2",
+        "COP3",
+        "COP4",
+        "COP5",
+        "COP6",
+        "COP7",
+        "COP8",
+        "COP9",
+        "COP10",
+        "COP11",
+        "COP12",
+        "COP13",
+        "COP14",
+        "COP15",
+        "COP16",
+        "COP17",
+        "COP18",
+        "COP19",
+        "COP20",
+        "COP21",
+        "COP22",
+        "COP23",
+        "COP24",
+        "COP25",
+        "COP26",
+        "COP27",
+        "COP28",
+        "COP29",
+        "COP30",
+        "COP31",
+        "COP32",
+        "COP33",
+        "COP35",
+        "COP36",
+        "COP37",
+        "COP38",
+        "COP39",
+        "COP40",
+        "COP41",
+        "COP42",
+        "COP43",
+        "COP44",
+        "COP45",
+        "COP46",
+        "COP47",
+        "COP48",
+        "COP49",
+        "COP50",
+        "COP51",
+        "COP52",
+        "COP53",
+        "COP54",
+        "COP55",
+        "COP56",
+        "COP57",
+        "COP58",
+        "COP59",
+        "COP60"
+      ],
+      "SG6": [
+        "COP1",
+        "COP2",
+        "COP3",
+        "COP4",
+        "COP5",
+        "COP6",
+        "COP7",
+        "COP8",
+        "COP9",
+        "COP10",
+        "COP11",
+        "COP12",
+        "COP13",
+        "COP14",
+        "COP15",
+        "COP16",
+        "COP17",
+        "COP18",
+        "COP19",
+        "COP20",
+        "COP21",
+        "COP22",
+        "COP23",
+        "COP24",
+        "COP25",
+        "COP26",
+        "COP27",
+        "COP28",
+        "COP29",
+        "COP30",
+        "COP31",
+        "COP32",
+        "COP33",
+        "COP34",
+        "COP35",
+        "COP36",
+        "COP37",
+        "COP38",
+        "COP39",
+        "COP40",
+        "COP41",
+        "COP42",
+        "COP43",
+        "COP44",
+        "COP45",
+        "COP46",
+        "COP47",
+        "COP48",
+        "COP49",
+        "COP50",
+        "COP51",
+        "COP52",
+        "COP53",
+        "COP54",
+        "COP55",
+        "COP56",
+        "COP57",
+        "COP58",
+        "COP59",
+        "COP60"
+      ],
+      "SG7": [
+        "COP1",
+        "COP2",
+        "COP3",
+        "COP4",
+        "COP5",
+        "COP6",
+        "COP7",
+        "COP8",
+        "COP9",
+        "COP10",
+        "COP11",
+        "COP12",
+        "COP13",
+        "COP14",
+        "COP15",
+        "COP16",
+        "COP17",
+        "COP18",
+        "COP19",
+        "COP20",
+        "COP21",
+        "COP22",
+        "COP23",
+        "COP24",
+        "COP25",
+        "COP26",
+        "COP27",
+        "COP28",
+        "COP29",
+        "COP30",
+        "COP31",
+        "COP32",
+        "COP33",
+        "COP34",
+        "COP35",
+        "COP36",
+        "COP37",
+        "COP38",
+        "COP39",
+        "COP40",
+        "COP41",
+        "COP42",
+        "COP43",
+        "COP44",
+        "COP45",
+        "COP46",
+        "COP47",
+        "COP48",
+        "COP49",
+        "COP50",
+        "COP51",
+        "COP52",
+        "COP53",
+        "COP54",
+        "COP55",
+        "COP56",
+        "COP57",
+        "COP58",
+        "COP59",
+        "COP60"
+      ],
+      "SG8": [
+        "COP1",
+        "COP2",
+        "COP3",
+        "COP4",
+        "COP5",
+        "COP6",
+        "COP7",
+        "COP8",
+        "COP9",
+        "COP10",
+        "COP11",
+        "COP12",
+        "COP13",
+        "COP14",
+        "COP15",
+        "COP16",
+        "COP17",
+        "COP18",
+        "COP19",
+        "COP20",
+        "COP21",
+        "COP22",
+        "COP23",
+        "COP24",
+        "COP25",
+        "COP26",
+        "COP27",
+        "COP28",
+        "COP29",
+        "COP30",
+        "COP31",
+        "COP32",
+        "COP33",
+        "COP34",
+        "COP35",
+        "COP36",
+        "COP37",
+        "COP38",
+        "COP39",
+        "COP40",
+        "COP41",
+        "COP42",
+        "COP43",
+        "COP44",
+        "COP45",
+        "COP46",
+        "COP47",
+        "COP48",
+        "COP49",
+        "COP50",
+        "COP51",
+        "COP52",
+        "COP53",
+        "COP54",
+        "COP55",
+        "COP56",
+        "COP57",
+        "COP58",
+        "COP59",
+        "COP60"
+      ],
+      "SG9": [
+        "COP37",
+        "COP38"
+      ]
+    },
+    "DD": {},
+    "RS": {
+      "SG7": [
+        "COP15",
+        "COP16",
+        "COP28",
+        "COP40",
+        "COP45",
+        "COP46",
+        "COP47",
+        "COP48",
+        "COP49",
+        "COP50",
+        "COP51",
+        "COP52"
+      ],
+      "SG8": [
+        "COP15",
+        "COP16",
+        "COP28",
+        "COP40",
+        "COP45",
+        "COP46",
+        "COP47",
+        "COP48",
+        "COP49",
+        "COP50",
+        "COP51",
+        "COP52"
+      ],
+      "SG6": [
+        "COP52"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "COP1",
+      "inquiry_domain": "Clinical Development Plan Operationalization",
+      "question": "Is the protocol operationally feasible based on input from clinical ops and sites?",
+      "rubric_tests": "This rubric tests whether the protocol has been operationally vetted with structured input from clinical operations and investigational sites. It evaluates the degree to which protocol procedures, visit schedules, and assessments are executable in real-world clinical settings, taking into account both site infrastructure and patient burden. It tests whether feasibility assessments\u2014at the country, site, and patient level\u2014have been completed and used to inform design decisions. It also assesses whether the study team incorporated feedback loops from clinical ops, vendors, and investigators during protocol development.\n",
+      "rationale": "Operational feasibility is a critical success factor for clinical trial execution. Protocols designed without structured input from sites and operational teams often result in high screen failure rates, dropout, protocol amendments, and delays in enrollment. Overly complex visit schedules or procedures that exceed standard of care can overburden sites and participants. By assessing protocol feasibility early, sponsors can prevent costly rework, optimize recruitment, and improve data quality. This rubric ensures that protocol development is pragmatic, site-executable, and patient-aligned\u2014factors that directly impact the success of the clinical development plan.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP2",
+      "inquiry_domain": "Clinical Development Plan Operationalization",
+      "question": "Are endpoints, assessments, and visit schedules realistically executable at intended sites?",
+      "rubric_tests": "This rubric tests whether the endpoints and clinical assessments in the protocol can be practically executed at the types of investigational sites selected for the trial. It assesses the operational realism of visit schedules, whether required assessments (e.g., imaging, biopsies, PK sampling) align with site capabilities, and whether the required technology, staffing, and logistics are within typical site operational boundaries. It also evaluates the clarity of procedures and whether adequate time and infrastructure have been considered for each visit.\n",
+      "rationale": "Endpoints and assessments that are scientifically valid but operationally unrealistic often lead to failed enrollment, poor data quality, and protocol amendments. For example, endpoints requiring specialized imaging or invasive sampling may be infeasible at many community or regional sites. Long or frequent visit schedules can deter both patients and sites. This rubric ensures that the selected endpoints and assessments are executable with available site resources, are clearly operationalized, and reflect an understanding of real-world constraints across geographies and site types.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP3",
+      "inquiry_domain": "Clinical Development Plan Operationalization",
+      "question": "Is a clinical operations strategy documented for each trial phase?",
+      "rubric_tests": "This rubric tests whether a structured, phase-appropriate clinical operations strategy exists to guide execution across study phases (e.g., startup, enrollment, treatment, closeout). It evaluates whether planning documents are aligned with protocol requirements, timelines, resource plans, and regional execution needs. It also assesses if strategies are proactive\u2014addressing risk, scalability, vendor oversight, site performance, and global operational variation.",
+      "rationale": "A documented clinical operations strategy is critical to bridging protocol intent with real-world execution. Without a cohesive operational plan, teams rely on fragmented project management, resulting in inefficiencies, misaligned vendor activities, and poor site engagement. Phase-specific operational strategies (e.g., rapid start-up for Phase 1, global scalability in Phase 3) allow for foresight in resource allocation, oversight structures, risk mitigation, and patient-centric implementation. This rubric helps ensure alignment between trial design and execution readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP4",
+      "inquiry_domain": "Clinical Development Plan Operationalization",
+      "question": "Is operational input integrated into scenario planning for timelines and enrollment?",
+      "rubric_tests": "This rubric tests whether clinical operations teams are actively contributing to timeline and enrollment scenario planning \u2014 including best-case, base-case, and worst-case projections. It evaluates whether operational constraints (e.g., startup timelines, site activation lags, vendor readiness, country-specific delays) and mitigation pathways are explicitly modeled. It also assesses the extent to which these scenarios are updated based on real-world data and used to inform governance and decision-making.",
+      "rationale": "Clinical timelines and enrollment projections that exclude operational realities often result in over-optimistic plans, budget overruns, and loss of credibility with governance bodies. Realistic modeling must include clinical operations inputs such as country-specific timelines, site initiation variability, staff capacity, regulatory hurdles, and enrollment ramp assumptions. Including operational input into scenario planning ensures feasibility, supports budget accuracy, and enables proactive course correction.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP5",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Has formal site feasibility been completed using country-specific and site-level data?",
+      "rubric_tests": "This rubric tests whether structured site feasibility has been performed using real-world, country-specific, and site-level data\u2014including infrastructure, experience, patient population access, competing trials, and performance history. It evaluates whether feasibility goes beyond generic surveys or CRO inputs and includes primary data collection, geographic variability, and quantitative analysis. The rubric also assesses how feasibility data has been used to drive strategic decisions on site selection, activation sequence, and recruitment forecasting.",
+      "rationale": "Site feasibility is a cornerstone of clinical trial success. Trials that fail to match protocol requirements with site capabilities and patient access are prone to delays, poor enrollment, protocol deviations, and site attrition. Generic or incomplete feasibility undermines accurate enrollment projections and contributes to trial inefficiency. By incorporating robust country- and site-specific feasibility data, sponsors can select the right mix of sites, streamline activation, and improve execution predictability.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP6",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are sites selected based on historical performance, relevant patient populations, and capacity?",
+      "rubric_tests": "This rubric tests whether the site selection process incorporates objective, data-driven criteria such as prior performance metrics, access to protocol-relevant patient populations, and current capacity (infrastructure, staffing, and competing workload). It evaluates the extent to which site selection is systematic and informed by real-world data\u2014rather than subjective preference or legacy use\u2014and whether sites have been assessed for readiness to execute the current protocol.",
+      "rationale": "Selecting sites without structured evaluation of historical performance, patient fit, and resource capacity is a common cause of poor recruitment, protocol deviations, and premature site closure. Trials that apply objective criteria and validate site readiness deliver better enrollment, data quality, and retention outcomes. Incorporating robust selection criteria ensures efficient site activation, minimizes risk, and increases the likelihood of meeting enrollment targets on time and within budget.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP7",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are geographic regions and countries aligned with epidemiology, regulatory feasibility, and access?",
+      "rubric_tests": "This rubric tests whether the geographic and country-level strategy for site placement is aligned with disease epidemiology, regulatory startup feasibility, and patient access considerations. It evaluates whether country selection reflects a deliberate and data-informed approach\u2014balancing scientific relevance, operational feasibility, and market/contextual access. It also examines whether the geographic footprint supports diversity, equity, and representation, and whether expansion or backup country planning has been guided by these same principles.",
+      "rationale": "Many trials fail or are delayed because country selection ignores epidemiology, startup timelines, and access barriers. Including low-prevalence countries or regulatory-challenged markets may add cost and risk without enrollment benefit. Conversely, failing to include high-prevalence, high-access countries reduces enrollment efficiency and generalizability. This rubric ensures geographic strategy supports protocol needs, patient access, and timely execution\u2014while also enhancing diversity and future market relevance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP8",
+      "inquiry_domain": "Site Strategy & Feasibility",
+      "question": "Are site contracting timelines, IRB/EC timelines, and startup metrics benchmarked?",
+      "rubric_tests": "This rubric tests whether clinical operations teams systematically track and benchmark key study startup metrics\u2014specifically site contracting cycle times, IRB/EC approval timelines, and associated startup KPIs. It assesses whether historical and real-time data are used to identify bottlenecks, inform country/site selection, improve vendor oversight, and support realistic timeline forecasting",
+      "rationale": "Site activation delays are one of the most frequent and costly challenges in clinical trial execution. These delays often stem from slow contracting, regulatory submissions, and institutional review board (IRB)/ethics committee (EC) approvals. Without benchmarking and proactive tracking, sponsors and CROs miss opportunities to improve performance, identify lagging regions, and optimize processes. Benchmarking startup metrics allows for early risk detection, targeted mitigation, and more accurate enrollment forecasting.\n",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP9",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Is a comprehensive recruitment strategy in place (referral networks, outreach, advertising)?",
+      "rubric_tests": "This rubric tests whether a structured, proactive, and multifaceted patient recruitment strategy is defined and documented for the clinical trial. It evaluates whether the strategy incorporates referral networks, direct-to-patient outreach, investigator engagement, digital/print media campaigns, and centralized vendor coordination. It also assesses whether the strategy is tailored to the specific protocol, patient population, and geographic footprint\u2014and whether performance is tracked and optimized during execution.",
+      "rationale": "Many trials underperform in enrollment due to passive or underdeveloped recruitment plans. A comprehensive recruitment strategy that includes both traditional and modern outreach mechanisms\u2014such as community referrals, digital advertising, patient advocacy, and central recruitment vendors\u2014can improve enrollment rates, reduce screen failure, and increase diversity. Tailoring recruitment to patient needs and access channels is essential for timely and representative enrollment.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP10",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Are realistic enrollment forecasts and screen failure rates documented?",
+      "rubric_tests": "This rubric tests whether enrollment projections and screen failure rates are explicitly calculated, documented, and updated based on data-driven assumptions. It evaluates whether forecasts consider regional variability, site performance, competing trials, inclusion/exclusion criteria, and historical analogs. The rubric also assesses whether screen failure is tracked and mitigated during execution and whether these data are used to inform recruitment tactics and scenario planning.",
+      "rationale": "Optimistic or assumption-based enrollment forecasts are a leading cause of missed timelines, budget overruns, and operational inefficiencies in clinical trials. Screen failure rates, in particular, are frequently underestimated\u2014resulting in low enrollment yield and high patient burden. Incorporating realistic, data-informed projections ensures better planning, resource allocation, and recruitment optimization across geographies and sites.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP11",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Are diversity, inclusion, and geographic access addressed in recruitment planning?",
+      "rubric_tests": "This rubric tests whether the recruitment strategy proactively addresses patient population diversity (e.g., race, ethnicity, sex, socioeconomic status), geographic access (urban, rural, remote), and barriers to participation. It evaluates whether inclusion goals are data-informed, regionally stratified, and operationalized into recruitment, outreach, site selection, and retention planning. It also examines if real-time monitoring and adjustments are in place to meet inclusion targets.",
+      "rationale": "Failure to account for diversity and geographic access in recruitment limits generalizability, may result in regulatory or ethical concerns, and weakens market and payer relevance. Proactively integrating inclusion and access considerations ensures equitable participation, improves external validity of trial findings, and aligns with global expectations from regulators and advocacy groups. This requires more than declarations\u2014real planning, execution, and monitoring.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP12",
+      "inquiry_domain": "Patient Recruitment & Retention",
+      "question": "Are retention plans in place (e.g., transportation, reimbursement, ePROs, patient engagement)?",
+      "rubric_tests": "This rubric tests whether a comprehensive and proactive retention plan is defined, budgeted, and operationalized to minimize patient dropout and ensure protocol adherence. It evaluates whether the plan incorporates transportation, reimbursement, flexible scheduling, home health options, ePRO and digital engagement tools, patient communications, and site-level practices to maintain participant involvement throughout the trial.",
+      "rationale": "Retention failures compromise data integrity, inflate costs, and delay timelines. Patients withdraw due to avoidable burdens\u2014such as visit frequency, travel demands, unclear expectations, or poor communication. Well-executed retention strategies, planned from the outset and adapted to the population, mitigate these risks. Retention success is a core performance metric that must be addressed with the same rigor as recruitment.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP13",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Are key startup milestones (regulatory greenlight, site initiation) tracked with accurate forecasts?",
+      "rubric_tests": "This rubric tests whether critical trial start-up milestones\u2014including regulatory approvals, ethics/IRB clearance, site contracts, and site initiation visits (SIVs)\u2014are systematically tracked, forecasted with realistic assumptions, and updated in real time. It also assesses whether the start-up timeline is integrated into broader operational planning and whether risks, delays, and bottlenecks are proactively identified and addressed.",
+      "rationale": "Delays in trial start-up are a primary source of lost time and cost in clinical development. These delays often stem from unrealistic forecasting, poor tracking, and lack of accountability for milestone slippage. Systematic, data-driven start-up tracking\u2014tied to real-world benchmarks and updated dynamically\u2014enables proactive course correction, vendor performance oversight, and synchronized launch sequencing across countries and sites.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP14",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Are startup SOPs, checklists, and trackers standardized across studies?",
+      "rubric_tests": "This rubric tests whether clinical trial start-up processes\u2014including standard operating procedures (SOPs), checklists, and tracking tools\u2014are harmonized and consistently applied across programs. It evaluates whether startup tools are version-controlled, tailored by study type and region, used by both sponsors and CROs, and embedded into operational training and governance. Standardization ensures quality, efficiency, accountability, and reproducibility in startup execution.",
+      "rationale": "Inconsistent or ad hoc start-up processes lead to duplication, miscommunication, and preventable delays. Standardized SOPs and tools allow faster onboarding, more accurate forecasting, and efficient vendor oversight. Moreover, uniformity ensures compliance, audit readiness, and scalability. Variation should be purposeful, not accidental.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP15",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Are regulatory document packages complete and validated?",
+      "rubric_tests": "This rubric tests whether site-level and country-level regulatory document packages\u2014such as IRB/EC submissions, regulatory authority applications, and essential site documents\u2014are complete, current, and verified against submission requirements prior to submission or greenlight. It assesses the presence of document quality control (QC), completeness checklists, document trackers, and versioning practices for accurate startup execution.",
+      "rationale": "Regulatory document errors or omissions are a major source of startup delays, inspection findings, and compliance risk. Missing, outdated, or incorrectly formatted documents can lead to submission rejections, ethics delays, and unintentional protocol deviations. A validated, complete, and version-controlled regulatory package ensures smooth review, timely approvals, and audit readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP16",
+      "inquiry_domain": "Trial Start-Up Execution",
+      "question": "Is a Trial Master File (TMF) being established at or before site activation?",
+      "rubric_tests": "This rubric tests whether the Trial Master File (TMF)\u2014whether paper or electronic (eTMF)\u2014is proactively established, populated, and quality-controlled prior to site activation. It evaluates whether TMF creation is embedded in start-up workflows, whether document flow is timely and auditable, and whether sponsor oversight is documented from the outset.",
+      "rationale": "The TMF is the central regulatory record of trial conduct and sponsor oversight. If it's not set up early and populated in real time, sponsors risk major inspection findings, delayed responses to queries, and poor compliance with ICH-GCP and local regulations. A TMF should exist before site activation, with version-controlled, indexed, and QC-verified documents already in place.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP17",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are CROs, labs, and technology vendors selected via competitive process or pre-qualified list?",
+      "rubric_tests": "This rubric tests whether the selection of CROs, laboratories, and technology vendors follows a structured, transparent, and risk-based process\u2014either through competitive bidding or from a sponsor-approved pre-qualified vendor list. It evaluates whether selection is based on defined criteria including technical capability, past performance, quality audits, geographic fit, and cost-effectiveness.\n",
+      "rationale": "Vendor performance is directly tied to clinical trial success. Selecting vendors based solely on relationships or urgency without formal qualification increases the risk of delays, compliance issues, or scope creep. A structured selection process ensures alignment with study needs, improves negotiation leverage, and mitigates operational and regulatory risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP18",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are roles and responsibilities clearly delineated between sponsor and vendors?",
+      "rubric_tests": "This rubric tests whether functional, operational, and decision-making responsibilities between the sponsor and vendors (e.g., CROs, labs, technology providers) are clearly defined, documented, and agreed upon. It evaluates the use of tools such as RACI matrices, oversight plans, governance frameworks, and contractual definitions to ensure there are no ambiguity gaps that lead to missed deliverables, quality failures, or regulatory non-compliance.",
+      "rationale": "Unclear or undocumented role delineation between sponsor and vendors is a root cause of operational delays, duplicated efforts, quality issues, and inspection findings. Regulatory authorities expect sponsors to retain ultimate responsibility for oversight. A proactive, clear allocation of responsibilities enables accountability, performance tracking, and agile issue resolution.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP19",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are KPIs in place for oversight (e.g., startup speed, monitoring frequency, data entry lags)?",
+      "rubric_tests": "This rubric tests whether Key Performance Indicators (KPIs) are defined, monitored, and actioned to assess vendor performance across key operational dimensions\u2014such as site startup timelines, monitoring cadence, issue resolution, and data quality. It evaluates whether KPIs are tied to governance processes and whether corrective actions are triggered when thresholds are not met.",
+      "rationale": "Without KPIs, sponsor oversight becomes reactive rather than proactive. Regulators expect sponsors to actively monitor CROs and vendors for compliance and performance. Well-designed KPIs provide early warning signals, support audit readiness, and promote accountability. Poor oversight often stems not from the absence of effort, but from lack of meaningful metrics.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP20",
+      "inquiry_domain": "CRO/Vendor Oversight",
+      "question": "Are vendor contracts linked to clear deliverables and penalties/incentives?",
+      "rubric_tests": "This rubric tests whether contracts with CROs, labs, and technology vendors define precise deliverables, timelines, performance criteria, and include commercial levers\u2014such as milestone payments, performance-based penalties, or incentives\u2014to drive quality and accountability. It assesses whether contractual terms are aligned with operational plans, risk profiles, and governance frameworks.",
+      "rationale": "Many delays and quality issues stem not from poor intent but from ambiguous contracts that fail to tie payment to performance. Regulators expect sponsors to retain oversight even when functions are outsourced. Contracts must reinforce operational expectations and create consequences for under- or over-performance. Proper alignment improves leverage, transparency, and vendor accountability.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP21",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are clinical trial budgets built bottom-up with line-item granularity?",
+      "rubric_tests": "This rubric tests whether clinical trial budgets are developed using a bottom-up approach that includes detailed line-item estimates for core components such as site costs, CRO/vendor services, internal resources, pass-through expenses, and contingency. It assesses the transparency, traceability, and operational realism of budget construction.",
+      "rationale": "Budgets built top-down or based on legacy templates often miss hidden costs or over/underestimate critical activities, leading to mid-study amendments, scope disputes, or cost overruns. A bottom-up, granular approach increases accuracy, strengthens vendor negotiations, supports financial forecasting, and aligns spending with operational plans and milestones.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP22",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are assumptions for site payments, patient costs, and vendor fees benchmarked?",
+      "rubric_tests": "This rubric tests whether the financial assumptions used to generate cost estimates\u2014particularly those for investigator grants, patient-related costs, and vendor fees\u2014are benchmarked against internal historical data, third-party databases, or market intelligence. It also examines whether these benchmarks are documented, updated, and used to negotiate with CROs and vendors.",
+      "rationale": "Benchmarking prevents overpayment, underestimation, and scope creep. Site payments that are too low may cause poor enrollment or delay contracts. Vendor fees not aligned with market norms reduce negotiation leverage. Regulators expect cost assumptions to be reasonable and explainable. This rubric ensures costs reflect operational reality and fiscal discipline.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP23",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Are internal/external FTE resources appropriately allocated (monitoring, data, safety)?",
+      "rubric_tests": "This rubric tests whether the allocation of human resources\u2014both internal team members and outsourced vendor personnel\u2014is appropriately estimated, assigned, and scaled for key operational functions such as monitoring, data management, and clinical safety. It assesses whether staff deployment is fit-for-purpose across study phases, geographies, and complexity.",
+      "rationale": "Even with well-funded budgets, trial execution fails if the right people aren\u2019t available at the right time. Underresourced monitoring teams lead to data lag and protocol deviations. Overstaffing drives waste. Poor planning across sponsors, CROs, and FSPs results in unbalanced workloads, delays, and missed milestones. Human capital is often the most constrained and impactful resource in clinical trials.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP24",
+      "inquiry_domain": "Budgeting & Resourcing",
+      "question": "Is contingency built in for site expansion, enrollment delays, or vendor shifts?",
+      "rubric_tests": "This rubric tests whether financial and resourcing contingencies are proactively incorporated into clinical trial budgets and operational plans to address foreseeable disruptions\u2014such as the need to activate additional sites, slower-than-expected enrollment, vendor underperformance, or regulatory delays. It evaluates how flexibly a trial can respond without requiring major re-budgeting or causing timeline slippage.",
+      "rationale": "Unexpected shifts in trial execution are inevitable. Programs that pre-build contingency buffers can absorb shocks more effectively, maintain enrollment momentum, and reduce costly delays. Regulatory bodies and investors alike expect prudent risk management\u2014including the anticipation of overruns, fallback vendors, and cost variability. Absence of contingency planning is a red flag for poor operational governance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP25",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Is a Monitoring Plan documented and consistent with trial phase, geography, and risk?",
+      "rubric_tests": "This rubric tests whether a formal Monitoring Plan exists, is tailored to the trial\u2019s risk profile, and is operationally adapted to its phase (e.g., FIH vs. Phase 3), geographic diversity (e.g., single-country vs. global), and complexity (e.g., decentralized components). It evaluates whether monitoring intensity, frequency, modality (onsite, remote, centralized), and responsibilities are explicitly defined and justified.",
+      "rationale": "Inadequate or one-size-fits-all monitoring leads to protocol deviations, data quality issues, patient safety risks, and regulatory noncompliance. Over-monitoring wastes resources. Regulators increasingly expect risk-based monitoring (RBM) aligned with ICH E6(R2/R3). A good Monitoring Plan is proactive, data-informed, and dynamically updated to reflect evolving risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP26",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Are CRAs trained and deployed with appropriate ratios (sites per CRA)?",
+      "rubric_tests": "This rubric evaluates whether Clinical Research Associates (CRAs) are adequately trained on the specific protocol and monitoring plan, and whether their site assignments are appropriately balanced to ensure effective oversight. It assesses whether CRA-to-site ratios consider trial complexity, geography, risk profile, visit types, and the CRA\u2019s experience level.",
+      "rationale": "CRAs are the frontline for data quality and patient safety oversight. Overburdened or undertrained CRAs miss deviations, delay data review, and reduce sponsor visibility. Site engagement also suffers with infrequent or inconsistent CRA contact. Regulators expect documentation of CRA training and justification for site load. Poor CRA deployment contributes to monitoring gaps, audit findings, and operational delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP27",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Is monitoring being done per plan (on-site, remote, risk-based)?",
+      "rubric_tests": "This rubric evaluates whether clinical trial monitoring activities are executed as defined in the Monitoring Plan, including visit types (on-site, remote), frequency, and risk-based targeting of sites, data, and processes. It examines real-world adherence to the plan and whether deviations are identified, justified, and acted upon.",
+      "rationale": "Monitoring Plans are only effective if implemented as written. Deviations between plan and practice can lead to undetected protocol violations, data quality issues, and inspection findings. Regulators now expect sponsors to demonstrate monitoring compliance and document any adaptations driven by risk or operational realities. Oversight of monitoring execution is a critical sponsor responsibility under ICH E6(R2/R3).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP28",
+      "inquiry_domain": "Clinical Trial Monitoring (CTM)",
+      "question": "Are major protocol deviations, GCP issues, or site performance problems tracked and resolved?",
+      "rubric_tests": "This rubric tests whether there is a systematic and auditable approach to identifying, documenting, categorizing, escalating, and resolving major protocol deviations, GCP violations, and site performance issues (e.g., low recruitment, high query backlog, or delayed data entry). It also evaluates whether the issues are linked to CAPAs, governance oversight, and future trial planning.",
+      "rationale": "Major protocol deviations and GCP violations can impact data integrity, patient safety, and regulatory acceptance. Poorly performing sites jeopardize timelines and increase trial cost and risk. Sponsors and CROs must demonstrate active detection, investigation, resolution, and tracking of such issues. Regulatory agencies often focus on this area during inspections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP29",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality Oversight",
+      "question": "Is a Risk Assessment Categorization Tool (RACT) or similar framework in place?",
+      "rubric_tests": "This rubric tests whether a formal, documented risk assessment framework\u2014such as a Risk Assessment Categorization Tool (RACT)\u2014has been implemented and maintained. It evaluates whether trial-specific risks are proactively identified, categorized, prioritized, and linked to mitigation and monitoring strategies, as per ICH E6(R2)/(R3). The rubric also examines cross-functional ownership, update frequency, traceability to functional actions, and alignment with protocol changes.",
+      "rationale": "Proactive risk assessment is a foundational principle in modern trial quality management. A structured RACT process improves resource allocation, enhances inspection readiness, and ensures data integrity and patient safety by focusing oversight on what matters most. Sponsors that neglect structured risk tools may miss emerging issues, have weak rationales for monitoring plans, and face regulatory scrutiny. ICH E6(R3) emphasizes dynamic, iterative risk management across a trial's lifecycle.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP30",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality Oversight",
+      "question": "Are triggers for increased monitoring, data queries, or site retraining documented?",
+      "rubric_tests": "This rubric tests whether predefined triggers or thresholds are in place to activate corrective actions such as intensified monitoring, site retraining, or targeted data review. It assesses whether these triggers are documented, threshold-based, and aligned with key risk indicators (KRIs), quality tolerance limits (QTLs), and monitoring plans. The rubric also evaluates whether such triggers are tracked across systems (e.g., CTMS, EDC, TMF) and if response actions are timely and auditable.",
+      "rationale": "A central principle of Risk-Based Monitoring (RBM) and quality oversight is that issues should be anticipated, not just discovered. Clear, objective triggers for intervention reduce variability in decision-making and ensure that monitoring intensity and retraining are deployed where most needed. Regulators expect that such escalation logic is documented, rational, and consistently applied, especially in decentralized or outsourced models.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP31",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality Oversight",
+      "question": "Are key risk indicators (KRIs) tracked in real time?",
+      "rubric_tests": "This rubric tests whether KRIs (Key Risk Indicators) are identified, defined, and monitored in real time or near real time to detect operational and quality risks before they escalate. It evaluates the use of thresholds, alerts, dashboards, and data systems (e.g., CTMS, EDC, eTMF) to track KRIs, as well as how these indicators are used in decision-making, escalations, and governance reviews.",
+      "rationale": "Real-time KRI monitoring enables sponsors to move from reactive to proactive quality management. Regulatory agencies, including the FDA and EMA, emphasize KRIs as a core component of Risk-Based Monitoring (RBM) and Quality Management Systems (QMS). Without timely data, emerging issues like data entry delays, protocol deviations, consent violations, or AE under-reporting may go unnoticed until they cause regulatory findings, data loss, or patient safety risks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP32",
+      "inquiry_domain": "Risk-Based Monitoring (RBM) & Quality Oversight",
+      "question": "Is centralized monitoring used to detect outliers or protocol deviations?",
+      "rubric_tests": "This rubric tests whether centralized monitoring is actively used to detect outliers, protocol deviations, or data quality issues across sites, and whether the insights from centralized review are acted upon in real time. It examines the presence of a defined statistical or algorithmic framework, roles and responsibilities, cross-functional interpretation (e.g., data management, clinical operations), and integration with site risk scoring or monitoring planning.",
+      "rationale": "ICH E6(R2) and (R3) explicitly advocate for centralized data monitoring as a core tenet of risk-based oversight. This includes statistical identification of anomalies, trends, or signals across geographies and over time. Properly implemented, centralized monitoring enhances patient safety, detects data fabrication, supports regulatory inspections, and reduces unnecessary on-site monitoring.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP33",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are site communications regular and tracked (e.g., newsletters, meetings, updates)?",
+      "rubric_tests": "This rubric tests whether structured, ongoing communication channels are in place between sponsor/CRO teams and investigator sites, and whether such communications are documented, tracked, and auditable. It assesses the frequency, format, content relevance, and responsiveness of communications such as study newsletters, site teleconferences, protocol updates, FAQs, and urgent notifications. It also considers how feedback loops from sites are captured and addressed.",
+      "rationale": "Effective site communication improves compliance, retention, and protocol adherence. Poor communication is a common root cause of protocol deviations, missed assessments, and site disengagement. Regulators expect that communication is not only frequent but also structured, traceable, and equitable across sites. In global or multi-vendor trials, inconsistencies in site messaging can lead to operational chaos and regulatory risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP34",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are site closeout visits and documentation up-to-date?",
+      "rubric_tests": "This rubric tests whether site closeout activities are being conducted in alignment with the protocol, SOPs, and applicable regulations, and whether all required closeout documentation is current, complete, and properly archived. It evaluates the timeliness of closeout visits, tracking of essential documents, resolution of open action items, and integration of site feedback and lessons learned into final reporting and debriefing processes.",
+      "rationale": "Regulators and auditors consistently flag incomplete or poorly documented closeout activities as a risk to data integrity and GCP compliance. Timely and standardized closeouts ensure that IP reconciliation, data lock, and TMF completion are not delayed. A strong closeout process also supports site re-engagement in future studies, as well as inspection readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP35",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Are protocol deviations tracked and trends reviewed for root causes?",
+      "rubric_tests": "This rubric tests whether protocol deviations are being systematically captured, categorized, and analyzed, and whether trends across time, sites, or study phases are reviewed for root causes. It assesses whether deviation logs are complete, timely, and reconciled with the eCRF, monitoring visit reports (MVRs), and Trial Master File (TMF), and whether insights from trend analysis inform site retraining, protocol clarifications, or study amendments.",
+      "rationale": "Protocol deviations can jeopardize data integrity, patient safety, and regulatory compliance. Tracking deviations without analyzing their underlying causes or site patterns leads to repeated errors and missed quality signals. Agencies such as the FDA and EMA expect sponsors to demonstrate proactive trend review and corrective/preventive actions (CAPA).",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP36",
+      "inquiry_domain": "Trial Conduct & Site Management",
+      "question": "Is there a clear issue escalation and resolution path?",
+      "rubric_tests": "This rubric tests whether the trial has a well-defined and consistently applied issue escalation and resolution process across study teams, sites, vendors, and functions. It assesses the clarity of roles, tiers of escalation, timelines, documentation mechanisms, and whether resolution outcomes are tracked, communicated, and used to inform risk mitigation or process improvement.",
+      "rationale": "Effective issue escalation is a hallmark of high-performing clinical operations. Without it, minor problems can become major protocol deviations, data integrity risks, or regulatory non-compliance. Regulatory authorities (e.g., FDA, EMA) and ICH E6(R2)/(R3) emphasize the need for structured, auditable processes for escalating operational or safety issues. Cross-functional awareness and timely intervention reduce delays, improve compliance, and demonstrate robust quality oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP37",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Are safety events communicated rapidly between sites, CROs, and sponsors?",
+      "rubric_tests": "This rubric tests the timeliness, completeness, and bidirectional flow of communication for serious adverse events (SAEs), suspected unexpected serious adverse reactions (SUSARs), and significant safety findings between investigators, CROs, medical monitors, and sponsors. It evaluates whether communication protocols are defined, whether reporting timelines are met, and whether urgent safety issues are escalated promptly and tracked through resolution. It also checks for alignment with global regulatory reporting requirements and GCP expectations.",
+      "rationale": "Delayed or incomplete communication of safety events can result in regulatory violations, patient harm, trial suspension, or inspection findings. Global agencies (FDA, EMA, MHRA, PMDA) expect that all safety information is exchanged promptly and documented across all stakeholders. Operational clarity, especially in multi-vendor trials, is essential for protecting trial participants and ensuring regulatory compliance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP38",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Is there a documented process for SAE reconciliation and safety query resolution?",
+      "rubric_tests": "This rubric tests whether a defined, repeatable process exists for reconciling serious adverse events (SAEs) across all data sources \u2014 including CRFs/eCRFs, safety databases (e.g., Argus, ARISg), and monitoring visit reports \u2014 and whether safety-related queries are systematically resolved, tracked, and closed. It assesses the use of standard operating procedures (SOPs), documentation tools, timelines for reconciliation, and stakeholder roles, especially between clinical operations, data management, medical monitors, and safety/pharmacovigilance teams.",
+      "rationale": "SAE reconciliation ensures data consistency, safety signal accuracy, and regulatory compliance. Discrepancies between clinical and safety databases are common and can trigger inspection findings. A documented process helps avoid duplicate reporting, missing follow-ups, and unresolved safety queries, especially in multicenter, multi-vendor trials.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP39",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Are investigators trained on protocol amendments and safety updates?",
+      "rubric_tests": "This rubric tests whether investigators and relevant site personnel are systematically trained on protocol amendments, Investigator Brochure (IB) updates, safety information (e.g., DSURs, SUSARs), and associated changes in responsibilities. It evaluates the existence, timing, documentation, and scope of such training, as well as the integration of safety and protocol changes into site operations, including re-consent, procedures, and documentation updates.",
+      "rationale": "Regulatory agencies expect that protocol changes and new safety information are rapidly and clearly communicated to investigators, who must ensure that subjects are protected and study conduct remains compliant. Training ensures that protocol deviations, informed consent gaps, and safety oversights are minimized. Lack of such training has been cited in multiple FDA 483s and EMA GCP inspections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP40",
+      "inquiry_domain": "Patient Safety and Compliance",
+      "question": "Are consent processes compliant with evolving regulations (e.g., remote/eConsent)?",
+      "rubric_tests": "This rubric tests whether the informed consent process, including initial consent, re-consent, and safety-related updates, is compliant with local and global regulations and has been adapted for emerging technologies like remote/eConsent, hybrid trials, and DCT models. It evaluates process clarity, documentation, version control, stakeholder training, and audit readiness in the context of a rapidly changing regulatory environment.",
+      "rationale": "Informed consent is a cornerstone of GCP. As technologies evolve, regulators increasingly expect sponsors to adopt or justify eConsent, remote consent, and alternative approaches \u2014 particularly in decentralized, virtual, or pandemic-era trials. Failure to align with regulatory expectations, local law, or ethics approvals can result in invalid consent, subject protection breaches, or study suspension.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP41",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Are data entry and query resolution timelines monitored (e.g., <5-day entry)?",
+      "rubric_tests": "This rubric tests whether clinical data are being entered, queried, and resolved in a timely, consistent, and traceable manner according to pre-defined standards (e.g., <5-day entry after visit, <10-day query resolution). It assesses the systems, metrics, and governance mechanisms used to drive real-time or near-real-time data availability, and to flag and correct lags that compromise database lock, safety oversight, or trial monitoring.",
+      "rationale": "Timely data entry and query resolution are essential to maintain patient safety, enable near-real-time monitoring, support risk-based oversight, and meet regulatory and submission deadlines. Delays can result in protocol deviations going unnoticed, data inconsistencies accumulating, and sponsor oversight being compromised.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP42",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Are site-level metrics reviewed in real time (e.g., missing data, slow queries)?",
+      "rubric_tests": "This rubric tests whether site-level operational metrics\u2014including data completeness, query turnaround times, missing forms, and protocol compliance\u2014are monitored in real time or near real time, enabling proactive site support, vendor oversight, and risk mitigation. It focuses on both technical systems (e.g., dashboards, alerts) and governance processes (e.g., issue escalation, CRO accountability, site engagement).",
+      "rationale": "Real-time visibility into site-level performance enables early detection of quality issues, patient safety concerns, and operational delays. This is essential for inspection readiness, timely database lock, and effective resource allocation. Without this visibility, sponsors and CROs may only discover problems retrospectively, which compromises data integrity, safety oversight, and submission timelines.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP43",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Are lock timelines tracked and tied to operational readiness (clean file, SAE closure)?",
+      "rubric_tests": "This rubric tests whether clinical database lock timelines are actively tracked and driven by specific operational readiness criteria, including clean CRF data, query closure, SAE reconciliation, coding completion, and protocol deviation resolution. It evaluates whether interim locks (e.g., interim analysis, DMC reviews) and final locks are managed systematically, and whether the clinical operations team has visibility and input into lock readiness.",
+      "rationale": "Delays in database lock due to operational lag\u2014unresolved queries, open SAEs, unclean patient files\u2014can derail timelines for interim analyses, CSR generation, regulatory submissions, and investor milestones. Lock is not just a data management responsibility: clinical operations must coordinate readiness across safety, medical review, sites, and vendors.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP44",
+      "inquiry_domain": "Data Entry, Query Resolution, and Timelines",
+      "question": "Is there a Data Entry Plan linked to monitoring and site performance?",
+      "rubric_tests": "This rubric tests whether a Data Entry Plan exists that outlines expectations, timelines, roles, and escalation pathways for data entry, and whether this plan is functionally integrated with clinical monitoring, CRA oversight, and site performance management. It assesses the plan\u2019s alignment with study phase, risk, geography, and database lock milestones, and its impact on query resolution, safety event capture, and trial efficiency.",
+      "rationale": "A formal Data Entry Plan enables predictable, high-quality data flow, timely safety surveillance, and early visibility into protocol deviations or enrollment trends. It ensures alignment between clinical monitoring activities and data quality performance, which is essential for risk-based monitoring, centralized oversight, and submission readiness. In its absence, entry delays, query backlogs, and site noncompliance are common.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP45",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Is the TMF system (e.g., Veeva Vault, eTMF) validated and audit-ready?",
+      "rubric_tests": "This rubric tests whether the sponsor or delegated CRO maintains a validated, compliant, and inspection-ready Trial Master File (TMF) system. It evaluates whether the TMF is fit-for-purpose, aligned to a TMF Reference Model, and populated contemporaneously with all essential documents. It also examines whether the system is audit-ready at all times, supported by SOPs, user training, access control, versioning, and audit trails.",
+      "rationale": "The TMF is the primary record of trial conduct and oversight. Regulatory agencies (e.g., FDA, EMA, MHRA) expect it to be accurate, contemporaneous, and inspection-ready throughout the trial\u2014not just at the end. A non-validated TMF system, document gaps, or poor version control are common causes of inspection findings. Clinical Operations must own TMF quality, even if vendors manage system operation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP46",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Are essential documents complete and filed in a timely manner?",
+      "rubric_tests": "This rubric tests whether all essential documents \u2014 as defined by ICH E6(R2)/(R3) and the TMF Reference Model \u2014 are being collected, quality checked, and filed within a predefined timeframe, typically within 5\u201310 business days of generation or receipt. It evaluates the sponsor\u2019s or delegated party\u2019s ability to maintain TMF contemporaneity, accuracy, and completeness across all TMF zones, including trial, country, site, and vendor documentation.",
+      "rationale": "Regulators expect that essential documents be filed contemporaneously \u2014 not backfilled at the end of the trial. Incomplete or late documents are a frequent cause of major inspection findings, including 483s and warning letters. TMF health is a leading indicator of trial governance, sponsor oversight, and inspection readiness. Clinical operations teams must proactively track, QC, and escalate deficiencies.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP47",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Is TMF completeness >85% at interim reviews and >95% before closeout?",
+      "rubric_tests": "This rubric tests whether TMF completeness thresholds are defined, monitored, and achieved at critical trial milestones\u2014typically >85% at interim timepoints (e.g., database lock, interim analysis) and >95% prior to closeout or inspection. It evaluates how completeness is measured, which tools and dashboards are used, and whether gap closure plans are in place and acted upon.",
+      "rationale": "Regulatory inspections increasingly expect demonstrable TMF health throughout a trial\u2014not only at the end. Agencies like the MHRA, FDA, and EMA require contemporaneous documentation and expect completeness tracking to be embedded in trial governance. Without quantified completeness metrics, sponsors may enter inspections or closeout milestones with critical gaps, leading to major findings or submission delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP48",
+      "inquiry_domain": "Trial Master File (TMF) & Documentation",
+      "question": "Are audit trail, versioning, and access logs in place?",
+      "rubric_tests": "This rubric tests whether the TMF system maintains comprehensive, immutable audit trails, document version control, and user access logs \u2014 as required by global regulations such as 21 CFR Part 11, EU Annex 11, and ICH E6(R2)/(R3). It assesses if the system captures who accessed, modified, reviewed, or approved each document, and whether these logs are reviewed, exportable, and used for oversight.",
+      "rationale": "Audit trails and versioning are fundamental to regulatory compliance, data integrity, and inspection readiness. Missing or incomplete audit logs are among the top FDA and MHRA inspection findings in electronic TMFs. Sponsors must be able to demonstrate not only that documents are complete, but how, when, and by whom they were created, modified, and filed.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP49",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Are clinical operations aligned with ICH E6(R2), local regulations, and sponsor SOPs?",
+      "rubric_tests": "This rubric tests whether clinical operations teams and associated partners are operating in compliance with Good Clinical Practice (GCP) per ICH E6(R2) (and evolving R3), applicable regional regulatory requirements (e.g., FDA, EMA, TGA), and the sponsor\u2019s internal policies and SOPs. It evaluates training, documentation, operational behaviors, and system use to ensure GCP alignment is active, auditable, and consistently applied.",
+      "rationale": "Regulatory agencies hold sponsors accountable for ensuring that all delegated parties\u2014including CROs and sites\u2014adhere to GCP and applicable law. Deviations from ICH E6(R2), noncompliance with SOPs, or failure to tailor operations to local regulatory expectations are primary drivers of inspection findings, 483s, and site disqualifications. GCP alignment also supports subject safety, data integrity, and ethical conduct.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP50",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Are mock audits, GCP training, and inspection readiness reviews conducted?",
+      "rubric_tests": "This rubric tests whether the sponsor or delegated partners conduct routine mock audits, ongoing GCP training, and inspection readiness reviews across the clinical trial lifecycle. It evaluates the presence of standardized frameworks, cross-functional readiness activities, training records, and internal QA/oversight cycles to ensure proactive, inspection-ready trial conduct.",
+      "rationale": "Sponsors are increasingly expected to demonstrate continuous GCP compliance, not just at closeout. Regulatory agencies now conduct surprise or short-notice inspections, emphasizing the need for mock inspections, internal audits, and proactive readiness assessments throughout the study. A culture of ongoing GCP awareness and preparedness reduces findings, risk exposure, and delays to submission or approval.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP51",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Is documentation available for training, deviations, monitoring, and data integrity?",
+      "rubric_tests": "This rubric tests whether documentation related to GCP-mandated activities \u2014 specifically training records, protocol/SOP deviations, monitoring visit reports (MVRs), and data integrity practices \u2014 are complete, contemporaneous, version-controlled, and inspection-ready. It emphasizes traceability of who did what, when, and why across the clinical operations lifecycle.",
+      "rationale": "Regulatory inspections routinely review the audit trail of operational decisions, requiring timely access to training completion, deviation handling, monitoring follow-up, and data management documentation. Gaps in any of these areas \u2014 especially lack of contemporaneous documentation \u2014 are common FDA 483 and MHRA inspection findings. Sponsors are expected to ensure that records are both available and verifiable.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP52",
+      "inquiry_domain": "GCP & Inspection Readiness",
+      "question": "Are any major audit findings (internal, CRO, regulators) addressed and closed?",
+      "rubric_tests": "This rubric tests whether all major audit findings \u2014 from internal QA audits, CRO/vendor audits, or regulatory inspections \u2014 are formally tracked, assigned, remediated, and closed with appropriate documentation. It evaluates the robustness of the CAPA process, the timeliness of resolution, and evidence of governance oversight on audit outcomes.",
+      "rationale": "Unresolved or poorly managed audit findings are a major risk to trial integrity and organizational credibility. Regulatory agencies expect complete CAPA documentation for all significant issues and can reopen or escalate unresolved findings, delaying approvals. A mature quality culture requires proactive follow-through \u2014 not just identification of issues.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "COP53",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are EDC, CTMS, eTMF, eConsent, and IRT systems in place and validated?",
+      "rubric_tests": "This rubric tests whether core clinical trial systems \u2014 including Electronic Data Capture (EDC), Clinical Trial Management System (CTMS), electronic Trial Master File (eTMF), electronic Informed Consent (eConsent), and Interactive Response Technology (IRT) \u2014 are: Implemented and validated for 21 CFR Part 11 and GCP compliance; Fit-for-purpose for the trial design and phase; Properly integrated and governed; Supported by training, documentation, and audit trails",
+      "rationale": "Modern trials rely on interoperable digital platforms to manage data, documentation, consent, and supply. Regulatory agencies require that these systems be validated, audit-ready, and secure. Failure to ensure system readiness or traceability can lead to inspection findings, data integrity risks, and trial delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP54",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Is system interoperability established (e.g., CTMS \u2194 EDC)?",
+      "rubric_tests": "This rubric tests whether key clinical trial platforms \u2014 particularly CTMS (Clinical Trial Management System) and EDC (Electronic Data Capture), and optionally IRT, eTMF, and eConsent \u2014 are interfaced or integrated to ensure data consistency, reduce manual entry, and improve real-time operational oversight. It evaluates whether interoperability is planned, implemented, tested, and maintained, and whether data mapping, reconciliation, and exception handling procedures are in place.",
+      "rationale": "Disconnected systems lead to data silos, manual reconciliation, and increased risk of delays or errors (e.g., dosing outside protocol, missed site milestones, unsynced patient status). Regulators expect sponsors to maintain oversight of operational data flows, which increasingly depend on cross-platform integration. Without system interoperability, sponsors cannot achieve true risk-based oversight or quality-by-design execution.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP55",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are role-based access and audit trails maintained?",
+      "rubric_tests": "This rubric tests whether role-based access controls (RBAC) are in place across all critical trial systems (e.g., EDC, CTMS, IRT, eTMF, eConsent), and whether audit trails are active, retrievable, and compliant with 21 CFR Part 11 and GCP requirements. It assesses user provisioning, deactivation, access reviews, and the ability to reconstruct system activity during audits or inspections.",
+      "rationale": "Regulators require clinical trial systems to ensure that only authorized users perform permitted actions, and that a full history of actions (who, what, when) is traceable. Failing to maintain audit trails or manage access can lead to data integrity violations, unauthorized changes, or security breaches \u2014 all of which are high-risk findings during GxP inspections.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP56",
+      "inquiry_domain": "Systems & Tools",
+      "question": "Are backup and business continuity processes documented?",
+      "rubric_tests": "This rubric tests whether clinical trial systems (e.g., EDC, CTMS, eTMF, IRT, eConsent) are supported by documented backup procedures and business continuity (BC) plans. It evaluates whether sponsors or vendors have prepared for system outages, data loss, and critical path interruptions through validated, tested, and role-specific plans for data recovery, downtime protocols, and rapid resumption of trial operations.",
+      "rationale": "Clinical trials are data- and system-intensive. Failure to plan for system failures, cybersecurity events, or disasters can result in data loss, noncompliance, and trial disruptions. Regulators expect documented BC/DR (business continuity / disaster recovery) plans, tested at intervals, with clear roles and fallback mechanisms. This is especially important for global trials, decentralized trials, and trials using eConsent or IRT for IP management.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP57",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Is there regular interaction between Clinical Ops, Medical, Regulatory, Safety, and Biometrics?",
+      "rubric_tests": "This rubric tests whether cross-functional collaboration is structured, consistent, and meaningful across key domains \u2014 particularly Clinical Operations, Medical Affairs, Regulatory, Pharmacovigilance (Safety), and Biometrics (Stats, Data Management). It evaluates the frequency, content, and documentation of cross-functional governance meetings, clarity of roles, decision-making processes, and whether key milestones and risks are jointly reviewed and managed.",
+      "rationale": "Effective trial execution requires synchronized cross-functional leadership. Isolated functional silos can lead to misaligned protocol changes, duplicated efforts, missed regulatory timelines, and slow response to safety or operational signals. Health authorities expect sponsors to demonstrate governance, oversight, and communication \u2014 particularly for complex or multinational trials. Structured collaboration improves decision speed, risk mitigation, and data integrity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP58",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Are cross-functional governance structures in place (e.g., trial team meetings, escalation paths)?",
+      "rubric_tests": "This rubric tests whether governance structures\u2014such as clinical trial teams, joint development committees, and decision-making frameworks\u2014are in place to enable consistent and accountable oversight across functions (e.g., Clinical Ops, Medical, Safety, Regulatory, Biometrics). It evaluates the design, formality, escalation mechanisms, and documentation of these structures, as well as how they function throughout the trial lifecycle.",
+      "rationale": "Clinical trial governance ensures that decisions are made transparently, consistently, and with accountability across functions. Without clear structures, sponsors risk miscommunication, delayed decisions, and noncompliance with regulatory expectations (e.g., oversight, documentation, deviation handling). Governance frameworks also define who decides, who is consulted, and how escalation is handled\u2014critical for trial agility and quality.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP59",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Are timelines tracked and reported in integrated dashboards or governance packs?",
+      "rubric_tests": "This rubric tests whether operational and clinical trial timelines (e.g., FPI, LPLV, DBL, CSR, submission) are actively tracked, owned, and reported across functions using centralized dashboards, governance reports, or milestone trackers. It evaluates whether such tools are accessible, current, and integrated into governance decision-making processes, and whether updates are reviewed during routine cross-functional meetings.",
+      "rationale": "Timelines are the spine of trial execution. Yet they are frequently misaligned across Clinical Ops, Biometrics, Regulatory, and Medical due to poor integration or lack of shared visibility. Integrated tracking via dashboards or milestone reports ensures everyone is operating on the same clock, and delays can be detected and escalated early. Regulators and executive sponsors also expect documented evidence of timely oversight.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "COP60",
+      "inquiry_domain": "Cross-Functional Collaboration & Governance",
+      "question": "Are internal and vendor teams aligned on success criteria and critical risks?",
+      "rubric_tests": "This rubric tests whether sponsor teams and external partners (e.g., CROs, labs, technology vendors) are aligned on trial success criteria (e.g., enrollment goals, DBL timelines, data quality) and critical risks (e.g., recruitment barriers, startup delays, protocol deviations). It evaluates the presence of shared goals, risk registers, joint meetings, and collaborative mitigation plans, with clear ownership and communication pathways across organizational boundaries.",
+      "rationale": "Sponsor-vendor misalignment is a root cause of delays, quality issues, and cost overruns in clinical trials. Regulatory bodies expect sponsors to retain oversight and accountability, and this includes ensuring that vendors understand and act upon shared performance expectations and risk thresholds. Effective collaboration requires joint planning, clear escalation mechanisms, and real-time visibility into evolving risks and mitigation actions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "CMC",
+    "biologics_code": "BBCMC",
+    "name": "Chemistry, Manufacturing, and Controls"
+  },
+  {
+    "code": "PT",
+    "biologics_code": "BBPT",
+    "name": "Pharmacology & Toxicology"
+  },
+  {
+    "code": "TM",
+    "biologics_code": "BBTM",
+    "name": "Translational Medicine"
+  },
+  {
+    "code": "CP",
+    "biologics_code": "BBCP",
+    "name": "Clinical Pharmacology"
+  },
+  {
+    "code": "CDM",
+    "biologics_code": "BBCDM",
+    "name": "Clinical Development / Medical"
+  },
+  {
+    "code": "SAF",
+    "biologics_code": "BSAF",
+    "name": "Clinical Safety"
+  },
+  {
+    "code": "COP",
+    "biologics_code": "BCOP",
+    "name": "Clinical Operations"
+  },
+  {
+    "code": "STAT",
+    "biologics_code": "BSTAT",
+    "name": "Biostatistics"
+  },
+  {
+    "code": "REG",
+    "biologics_code": "BBREG",
+    "name": "Regulatory Affairs"
+  },
+  {
+    "code": "ERW",
+    "biologics_code": "BBERW",
+    "name": "Epidemiology & Real-World Evidence"
+  },
+  {
+    "code": "COM",
+    "biologics_code": "BBCOM",
+    "name": "Commercial"
+  },
+  {
+    "code": "PM",
+    "biologics_code": "BPM",
+    "name": "Project Management"
+  }
+]

@@ -1,0 +1,1203 @@
+---
+name: Stage Gate SG4 — Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready)
+description: Stage-gate SG4 review goal for an Oktopi PDP: Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready). Use when assessing readiness to exit SG4 across CMC, clinical, regulatory, and commercial functions.
+---
+
+# Stage Gate SG4: Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready)
+
+**Goal.** Complete IND-enabling package: GLP tox complete, CMC GMP drug product and IND Module 3, FIH protocol and starting dose justification.
+
+**Primary focus areas.** GLP tox package, CMC GMP release, FIH protocol, starting dose
+
+## How to use
+
+1. Confirm the modality (small-molecule or biologics) and mode (SR, OE, DD, RS) in scope.
+2. For each function, run the corresponding function reviewer agent (`<function>-reviewer`).
+3. Feed each agent this stage-gate code (SG4) and mode so it filters on Critical questions first.
+4. Consolidate gaps per function into a single go/no-go decision for SG4.
+
+## Critical questions at this stage-gate, by mode
+
+### SR — Strategic Readiness
+
+- **CDM**
+  - `BBCDM1` *(BIO)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `BBCDM10` *(BIO)* — For bispecifics and immune-engaging biologics: is the dose escalation design appropriate, including step-up dosing, CRS monitoring, and site readiness requirements?
+  - `BBCDM11` *(BIO)* — Is the dose optimisation strategy aligned with FDA Project Optimus expectations for identifying the optimal biological dose?
+  - `BBCDM16` *(BIO)* — Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?
+  - `BBCDM19` *(BIO)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `BBCDM2` *(BIO)* — Does the clinical development plan (CDP) map to the TPP with clear inflection points?
+  - `BBCDM29` *(BIO)* — Have clinical programmes been discussed with regulators?
+  - `BBCDM3` *(BIO)* — Are the indications well-justified in terms of unmet need and path to registration?
+  - `BBCDM38` *(BIO)* — Are sample size calculations and power assumptions justified?
+  - `BBCDM4` *(BIO)* — Are the development goals feasible within the competitive and payer landscape?
+  - `BBCDM41` *(BIO)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `BBCDM43` *(BIO)* — Have competitor trial designs, endpoints, and outcomes been benchmarked?
+  - `BBCDM44` *(BIO)* — Are benefit-risk assessments conducted?
+  - `BBCDM45` *(BIO)* — Are there any clinical red flags that could impact approvability?
+  - `BBCDM49` *(BIO)* — Are post-approval study commitments or Phase 4 trials planned?
+  - `BBCDM50` *(BIO)* — Are registries or real-world studies planned for value demonstration?
+  - `BBCDM51` *(BIO)* — Are all clinical study protocols, SAPs, CSRs, and patient narratives archived?
+  - `BBCDM52` *(BIO)* — Are ICFs, ethics approvals, and investigator site files inspection-ready?
+  - `BBCDM53` *(BIO)* — Are all clinical modules of the eCTD populated and consistent?
+  - `CDM1` *(SM)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `CDM17` *(SM)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `CDM2` *(SM)* — Does the clinical development plan (CDP) map to the TPP with clear inflection points?
+  - `CDM20` *(SM)* — Are endpoints aligned with regulatory expectations for approval and labeling?
+  - `CDM26` *(SM)* — Have clinical programs been discussed with regulators (pre-IND, EOP2, Scientific Advice)?
+  - `CDM27` *(SM)* — Are clinical endpoints and trial designs aligned with regulatory guidance?
+  - `CDM3` *(SM)* — Are the indications well-justified in terms of unmet need and path to registration?
+  - `CDM35` *(SM)* — Are sample size calculations and power assumptions justified?
+  - `CDM38` *(SM)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `CDM39` *(SM)* — Is the positioning clear vs. existing and emerging therapies?
+  - `CDM42` *(SM)* — Are there any clinical red flags that could impact approvability or uptake?
+  - `CDM43` *(SM)* — Are toxicity or safety signals manageable with monitoring, mitigation, or labeling?
+  - `CDM44` *(SM)* — Are there defined “no-go” criteria for development continuation?
+  - `CDM5` *(SM)* — Are trial designs (Ph1–Ph3) scientifically and statistically sound?
+  - `CDM6` *(SM)* — Are endpoints (primary, secondary, exploratory) clinically meaningful and validated?
+  - `CDM7` *(SM)* — Is the choice of patient population appropriate and justified?
+  - `CDM8` *(SM)* — Are inclusion/exclusion criteria optimized for recruitment and generalizability?
+  - `CDM9` *(SM)* — Are comparator arms (placebo, active) aligned with standard of care?
+- **CMC**
+  - `BBCMC1` *(BIO)* — Is there a cohesive CMC development plan aligned with the clinical and regulatory strategy?
+  - `BBCMC10` *(BIO)* — Is the formulation suitable for the target population and indication?
+  - `BBCMC11` *(BIO)* — Is the formulation stable, scalable, and compatible with packaging and delivery devices?
+  - `BBCMC14` *(BIO)* — Are critical process parameters (CPPs) and critical quality attributes (CQAs) identified?
+  - `BBCMC2` *(BIO)* — Are there clear links between CMC timelines and clinical/commercial milestones?
+  - `BBCMC24` *(BIO)* — Are GMP-compliant manufacturers (CMOs or internal) qualified and audited?
+  - `BBCMC25` *(BIO)* — Is the supply chain secure and robust?
+  - `BBCMC28` *(BIO)* — Is process development at the appropriate stage for the clinical phase?
+  - `BBCMC29` *(BIO)* — Are scale-up risks identified and addressed (yield, product quality shifts, CQA changes)?
+  - `BBCMC3` *(BIO)* — Are critical CMC risks identified and mitigated?
+  - `BBCMC4` *(BIO)* — Is the upstream cell culture process (fermentation/bioreactor) defined, optimised, and scalable?
+  - `BBCMC47` *(BIO)* — Is the production cell line fully characterised, banked under GMP, and demonstrated to be stable?
+  - `BBCMC48` *(BIO)* — Is the expression construct fully characterised with sequence confirmation and copy number assessment?
+  - `BBCMC5` *(BIO)* — Is the downstream purification process robust and capable of achieving required purity?
+  - `BBCMC50` *(BIO)* — For bispecifics: is the cell line strategy appropriate for the bispecific format (single cell vs. separate expression and assembly)?
+  - `BBCMC51` *(BIO)* — Is the primary structure fully confirmed (sequence, post-translational modifications, disulphide bonds)?
+  - `BBCMC52` *(BIO)* — Is the higher-order structure characterised (secondary, tertiary, quaternary)?
+  - `BBCMC53` *(BIO)* — Is the glycosylation profile characterised and controlled?
+  - `BBCMC54` *(BIO)* — Is a potency assay developed that reflects the biological mechanism of action?
+  - `BBCMC55` *(BIO)* — Are viral safety studies completed per ICH Q5A (cell substrate testing, process validation, bulk harvest testing)?
+  - `BBCMC56` *(BIO)* — Is the viral clearance validation study designed with an appropriate virus panel and conducted to current regulatory standards?
+  - `BBCMC57` *(BIO)* — Are viral inactivation and removal steps integrated into the manufacturing process?
+  - `BBCMC58` *(BIO)* — Is there a viral contamination response plan and are raw materials assessed for viral risk?
+  - `BBCMC6` *(BIO)* — Are process-related and product-related impurities identified, characterised, and controlled?
+  - `BBCMC7` *(BIO)* — Are DS release and stability specifications justified and aligned with phase?
+  - `CMC1` *(SM)* — Is there a cohesive CMC development plan aligned with the clinical and regulatory strategy?
+  - `CMC10` *(SM)* — Are DS materials sourced from GMP-qualified manufacturers?
+  - `CMC12` *(SM)* — Is the formulation suitable for the target population and indication?
+  - `CMC13` *(SM)* — Is the formulation stable, scalable, and compatible with packaging?
+  - `CMC16` *(SM)* — Are critical process parameters (CPPs) and quality attributes (CQAs) identified?
+  - `CMC18` *(SM)* — Are analytical methods fully validated (or verified for early phase)?
+  - `CMC19` *(SM)* — Are stability-indicating methods available?
+  - `CMC2` *(SM)* — Are there clear links between CMC timelines and clinical/commercial milestones?
+  - `CMC22` *(SM)* — Is there sufficient stability data under ICH conditions to support the current phase?
+  - `CMC24` *(SM)* — Is stability tracked across both DS and DP with relevant packaging?
+  - `CMC26` *(SM)* — Are GMP-compliant manufacturers (CMOs or internal) qualified and audited?
+  - `CMC27` *(SM)* — Is the supply chain secure and robust (multiple suppliers, risk mitigation)?
+  - `CMC3` *(SM)* — Are critical CMC risks identified and mitigated?
+  - `CMC30` *(SM)* — Is process development at the appropriate stage (lab/pilot/commercial)?
+  - `CMC33` *(SM)* — Is a Quality by Design (QbD) or control strategy defined?
+  - `CMC35` *(SM)* — Are recent regulatory interactions documented (CMC questions, responses)?
+  - `CMC4` *(SM)* — Is the synthetic route scalable, robust, and well-defined?
+  - `CMC42` *(SM)* — Is there a Quality Management System (QMS) in place at sponsor/CMO?
+  - `CMC5` *(SM)* — Is there a formal route of synthesis locked for commercial production?
+  - `CMC6` *(SM)* — Are impurities identified, qualified, and controlled?
+  - `CMC7` *(SM)* — Are genotoxic impurities assessed per ICH M7?
+  - `CMC8` *(SM)* — Are DS release and stability specifications justified and aligned with phase?
+  - `CMC9` *(SM)* — Are solid forms and chiral centers characterized and controlled?
+- **COM**
+  - `BBCOM10` *(BIO)* — Are competitor profiles up to date (MOA, clinical status, launch timing, pricing)?
+  - `BBCOM11` *(BIO)* — Is there a clear differentiation strategy vs. competitors?
+  - `BBCOM12` *(BIO)* — Are emerging technologies or disruptive entrants monitored?
+  - `BBCOM13` *(BIO)* — Have initial pricing assumptions been modeled and benchmarked?
+  - `BBCOM14` *(BIO)* — Are health economic/value frameworks developed (e.g., cost-effectiveness models)?
+  - `BBCOM15` *(BIO)* — Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?
+  - `BBCOM7` *(BIO)* — Does the product address a high unmet need or a defined market gap?
+  - `BBCOM9` *(BIO)* — Has a comprehensive competitor analysis been performed (pipeline + marketed)?
+  - `COM5` *(SM)* — Is the TPP aligned with market and payer expectations?
+  - `COM6` *(SM)* — Are differentiating features clearly articulated (efficacy, safety, route, convenience)?
+  - `COM7` *(SM)* — Does the product address a high unmet need or a defined market gap?
+- **CP**
+  - `BBCP1` *(BIO)* — Is there a written clinical pharmacology plan aligned with the TPP?
+  - `BBCP10` *(BIO)* — Are there validated PD biomarkers linked to MOA or clinical endpoints?
+  - `BBCP11` *(BIO)* — Is there an E-R model for efficacy? For safety?
+  - `BBCP12` *(BIO)* — Has a therapeutic index been established or estimated?
+  - `BBCP13` *(BIO)* — Are E-R analyses used to support dose selection, including flat vs. weight-based dosing decisions?
+  - `BBCP14` *(BIO)* — For bispecifics: is the relationship between exposure, target cell engagement, immune activation, and clinical response characterised, including potential bell-shaped dose-respo...
+  - `BBCP15` *(BIO)* — Is SC bioavailability characterised if SC administration is planned?
+  - `BBCP16` *(BIO)* — Are manufacturing process changes bridged by clinical PK comparability data?
+  - `BBCP17` *(BIO)* — For IV-to-SC switching programmes: is the SC dose justified with PK/PD modelling to achieve comparable target coverage?
+  - `BBCP18` *(BIO)* — Has the potential for immune-mediated drug interactions (cytokine-mediated CYP modulation) been assessed?
+  - `BBCP19` *(BIO)* — Are pharmacokinetic interactions with co-administered biologics or standard-of-care therapies characterised?
+  - `BBCP2` *(BIO)* — Is the dose selection strategy clear and justified across development stages?
+  - `BBCP20` *(BIO)* — Is the impact of the biologic on vaccines or concomitant immunosuppressive therapy assessed?
+  - `BBCP21` *(BIO)* — Are the effects of body weight, disease burden, and baseline target levels on PK/PD characterised?
+  - `BBCP22` *(BIO)* — Is a dedicated organ impairment study required, or is a waiver justified based on the biologic's elimination mechanism?
+  - `BBCP3` *(BIO)* — Are clinical pharmacology activities integrated into the overall development plan?
+  - `BBCP31` *(BIO)* — Are simulations supporting dose selection and labeling?
+  - `BBCP32` *(BIO)* — Is PBPK modelling used to support biologic-specific PK predictions (SC absorption, tissue distribution, FcRn-mediated disposition)?
+  - `BBCP33` *(BIO)* — Are PBPK models built with adequate quality, documentation, and validated against clinical data?
+  - `BBCP34` *(BIO)* — Are PBPK models submitted to regulators to support dose justification or special population predictions?
+  - `BBCP35` *(BIO)* — Is a Paediatric Study Plan (iPSP / PIP) in place?
+  - `BBCP36` *(BIO)* — Are regulatory interactions (pre-IND, EOP2, Scientific Advice) documented?
+  - `BBCP37` *(BIO)* — Is the clinical pharmacology package adequate to support dose justification in pivotal studies?
+  - `BBCP38` *(BIO)* — Is there a clear relationship between exposure and adverse events, including immune-mediated toxicities?
+  - `BBCP39` *(BIO)* — Are there modeling-based safety margins for critical toxicities?
+  - `BBCP4` *(BIO)* — Are PK profiles adequately characterised in the intended patient population?
+  - `BBCP40` *(BIO)* — Are PK/PD/clinical data integrated to support risk–benefit claims?
+  - `BBCP5` *(BIO)* — Has dose-exposure linearity been assessed, including characterisation of non-linear PK from target-mediated drug disposition?
+  - `BBCP6` *(BIO)* — Are single- and multiple-dose PKs evaluated with appropriate sampling to capture biologic disposition phases?
+  - `BBCP7` *(BIO)* — Are accumulation, steady-state, and time-dependent PK changes characterised?
+  - `BBCP8` *(BIO)* — Are inter-individual and intra-individual PK variabilities quantified and sources identified?
+  - `BBCP9` *(BIO)* — Is the impact of anti-drug antibodies (ADA) on PK prospectively assessed and integrated into exposure analyses?
+  - `CP1` *(SM)* — Is there a written clinical pharmacology plan aligned with the TPP?
+  - `CP10` *(SM)* — Is there an E-R model for efficacy? For safety?
+  - `CP11` *(SM)* — Has a therapeutic index been established or estimated?
+  - `CP12` *(SM)* — Are E-R analyses used to support dose selection?
+  - `CP17` *(SM)* — Is the metabolic and transporter pathway well-characterized?
+  - `CP18` *(SM)* — Has the compound been evaluated for CYP induction/inhibition?
+  - `CP2` *(SM)* — Is the dose selection strategy clear and justified across development stages?
+  - `CP3` *(SM)* — Are clinical pharmacology activities integrated into the overall development plan?
+  - `CP37` *(SM)* — Are regulatory interactions (pre-IND, EOP2, Scientific Advice) documented?
+  - `CP9` *(SM)* — Are there validated PD biomarkers linked to MoA or clinical endpoints?
+- **PM**
+  - `BPM1` *(BIO)* — Is there a single, unified Integrated Development Plan (IDP) that consolidates all functional workstreams (nonclinical, CMC, clinical, regulatory, commercial) into one master ti...
+  - `BPM10` *(BIO)* — Is a formal risk register maintained with identified risks categorised by likelihood, impact, and risk score — with pre-defined mitigation plans and risk owners for all high-sev...
+  - `BPM11` *(BIO)* — Is there a clear distinction between risks (potential future events) and issues (current problems requiring resolution) — with separate tracking, escalation, and resolution proc...
+  - `BPM12` *(BIO)* — Are programme-level risks and issues escalated to governance bodies with recommended actions — not just reported as status updates?
+  - `BPM13` *(BIO)* — Is a quantitative schedule risk analysis (Monte Carlo or equivalent) conducted for major programme milestones to generate probability-weighted timeline estimates?
+  - `BPM14` *(BIO)* — Are lessons learned from prior programmes (internal and external) systematically captured, archived, and applied to current programme planning?
+  - `BPM15` *(BIO)* — Is a stage-gate governance framework in place with defined decision points, gate criteria, deliverables, and decision-making authority at each stage of development (discovery → ...
+  - `BPM16` *(BIO)* — Are go/no-go decision criteria defined prospectively and quantitatively — not retrospectively rationalised based on available data?
+  - `BPM17` *(BIO)* — Is the governance structure clearly defined — with distinct roles for the Project Team (recommend), the Development Committee (decide), and the Executive/Board level (approve in...
+  - `BPM18` *(BIO)* — Are governance meetings structured with pre-read materials, defined agendas, decision items clearly distinguished from information items, and documented action items with owners...
+  - `BPM2` *(BIO)* — Is the critical path clearly identified, maintained, and communicated — with explicit documentation of which activities are critical-path vs float activities, and what drives th...
+  - `BPM3` *(BIO)* — Are Gantt charts or equivalent scheduling tools in use with task-level detail, resource assignments, dependencies, and milestone tracking — maintained in a professional project ...
+  - `BPM4` *(BIO)* — Are key development milestones defined with clear completion criteria (not just target dates), including both internal decision milestones and external/regulatory milestones?
+  - `BPM5` *(BIO)* — Is scenario planning conducted for the development timeline, with best-case, base-case, and worst-case scenarios quantified and linked to identified risks?
+  - `BPM6` *(BIO)* — Are cross-functional dependencies explicitly mapped, tracked, and owned — with each dependency having a provider function, a receiver function, a deliverable description, and a ...
+  - `BPM7` *(BIO)* — Is the sequencing of regulatory submissions, nonclinical studies, CMC activities, and clinical trials explicitly orchestrated to avoid bottlenecks — with particular attention to...
+  - `BPM8` *(BIO)* — Are drug supply requirements integrated into the project timeline with manufacturing lead times, batch release timelines, and stability requirements explicitly linked to clinica...
+  - `BPM9` *(BIO)* — Is regulatory interaction timing explicitly planned and linked to data readiness from contributing functions — with lead times for briefing document preparation, submission, and...
+- **PT**
+  - `BBPT1` *(BIO)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `BBPT10` *(BIO)* — Is the bioanalytical method validated for exposure quantification?
+  - `BBPT11` *(BIO)* — Are systemic exposures (AUC, Cmax) measured in all GLP toxicity studies?
+  - `BBPT12` *(BIO)* — Are exposure margins vs. expected human exposure calculated and acceptable?
+  - `BBPT13` *(BIO)* — Are gender and species-specific TK differences characterized?
+  - `BBPT14` *(BIO)* — Are TK data integrated into safety assessments and dose selection?
+  - `BBPT15` *(BIO)* — Are GLP repeat-dose studies completed in pharmacologically relevant species?
+  - `BBPT16` *(BIO)* — Are study durations appropriate for the proposed clinical exposure?
+  - `BBPT17` *(BIO)* — Are organ toxicities, dose-limiting toxicities, and reversibility clearly defined?
+  - `BBPT18` *(BIO)* — Are NOAELs established and consistent with clinical dose projections?
+  - `BBPT19` *(BIO)* — Has the impact of anti-drug antibody formation on nonclinical study interpretation been assessed?
+  - `BBPT2` *(BIO)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `BBPT20` *(BIO)* — Are core safety pharmacology endpoints assessed (CNS, CV, respiratory)?
+  - `BBPT21` *(BIO)* — Are safety pharmacology endpoints integrated into repeat-dose toxicity studies consistent with ICH S6(R1)?
+  - `BBPT22` *(BIO)* — Are any findings of potential concern noted in these studies?
+  - `BBPT23` *(BIO)* — Are additional studies planned based on observed or predicted risks?
+  - `BBPT24` *(BIO)* — Has a carcinogenicity assessment been conducted or waived with appropriate weight-of-evidence justification?
+  - `BBPT25` *(BIO)* — Are threshold and risk-based justifications documented?
+  - `BBPT26` *(BIO)* — Are fertility, embryo-fetal development (EFD), and pre/postnatal development studies completed or planned?
+  - `BBPT27` *(BIO)* — Are data available to support inclusion of women of childbearing potential in clinical trials?
+  - `BBPT28` *(BIO)* — Are teratogenicity or embryotoxicity risks identified or ruled out?
+  - `BBPT29` *(BIO)* — Are juvenile animal studies required based on indication and target population?
+  - `BBPT3` *(BIO)* — Are dose-response and concentration-response relationships characterized?
+  - `BBPT30` *(BIO)* — Is an enhanced pre- and postnatal development (ePPND) study design employed in NHPs when this is the only relevant species?
+  - `BBPT31` *(BIO)* — Are species used in tox studies pharmacologically relevant (e.g., target engagement, binding affinity, functional activity)?
+  - `BBPT32` *(BIO)* — Are exposure and PK profiles across species consistent with human prediction?
+  - `BBPT33` *(BIO)* — Are any species-specific toxicities or limitations noted?
+  - `BBPT34` *(BIO)* — Is species selection rationale documented and regulatorily defensible?
+  - `BBPT35` *(BIO)* — When only one pharmacologically relevant species is available, is the single-species toxicology approach justified per ICH S6(R1)?
+  - `BBPT4` *(BIO)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `BBPT5` *(BIO)* — Has an Fc effector function assessment been conducted to characterise intended and unintended immune effector activity (ADCC, ADCP, CDC)?
+  - `BBPT56` *(BIO)* — Are QA statements included in all GLP reports?
+  - `BBPT57` *(BIO)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `BBPT58` *(BIO)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `BBPT59` *(BIO)* — Are tox findings translatable or relevant to human populations of interest?
+  - `BBPT6` *(BIO)* — For bispecifics: is the potential for unintended T-cell or immune cell activation in the absence of target assessed (e.g., non-specific FcγR cross-linking)?
+  - `BBPT60` *(BIO)* — Is the immunogenicity risk assessment strategy defined, including in silico, in vitro, and in vivo components?
+  - `BBPT61` *(BIO)* — Are validated bioanalytical methods established for detecting, confirming, and characterising anti-drug antibodies (including neutralising antibodies)?
+  - `BBPT62` *(BIO)* — Has the impact of ADA on pharmacokinetics, pharmacodynamics, efficacy, and safety been evaluated in nonclinical species?
+  - `BBPT63` *(BIO)* — For bispecifics: are novel structural elements (linkers, engineered domains, non-native junctions) assessed for incremental immunogenicity risk?
+  - `BBPT64` *(BIO)* — Has a GLP tissue cross-reactivity study been completed using human tissues with appropriate positive and negative controls?
+  - `BBPT65` *(BIO)* — Are unexpected binding patterns identified and assessed for clinical safety relevance?
+  - `BBPT66` *(BIO)* — For bispecifics: is the co-expression pattern of both targets characterised across normal human tissues?
+  - `BBPT67` *(BIO)* — Are TCR findings integrated with species selection rationale and clinical risk management plans?
+  - `BBPT68` *(BIO)* — Has the programme evaluated whether validated NAMs can replace, reduce, or refine planned animal studies?
+  - `BBPT69` *(BIO)* — Is there a weight-of-evidence risk assessment to justify reduction or elimination of chronic NHP toxicity studies?
+  - `BBPT7` *(BIO)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `BBPT70` *(BIO)* — Are in vitro human-relevant models used to assess target-mediated toxicities or on-target/off-tumour effects?
+  - `BBPT71` *(BIO)* — Is the NAMs strategy aligned with FDA's roadmap, ICH S6(R1) flexibility provisions, and the FDA Modernization Act 2.0?
+  - `BBPT72` *(BIO)* — Are the major disposition pathways characterised (FcRn recycling, target-mediated clearance, proteolytic catabolism)?
+  - `BBPT73` *(BIO)* — Is target-mediated drug disposition modelled, and for bispecifics, is the interaction between dual-target binding kinetics and PK characterised?
+  - `BBPT74` *(BIO)* — Are SC absorption kinetics (bioavailability, Tmax, lymphatic uptake) characterised if SC administration is planned?
+  - `BBPT75` *(BIO)* — Is the Fc engineering strategy assessed for impact on half-life, effector function, and FcRn binding?
+  - `BBPT76` *(BIO)* — Has a weight-of-evidence (WoE) risk assessment been conducted per FDA's December 2025 draft guidance on streamlined nonclinical safety studies to justify reducing chronic NHP to...
+  - `BBPT77` *(BIO)* — When no pharmacologically relevant species exists for one or both binding arms of a bispecific antibody, is the alternative nonclinical strategy documented and FDA-aligned (surr...
+  - `BBPT78` *(BIO)* — Are nonclinical safety biomarkers formally translated into clinical monitoring plans, with documented mapping from nonclinical toxicity findings to clinical safety endpoints, mo...
+  - `BBPT79` *(BIO)* — Is the in vitro cytokine release assay (CRA) strategy documented and fit-for-purpose, with appropriate assay format selection (whole blood vs PBMC, solid phase vs solution phase...
+  - `BBPT8` *(BIO)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `BBPT80` *(BIO)* — Has the impact of product-related impurities and quality attributes (aggregates, fragments, charge variants, host cell proteins, post-translational modifications) on observed no...
+  - `BBPT81` *(BIO)* — For bispecific antibodies with potential bell-shaped or non-monotonic dose-response relationships, has the nonclinical dose selection and NOAEL determination strategy accounted ...
+  - `BBPT82` *(BIO)* — When manufacturing process changes occur between nonclinical and clinical material (or between clinical batches), is there a documented assessment of whether existing nonclinica...
+  - `BBPT83` *(BIO)* — For biologics with potential pediatric indications, has the WoE approach for juvenile animal study requirements been assessed per ICH S11 and FDA December 2025 draft guidance, i...
+  - `BBPT84` *(BIO)* — Are pivotal nonclinical studies designed and conducted with SEND (Standard for Exchange of Nonclinical Data) format compliance, ensuring dataset submissions meet FDA technical r...
+  - `BBPT85` *(BIO)* — Has a photosafety assessment been conducted or waived with documented justification per ICH S10, considering the absorption spectrum of the biologic product and any photosensiti...
+  - `BBPT9` *(BIO)* — Are nonclinical PK studies performed in pharmacologically relevant species to characterise absorption, distribution, and clearance?
+  - `PT1` *(SM)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `PT11` *(SM)* — Are mass balance and tissue distribution studies completed or planned?
+  - `PT12` *(SM)* — Are metabolite profiles characterized and compared across species and humans (MIST compliance)?
+  - `PT13` *(SM)* — Are systemic exposures (AUC, Cmax) measured in all GLP toxicity studies?
+  - `PT14` *(SM)* — Are exposure margins vs. expected human exposure calculated and acceptable?
+  - `PT16` *(SM)* — Are TK data integrated into safety assessments and dose selection?
+  - `PT17` *(SM)* — Are GLP repeat-dose studies completed in rodent and non-rodent species?
+  - `PT19` *(SM)* — Are organ toxicities, dose-limiting toxicities, and reversibility clearly defined?
+  - `PT2` *(SM)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `PT20` *(SM)* — Are NOAELs established and consistent with clinical dose projections?
+  - `PT21` *(SM)* — Are core battery studies completed (CNS, CV, respiratory)?
+  - `PT22` *(SM)* — Is a telemetry study conducted in conscious animals for QT/ECG assessments?
+  - `PT23` *(SM)* — Are any findings of potential concern noted in these studies?
+  - `PT24` *(SM)* — Are additional studies planned based on observed or predicted risks?
+  - `PT25` *(SM)* — Are standard genotoxicity assays completed (Ames, in vitro micronucleus, in vivo)?
+  - `PT27` *(SM)* — Is there any evidence of mutagenicity or clastogenicity requiring further investigation?
+  - `PT3` *(SM)* — Are dose-response and concentration-response relationships characterized?
+  - `PT33` *(SM)* — Are teratogenicity or embryotoxicity risks identified or ruled out?
+  - `PT35` *(SM)* — Are species used in tox studies pharmacologically relevant (e.g., target engagement)?
+  - `PT36` *(SM)* — Are metabolite and exposure profiles across species consistent with human prediction?
+  - `PT37` *(SM)* — Are any species-specific toxicities or limitations noted?
+  - `PT39` *(SM)* — Are NOAELs, LOAELs, and MTDs clearly defined in all key studies?
+  - `PT4` *(SM)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `PT40` *(SM)* — Are safety margins calculated based on anticipated human exposure?
+  - `PT41` *(SM)* — Are HED (human equivalent dose) calculations and FIH (first-in-human) dose rationales well supported?
+  - `PT42` *(SM)* — Are dose-limiting toxicities manageable or reversible?
+  - `PT45` *(SM)* — Is the risk of cytokine storm or immune-mediated toxicity evaluated?
+  - `PT5` *(SM)* — Are off-target profiling or safety pharmacology panels conducted (e.g., CEREP, Eurofins)?
+  - `PT51` *(SM)* — Have toxicology studies been included in IND/CTA submissions and reviewed by agencies?
+  - `PT52` *(SM)* — Are regulatory comments or holds related to nonclinical safety addressed?
+  - `PT58` *(SM)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `PT59` *(SM)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `PT6` *(SM)* — Are relevant ion channel assays (e.g., hERG) and CNS/respiratory screens completed?
+  - `PT60` *(SM)* — Are tox findings translatable or relevant to human populations of interest?
+  - `PT7` *(SM)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `PT8` *(SM)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `PT9` *(SM)* — Are absorption, distribution, metabolism, and excretion studies performed in at least two species?
+- **REG**
+  - `BBREG1` *(BIO)* — Is there a formal, written global regulatory strategy document?
+  - `BBREG10` *(BIO)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `BBREG11` *(BIO)* — Have pre-IND, IND, pre-BLA, or scientific advice meetings occurred?
+  - `BBREG12` *(BIO)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `BBREG13` *(BIO)* — Are written agency communications documented, archived, and tracked for actions?
+  - `BBREG14` *(BIO)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `BBREG15` *(BIO)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `BBREG2` *(BIO)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `BBREG3` *(BIO)* — Are regulatory plans synchronised with clinical, CMC, and commercial timelines?
+  - `BBREG4` *(BIO)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `BBREG5` *(BIO)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `BBREG6` *(BIO)* — Are claims in the TPP supported by available or planned data?
+  - `BBREG7` *(BIO)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `BBREG8` *(BIO)* — Are relevant precedents (approvals in the same indication, target, or biologic format) identified and analysed?
+  - `BBREG9` *(BIO)* — Have comparator products' regulatory histories been reviewed (e.g., label restrictions, REMS, biosimilar landscape)?
+  - `REG1` *(SM)* — Is there a formal, written global regulatory strategy document?
+  - `REG10` *(SM)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `REG11` *(SM)* — Have pre-IND, IND, pre-CTA, or scientific advice meetings occurred?
+  - `REG12` *(SM)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `REG14` *(SM)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `REG15` *(SM)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `REG2` *(SM)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `REG3` *(SM)* — Are regulatory plans synchronized with clinical, CMC, and commercial timelines?
+  - `REG30` *(SM)* — Are regulatory risks identified (e.g., first-in-class mechanism, animal findings, CMC gaps)?
+  - `REG31` *(SM)* — Is there a formal benefit-risk assessment?
+  - `REG32` *(SM)* — Are mitigation plans documented for key risk areas?
+  - `REG33` *(SM)* — Are there known issues with platform or class-based precedents?
+  - `REG4` *(SM)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `REG5` *(SM)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `REG6` *(SM)* — Are claims in the TPP supported by available or planned data?
+  - `REG7` *(SM)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `REG8` *(SM)* — Are relevant precedents (e.g., approvals in the same indication or modality) identified and analyzed?
+  - `REG9` *(SM)* — Have comparator products’ regulatory histories been reviewed (e.g., label restrictions, REMS)?
+- **SAF**
+  - `BSAF1` *(BIO)* — Is the SMP aligned with the risk profile of the mAb/bispecific, including biologic-specific risks (immunogenicity, infusion reactions, CRS, immune-mediated AEs, target-mediated ...
+  - `BSAF21` *(BIO)* — Are risks anticipated from nonclinical or earlier phase data appropriately addressed, including biologic-specific nonclinical findings (tissue cross-reactivity, exaggerated phar...
+  - `BSAF61` *(BIO)* — Is there a defined process for distinguishing between pharmacodynamic effects (intended mechanism) and safety signals for immunomodulatory/immune-activating biologics, with docu...
+  - `BSAF62` *(BIO)* — Is there a documented class-wide safety monitoring strategy that incorporates learnings from other approved biologics with the same target, mechanism, or structural class, and a...
+  - `BSAF63` *(BIO)* — For immunosuppressive/immunomodulatory biologics, is there a comprehensive infection surveillance program, including screening for latent infections (TB, hepatitis B/C), monitor...
+  - `BSAF64` *(BIO)* — Is there an integrated safety-PK-immunogenicity analysis framework that enables real-time correlation of safety events with drug exposure levels and ADA status, supporting mecha...
+  - `BSAF65` *(BIO)* — Is the safety database adequacy assessment performed per ICH E1 guidelines, with biologic-specific considerations for safety database size (longer exposure durations needed for ...
+  - `BSAF66` *(BIO)* — For FIH and early-phase biologic studies, is the starting dose safety assessment based on appropriate biologic-specific methodology (MABEL for immune-activating biologics, NOAEL...
+  - `BSAF67` *(BIO)* — For bispecific T-cell engagers, is immune effector cell-associated neurotoxicity syndrome (ICANS) prospectively monitored with standardized grading (ASTCT/ICE score), defined ma...
+  - `BSAF68` *(BIO)* — Has the risk of ADA cross-reacting with and neutralizing the endogenous counterpart of the therapeutic protein been formally assessed, with a prospective monitoring plan if the ...
+  - `BSAF69` *(BIO)* — Is there a defined process for assessing the clinical safety implications of manufacturing process changes (new cell line, facility transfer, scale-up, formulation change), incl...
+  - `BSAF70` *(BIO)* — Is a prospective safety labeling strategy being developed in parallel with safety data collection, including proposed Warnings & Precautions language, Adverse Reactions table de...
+  - `BSAF71` *(BIO)* — Is a structured, FDA/EMA-aligned benefit-risk framework being used (e.g., FDA's 5-dimension framework, PrOACT-URL, BRAT), with biologic-specific adaptations for immunogenicity i...
+  - `BSAF72` *(BIO)* — Are pediatric-specific biologic safety considerations addressed, including differential immunogenicity profiles in children, vaccine schedule interactions with immunosuppressive...
+  - `BSAF73` *(BIO)* — For programs pursuing accelerated approval, is the safety monitoring framework adequate for the dual-phase period when commercial use and confirmatory trial safety evaluation oc...
+  - `BSAF74` *(BIO)* — For biologic combination therapies (mAb + mAb, mAb + chemotherapy, bispecific + checkpoint inhibitor), is the overlapping and additive toxicity profile systematically assessed, ...
+  - `BSAF75` *(BIO)* — For licensed-in, licensed-out, or co-developed biologic programs, is there a documented safety data transfer plan ensuring signal detection continuity, complete safety database ...
+  - `BSAF76` *(BIO)* — Is post-marketing real-world safety evidence from approved biologics in the same class systematically reviewed and integrated into the development program's safety monitoring st...
+  - `SAF1` *(SM)* — Is the SMP aligned with the risk profile of the compound and clinical population?
+  - `SAF19` *(SM)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?
+  - `SAF2` *(SM)* — Are roles and responsibilities for safety surveillance clearly defined across teams?
+  - `SAF21` *(SM)* — Are risks anticipated from nonclinical or earlier phase data appropriately addressed?
+  - `SAF22` *(SM)* — Are trial participants stratified or excluded based on safety biomarkers or comorbidities?
+- **STAT**
+  - `BSTAT47` *(BIO)* — Are biostatisticians involved in modeling and simulation to support dose and regimen decisions, including population PK/PD and exposure-response modeling for biologics?
+  - `BSTAT48` *(BIO)* — Are statistical insights used in go/no-go, stage gate, and portfolio prioritization decisions?
+  - `BSTAT5` *(BIO)* — Is the sample size calculation documented and aligned with the protocol objectives, accounting for biologic-specific variability and dropout patterns?
+  - `BSTAT6` *(BIO)* — Are assumptions for effect size, variance, dropout, and power explicitly stated and justified, including biologic-specific parameters (e.g., immunogenicity-driven attrition, PK ...
+  - `BSTAT61` *(BIO)* — Is the statistical analysis plan for immunogenicity (ADA/NAb) pre-specified, including cut-point determination, tiered testing strategy, and prevalence/incidence analysis methods?
+  - `BSTAT62` *(BIO)* — Is the statistical approach for evaluating ADA impact on PK, efficacy, and safety pre-defined and appropriately powered?
+  - `BSTAT63` *(BIO)* — For bispecific antibodies, is the immunogenicity analysis plan designed to assess domain-specific ADA responses and their differential impact?
+  - `BSTAT64` *(BIO)* — Is the statistical framework for exposure-response analysis pre-specified, including methods appropriate for non-linear biologic PK (TMDD) and weight-based dosing?
+  - `BSTAT67` *(BIO)* — Has the biostatistics team evaluated whether ADA assay drug tolerance levels are adequate relative to expected steady-state drug concentrations, and is this assessment documente...
+  - `BSTAT68` *(BIO)* — Are Bayesian or model-based adaptive dose-finding methods (e.g., CRM, BOIN, EWOC, mTPI-2) considered and appropriately implemented for biologic dose escalation and optimization?
+  - `BSTAT73` *(BIO)* — Is the exposure-response analysis for safety pre-specified, including exposure-safety relationships for biologic-specific adverse events (immunogenicity, infusion reactions, inf...
+  - `BSTAT74` *(BIO)* — Are covariate effects on biologic exposure (body weight, ADA status, albumin, disease burden) formally evaluated, and is the dose justification across patient subgroups statisti...
+- **TM**
+  - `BBTM11` *(BIO)* — Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?
+  - `BBTM12` *(BIO)* — Are biomarkers included in clinical protocols and sample collection plans?
+  - `BBTM13` *(BIO)* — Are preanalytical variables and sample logistics addressed (collection, handling, storage)?
+  - `BBTM14` *(BIO)* — Are PD biomarkers available to confirm target engagement in vivo?
+  - `BBTM15` *(BIO)* — Are dynamic changes in PD biomarkers characterised across doses and time?
+  - `BBTM16` *(BIO)* — Are PD markers measurable in accessible human matrices (blood, urine, CSF, etc.)?
+  - `BBTM17` *(BIO)* — Are biomarker assays qualified or validated to support decision-making?
+  - `BBTM18` *(BIO)* — Are biomarkers identified to stratify or enrich clinical populations?
+  - `BBTM19` *(BIO)* — Are genetic or protein expression markers associated with response or resistance?
+  - `BBTM20` *(BIO)* — Has biomarker prevalence in the target population been estimated or confirmed?
+  - `BBTM21` *(BIO)* — Are patient selection criteria biomarker-driven in clinical trials?
+  - `BBTM22` *(BIO)* — Are biomarkers in place to predict or monitor potential toxicities (e.g., cardiac, hepatic, renal, immune-mediated)?
+  - `BBTM23` *(BIO)* — Are translational links established between nonclinical toxicity findings and human safety biomarkers?
+  - `BBTM24` *(BIO)* — Are safety markers validated and acceptable to regulators or industry standards (e.g., FDA BEST)?
+  - `BBTM25` *(BIO)* — For biologics: are immunogenicity-related safety biomarkers (ADA, neutralising antibodies, immune complex markers) integrated into the translational safety strategy?
+  - `BBTM26` *(BIO)* — Are assays (e.g., ELISA, qPCR, flow cytometry, LC-MS, NGS) developed and technically validated?
+  - `BBTM27` *(BIO)* — Are performance characteristics (sensitivity, specificity, LLOQ, ULOQ) documented?
+  - `BBTM28` *(BIO)* — Is there a clear plan for bioanalytical method validation under GxP where required?
+  - `BBTM29` *(BIO)* — Are biomarker assays transferable to central labs or CROs?
+  - `BBTM32` *(BIO)* — Are sample integrity and chain-of-custody procedures established?
+  - `BBTM33` *(BIO)* — Are nonclinical and translational data sufficient to justify FIH starting dose and escalation?
+  - `BBTM34` *(BIO)* — Are PK/PD relationships modeled and simulated for dose selection?
+  - `BBTM35` *(BIO)* — Is there confidence in pharmacologic activity at clinically achievable exposures?
+  - `BBTM46` *(BIO)* — Are biomarker strategies aligned with regulatory expectations (FDA, EMA, PMDA)?
+  - `BBTM47` *(BIO)* — Are discussions with agencies (e.g., biomarker qualification, CDx co-development) initiated or planned?
+  - `BBTM48` *(BIO)* — Are biomarker data included in IND/CTA submissions or briefing books?
+  - `BBTM49` *(BIO)* — If CDx is required, is an IVD partner identified and a development pathway in place?
+  - `BBTM50` *(BIO)* — Are nonclinical, clinical, and biomarker data integrated in a centralised database or data lake?
+  - `BBTM51` *(BIO)* — Are translational insights routinely discussed at governance or programme review meetings?
+  - `BBTM52` *(BIO)* — Are biomarkers influencing go/no-go and dose/regimen decisions?
+  - `BBTM53` *(BIO)* — For advanced modalities: are unique translational challenges addressed?
+  - `BBTM54` *(BIO)* — Are immunogenicity, cellular persistence, or biodistribution biomarkers in development?
+  - `BBTM55` *(BIO)* — Is platform data leveraged across programmes to refine translational strategy?
+  - `BBTM56` *(BIO)* — Is there an experienced translational medicine lead assigned?
+  - `BBTM57` *(BIO)* — Are team members skilled in biomarker science, modeling, systems biology, and clinical integration?
+  - `BBTM58` *(BIO)* — Are external collaborations (academia, CROs, biomarker consortia) in place?
+  - `BBTM59` *(BIO)* — Is there a fit-for-purpose governance and decision-making structure?
+  - `BBTM60` *(BIO)* — Is a comprehensive immune monitoring strategy in place for clinical studies?
+  - `BBTM61` *(BIO)* — Are translational immune biomarkers defined to distinguish on-target immune activation from off-target immune toxicity?
+  - `BBTM62` *(BIO)* — Is the immunogenicity monitoring strategy integrated into the translational framework (not just bioanalytical)?
+  - `BBTM63` *(BIO)* — For bispecifics: is the immune synapse biology characterised and used to inform translational strategy?
+  - `BBTM64` *(BIO)* — Is the translational framework designed to identify the Optimal Biologic Dose (OBD) rather than defaulting to MTD, using exposure-response, receptor occupancy, PD biomarker plat...
+  - `BBTM65` *(BIO)* — For immuno-oncology biologics, is the tumour microenvironment (TME) translationally characterised to inform patient selection and predict response, including T-cell infiltration...
+  - `BBTM66` *(BIO)* — Is the translational biomarker strategy designed to quantitatively define the therapeutic window using the PK → receptor occupancy → PD biomarker → efficacy/safety chain, with d...
+  - `BBTM67` *(BIO)* — For bispecific programs, is the translational PK/PD strategy specifically designed for the bispecific format's disposition characteristics (IgG-like vs non-IgG, half-life extend...
+  - `BBTM68` *(BIO)* — Are translational biomarkers for resistance to biologic therapy pre-specified and monitored in clinical trials, including antigen loss/downregulation, target mutation, immune es...
+  - `BBTM69` *(BIO)* — For oncology biologic programs, is a liquid biopsy and/or minimal residual disease (MRD) translational strategy in place to support response monitoring, early efficacy signal de...
+  - `BBTM70` *(BIO)* — Are receptor occupancy (RO) or target occupancy assays developed, validated, and integrated into early clinical studies to quantify target engagement across dose levels and time...
+  - `BBTM71` *(BIO)* — For T-cell engaging bispecifics, is the translational immunopharmacology comprehensively characterised, including T-cell activation kinetics (CD25, CD69, Ki67), T-cell subset dy...
+  - `BBTM72` *(BIO)* — Are patient-derived models (PDX, patient-derived organoids, ex vivo patient tissue assays) used to validate translational hypotheses, assess target engagement in human-relevant ...
+  - `BBTM73` *(BIO)* — Are translational insights from competitive and class-peer biologics (approved, failed, or in-development) systematically reviewed and integrated into the translational strategy...
+  - `TM10` *(SM)* — Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?
+  - `TM11` *(SM)* — Are biomarkers included in clinical protocols and sample collection plans?
+  - `TM13` *(SM)* — Are PD biomarkers available to confirm target engagement in vivo?
+  - `TM14` *(SM)* — Are dynamic changes in PD biomarkers characterized across doses and time?
+  - `TM15` *(SM)* — Are PD markers measurable in accessible human matrices (blood, urine, CSF, etc.)?
+  - `TM16` *(SM)* — Are biomarker assays qualified or validated to support decision-making?
+  - `TM17` *(SM)* — Are biomarkers identified to stratify or enrich clinical populations?
+  - `TM18` *(SM)* — Are genetic or protein expression markers associated with response or resistance?
+  - `TM19` *(SM)* — Has biomarker prevalence in the target population been estimated or confirmed?
+  - `TM20` *(SM)* — Are patient selection criteria biomarker-driven in clinical trials?
+  - `TM21` *(SM)* — Are biomarkers in place to predict or monitor potential toxicities (e.g., cardiac, hepatic, renal)?
+  - `TM22` *(SM)* — Are translational links established between nonclinical toxicity findings and human safety biomarkers?
+  - `TM31` *(SM)* — Are nonclinical and translational data sufficient to justify FIH starting dose and escalation?
+  - `TM32` *(SM)* — Are PK/PD relationships modeled and simulated for dose selection?
+  - `TM33` *(SM)* — Is there confidence in pharmacologic activity at clinically achievable exposures?
+  - `TM34` *(SM)* — Are FIH biomarkers integrated into early clinical endpoints?
+  - `TM35` *(SM)* — Is a PK/PD or QSP model in place to guide dose and regimen selection?
+  - `TM36` *(SM)* — Are physiologically based pharmacokinetic (PBPK) models used to predict human exposure?
+  - `TM4` *(SM)* — Is there alignment between preclinical and clinical PK/PD?
+  - `TM43` *(SM)* — Are biomarker strategies aligned with regulatory expectations (FDA, EMA, PMDA)?
+  - `TM46` *(SM)* — If CDx is required, is an IVD partner identified and a development pathway in place?
+
+### OE — Operational Execution
+
+- **CDM**
+  - `BBCDM16` *(BIO)* — Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?
+  - `BBCDM17` *(BIO)* — Are safety data actively reviewed (e.g., DSMB, internal safety committees)?
+  - `BBCDM19` *(BIO)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `BBCDM33` *(BIO)* — Are enrollment timelines realistic and tracked?
+  - `BBCDM34` *(BIO)* — Are CROs selected and performance-managed effectively?
+  - `BBCDM35` *(BIO)* — Is site selection optimised?
+- **CMC**
+  - `BBCMC10` *(BIO)* — Is the formulation suitable for the target population and indication?
+  - `BBCMC11` *(BIO)* — Is the formulation stable, scalable, and compatible with packaging and delivery devices?
+  - `BBCMC12` *(BIO)* — Are all excipients pharmacopeial, justified, and qualified for parenteral use?
+  - `BBCMC13` *(BIO)* — Is the process reproducible and capable at commercial scale?
+  - `BBCMC14` *(BIO)* — Are critical process parameters (CPPs) and critical quality attributes (CQAs) identified?
+  - `BBCMC16` *(BIO)* — Are analytical methods fully validated (or verified for early phase) for biologic-specific attributes?
+  - `BBCMC17` *(BIO)* — Are stability-indicating methods available for biologic degradation pathways?
+  - `BBCMC18` *(BIO)* — Are methods suitable for release, in-process control (IPC), characterisation, and comparability?
+  - `BBCMC19` *(BIO)* — Is method transfer to contract labs complete or underway?
+  - `BBCMC20` *(BIO)* — Is there sufficient stability data under ICH conditions to support the current phase?
+  - `BBCMC21` *(BIO)* — Are the data adequate to support retest and shelf-life claims?
+  - `BBCMC22` *(BIO)* — Is stability tracked across both DS and DP with relevant packaging?
+  - `BBCMC24` *(BIO)* — Are GMP-compliant manufacturers (CMOs or internal) qualified and audited?
+  - `BBCMC25` *(BIO)* — Is the supply chain secure and robust?
+  - `BBCMC26` *(BIO)* — Is the manufacturing history (batch records, deviations, OOS) clean and well-documented?
+  - `BBCMC28` *(BIO)* — Is process development at the appropriate stage for the clinical phase?
+  - `BBCMC29` *(BIO)* — Are scale-up risks identified and addressed (yield, product quality shifts, CQA changes)?
+  - `BBCMC31` *(BIO)* — Is a Quality by Design (QbD) or control strategy defined?
+  - `BBCMC38` *(BIO)* — Is cold chain validated for the product?
+  - `BBCMC4` *(BIO)* — Is the upstream cell culture process (fermentation/bioreactor) defined, optimised, and scalable?
+  - `BBCMC44` *(BIO)* — Are biosafety and material safety considerations addressed for biologic manufacturing?
+  - `BBCMC47` *(BIO)* — Is the production cell line fully characterised, banked under GMP, and demonstrated to be stable?
+  - `BBCMC48` *(BIO)* — Is the expression construct fully characterised with sequence confirmation and copy number assessment?
+  - `BBCMC5` *(BIO)* — Is the downstream purification process robust and capable of achieving required purity?
+  - `BBCMC50` *(BIO)* — For bispecifics: is the cell line strategy appropriate for the bispecific format (single cell vs. separate expression and assembly)?
+  - `BBCMC51` *(BIO)* — Is the primary structure fully confirmed (sequence, post-translational modifications, disulphide bonds)?
+  - `BBCMC52` *(BIO)* — Is the higher-order structure characterised (secondary, tertiary, quaternary)?
+  - `BBCMC53` *(BIO)* — Is the glycosylation profile characterised and controlled?
+  - `BBCMC54` *(BIO)* — Is a potency assay developed that reflects the biological mechanism of action?
+  - `BBCMC55` *(BIO)* — Are viral safety studies completed per ICH Q5A (cell substrate testing, process validation, bulk harvest testing)?
+  - `BBCMC56` *(BIO)* — Is the viral clearance validation study designed with an appropriate virus panel and conducted to current regulatory standards?
+  - `BBCMC57` *(BIO)* — Are viral inactivation and removal steps integrated into the manufacturing process?
+  - `BBCMC58` *(BIO)* — Is there a viral contamination response plan and are raw materials assessed for viral risk?
+  - `BBCMC6` *(BIO)* — Are process-related and product-related impurities identified, characterised, and controlled?
+  - `BBCMC61` *(BIO)* — Is the reference standard strategy defined and maintained?
+  - `BBCMC63` *(BIO)* — Are single-use systems (SUS) qualified for all product-contact applications (bioreactors, bags, tubing, filters, connectors)?
+  - `BBCMC64` *(BIO)* — Are extractables and leachables (E&L) assessed for all product-contact SUS components per USP <665>/<1665> and BPOG guidelines?
+  - `BBCMC65` *(BIO)* — Is there a SUS supply chain risk mitigation strategy including component change notification and second sourcing?
+  - `BBCMC69` *(BIO)* — Are hold time and intermediate stability studies completed for all in-process pools and intermediates?
+  - `BBCMC7` *(BIO)* — Are DS release and stability specifications justified and aligned with phase?
+  - `BBCMC70` *(BIO)* — Are raw materials and critical reagents (media, resins, single-use components) qualified with appropriate incoming testing and change control?
+  - `BBCMC8` *(BIO)* — Are DS materials sourced from GMP-qualified manufacturers?
+  - `CMC18` *(SM)* — Are analytical methods fully validated (or verified for early phase)?
+  - `CMC19` *(SM)* — Are stability-indicating methods available?
+  - `CMC22` *(SM)* — Is there sufficient stability data under ICH conditions to support the current phase?
+  - `CMC24` *(SM)* — Is stability tracked across both DS and DP with relevant packaging?
+  - `CMC30` *(SM)* — Is process development at the appropriate stage (lab/pilot/commercial)?
+  - `CMC4` *(SM)* — Is the synthetic route scalable, robust, and well-defined?
+  - `CMC5` *(SM)* — Is there a formal route of synthesis locked for commercial production?
+  - `CMC6` *(SM)* — Are impurities identified, qualified, and controlled?
+  - `CMC8` *(SM)* — Are DS release and stability specifications justified and aligned with phase?
+  - `CMC9` *(SM)* — Are solid forms and chiral centers characterized and controlled?
+- **COP**
+  - `BCOP1` *(BIO)* — Is the protocol operationally feasible based on input from clinical ops and sites, including biologic-specific operational requirements (infusion infrastructure, cold chain, imm...
+  - `BCOP2` *(BIO)* — Are endpoints, assessments, and visit schedules realistically executable at intended sites, including biologic-specific assessments (PK sampling, immunogenicity draws, biomarker...
+  - `BCOP3` *(BIO)* — Is a clinical operations strategy documented for each trial phase, reflecting biologic-specific phase progression considerations (dose escalation logistics, formulation bridging...
+  - `BCOP4` *(BIO)* — Is operational input integrated into scenario planning for timelines and enrollment, including biologic-specific timeline drivers (drug manufacturing lead times, cold chain read...
+  - `COP1` *(SM)* — Is the protocol operationally feasible based on input from clinical ops and sites?
+  - `COP2` *(SM)* — Are endpoints, assessments, and visit schedules realistically executable at intended sites?
+  - `COP3` *(SM)* — Is a clinical operations strategy documented for each trial phase?
+  - `COP4` *(SM)* — Is operational input integrated into scenario planning for timelines and enrollment?
+  - `COP5` *(SM)* — Has formal site feasibility been completed using country-specific and site-level data?
+  - `COP6` *(SM)* — Are sites selected based on historical performance, relevant patient populations, and capacity?
+  - `COP7` *(SM)* — Are geographic regions and countries aligned with epidemiology, regulatory feasibility, and access?
+- **CP**
+  - `BBCP10` *(BIO)* — Are there validated PD biomarkers linked to MOA or clinical endpoints?
+  - `BBCP4` *(BIO)* — Are PK profiles adequately characterised in the intended patient population?
+  - `BBCP5` *(BIO)* — Has dose-exposure linearity been assessed, including characterisation of non-linear PK from target-mediated drug disposition?
+  - `BBCP6` *(BIO)* — Are single- and multiple-dose PKs evaluated with appropriate sampling to capture biologic disposition phases?
+  - `BBCP7` *(BIO)* — Are accumulation, steady-state, and time-dependent PK changes characterised?
+  - `BBCP8` *(BIO)* — Are inter-individual and intra-individual PK variabilities quantified and sources identified?
+  - `BBCP9` *(BIO)* — Is the impact of anti-drug antibodies (ADA) on PK prospectively assessed and integrated into exposure analyses?
+  - `CP17` *(SM)* — Is the metabolic and transporter pathway well-characterized?
+  - `CP18` *(SM)* — Has the compound been evaluated for CYP induction/inhibition?
+- **PT**
+  - `BBPT1` *(BIO)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `BBPT10` *(BIO)* — Is the bioanalytical method validated for exposure quantification?
+  - `BBPT11` *(BIO)* — Are systemic exposures (AUC, Cmax) measured in all GLP toxicity studies?
+  - `BBPT12` *(BIO)* — Are exposure margins vs. expected human exposure calculated and acceptable?
+  - `BBPT13` *(BIO)* — Are gender and species-specific TK differences characterized?
+  - `BBPT14` *(BIO)* — Are TK data integrated into safety assessments and dose selection?
+  - `BBPT15` *(BIO)* — Are GLP repeat-dose studies completed in pharmacologically relevant species?
+  - `BBPT16` *(BIO)* — Are study durations appropriate for the proposed clinical exposure?
+  - `BBPT17` *(BIO)* — Are organ toxicities, dose-limiting toxicities, and reversibility clearly defined?
+  - `BBPT18` *(BIO)* — Are NOAELs established and consistent with clinical dose projections?
+  - `BBPT19` *(BIO)* — Has the impact of anti-drug antibody formation on nonclinical study interpretation been assessed?
+  - `BBPT2` *(BIO)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `BBPT20` *(BIO)* — Are core safety pharmacology endpoints assessed (CNS, CV, respiratory)?
+  - `BBPT21` *(BIO)* — Are safety pharmacology endpoints integrated into repeat-dose toxicity studies consistent with ICH S6(R1)?
+  - `BBPT22` *(BIO)* — Are any findings of potential concern noted in these studies?
+  - `BBPT23` *(BIO)* — Are additional studies planned based on observed or predicted risks?
+  - `BBPT24` *(BIO)* — Has a carcinogenicity assessment been conducted or waived with appropriate weight-of-evidence justification?
+  - `BBPT25` *(BIO)* — Are threshold and risk-based justifications documented?
+  - `BBPT26` *(BIO)* — Are fertility, embryo-fetal development (EFD), and pre/postnatal development studies completed or planned?
+  - `BBPT27` *(BIO)* — Are data available to support inclusion of women of childbearing potential in clinical trials?
+  - `BBPT28` *(BIO)* — Are teratogenicity or embryotoxicity risks identified or ruled out?
+  - `BBPT29` *(BIO)* — Are juvenile animal studies required based on indication and target population?
+  - `BBPT3` *(BIO)* — Are dose-response and concentration-response relationships characterized?
+  - `BBPT30` *(BIO)* — Is an enhanced pre- and postnatal development (ePPND) study design employed in NHPs when this is the only relevant species?
+  - `BBPT31` *(BIO)* — Are species used in tox studies pharmacologically relevant (e.g., target engagement, binding affinity, functional activity)?
+  - `BBPT32` *(BIO)* — Are exposure and PK profiles across species consistent with human prediction?
+  - `BBPT33` *(BIO)* — Are any species-specific toxicities or limitations noted?
+  - `BBPT34` *(BIO)* — Is species selection rationale documented and regulatorily defensible?
+  - `BBPT35` *(BIO)* — When only one pharmacologically relevant species is available, is the single-species toxicology approach justified per ICH S6(R1)?
+  - `BBPT4` *(BIO)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `BBPT46` *(BIO)* — Are route-specific safety concerns addressed through histopathology or irritation studies?
+  - `BBPT47` *(BIO)* — Are all pivotal safety studies conducted under OECD or FDA GLP standards?
+  - `BBPT48` *(BIO)* — Are audited study reports available and complete?
+  - `BBPT49` *(BIO)* — Are any GLP deviations or findings reported and resolved?
+  - `BBPT5` *(BIO)* — Has an Fc effector function assessment been conducted to characterise intended and unintended immune effector activity (ADCC, ADCP, CDC)?
+  - `BBPT50` *(BIO)* — Have toxicology studies been included in IND/BLA submissions and reviewed by agencies?
+  - `BBPT51` *(BIO)* — Are regulatory comments or holds related to nonclinical safety addressed?
+  - `BBPT52` *(BIO)* — Are ICH guidelines followed (e.g., S6(R1), M3(R2), S9)?
+  - `BBPT53` *(BIO)* — Is the nonclinical module (eCTD Module 4) complete and inspection-ready?
+  - `BBPT54` *(BIO)* — Are raw data, study reports, pathology peer reviews, and archives complete?
+  - `BBPT55` *(BIO)* — Are pathology slides and histopathology data accessible for re-review?
+  - `BBPT56` *(BIO)* — Are QA statements included in all GLP reports?
+  - `BBPT57` *(BIO)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `BBPT58` *(BIO)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `BBPT59` *(BIO)* — Are tox findings translatable or relevant to human populations of interest?
+  - `BBPT6` *(BIO)* — For bispecifics: is the potential for unintended T-cell or immune cell activation in the absence of target assessed (e.g., non-specific FcγR cross-linking)?
+  - `BBPT60` *(BIO)* — Is the immunogenicity risk assessment strategy defined, including in silico, in vitro, and in vivo components?
+  - `BBPT61` *(BIO)* — Are validated bioanalytical methods established for detecting, confirming, and characterising anti-drug antibodies (including neutralising antibodies)?
+  - `BBPT62` *(BIO)* — Has the impact of ADA on pharmacokinetics, pharmacodynamics, efficacy, and safety been evaluated in nonclinical species?
+  - `BBPT63` *(BIO)* — For bispecifics: are novel structural elements (linkers, engineered domains, non-native junctions) assessed for incremental immunogenicity risk?
+  - `BBPT64` *(BIO)* — Has a GLP tissue cross-reactivity study been completed using human tissues with appropriate positive and negative controls?
+  - `BBPT65` *(BIO)* — Are unexpected binding patterns identified and assessed for clinical safety relevance?
+  - `BBPT66` *(BIO)* — For bispecifics: is the co-expression pattern of both targets characterised across normal human tissues?
+  - `BBPT67` *(BIO)* — Are TCR findings integrated with species selection rationale and clinical risk management plans?
+  - `BBPT68` *(BIO)* — Has the programme evaluated whether validated NAMs can replace, reduce, or refine planned animal studies?
+  - `BBPT69` *(BIO)* — Is there a weight-of-evidence risk assessment to justify reduction or elimination of chronic NHP toxicity studies?
+  - `BBPT7` *(BIO)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `BBPT70` *(BIO)* — Are in vitro human-relevant models used to assess target-mediated toxicities or on-target/off-tumour effects?
+  - `BBPT71` *(BIO)* — Is the NAMs strategy aligned with FDA's roadmap, ICH S6(R1) flexibility provisions, and the FDA Modernization Act 2.0?
+  - `BBPT72` *(BIO)* — Are the major disposition pathways characterised (FcRn recycling, target-mediated clearance, proteolytic catabolism)?
+  - `BBPT73` *(BIO)* — Is target-mediated drug disposition modelled, and for bispecifics, is the interaction between dual-target binding kinetics and PK characterised?
+  - `BBPT74` *(BIO)* — Are SC absorption kinetics (bioavailability, Tmax, lymphatic uptake) characterised if SC administration is planned?
+  - `BBPT75` *(BIO)* — Is the Fc engineering strategy assessed for impact on half-life, effector function, and FcRn binding?
+  - `BBPT76` *(BIO)* — Has a weight-of-evidence (WoE) risk assessment been conducted per FDA's December 2025 draft guidance on streamlined nonclinical safety studies to justify reducing chronic NHP to...
+  - `BBPT77` *(BIO)* — When no pharmacologically relevant species exists for one or both binding arms of a bispecific antibody, is the alternative nonclinical strategy documented and FDA-aligned (surr...
+  - `BBPT78` *(BIO)* — Are nonclinical safety biomarkers formally translated into clinical monitoring plans, with documented mapping from nonclinical toxicity findings to clinical safety endpoints, mo...
+  - `BBPT79` *(BIO)* — Is the in vitro cytokine release assay (CRA) strategy documented and fit-for-purpose, with appropriate assay format selection (whole blood vs PBMC, solid phase vs solution phase...
+  - `BBPT8` *(BIO)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `BBPT80` *(BIO)* — Has the impact of product-related impurities and quality attributes (aggregates, fragments, charge variants, host cell proteins, post-translational modifications) on observed no...
+  - `BBPT81` *(BIO)* — For bispecific antibodies with potential bell-shaped or non-monotonic dose-response relationships, has the nonclinical dose selection and NOAEL determination strategy accounted ...
+  - `BBPT82` *(BIO)* — When manufacturing process changes occur between nonclinical and clinical material (or between clinical batches), is there a documented assessment of whether existing nonclinica...
+  - `BBPT83` *(BIO)* — For biologics with potential pediatric indications, has the WoE approach for juvenile animal study requirements been assessed per ICH S11 and FDA December 2025 draft guidance, i...
+  - `BBPT84` *(BIO)* — Are pivotal nonclinical studies designed and conducted with SEND (Standard for Exchange of Nonclinical Data) format compliance, ensuring dataset submissions meet FDA technical r...
+  - `BBPT85` *(BIO)* — Has a photosafety assessment been conducted or waived with documented justification per ICH S10, considering the absorption spectrum of the biologic product and any photosensiti...
+  - `BBPT9` *(BIO)* — Are nonclinical PK studies performed in pharmacologically relevant species to characterise absorption, distribution, and clearance?
+  - `PT1` *(SM)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `PT10` *(SM)* — Is the bioanalytical method validated for exposure quantification?
+  - `PT11` *(SM)* — Are mass balance and tissue distribution studies completed or planned?
+  - `PT12` *(SM)* — Are metabolite profiles characterized and compared across species and humans (MIST compliance)?
+  - `PT13` *(SM)* — Are systemic exposures (AUC, Cmax) measured in all GLP toxicity studies?
+  - `PT14` *(SM)* — Are exposure margins vs. expected human exposure calculated and acceptable?
+  - `PT15` *(SM)* — Are gender and species-specific TK differences characterized?
+  - `PT16` *(SM)* — Are TK data integrated into safety assessments and dose selection?
+  - `PT17` *(SM)* — Are GLP repeat-dose studies completed in rodent and non-rodent species?
+  - `PT18` *(SM)* — Are study durations appropriate for the proposed clinical exposure?
+  - `PT19` *(SM)* — Are organ toxicities, dose-limiting toxicities, and reversibility clearly defined?
+  - `PT2` *(SM)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `PT20` *(SM)* — Are NOAELs established and consistent with clinical dose projections?
+  - `PT21` *(SM)* — Are core battery studies completed (CNS, CV, respiratory)?
+  - `PT22` *(SM)* — Is a telemetry study conducted in conscious animals for QT/ECG assessments?
+  - `PT23` *(SM)* — Are any findings of potential concern noted in these studies?
+  - `PT24` *(SM)* — Are additional studies planned based on observed or predicted risks?
+  - `PT25` *(SM)* — Are standard genotoxicity assays completed (Ames, in vitro micronucleus, in vivo)?
+  - `PT26` *(SM)* — Are results consistent across assays and GLP-compliant?
+  - `PT27` *(SM)* — Is there any evidence of mutagenicity or clastogenicity requiring further investigation?
+  - `PT3` *(SM)* — Are dose-response and concentration-response relationships characterized?
+  - `PT33` *(SM)* — Are teratogenicity or embryotoxicity risks identified or ruled out?
+  - `PT35` *(SM)* — Are species used in tox studies pharmacologically relevant (e.g., target engagement)?
+  - `PT36` *(SM)* — Are metabolite and exposure profiles across species consistent with human prediction?
+  - `PT37` *(SM)* — Are any species-specific toxicities or limitations noted?
+  - `PT38` *(SM)* — Is species selection rationale documented and regulatorily defensible?
+  - `PT39` *(SM)* — Are NOAELs, LOAELs, and MTDs clearly defined in all key studies?
+  - `PT4` *(SM)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `PT40` *(SM)* — Are safety margins calculated based on anticipated human exposure?
+  - `PT41` *(SM)* — Are HED (human equivalent dose) calculations and FIH (first-in-human) dose rationales well supported?
+  - `PT42` *(SM)* — Are dose-limiting toxicities manageable or reversible?
+  - `PT45` *(SM)* — Is the risk of cytokine storm or immune-mediated toxicity evaluated?
+  - `PT48` *(SM)* — Are all pivotal safety studies conducted under OECD or FDA GLP standards?
+  - `PT49` *(SM)* — Are audited study reports available and complete?
+  - `PT5` *(SM)* — Are off-target profiling or safety pharmacology panels conducted (e.g., CEREP, Eurofins)?
+  - `PT51` *(SM)* — Have toxicology studies been included in IND/CTA submissions and reviewed by agencies?
+  - `PT52` *(SM)* — Are regulatory comments or holds related to nonclinical safety addressed?
+  - `PT53` *(SM)* — Are ICH guidelines followed (e.g., M3(R2), S7A/B, S9)?
+  - `PT58` *(SM)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `PT59` *(SM)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `PT6` *(SM)* — Are relevant ion channel assays (e.g., hERG) and CNS/respiratory screens completed?
+  - `PT60` *(SM)* — Are tox findings translatable or relevant to human populations of interest?
+  - `PT7` *(SM)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `PT8` *(SM)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `PT9` *(SM)* — Are absorption, distribution, metabolism, and excretion studies performed in at least two species?
+- **REG**
+  - `BBREG10` *(BIO)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `BBREG11` *(BIO)* — Have pre-IND, IND, pre-BLA, or scientific advice meetings occurred?
+  - `BBREG12` *(BIO)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `BBREG13` *(BIO)* — Are written agency communications documented, archived, and tracked for actions?
+  - `BBREG14` *(BIO)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `BBREG15` *(BIO)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `BBREG4` *(BIO)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `BBREG5` *(BIO)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `BBREG6` *(BIO)* — Are claims in the TPP supported by available or planned data?
+  - `BBREG7` *(BIO)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `BBREG8` *(BIO)* — Are relevant precedents (approvals in the same indication, target, or biologic format) identified and analysed?
+  - `BBREG9` *(BIO)* — Have comparator products' regulatory histories been reviewed (e.g., label restrictions, REMS, biosimilar landscape)?
+  - `REG11` *(SM)* — Have pre-IND, IND, pre-CTA, or scientific advice meetings occurred?
+  - `REG12` *(SM)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `REG13` *(SM)* — Are written agency communications documented, archived, and tracked for actions?
+  - `REG15` *(SM)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `REG16` *(SM)* — Are all relevant modules (CMC, nonclinical, clinical) included and complete?
+  - `REG18` *(SM)* — Have any clinical holds, deficiencies, or questions been received and resolved?
+- **SAF**
+  - `BSAF1` *(BIO)* — Is the SMP aligned with the risk profile of the mAb/bispecific, including biologic-specific risks (immunogenicity, infusion reactions, CRS, immune-mediated AEs, target-mediated ...
+  - `BSAF2` *(BIO)* — Are roles and responsibilities for safety surveillance clearly defined, including biologic-specific safety roles (immunogenicity safety lead, CRS management medical monitor, inf...
+  - `BSAF3` *(BIO)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC) with biologic-specific competency (immunology, immunogenicity interpretation, CRS man...
+  - `SAF1` *(SM)* — Is the SMP aligned with the risk profile of the compound and clinical population?
+  - `SAF2` *(SM)* — Are roles and responsibilities for safety surveillance clearly defined across teams?
+  - `SAF3` *(SM)* — Is there a functioning Safety Review Committee (SRC) and/or Data Monitoring Committee (DMC)?
+- **TM**
+  - `BBTM30` *(BIO)* — Are biospecimen collection protocols in place with informed consent and ethics approvals?
+  - `BBTM31` *(BIO)* — Are biorepositories or sample tracking systems implemented?
+  - `BBTM46` *(BIO)* — Are biomarker strategies aligned with regulatory expectations (FDA, EMA, PMDA)?
+  - `BBTM47` *(BIO)* — Are discussions with agencies (e.g., biomarker qualification, CDx co-development) initiated or planned?
+  - `BBTM48` *(BIO)* — Are biomarker data included in IND/CTA submissions or briefing books?
+  - `BBTM49` *(BIO)* — If CDx is required, is an IVD partner identified and a development pathway in place?
+  - `BBTM50` *(BIO)* — Are nonclinical, clinical, and biomarker data integrated in a centralised database or data lake?
+  - `BBTM51` *(BIO)* — Are translational insights routinely discussed at governance or programme review meetings?
+  - `BBTM52` *(BIO)* — Are biomarkers influencing go/no-go and dose/regimen decisions?
+  - `BBTM53` *(BIO)* — For advanced modalities: are unique translational challenges addressed?
+  - `BBTM54` *(BIO)* — Are immunogenicity, cellular persistence, or biodistribution biomarkers in development?
+  - `BBTM55` *(BIO)* — Is platform data leveraged across programmes to refine translational strategy?
+  - `TM10` *(SM)* — Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?
+  - `TM11` *(SM)* — Are biomarkers included in clinical protocols and sample collection plans?
+  - `TM12` *(SM)* — Are preanalytical variables and sample logistics addressed (collection, handling, storage)?
+  - `TM13` *(SM)* — Are PD biomarkers available to confirm target engagement in vivo?
+  - `TM14` *(SM)* — Are dynamic changes in PD biomarkers characterized across doses and time?
+  - `TM15` *(SM)* — Are PD markers measurable in accessible human matrices (blood, urine, CSF, etc.)?
+  - `TM16` *(SM)* — Are biomarker assays qualified or validated to support decision-making?
+  - `TM17` *(SM)* — Are biomarkers identified to stratify or enrich clinical populations?
+  - `TM18` *(SM)* — Are genetic or protein expression markers associated with response or resistance?
+  - `TM19` *(SM)* — Has biomarker prevalence in the target population been estimated or confirmed?
+  - `TM20` *(SM)* — Are patient selection criteria biomarker-driven in clinical trials?
+  - `TM21` *(SM)* — Are biomarkers in place to predict or monitor potential toxicities (e.g., cardiac, hepatic, renal)?
+  - `TM22` *(SM)* — Are translational links established between nonclinical toxicity findings and human safety biomarkers?
+  - `TM24` *(SM)* — Are assays (e.g., ELISA, qPCR, flow cytometry, LC-MS, NGS) developed and technically validated?
+  - `TM25` *(SM)* — Are performance characteristics (sensitivity, specificity, LLOQ, ULOQ) documented?
+  - `TM26` *(SM)* — Is there a clear plan for bioanalytical method validation under GxP where required?
+  - `TM27` *(SM)* — Are biomarker assays transferable to central labs or CROs?
+  - `TM28` *(SM)* — Are biospecimen collection protocols in place with informed consent and ethics approvals?
+  - `TM29` *(SM)* — Are biorepositories or sample tracking systems implemented?
+  - `TM30` *(SM)* — Are sample integrity and chain-of-custody procedures established?
+  - `TM31` *(SM)* — Are nonclinical and translational data sufficient to justify FIH starting dose and escalation?
+  - `TM32` *(SM)* — Are PK/PD relationships modeled and simulated for dose selection?
+  - `TM33` *(SM)* — Is there confidence in pharmacologic activity at clinically achievable exposures?
+  - `TM34` *(SM)* — Are FIH biomarkers integrated into early clinical endpoints?
+  - `TM35` *(SM)* — Is a PK/PD or QSP model in place to guide dose and regimen selection?
+  - `TM36` *(SM)* — Are physiologically based pharmacokinetic (PBPK) models used to predict human exposure?
+  - `TM37` *(SM)* — Are modeling efforts cross-validated with preclinical and clinical data?
+  - `TM4` *(SM)* — Is there alignment between preclinical and clinical PK/PD?
+  - `TM9` *(SM)* — Is there a written, cross-functional biomarker strategy covering discovery to validation?
+
+### DD — Due Diligence
+
+- **CDM**
+  - `BBCDM1` *(BIO)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `BBCDM10` *(BIO)* — For bispecifics and immune-engaging biologics: is the dose escalation design appropriate, including step-up dosing, CRS monitoring, and site readiness requirements?
+  - `BBCDM11` *(BIO)* — Is the dose optimisation strategy aligned with FDA Project Optimus expectations for identifying the optimal biological dose?
+  - `BBCDM2` *(BIO)* — Does the clinical development plan (CDP) map to the TPP with clear inflection points?
+  - `BBCDM29` *(BIO)* — Have clinical programmes been discussed with regulators?
+  - `BBCDM3` *(BIO)* — Are the indications well-justified in terms of unmet need and path to registration?
+  - `BBCDM38` *(BIO)* — Are sample size calculations and power assumptions justified?
+  - `BBCDM4` *(BIO)* — Are the development goals feasible within the competitive and payer landscape?
+  - `BBCDM41` *(BIO)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `BBCDM43` *(BIO)* — Have competitor trial designs, endpoints, and outcomes been benchmarked?
+  - `BBCDM44` *(BIO)* — Are benefit-risk assessments conducted?
+  - `BBCDM45` *(BIO)* — Are there any clinical red flags that could impact approvability?
+  - `BBCDM49` *(BIO)* — Are post-approval study commitments or Phase 4 trials planned?
+  - `BBCDM50` *(BIO)* — Are registries or real-world studies planned for value demonstration?
+  - `BBCDM51` *(BIO)* — Are all clinical study protocols, SAPs, CSRs, and patient narratives archived?
+  - `BBCDM52` *(BIO)* — Are ICFs, ethics approvals, and investigator site files inspection-ready?
+  - `BBCDM53` *(BIO)* — Are all clinical modules of the eCTD populated and consistent?
+  - `CDM1` *(SM)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `CDM17` *(SM)* — Are risk mitigation strategies defined for known or potential safety issues?
+  - `CDM2` *(SM)* — Does the clinical development plan (CDP) map to the TPP with clear inflection points?
+  - `CDM20` *(SM)* — Are endpoints aligned with regulatory expectations for approval and labeling?
+  - `CDM26` *(SM)* — Have clinical programs been discussed with regulators (pre-IND, EOP2, Scientific Advice)?
+  - `CDM27` *(SM)* — Are clinical endpoints and trial designs aligned with regulatory guidance?
+  - `CDM3` *(SM)* — Are the indications well-justified in terms of unmet need and path to registration?
+  - `CDM35` *(SM)* — Are sample size calculations and power assumptions justified?
+  - `CDM38` *(SM)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `CDM39` *(SM)* — Is the positioning clear vs. existing and emerging therapies?
+  - `CDM42` *(SM)* — Are there any clinical red flags that could impact approvability or uptake?
+  - `CDM43` *(SM)* — Are toxicity or safety signals manageable with monitoring, mitigation, or labeling?
+  - `CDM44` *(SM)* — Are there defined “no-go” criteria for development continuation?
+  - `CDM5` *(SM)* — Are trial designs (Ph1–Ph3) scientifically and statistically sound?
+  - `CDM6` *(SM)* — Are endpoints (primary, secondary, exploratory) clinically meaningful and validated?
+  - `CDM7` *(SM)* — Is the choice of patient population appropriate and justified?
+  - `CDM8` *(SM)* — Are inclusion/exclusion criteria optimized for recruitment and generalizability?
+  - `CDM9` *(SM)* — Are comparator arms (placebo, active) aligned with standard of care?
+- **CMC**
+  - `BBCMC1` *(BIO)* — Is there a cohesive CMC development plan aligned with the clinical and regulatory strategy?
+  - `BBCMC10` *(BIO)* — Is the formulation suitable for the target population and indication?
+  - `BBCMC11` *(BIO)* — Is the formulation stable, scalable, and compatible with packaging and delivery devices?
+  - `BBCMC14` *(BIO)* — Are critical process parameters (CPPs) and critical quality attributes (CQAs) identified?
+  - `BBCMC2` *(BIO)* — Are there clear links between CMC timelines and clinical/commercial milestones?
+  - `BBCMC24` *(BIO)* — Are GMP-compliant manufacturers (CMOs or internal) qualified and audited?
+  - `BBCMC25` *(BIO)* — Is the supply chain secure and robust?
+  - `BBCMC28` *(BIO)* — Is process development at the appropriate stage for the clinical phase?
+  - `BBCMC29` *(BIO)* — Are scale-up risks identified and addressed (yield, product quality shifts, CQA changes)?
+  - `BBCMC3` *(BIO)* — Are critical CMC risks identified and mitigated?
+  - `BBCMC4` *(BIO)* — Is the upstream cell culture process (fermentation/bioreactor) defined, optimised, and scalable?
+  - `BBCMC47` *(BIO)* — Is the production cell line fully characterised, banked under GMP, and demonstrated to be stable?
+  - `BBCMC48` *(BIO)* — Is the expression construct fully characterised with sequence confirmation and copy number assessment?
+  - `BBCMC5` *(BIO)* — Is the downstream purification process robust and capable of achieving required purity?
+  - `BBCMC50` *(BIO)* — For bispecifics: is the cell line strategy appropriate for the bispecific format (single cell vs. separate expression and assembly)?
+  - `BBCMC51` *(BIO)* — Is the primary structure fully confirmed (sequence, post-translational modifications, disulphide bonds)?
+  - `BBCMC52` *(BIO)* — Is the higher-order structure characterised (secondary, tertiary, quaternary)?
+  - `BBCMC53` *(BIO)* — Is the glycosylation profile characterised and controlled?
+  - `BBCMC54` *(BIO)* — Is a potency assay developed that reflects the biological mechanism of action?
+  - `BBCMC55` *(BIO)* — Are viral safety studies completed per ICH Q5A (cell substrate testing, process validation, bulk harvest testing)?
+  - `BBCMC56` *(BIO)* — Is the viral clearance validation study designed with an appropriate virus panel and conducted to current regulatory standards?
+  - `BBCMC57` *(BIO)* — Are viral inactivation and removal steps integrated into the manufacturing process?
+  - `BBCMC58` *(BIO)* — Is there a viral contamination response plan and are raw materials assessed for viral risk?
+  - `BBCMC6` *(BIO)* — Are process-related and product-related impurities identified, characterised, and controlled?
+  - `BBCMC7` *(BIO)* — Are DS release and stability specifications justified and aligned with phase?
+  - `CMC1` *(SM)* — Is there a cohesive CMC development plan aligned with the clinical and regulatory strategy?
+  - `CMC10` *(SM)* — Are DS materials sourced from GMP-qualified manufacturers?
+  - `CMC12` *(SM)* — Is the formulation suitable for the target population and indication?
+  - `CMC13` *(SM)* — Is the formulation stable, scalable, and compatible with packaging?
+  - `CMC16` *(SM)* — Are critical process parameters (CPPs) and quality attributes (CQAs) identified?
+  - `CMC18` *(SM)* — Are analytical methods fully validated (or verified for early phase)?
+  - `CMC19` *(SM)* — Are stability-indicating methods available?
+  - `CMC2` *(SM)* — Are there clear links between CMC timelines and clinical/commercial milestones?
+  - `CMC22` *(SM)* — Is there sufficient stability data under ICH conditions to support the current phase?
+  - `CMC24` *(SM)* — Is stability tracked across both DS and DP with relevant packaging?
+  - `CMC26` *(SM)* — Are GMP-compliant manufacturers (CMOs or internal) qualified and audited?
+  - `CMC27` *(SM)* — Is the supply chain secure and robust (multiple suppliers, risk mitigation)?
+  - `CMC3` *(SM)* — Are critical CMC risks identified and mitigated?
+  - `CMC30` *(SM)* — Is process development at the appropriate stage (lab/pilot/commercial)?
+  - `CMC33` *(SM)* — Is a Quality by Design (QbD) or control strategy defined?
+  - `CMC35` *(SM)* — Are recent regulatory interactions documented (CMC questions, responses)?
+  - `CMC37` *(SM)* — Is there alignment with ICH guidelines (Q6-Q12, Q3A/B, Q7)?
+  - `CMC4` *(SM)* — Is the synthetic route scalable, robust, and well-defined?
+  - `CMC42` *(SM)* — Is there a Quality Management System (QMS) in place at sponsor/CMO?
+  - `CMC5` *(SM)* — Is there a formal route of synthesis locked for commercial production?
+  - `CMC6` *(SM)* — Are impurities identified, qualified, and controlled?
+  - `CMC7` *(SM)* — Are genotoxic impurities assessed per ICH M7?
+  - `CMC8` *(SM)* — Are DS release and stability specifications justified and aligned with phase?
+  - `CMC9` *(SM)* — Are solid forms and chiral centers characterized and controlled?
+- **COM**
+  - `BBCOM10` *(BIO)* — Are competitor profiles up to date (MOA, clinical status, launch timing, pricing)?
+  - `BBCOM11` *(BIO)* — Is there a clear differentiation strategy vs. competitors?
+  - `BBCOM12` *(BIO)* — Are emerging technologies or disruptive entrants monitored?
+  - `BBCOM13` *(BIO)* — Have initial pricing assumptions been modeled and benchmarked?
+  - `BBCOM14` *(BIO)* — Are health economic/value frameworks developed (e.g., cost-effectiveness models)?
+  - `BBCOM15` *(BIO)* — Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?
+  - `BBCOM7` *(BIO)* — Does the product address a high unmet need or a defined market gap?
+  - `BBCOM9` *(BIO)* — Has a comprehensive competitor analysis been performed (pipeline + marketed)?
+  - `COM5` *(SM)* — Is the TPP aligned with market and payer expectations?
+  - `COM6` *(SM)* — Are differentiating features clearly articulated (efficacy, safety, route, convenience)?
+  - `COM7` *(SM)* — Does the product address a high unmet need or a defined market gap?
+- **CP**
+  - `BBCP1` *(BIO)* — Is there a written clinical pharmacology plan aligned with the TPP?
+  - `BBCP10` *(BIO)* — Are there validated PD biomarkers linked to MOA or clinical endpoints?
+  - `BBCP11` *(BIO)* — Is there an E-R model for efficacy? For safety?
+  - `BBCP12` *(BIO)* — Has a therapeutic index been established or estimated?
+  - `BBCP13` *(BIO)* — Are E-R analyses used to support dose selection, including flat vs. weight-based dosing decisions?
+  - `BBCP14` *(BIO)* — For bispecifics: is the relationship between exposure, target cell engagement, immune activation, and clinical response characterised, including potential bell-shaped dose-respo...
+  - `BBCP15` *(BIO)* — Is SC bioavailability characterised if SC administration is planned?
+  - `BBCP16` *(BIO)* — Are manufacturing process changes bridged by clinical PK comparability data?
+  - `BBCP17` *(BIO)* — For IV-to-SC switching programmes: is the SC dose justified with PK/PD modelling to achieve comparable target coverage?
+  - `BBCP18` *(BIO)* — Has the potential for immune-mediated drug interactions (cytokine-mediated CYP modulation) been assessed?
+  - `BBCP19` *(BIO)* — Are pharmacokinetic interactions with co-administered biologics or standard-of-care therapies characterised?
+  - `BBCP2` *(BIO)* — Is the dose selection strategy clear and justified across development stages?
+  - `BBCP20` *(BIO)* — Is the impact of the biologic on vaccines or concomitant immunosuppressive therapy assessed?
+  - `BBCP21` *(BIO)* — Are the effects of body weight, disease burden, and baseline target levels on PK/PD characterised?
+  - `BBCP22` *(BIO)* — Is a dedicated organ impairment study required, or is a waiver justified based on the biologic's elimination mechanism?
+  - `BBCP3` *(BIO)* — Are clinical pharmacology activities integrated into the overall development plan?
+  - `BBCP31` *(BIO)* — Are simulations supporting dose selection and labeling?
+  - `BBCP32` *(BIO)* — Is PBPK modelling used to support biologic-specific PK predictions (SC absorption, tissue distribution, FcRn-mediated disposition)?
+  - `BBCP33` *(BIO)* — Are PBPK models built with adequate quality, documentation, and validated against clinical data?
+  - `BBCP34` *(BIO)* — Are PBPK models submitted to regulators to support dose justification or special population predictions?
+  - `BBCP35` *(BIO)* — Is a Paediatric Study Plan (iPSP / PIP) in place?
+  - `BBCP36` *(BIO)* — Are regulatory interactions (pre-IND, EOP2, Scientific Advice) documented?
+  - `BBCP37` *(BIO)* — Is the clinical pharmacology package adequate to support dose justification in pivotal studies?
+  - `BBCP38` *(BIO)* — Is there a clear relationship between exposure and adverse events, including immune-mediated toxicities?
+  - `BBCP39` *(BIO)* — Are there modeling-based safety margins for critical toxicities?
+  - `BBCP4` *(BIO)* — Are PK profiles adequately characterised in the intended patient population?
+  - `BBCP40` *(BIO)* — Are PK/PD/clinical data integrated to support risk–benefit claims?
+  - `BBCP5` *(BIO)* — Has dose-exposure linearity been assessed, including characterisation of non-linear PK from target-mediated drug disposition?
+  - `BBCP6` *(BIO)* — Are single- and multiple-dose PKs evaluated with appropriate sampling to capture biologic disposition phases?
+  - `BBCP7` *(BIO)* — Are accumulation, steady-state, and time-dependent PK changes characterised?
+  - `BBCP8` *(BIO)* — Are inter-individual and intra-individual PK variabilities quantified and sources identified?
+  - `BBCP9` *(BIO)* — Is the impact of anti-drug antibodies (ADA) on PK prospectively assessed and integrated into exposure analyses?
+  - `CP1` *(SM)* — Is there a written clinical pharmacology plan aligned with the TPP?
+  - `CP10` *(SM)* — Is there an E-R model for efficacy? For safety?
+  - `CP11` *(SM)* — Has a therapeutic index been established or estimated?
+  - `CP12` *(SM)* — Are E-R analyses used to support dose selection?
+  - `CP17` *(SM)* — Is the metabolic and transporter pathway well-characterized?
+  - `CP18` *(SM)* — Has the compound been evaluated for CYP induction/inhibition?
+  - `CP2` *(SM)* — Is the dose selection strategy clear and justified across development stages?
+  - `CP3` *(SM)* — Are clinical pharmacology activities integrated into the overall development plan?
+  - `CP37` *(SM)* — Are regulatory interactions (pre-IND, EOP2, Scientific Advice) documented?
+  - `CP9` *(SM)* — Are there validated PD biomarkers linked to MoA or clinical endpoints?
+- **PM**
+  - `BPM1` *(BIO)* — Is there a single, unified Integrated Development Plan (IDP) that consolidates all functional workstreams (nonclinical, CMC, clinical, regulatory, commercial) into one master ti...
+  - `BPM10` *(BIO)* — Is a formal risk register maintained with identified risks categorised by likelihood, impact, and risk score — with pre-defined mitigation plans and risk owners for all high-sev...
+  - `BPM11` *(BIO)* — Is there a clear distinction between risks (potential future events) and issues (current problems requiring resolution) — with separate tracking, escalation, and resolution proc...
+  - `BPM12` *(BIO)* — Are programme-level risks and issues escalated to governance bodies with recommended actions — not just reported as status updates?
+  - `BPM13` *(BIO)* — Is a quantitative schedule risk analysis (Monte Carlo or equivalent) conducted for major programme milestones to generate probability-weighted timeline estimates?
+  - `BPM14` *(BIO)* — Are lessons learned from prior programmes (internal and external) systematically captured, archived, and applied to current programme planning?
+  - `BPM15` *(BIO)* — Is a stage-gate governance framework in place with defined decision points, gate criteria, deliverables, and decision-making authority at each stage of development (discovery → ...
+  - `BPM16` *(BIO)* — Are go/no-go decision criteria defined prospectively and quantitatively — not retrospectively rationalised based on available data?
+  - `BPM17` *(BIO)* — Is the governance structure clearly defined — with distinct roles for the Project Team (recommend), the Development Committee (decide), and the Executive/Board level (approve in...
+  - `BPM18` *(BIO)* — Are governance meetings structured with pre-read materials, defined agendas, decision items clearly distinguished from information items, and documented action items with owners...
+  - `BPM2` *(BIO)* — Is the critical path clearly identified, maintained, and communicated — with explicit documentation of which activities are critical-path vs float activities, and what drives th...
+  - `BPM3` *(BIO)* — Are Gantt charts or equivalent scheduling tools in use with task-level detail, resource assignments, dependencies, and milestone tracking — maintained in a professional project ...
+  - `BPM4` *(BIO)* — Are key development milestones defined with clear completion criteria (not just target dates), including both internal decision milestones and external/regulatory milestones?
+  - `BPM5` *(BIO)* — Is scenario planning conducted for the development timeline, with best-case, base-case, and worst-case scenarios quantified and linked to identified risks?
+  - `BPM6` *(BIO)* — Are cross-functional dependencies explicitly mapped, tracked, and owned — with each dependency having a provider function, a receiver function, a deliverable description, and a ...
+  - `BPM7` *(BIO)* — Is the sequencing of regulatory submissions, nonclinical studies, CMC activities, and clinical trials explicitly orchestrated to avoid bottlenecks — with particular attention to...
+  - `BPM8` *(BIO)* — Are drug supply requirements integrated into the project timeline with manufacturing lead times, batch release timelines, and stability requirements explicitly linked to clinica...
+  - `BPM9` *(BIO)* — Is regulatory interaction timing explicitly planned and linked to data readiness from contributing functions — with lead times for briefing document preparation, submission, and...
+- **PT**
+  - `BBPT1` *(BIO)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `BBPT10` *(BIO)* — Is the bioanalytical method validated for exposure quantification?
+  - `BBPT11` *(BIO)* — Are systemic exposures (AUC, Cmax) measured in all GLP toxicity studies?
+  - `BBPT12` *(BIO)* — Are exposure margins vs. expected human exposure calculated and acceptable?
+  - `BBPT13` *(BIO)* — Are gender and species-specific TK differences characterized?
+  - `BBPT14` *(BIO)* — Are TK data integrated into safety assessments and dose selection?
+  - `BBPT15` *(BIO)* — Are GLP repeat-dose studies completed in pharmacologically relevant species?
+  - `BBPT16` *(BIO)* — Are study durations appropriate for the proposed clinical exposure?
+  - `BBPT17` *(BIO)* — Are organ toxicities, dose-limiting toxicities, and reversibility clearly defined?
+  - `BBPT18` *(BIO)* — Are NOAELs established and consistent with clinical dose projections?
+  - `BBPT19` *(BIO)* — Has the impact of anti-drug antibody formation on nonclinical study interpretation been assessed?
+  - `BBPT2` *(BIO)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `BBPT20` *(BIO)* — Are core safety pharmacology endpoints assessed (CNS, CV, respiratory)?
+  - `BBPT21` *(BIO)* — Are safety pharmacology endpoints integrated into repeat-dose toxicity studies consistent with ICH S6(R1)?
+  - `BBPT22` *(BIO)* — Are any findings of potential concern noted in these studies?
+  - `BBPT23` *(BIO)* — Are additional studies planned based on observed or predicted risks?
+  - `BBPT24` *(BIO)* — Has a carcinogenicity assessment been conducted or waived with appropriate weight-of-evidence justification?
+  - `BBPT25` *(BIO)* — Are threshold and risk-based justifications documented?
+  - `BBPT26` *(BIO)* — Are fertility, embryo-fetal development (EFD), and pre/postnatal development studies completed or planned?
+  - `BBPT27` *(BIO)* — Are data available to support inclusion of women of childbearing potential in clinical trials?
+  - `BBPT28` *(BIO)* — Are teratogenicity or embryotoxicity risks identified or ruled out?
+  - `BBPT29` *(BIO)* — Are juvenile animal studies required based on indication and target population?
+  - `BBPT3` *(BIO)* — Are dose-response and concentration-response relationships characterized?
+  - `BBPT30` *(BIO)* — Is an enhanced pre- and postnatal development (ePPND) study design employed in NHPs when this is the only relevant species?
+  - `BBPT31` *(BIO)* — Are species used in tox studies pharmacologically relevant (e.g., target engagement, binding affinity, functional activity)?
+  - `BBPT32` *(BIO)* — Are exposure and PK profiles across species consistent with human prediction?
+  - `BBPT33` *(BIO)* — Are any species-specific toxicities or limitations noted?
+  - `BBPT34` *(BIO)* — Is species selection rationale documented and regulatorily defensible?
+  - `BBPT35` *(BIO)* — When only one pharmacologically relevant species is available, is the single-species toxicology approach justified per ICH S6(R1)?
+  - `BBPT4` *(BIO)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `BBPT5` *(BIO)* — Has an Fc effector function assessment been conducted to characterise intended and unintended immune effector activity (ADCC, ADCP, CDC)?
+  - `BBPT56` *(BIO)* — Are QA statements included in all GLP reports?
+  - `BBPT57` *(BIO)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `BBPT58` *(BIO)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `BBPT59` *(BIO)* — Are tox findings translatable or relevant to human populations of interest?
+  - `BBPT6` *(BIO)* — For bispecifics: is the potential for unintended T-cell or immune cell activation in the absence of target assessed (e.g., non-specific FcγR cross-linking)?
+  - `BBPT60` *(BIO)* — Is the immunogenicity risk assessment strategy defined, including in silico, in vitro, and in vivo components?
+  - `BBPT61` *(BIO)* — Are validated bioanalytical methods established for detecting, confirming, and characterising anti-drug antibodies (including neutralising antibodies)?
+  - `BBPT62` *(BIO)* — Has the impact of ADA on pharmacokinetics, pharmacodynamics, efficacy, and safety been evaluated in nonclinical species?
+  - `BBPT63` *(BIO)* — For bispecifics: are novel structural elements (linkers, engineered domains, non-native junctions) assessed for incremental immunogenicity risk?
+  - `BBPT64` *(BIO)* — Has a GLP tissue cross-reactivity study been completed using human tissues with appropriate positive and negative controls?
+  - `BBPT65` *(BIO)* — Are unexpected binding patterns identified and assessed for clinical safety relevance?
+  - `BBPT66` *(BIO)* — For bispecifics: is the co-expression pattern of both targets characterised across normal human tissues?
+  - `BBPT67` *(BIO)* — Are TCR findings integrated with species selection rationale and clinical risk management plans?
+  - `BBPT68` *(BIO)* — Has the programme evaluated whether validated NAMs can replace, reduce, or refine planned animal studies?
+  - `BBPT69` *(BIO)* — Is there a weight-of-evidence risk assessment to justify reduction or elimination of chronic NHP toxicity studies?
+  - `BBPT7` *(BIO)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `BBPT70` *(BIO)* — Are in vitro human-relevant models used to assess target-mediated toxicities or on-target/off-tumour effects?
+  - `BBPT71` *(BIO)* — Is the NAMs strategy aligned with FDA's roadmap, ICH S6(R1) flexibility provisions, and the FDA Modernization Act 2.0?
+  - `BBPT72` *(BIO)* — Are the major disposition pathways characterised (FcRn recycling, target-mediated clearance, proteolytic catabolism)?
+  - `BBPT73` *(BIO)* — Is target-mediated drug disposition modelled, and for bispecifics, is the interaction between dual-target binding kinetics and PK characterised?
+  - `BBPT74` *(BIO)* — Are SC absorption kinetics (bioavailability, Tmax, lymphatic uptake) characterised if SC administration is planned?
+  - `BBPT75` *(BIO)* — Is the Fc engineering strategy assessed for impact on half-life, effector function, and FcRn binding?
+  - `BBPT76` *(BIO)* — Has a weight-of-evidence (WoE) risk assessment been conducted per FDA's December 2025 draft guidance on streamlined nonclinical safety studies to justify reducing chronic NHP to...
+  - `BBPT77` *(BIO)* — When no pharmacologically relevant species exists for one or both binding arms of a bispecific antibody, is the alternative nonclinical strategy documented and FDA-aligned (surr...
+  - `BBPT78` *(BIO)* — Are nonclinical safety biomarkers formally translated into clinical monitoring plans, with documented mapping from nonclinical toxicity findings to clinical safety endpoints, mo...
+  - `BBPT79` *(BIO)* — Is the in vitro cytokine release assay (CRA) strategy documented and fit-for-purpose, with appropriate assay format selection (whole blood vs PBMC, solid phase vs solution phase...
+  - `BBPT8` *(BIO)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `BBPT80` *(BIO)* — Has the impact of product-related impurities and quality attributes (aggregates, fragments, charge variants, host cell proteins, post-translational modifications) on observed no...
+  - `BBPT81` *(BIO)* — For bispecific antibodies with potential bell-shaped or non-monotonic dose-response relationships, has the nonclinical dose selection and NOAEL determination strategy accounted ...
+  - `BBPT82` *(BIO)* — When manufacturing process changes occur between nonclinical and clinical material (or between clinical batches), is there a documented assessment of whether existing nonclinica...
+  - `BBPT83` *(BIO)* — For biologics with potential pediatric indications, has the WoE approach for juvenile animal study requirements been assessed per ICH S11 and FDA December 2025 draft guidance, i...
+  - `BBPT84` *(BIO)* — Are pivotal nonclinical studies designed and conducted with SEND (Standard for Exchange of Nonclinical Data) format compliance, ensuring dataset submissions meet FDA technical r...
+  - `BBPT85` *(BIO)* — Has a photosafety assessment been conducted or waived with documented justification per ICH S10, considering the absorption spectrum of the biologic product and any photosensiti...
+  - `BBPT9` *(BIO)* — Are nonclinical PK studies performed in pharmacologically relevant species to characterise absorption, distribution, and clearance?
+  - `PT1` *(SM)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `PT10` *(SM)* — Is the bioanalytical method validated for exposure quantification?
+  - `PT11` *(SM)* — Are mass balance and tissue distribution studies completed or planned?
+  - `PT12` *(SM)* — Are metabolite profiles characterized and compared across species and humans (MIST compliance)?
+  - `PT13` *(SM)* — Are systemic exposures (AUC, Cmax) measured in all GLP toxicity studies?
+  - `PT14` *(SM)* — Are exposure margins vs. expected human exposure calculated and acceptable?
+  - `PT15` *(SM)* — Are gender and species-specific TK differences characterized?
+  - `PT16` *(SM)* — Are TK data integrated into safety assessments and dose selection?
+  - `PT17` *(SM)* — Are GLP repeat-dose studies completed in rodent and non-rodent species?
+  - `PT18` *(SM)* — Are study durations appropriate for the proposed clinical exposure?
+  - `PT19` *(SM)* — Are organ toxicities, dose-limiting toxicities, and reversibility clearly defined?
+  - `PT2` *(SM)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `PT20` *(SM)* — Are NOAELs established and consistent with clinical dose projections?
+  - `PT21` *(SM)* — Are core battery studies completed (CNS, CV, respiratory)?
+  - `PT22` *(SM)* — Is a telemetry study conducted in conscious animals for QT/ECG assessments?
+  - `PT23` *(SM)* — Are any findings of potential concern noted in these studies?
+  - `PT24` *(SM)* — Are additional studies planned based on observed or predicted risks?
+  - `PT25` *(SM)* — Are standard genotoxicity assays completed (Ames, in vitro micronucleus, in vivo)?
+  - `PT27` *(SM)* — Is there any evidence of mutagenicity or clastogenicity requiring further investigation?
+  - `PT3` *(SM)* — Are dose-response and concentration-response relationships characterized?
+  - `PT33` *(SM)* — Are teratogenicity or embryotoxicity risks identified or ruled out?
+  - `PT35` *(SM)* — Are species used in tox studies pharmacologically relevant (e.g., target engagement)?
+  - `PT36` *(SM)* — Are metabolite and exposure profiles across species consistent with human prediction?
+  - `PT37` *(SM)* — Are any species-specific toxicities or limitations noted?
+  - `PT39` *(SM)* — Are NOAELs, LOAELs, and MTDs clearly defined in all key studies?
+  - `PT4` *(SM)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `PT40` *(SM)* — Are safety margins calculated based on anticipated human exposure?
+  - `PT41` *(SM)* — Are HED (human equivalent dose) calculations and FIH (first-in-human) dose rationales well supported?
+  - `PT42` *(SM)* — Are dose-limiting toxicities manageable or reversible?
+  - `PT45` *(SM)* — Is the risk of cytokine storm or immune-mediated toxicity evaluated?
+  - `PT48` *(SM)* — Are all pivotal safety studies conducted under OECD or FDA GLP standards?
+  - `PT49` *(SM)* — Are audited study reports available and complete?
+  - `PT5` *(SM)* — Are off-target profiling or safety pharmacology panels conducted (e.g., CEREP, Eurofins)?
+  - `PT51` *(SM)* — Have toxicology studies been included in IND/CTA submissions and reviewed by agencies?
+  - `PT52` *(SM)* — Are regulatory comments or holds related to nonclinical safety addressed?
+  - `PT58` *(SM)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `PT59` *(SM)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `PT6` *(SM)* — Are relevant ion channel assays (e.g., hERG) and CNS/respiratory screens completed?
+  - `PT60` *(SM)* — Are tox findings translatable or relevant to human populations of interest?
+  - `PT7` *(SM)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `PT8` *(SM)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `PT9` *(SM)* — Are absorption, distribution, metabolism, and excretion studies performed in at least two species?
+- **REG**
+  - `BBREG1` *(BIO)* — Is there a formal, written global regulatory strategy document?
+  - `BBREG10` *(BIO)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `BBREG11` *(BIO)* — Have pre-IND, IND, pre-BLA, or scientific advice meetings occurred?
+  - `BBREG12` *(BIO)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `BBREG13` *(BIO)* — Are written agency communications documented, archived, and tracked for actions?
+  - `BBREG14` *(BIO)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `BBREG15` *(BIO)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `BBREG2` *(BIO)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `BBREG3` *(BIO)* — Are regulatory plans synchronised with clinical, CMC, and commercial timelines?
+  - `BBREG4` *(BIO)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `BBREG5` *(BIO)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `BBREG6` *(BIO)* — Are claims in the TPP supported by available or planned data?
+  - `BBREG7` *(BIO)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `BBREG8` *(BIO)* — Are relevant precedents (approvals in the same indication, target, or biologic format) identified and analysed?
+  - `BBREG9` *(BIO)* — Have comparator products' regulatory histories been reviewed (e.g., label restrictions, REMS, biosimilar landscape)?
+  - `REG1` *(SM)* — Is there a formal, written global regulatory strategy document?
+  - `REG10` *(SM)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `REG11` *(SM)* — Have pre-IND, IND, pre-CTA, or scientific advice meetings occurred?
+  - `REG12` *(SM)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `REG14` *(SM)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `REG15` *(SM)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `REG2` *(SM)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `REG3` *(SM)* — Are regulatory plans synchronized with clinical, CMC, and commercial timelines?
+  - `REG30` *(SM)* — Are regulatory risks identified (e.g., first-in-class mechanism, animal findings, CMC gaps)?
+  - `REG31` *(SM)* — Is there a formal benefit-risk assessment?
+  - `REG32` *(SM)* — Are mitigation plans documented for key risk areas?
+  - `REG33` *(SM)* — Are there known issues with platform or class-based precedents?
+  - `REG4` *(SM)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `REG5` *(SM)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `REG6` *(SM)* — Are claims in the TPP supported by available or planned data?
+  - `REG7` *(SM)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `REG8` *(SM)* — Are relevant precedents (e.g., approvals in the same indication or modality) identified and analyzed?
+  - `REG9` *(SM)* — Have comparator products’ regulatory histories been reviewed (e.g., label restrictions, REMS)?
+- **SAF**
+  - `BSAF61` *(BIO)* — Is there a defined process for distinguishing between pharmacodynamic effects (intended mechanism) and safety signals for immunomodulatory/immune-activating biologics, with docu...
+  - `BSAF62` *(BIO)* — Is there a documented class-wide safety monitoring strategy that incorporates learnings from other approved biologics with the same target, mechanism, or structural class, and a...
+  - `BSAF63` *(BIO)* — For immunosuppressive/immunomodulatory biologics, is there a comprehensive infection surveillance program, including screening for latent infections (TB, hepatitis B/C), monitor...
+  - `BSAF64` *(BIO)* — Is there an integrated safety-PK-immunogenicity analysis framework that enables real-time correlation of safety events with drug exposure levels and ADA status, supporting mecha...
+  - `BSAF65` *(BIO)* — Is the safety database adequacy assessment performed per ICH E1 guidelines, with biologic-specific considerations for safety database size (longer exposure durations needed for ...
+  - `BSAF66` *(BIO)* — For FIH and early-phase biologic studies, is the starting dose safety assessment based on appropriate biologic-specific methodology (MABEL for immune-activating biologics, NOAEL...
+  - `BSAF67` *(BIO)* — For bispecific T-cell engagers, is immune effector cell-associated neurotoxicity syndrome (ICANS) prospectively monitored with standardized grading (ASTCT/ICE score), defined ma...
+  - `BSAF68` *(BIO)* — Has the risk of ADA cross-reacting with and neutralizing the endogenous counterpart of the therapeutic protein been formally assessed, with a prospective monitoring plan if the ...
+  - `BSAF69` *(BIO)* — Is there a defined process for assessing the clinical safety implications of manufacturing process changes (new cell line, facility transfer, scale-up, formulation change), incl...
+  - `BSAF70` *(BIO)* — Is a prospective safety labeling strategy being developed in parallel with safety data collection, including proposed Warnings & Precautions language, Adverse Reactions table de...
+  - `BSAF71` *(BIO)* — Is a structured, FDA/EMA-aligned benefit-risk framework being used (e.g., FDA's 5-dimension framework, PrOACT-URL, BRAT), with biologic-specific adaptations for immunogenicity i...
+  - `BSAF72` *(BIO)* — Are pediatric-specific biologic safety considerations addressed, including differential immunogenicity profiles in children, vaccine schedule interactions with immunosuppressive...
+  - `BSAF73` *(BIO)* — For programs pursuing accelerated approval, is the safety monitoring framework adequate for the dual-phase period when commercial use and confirmatory trial safety evaluation oc...
+  - `BSAF74` *(BIO)* — For biologic combination therapies (mAb + mAb, mAb + chemotherapy, bispecific + checkpoint inhibitor), is the overlapping and additive toxicity profile systematically assessed, ...
+  - `BSAF75` *(BIO)* — For licensed-in, licensed-out, or co-developed biologic programs, is there a documented safety data transfer plan ensuring signal detection continuity, complete safety database ...
+  - `BSAF76` *(BIO)* — Is post-marketing real-world safety evidence from approved biologics in the same class systematically reviewed and integrated into the development program's safety monitoring st...
+  - `SAF19` *(SM)* — Are protocols designed with appropriate eligibility criteria and risk mitigation strategies?
+  - `SAF22` *(SM)* — Are trial participants stratified or excluded based on safety biomarkers or comorbidities?
+- **STAT**
+  - `BSTAT47` *(BIO)* — Are biostatisticians involved in modeling and simulation to support dose and regimen decisions, including population PK/PD and exposure-response modeling for biologics?
+  - `BSTAT48` *(BIO)* — Are statistical insights used in go/no-go, stage gate, and portfolio prioritization decisions?
+  - `BSTAT5` *(BIO)* — Is the sample size calculation documented and aligned with the protocol objectives, accounting for biologic-specific variability and dropout patterns?
+  - `BSTAT61` *(BIO)* — Is the statistical analysis plan for immunogenicity (ADA/NAb) pre-specified, including cut-point determination, tiered testing strategy, and prevalence/incidence analysis methods?
+  - `BSTAT62` *(BIO)* — Is the statistical approach for evaluating ADA impact on PK, efficacy, and safety pre-defined and appropriately powered?
+  - `BSTAT63` *(BIO)* — For bispecific antibodies, is the immunogenicity analysis plan designed to assess domain-specific ADA responses and their differential impact?
+  - `BSTAT64` *(BIO)* — Is the statistical framework for exposure-response analysis pre-specified, including methods appropriate for non-linear biologic PK (TMDD) and weight-based dosing?
+  - `BSTAT67` *(BIO)* — Has the biostatistics team evaluated whether ADA assay drug tolerance levels are adequate relative to expected steady-state drug concentrations, and is this assessment documente...
+  - `BSTAT68` *(BIO)* — Are Bayesian or model-based adaptive dose-finding methods (e.g., CRM, BOIN, EWOC, mTPI-2) considered and appropriately implemented for biologic dose escalation and optimization?
+  - `BSTAT73` *(BIO)* — Is the exposure-response analysis for safety pre-specified, including exposure-safety relationships for biologic-specific adverse events (immunogenicity, infusion reactions, inf...
+  - `BSTAT74` *(BIO)* — Are covariate effects on biologic exposure (body weight, ADA status, albumin, disease burden) formally evaluated, and is the dose justification across patient subgroups statisti...
+- **TM**
+  - `BBTM11` *(BIO)* — Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?
+  - `BBTM12` *(BIO)* — Are biomarkers included in clinical protocols and sample collection plans?
+  - `BBTM13` *(BIO)* — Are preanalytical variables and sample logistics addressed (collection, handling, storage)?
+  - `BBTM14` *(BIO)* — Are PD biomarkers available to confirm target engagement in vivo?
+  - `BBTM15` *(BIO)* — Are dynamic changes in PD biomarkers characterised across doses and time?
+  - `BBTM16` *(BIO)* — Are PD markers measurable in accessible human matrices (blood, urine, CSF, etc.)?
+  - `BBTM17` *(BIO)* — Are biomarker assays qualified or validated to support decision-making?
+  - `BBTM18` *(BIO)* — Are biomarkers identified to stratify or enrich clinical populations?
+  - `BBTM19` *(BIO)* — Are genetic or protein expression markers associated with response or resistance?
+  - `BBTM20` *(BIO)* — Has biomarker prevalence in the target population been estimated or confirmed?
+  - `BBTM21` *(BIO)* — Are patient selection criteria biomarker-driven in clinical trials?
+  - `BBTM22` *(BIO)* — Are biomarkers in place to predict or monitor potential toxicities (e.g., cardiac, hepatic, renal, immune-mediated)?
+  - `BBTM23` *(BIO)* — Are translational links established between nonclinical toxicity findings and human safety biomarkers?
+  - `BBTM24` *(BIO)* — Are safety markers validated and acceptable to regulators or industry standards (e.g., FDA BEST)?
+  - `BBTM25` *(BIO)* — For biologics: are immunogenicity-related safety biomarkers (ADA, neutralising antibodies, immune complex markers) integrated into the translational safety strategy?
+  - `BBTM26` *(BIO)* — Are assays (e.g., ELISA, qPCR, flow cytometry, LC-MS, NGS) developed and technically validated?
+  - `BBTM27` *(BIO)* — Are performance characteristics (sensitivity, specificity, LLOQ, ULOQ) documented?
+  - `BBTM28` *(BIO)* — Is there a clear plan for bioanalytical method validation under GxP where required?
+  - `BBTM29` *(BIO)* — Are biomarker assays transferable to central labs or CROs?
+  - `BBTM32` *(BIO)* — Are sample integrity and chain-of-custody procedures established?
+  - `BBTM33` *(BIO)* — Are nonclinical and translational data sufficient to justify FIH starting dose and escalation?
+  - `BBTM34` *(BIO)* — Are PK/PD relationships modeled and simulated for dose selection?
+  - `BBTM35` *(BIO)* — Is there confidence in pharmacologic activity at clinically achievable exposures?
+  - `BBTM46` *(BIO)* — Are biomarker strategies aligned with regulatory expectations (FDA, EMA, PMDA)?
+  - `BBTM47` *(BIO)* — Are discussions with agencies (e.g., biomarker qualification, CDx co-development) initiated or planned?
+  - `BBTM48` *(BIO)* — Are biomarker data included in IND/CTA submissions or briefing books?
+  - `BBTM49` *(BIO)* — If CDx is required, is an IVD partner identified and a development pathway in place?
+  - `BBTM50` *(BIO)* — Are nonclinical, clinical, and biomarker data integrated in a centralised database or data lake?
+  - `BBTM51` *(BIO)* — Are translational insights routinely discussed at governance or programme review meetings?
+  - `BBTM52` *(BIO)* — Are biomarkers influencing go/no-go and dose/regimen decisions?
+  - `BBTM53` *(BIO)* — For advanced modalities: are unique translational challenges addressed?
+  - `BBTM54` *(BIO)* — Are immunogenicity, cellular persistence, or biodistribution biomarkers in development?
+  - `BBTM55` *(BIO)* — Is platform data leveraged across programmes to refine translational strategy?
+  - `BBTM56` *(BIO)* — Is there an experienced translational medicine lead assigned?
+  - `BBTM57` *(BIO)* — Are team members skilled in biomarker science, modeling, systems biology, and clinical integration?
+  - `BBTM58` *(BIO)* — Are external collaborations (academia, CROs, biomarker consortia) in place?
+  - `BBTM59` *(BIO)* — Is there a fit-for-purpose governance and decision-making structure?
+  - `BBTM60` *(BIO)* — Is a comprehensive immune monitoring strategy in place for clinical studies?
+  - `BBTM61` *(BIO)* — Are translational immune biomarkers defined to distinguish on-target immune activation from off-target immune toxicity?
+  - `BBTM62` *(BIO)* — Is the immunogenicity monitoring strategy integrated into the translational framework (not just bioanalytical)?
+  - `BBTM63` *(BIO)* — For bispecifics: is the immune synapse biology characterised and used to inform translational strategy?
+  - `BBTM64` *(BIO)* — Is the translational framework designed to identify the Optimal Biologic Dose (OBD) rather than defaulting to MTD, using exposure-response, receptor occupancy, PD biomarker plat...
+  - `BBTM65` *(BIO)* — For immuno-oncology biologics, is the tumour microenvironment (TME) translationally characterised to inform patient selection and predict response, including T-cell infiltration...
+  - `BBTM66` *(BIO)* — Is the translational biomarker strategy designed to quantitatively define the therapeutic window using the PK → receptor occupancy → PD biomarker → efficacy/safety chain, with d...
+  - `BBTM67` *(BIO)* — For bispecific programs, is the translational PK/PD strategy specifically designed for the bispecific format's disposition characteristics (IgG-like vs non-IgG, half-life extend...
+  - `BBTM68` *(BIO)* — Are translational biomarkers for resistance to biologic therapy pre-specified and monitored in clinical trials, including antigen loss/downregulation, target mutation, immune es...
+  - `BBTM69` *(BIO)* — For oncology biologic programs, is a liquid biopsy and/or minimal residual disease (MRD) translational strategy in place to support response monitoring, early efficacy signal de...
+  - `BBTM70` *(BIO)* — Are receptor occupancy (RO) or target occupancy assays developed, validated, and integrated into early clinical studies to quantify target engagement across dose levels and time...
+  - `BBTM71` *(BIO)* — For T-cell engaging bispecifics, is the translational immunopharmacology comprehensively characterised, including T-cell activation kinetics (CD25, CD69, Ki67), T-cell subset dy...
+  - `BBTM72` *(BIO)* — Are patient-derived models (PDX, patient-derived organoids, ex vivo patient tissue assays) used to validate translational hypotheses, assess target engagement in human-relevant ...
+  - `BBTM73` *(BIO)* — Are translational insights from competitive and class-peer biologics (approved, failed, or in-development) systematically reviewed and integrated into the translational strategy...
+  - `TM10` *(SM)* — Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?
+  - `TM11` *(SM)* — Are biomarkers included in clinical protocols and sample collection plans?
+  - `TM13` *(SM)* — Are PD biomarkers available to confirm target engagement in vivo?
+  - `TM14` *(SM)* — Are dynamic changes in PD biomarkers characterized across doses and time?
+  - `TM15` *(SM)* — Are PD markers measurable in accessible human matrices (blood, urine, CSF, etc.)?
+  - `TM16` *(SM)* — Are biomarker assays qualified or validated to support decision-making?
+  - `TM17` *(SM)* — Are biomarkers identified to stratify or enrich clinical populations?
+  - `TM18` *(SM)* — Are genetic or protein expression markers associated with response or resistance?
+  - `TM19` *(SM)* — Has biomarker prevalence in the target population been estimated or confirmed?
+  - `TM20` *(SM)* — Are patient selection criteria biomarker-driven in clinical trials?
+  - `TM21` *(SM)* — Are biomarkers in place to predict or monitor potential toxicities (e.g., cardiac, hepatic, renal)?
+  - `TM22` *(SM)* — Are translational links established between nonclinical toxicity findings and human safety biomarkers?
+  - `TM24` *(SM)* — Are assays (e.g., ELISA, qPCR, flow cytometry, LC-MS, NGS) developed and technically validated?
+  - `TM31` *(SM)* — Are nonclinical and translational data sufficient to justify FIH starting dose and escalation?
+  - `TM32` *(SM)* — Are PK/PD relationships modeled and simulated for dose selection?
+  - `TM33` *(SM)* — Is there confidence in pharmacologic activity at clinically achievable exposures?
+  - `TM34` *(SM)* — Are FIH biomarkers integrated into early clinical endpoints?
+  - `TM35` *(SM)* — Is a PK/PD or QSP model in place to guide dose and regimen selection?
+  - `TM36` *(SM)* — Are physiologically based pharmacokinetic (PBPK) models used to predict human exposure?
+  - `TM4` *(SM)* — Is there alignment between preclinical and clinical PK/PD?
+  - `TM43` *(SM)* — Are biomarker strategies aligned with regulatory expectations (FDA, EMA, PMDA)?
+  - `TM46` *(SM)* — If CDx is required, is an IVD partner identified and a development pathway in place?
+
+### RS — Regulatory Submission
+
+- **CDM**
+  - `BBCDM1` *(BIO)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `BBCDM29` *(BIO)* — Have clinical programmes been discussed with regulators?
+  - `CDM1` *(SM)* — Is a formal TPP defined and aligned with regulatory and commercial goals?
+  - `CDM20` *(SM)* — Are endpoints aligned with regulatory expectations for approval and labeling?
+  - `CDM26` *(SM)* — Have clinical programs been discussed with regulators (pre-IND, EOP2, Scientific Advice)?
+  - `CDM27` *(SM)* — Are clinical endpoints and trial designs aligned with regulatory guidance?
+  - `CDM3` *(SM)* — Are the indications well-justified in terms of unmet need and path to registration?
+  - `CDM38` *(SM)* — Is the proposed product differentiated in efficacy, safety, convenience, or access?
+  - `CDM39` *(SM)* — Is the positioning clear vs. existing and emerging therapies?
+  - `CDM6` *(SM)* — Are endpoints (primary, secondary, exploratory) clinically meaningful and validated?
+  - `CDM7` *(SM)* — Is the choice of patient population appropriate and justified?
+- **CMC**
+  - `BBCMC47` *(BIO)* — Is the production cell line fully characterised, banked under GMP, and demonstrated to be stable?
+  - `BBCMC48` *(BIO)* — Is the expression construct fully characterised with sequence confirmation and copy number assessment?
+  - `BBCMC50` *(BIO)* — For bispecifics: is the cell line strategy appropriate for the bispecific format (single cell vs. separate expression and assembly)?
+- **PT**
+  - `BBPT1` *(BIO)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `BBPT10` *(BIO)* — Is the bioanalytical method validated for exposure quantification?
+  - `BBPT2` *(BIO)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `BBPT3` *(BIO)* — Are dose-response and concentration-response relationships characterized?
+  - `BBPT4` *(BIO)* — Is the pharmacodynamic (PD) biomarker strategy defined and translatable to clinic?
+  - `BBPT5` *(BIO)* — Has an Fc effector function assessment been conducted to characterise intended and unintended immune effector activity (ADCC, ADCP, CDC)?
+  - `BBPT56` *(BIO)* — Are QA statements included in all GLP reports?
+  - `BBPT57` *(BIO)* — Are toxicology findings integrated into the clinical risk management plan?
+  - `BBPT58` *(BIO)* — Are nonclinical safety data informing clinical trial design (e.g., stopping rules, monitoring)?
+  - `BBPT59` *(BIO)* — Are tox findings translatable or relevant to human populations of interest?
+  - `BBPT6` *(BIO)* — For bispecifics: is the potential for unintended T-cell or immune cell activation in the absence of target assessed (e.g., non-specific FcγR cross-linking)?
+  - `BBPT60` *(BIO)* — Is the immunogenicity risk assessment strategy defined, including in silico, in vitro, and in vivo components?
+  - `BBPT7` *(BIO)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `BBPT8` *(BIO)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `BBPT9` *(BIO)* — Are nonclinical PK studies performed in pharmacologically relevant species to characterise absorption, distribution, and clearance?
+  - `PT1` *(SM)* — Are in vitro and in vivo pharmacology studies completed to confirm mechanism of action (MOA)?
+  - `PT2` *(SM)* — Is there evidence of pharmacological activity in disease-relevant models?
+  - `PT3` *(SM)* — Are dose-response and concentration-response relationships characterized?
+  - `PT5` *(SM)* — Are off-target profiling or safety pharmacology panels conducted (e.g., CEREP, Eurofins)?
+  - `PT6` *(SM)* — Are relevant ion channel assays (e.g., hERG) and CNS/respiratory screens completed?
+  - `PT7` *(SM)* — Are secondary pharmacologic effects characterized in GLP or non-GLP settings?
+  - `PT8` *(SM)* — Are any unintended pharmacologic activities observed that may raise safety concerns?
+  - `PT9` *(SM)* — Are absorption, distribution, metabolism, and excretion studies performed in at least two species?
+- **REG**
+  - `BBREG1` *(BIO)* — Is there a formal, written global regulatory strategy document?
+  - `BBREG10` *(BIO)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `BBREG11` *(BIO)* — Have pre-IND, IND, pre-BLA, or scientific advice meetings occurred?
+  - `BBREG12` *(BIO)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `BBREG13` *(BIO)* — Are written agency communications documented, archived, and tracked for actions?
+  - `BBREG14` *(BIO)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `BBREG15` *(BIO)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `BBREG2` *(BIO)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `BBREG3` *(BIO)* — Are regulatory plans synchronised with clinical, CMC, and commercial timelines?
+  - `BBREG4` *(BIO)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `BBREG5` *(BIO)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `BBREG6` *(BIO)* — Are claims in the TPP supported by available or planned data?
+  - `BBREG7` *(BIO)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `BBREG8` *(BIO)* — Are relevant precedents (approvals in the same indication, target, or biologic format) identified and analysed?
+  - `BBREG9` *(BIO)* — Have comparator products' regulatory histories been reviewed (e.g., label restrictions, REMS, biosimilar landscape)?
+  - `REG1` *(SM)* — Is there a formal, written global regulatory strategy document?
+  - `REG10` *(SM)* — Are guidance documents (ICH, FDA, EMA) fully integrated into development plans?
+  - `REG11` *(SM)* — Have pre-IND, IND, pre-CTA, or scientific advice meetings occurred?
+  - `REG12` *(SM)* — Are meeting minutes available and are regulatory feedback points addressed?
+  - `REG13` *(SM)* — Are written agency communications documented, archived, and tracked for actions?
+  - `REG14` *(SM)* — Have global interactions (e.g., EMA SAWP, PMDA consultation) been planned or executed?
+  - `REG15` *(SM)* — Has an IND (FDA) or CTA (EU, other regions) been submitted and accepted?
+  - `REG16` *(SM)* — Are all relevant modules (CMC, nonclinical, clinical) included and complete?
+  - `REG2` *(SM)* — Are country-specific pathways (e.g., FDA, EMA, PMDA, NMPA, TGA) addressed?
+  - `REG3` *(SM)* — Are regulatory plans synchronized with clinical, CMC, and commercial timelines?
+  - `REG30` *(SM)* — Are regulatory risks identified (e.g., first-in-class mechanism, animal findings, CMC gaps)?
+  - `REG31` *(SM)* — Is there a formal benefit-risk assessment?
+  - `REG32` *(SM)* — Are mitigation plans documented for key risk areas?
+  - `REG4` *(SM)* — Are accelerated pathways (e.g., Fast Track, Breakthrough, PRIME, Sakigake) evaluated?
+  - `REG5` *(SM)* — Is a draft regulatory TPP aligned with intended product labeling?
+  - `REG6` *(SM)* — Are claims in the TPP supported by available or planned data?
+  - `REG7` *(SM)* — Has a target label been mapped to key efficacy and safety endpoints?
+  - `REG8` *(SM)* — Are relevant precedents (e.g., approvals in the same indication or modality) identified and analyzed?
+  - `REG9` *(SM)* — Have comparator products’ regulatory histories been reviewed (e.g., label restrictions, REMS)?
+- **TM**
+  - `TM10` *(SM)* — Are biomarkers aligned with TPP and clinical development goals (diagnostic, predictive, PD, safety)?
+  - `TM11` *(SM)* — Are biomarkers included in clinical protocols and sample collection plans?
+  - `TM13` *(SM)* — Are PD biomarkers available to confirm target engagement in vivo?
+
+## Data sources
+
+- `data/stage-gates.json` — goal and focus for every stage-gate
+- `data/questions/small-molecule/<FN>.json` — full rubric per small-molecule question
+- `data/questions/biologics/<FN>.json` — full rubric per biologics question
+- `data/heatmap/<modality>.json` — priority map `{question_id: {mode: {sg: label}}}`

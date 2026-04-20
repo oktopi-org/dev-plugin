@@ -1,0 +1,3485 @@
+{
+  "function_code": "CDM",
+  "modality": "small-molecule",
+  "function_name": "Clinical Development / Medical",
+  "question_count": 53,
+  "critical_index": {
+    "SR": {
+      "SG1": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM4",
+        "CDM38",
+        "CDM39"
+      ],
+      "SG2": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM4",
+        "CDM38",
+        "CDM39"
+      ],
+      "SG3": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM38",
+        "CDM39",
+        "CDM44"
+      ],
+      "SG4": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM17",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM35",
+        "CDM38",
+        "CDM39",
+        "CDM42",
+        "CDM43",
+        "CDM44"
+      ],
+      "SG5": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM14",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM35",
+        "CDM38",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44"
+      ],
+      "SG6": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM14",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM22",
+        "CDM23",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM35",
+        "CDM38",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM51",
+        "CDM52"
+      ],
+      "SG7": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM14",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM22",
+        "CDM23",
+        "CDM24",
+        "CDM25",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM35",
+        "CDM38",
+        "CDM39",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM51",
+        "CDM52"
+      ],
+      "SG8": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM9",
+        "CDM14",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM22",
+        "CDM23",
+        "CDM24",
+        "CDM25",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM38",
+        "CDM39",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM51",
+        "CDM52"
+      ],
+      "SG9": [
+        "CDM1",
+        "CDM23",
+        "CDM24",
+        "CDM25",
+        "CDM38",
+        "CDM39",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM51",
+        "CDM52"
+      ]
+    },
+    "OE": {
+      "SG5": [
+        "CDM8",
+        "CDM10",
+        "CDM11",
+        "CDM12",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM16",
+        "CDM17",
+        "CDM30",
+        "CDM31",
+        "CDM32",
+        "CDM33",
+        "CDM34",
+        "CDM35",
+        "CDM36",
+        "CDM37",
+        "CDM44",
+        "CDM48",
+        "CDM49",
+        "CDM52",
+        "CDM53"
+      ],
+      "SG6": [
+        "CDM8",
+        "CDM10",
+        "CDM11",
+        "CDM12",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM16",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM30",
+        "CDM31",
+        "CDM32",
+        "CDM33",
+        "CDM34",
+        "CDM35",
+        "CDM36",
+        "CDM37",
+        "CDM43",
+        "CDM44",
+        "CDM48",
+        "CDM49",
+        "CDM52",
+        "CDM53"
+      ],
+      "SG7": [
+        "CDM8",
+        "CDM10",
+        "CDM11",
+        "CDM12",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM16",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM30",
+        "CDM31",
+        "CDM32",
+        "CDM33",
+        "CDM34",
+        "CDM35",
+        "CDM36",
+        "CDM37",
+        "CDM43",
+        "CDM44",
+        "CDM48",
+        "CDM49",
+        "CDM52",
+        "CDM53"
+      ],
+      "SG8": [
+        "CDM8",
+        "CDM10",
+        "CDM11",
+        "CDM12",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM16",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM29",
+        "CDM30",
+        "CDM31",
+        "CDM32",
+        "CDM33",
+        "CDM34",
+        "CDM35",
+        "CDM36",
+        "CDM37",
+        "CDM43",
+        "CDM44",
+        "CDM46",
+        "CDM47",
+        "CDM48",
+        "CDM49",
+        "CDM50",
+        "CDM52",
+        "CDM53"
+      ],
+      "SG9": [
+        "CDM16",
+        "CDM46",
+        "CDM47"
+      ]
+    },
+    "DD": {
+      "SG1": [
+        "CDM1",
+        "CDM3",
+        "CDM4",
+        "CDM38",
+        "CDM39"
+      ],
+      "SG2": [
+        "CDM1",
+        "CDM3",
+        "CDM4",
+        "CDM38",
+        "CDM39"
+      ],
+      "SG3": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM38",
+        "CDM39",
+        "CDM44"
+      ],
+      "SG4": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM17",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM35",
+        "CDM38",
+        "CDM39",
+        "CDM42",
+        "CDM43",
+        "CDM44"
+      ],
+      "SG5": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM14",
+        "CDM15",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM48"
+      ],
+      "SG6": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM22",
+        "CDM23",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM48",
+        "CDM51",
+        "CDM52"
+      ],
+      "SG7": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM22",
+        "CDM23",
+        "CDM24",
+        "CDM25",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM39",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM48",
+        "CDM51",
+        "CDM52"
+      ],
+      "SG8": [
+        "CDM1",
+        "CDM2",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM9",
+        "CDM10",
+        "CDM13",
+        "CDM14",
+        "CDM15",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM22",
+        "CDM23",
+        "CDM24",
+        "CDM25",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM29",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM39",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM44",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM48",
+        "CDM50",
+        "CDM51",
+        "CDM52"
+      ],
+      "SG9": [
+        "CDM1",
+        "CDM23",
+        "CDM24",
+        "CDM25",
+        "CDM38",
+        "CDM39",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM51",
+        "CDM52"
+      ]
+    },
+    "RS": {
+      "SG3": [
+        "CDM1",
+        "CDM20"
+      ],
+      "SG4": [
+        "CDM1",
+        "CDM3",
+        "CDM6",
+        "CDM7",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM38",
+        "CDM39"
+      ],
+      "SG5": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM34",
+        "CDM35",
+        "CDM38",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM48",
+        "CDM49"
+      ],
+      "SG6": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM48",
+        "CDM49"
+      ],
+      "SG7": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM12",
+        "CDM13",
+        "CDM16",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM25",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM39",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM48",
+        "CDM49"
+      ],
+      "SG8": [
+        "CDM1",
+        "CDM2",
+        "CDM3",
+        "CDM5",
+        "CDM6",
+        "CDM7",
+        "CDM8",
+        "CDM9",
+        "CDM10",
+        "CDM12",
+        "CDM13",
+        "CDM16",
+        "CDM17",
+        "CDM18",
+        "CDM19",
+        "CDM20",
+        "CDM21",
+        "CDM25",
+        "CDM26",
+        "CDM27",
+        "CDM28",
+        "CDM29",
+        "CDM34",
+        "CDM35",
+        "CDM37",
+        "CDM38",
+        "CDM39",
+        "CDM40",
+        "CDM41",
+        "CDM42",
+        "CDM43",
+        "CDM45",
+        "CDM46",
+        "CDM47",
+        "CDM48",
+        "CDM49",
+        "CDM50"
+      ],
+      "SG9": [
+        "CDM1",
+        "CDM16",
+        "CDM25",
+        "CDM38",
+        "CDM39",
+        "CDM45",
+        "CDM46",
+        "CDM47"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "CDM1",
+      "inquiry_domain": "Target Product Profile (TPP) & Development Strategy",
+      "question": "Is a formal TPP defined and aligned with regulatory and commercial goals?",
+      "rubric_tests": "This rubric evaluates the existence, maturity, and active use of the Target Product Profile (TPP) as a strategic anchor across clinical, regulatory, and commercial planning. It assesses the extent to which the TPP reflects regulatory pathway requirements, payer and HTA expectations, clinical trial design constraints, and cross-functional input, ensuring the development program is optimized for approvability and market success.",
+      "rationale": "A well-defined, cross-functionally aligned TPP is a hallmark of high-performing drug development programs. It connects intended label claims with trial endpoints, commercial access plans, and regulatory precedents\u2014thereby minimizing the risk of late-stage surprises. It ensures that all stakeholders are aligned on what success looks like and can identify risks or misalignments early.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM2",
+      "inquiry_domain": "Target Product Profile (TPP) & Development Strategy",
+      "question": "Does the clinical development plan (CDP) map to the TPP with clear inflection points?",
+      "rubric_tests": "This rubric evaluates the consistency and traceability between the Clinical Development Plan (CDP) and the Target Product Profile (TPP), focusing on how effectively the CDP supports intended label claims, addresses regulatory and commercial priorities, and defines clear inflection points for decision-making and risk management.",
+      "rationale": "A robust CDP serves as the operational blueprint for delivering the TPP. Mapping the CDP to the TPP ensures that every study contributes to regulatory and commercial objectives, with inflection points aligned to decision gates, resourcing strategies, and de-risking milestones. Misalignment often results in wasted resources, regulatory setbacks, and suboptimal trial design.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM3",
+      "inquiry_domain": "Target Product Profile (TPP) & Development Strategy",
+      "question": "Are the indications well-justified in terms of unmet need and path to registration?",
+      "rubric_tests": "This rubric evaluates the strength and clarity of the rationale supporting the selection of each proposed indication, with a focus on unmet medical need, competitive landscape, patient burden, and feasibility of regulatory approval in major markets.",
+      "rationale": "An indication\u2019s viability depends on both medical necessity and regulatory navigability. Justification requires triangulation of unmet need, clinical feasibility, differentiation from standard of care, and alignment with strategic commercial and global health objectives. Weak justification leads to low uptake, delayed approval, or failure to meet reimbursement thresholds.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM4",
+      "inquiry_domain": "Target Product Profile (TPP) & Development Strategy",
+      "question": "Are the development goals feasible within the competitive and payer landscape?",
+      "rubric_tests": "This rubric evaluates whether the clinical and commercial goals stated in the TPP are realistically achievable given the competitive environment and payer expectations. It examines how development targets align with unmet need, standard of care dynamics, HTA criteria, and evolving market expectations.",
+      "rationale": "Ambitious development goals must be stress-tested against real-world constraints such as reimbursement hurdles, formulary dynamics, therapeutic competition, and payer willingness to pay. Poorly calibrated goals risk strategic misalignment, resource waste, or post-approval commercial failure, even if regulatory approval is achieved.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM5",
+      "inquiry_domain": "Clinical Trial Design & Execution",
+      "question": "Are trial designs (Ph1\u2013Ph3) scientifically and statistically sound?",
+      "rubric_tests": "This rubric assesses whether clinical trial designs across Phases 1 to 3 are scientifically rigorous, statistically justified, and aligned with both regulatory and clinical expectations. It evaluates the rationale behind study structure, endpoint selection, control arms, patient population definitions, and powering strategies.",
+      "rationale": "Trial design errors are among the most costly and irrecoverable mistakes in drug development. Scientifically unsound trials can yield uninterpretable or non-approvable data, while statistical flaws can undermine the credibility of otherwise promising results. Ensuring scientific and statistical rigor from Phase 1 onward is essential for approvability, ethical justification, and investor confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM6",
+      "inquiry_domain": "Clinical Trial Design & Execution",
+      "question": "Are endpoints (primary, secondary, exploratory) clinically meaningful and validated?",
+      "rubric_tests": "This rubric evaluates whether the selected endpoints \u2014 primary, secondary, and exploratory \u2014 are clinically meaningful, aligned with regulatory expectations, relevant to patient outcomes, and appropriately validated for the target population and indication.",
+      "rationale": "Endpoints drive both regulatory approval and clinical adoption. If endpoints are not meaningful to patients or clinicians \u2014 or if they lack validation \u2014 the trial may succeed technically but fail to gain approval, reimbursement, or uptake. Proper endpoint selection ensures scientific relevance, statistical validity, and downstream value realization.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM7",
+      "inquiry_domain": "Clinical Trial Design & Execution",
+      "question": "Is the choice of patient population appropriate and justified?",
+      "rubric_tests": "This rubric evaluates whether the selected patient population \u2014 including inclusion and exclusion criteria, subgroups, demographics, and comorbidities \u2014 is appropriate for the intended indication, supports the trial objectives, and is justified based on clinical, scientific, and regulatory reasoning.",
+      "rationale": "A well-justified patient population ensures that the study results are both internally valid and externally applicable. An inappropriate population risks trial failure due to infeasibility, non-representativeness, or regulatory misalignment. Justifying population selection is essential for ethical enrollment, regulatory acceptability, and clinical relevance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM8",
+      "inquiry_domain": "Clinical Trial Design & Execution",
+      "question": "Are inclusion/exclusion criteria optimized for recruitment and generalizability?",
+      "rubric_tests": "This rubric evaluates whether the trial\u2019s inclusion and exclusion (I/E) criteria are designed to balance the needs of scientific rigor, patient safety, recruitment feasibility, and external validity. It assesses whether the criteria are evidence-based, implementable at sites, and inclusive enough to reflect the real-world population for the intended label.",
+      "rationale": "Overly restrictive I/E criteria can slow recruitment, introduce site-level screening failures, and result in a trial population that does not reflect patients seen in clinical practice \u2014 limiting generalizability and undermining payer or HTA acceptance. Conversely, overly permissive criteria can compromise safety or data interpretability. Optimizing I/E criteria is essential to both scientific validity and operational success.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM9",
+      "inquiry_domain": "Clinical Trial Design & Execution",
+      "question": "Are comparator arms (placebo, active) aligned with standard of care?",
+      "rubric_tests": "This rubric evaluates whether the chosen comparator (placebo, active control, SoC) is scientifically, ethically, and operationally aligned with current treatment paradigms and regulatory expectations. It also assesses regional differences in SoC and the implications for regulatory approval, trial interpretability, and payer/HTA relevance.",
+      "rationale": "Comparator selection is a core design decision that impacts trial validity, approvability, and external relevance. A poorly chosen comparator may lead to regulatory rejection, ethical concerns, or misalignment with payer expectations. The choice must reflect real-world clinical practice and be defensible across geographic regions and stakeholder perspectives.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM10",
+      "inquiry_domain": "Clinical Data Quality and Integrity",
+      "question": "Are completed studies conducted under GCP and with complete clinical study reports (CSRs)?",
+      "rubric_tests": "This rubric assesses whether all completed interventional studies (Ph1\u2013Ph3) have been conducted in compliance with Good Clinical Practice (GCP), and whether full, ICH E3\u2013compliant Clinical Study Reports (CSRs) are available, complete, and inspection-ready. It evaluates traceability, data integrity, and documentation necessary for regulatory submission and due diligence.",
+      "rationale": "GCP-compliant trials with well-prepared CSRs form the evidentiary backbone of regulatory dossiers and investment diligence. Deficiencies in adherence to GCP, incomplete CSRs, or lack of documentation can derail approvals, trigger inspection findings, or delay licensing deals. The completeness, consistency, and integrity of trial documentation are essential for regulatory credibility and program advancement.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM11",
+      "inquiry_domain": "Clinical Data Quality and Integrity",
+      "question": "Are data quality metrics acceptable (e.g., query rates, protocol deviations, monitoring frequency)?",
+      "rubric_tests": "This rubric evaluates whether clinical trial data are supported by objective, measurable quality indicators, such as query resolution rates, protocol deviation trends, monitoring frequency/adherence, source data verification (SDV) compliance, and audit outcomes. It examines whether data integrity is proactively tracked and whether deviations are managed and explained.",
+      "rationale": "Regulators and partners increasingly scrutinize operational data quality as a surrogate for study reliability and ethical conduct. High query burdens, protocol deviations, and inadequate monitoring frequency can indicate deeper issues in site training, protocol feasibility, or data integrity. Transparent quality metrics are essential for both inspection readiness and development credibility.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM12",
+      "inquiry_domain": "Clinical Data Quality and Integrity",
+      "question": "Are data sources verifiable and audit-ready (e.g., EDC, ePRO, lab data)?",
+      "rubric_tests": "This rubric evaluates whether the systems and processes supporting core clinical data (e.g., electronic data capture [EDC], electronic patient-reported outcomes [ePRO], central laboratory data, imaging, PK/PD) meet regulatory expectations for integrity, traceability, and auditability. It assesses whether systems are validated, user access controlled, audit trails preserved, and source\u2013to\u2013submission linkages documented.",
+      "rationale": "Clinical data integrity hinges on the credibility and auditability of its sources. Regulatory authorities require confidence that data were accurately captured, securely stored, appropriately attributed, and not tampered with. Poor traceability or unvalidated systems can lead to regulatory hold, inspection findings, or trial exclusion from submission.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM13",
+      "inquiry_domain": "Clinical Data Quality and Integrity",
+      "question": "Have any data integrity issues been flagged (e.g., FDA Form 483s, audit findings)?",
+      "rubric_tests": "This rubric assesses whether any past or ongoing data integrity concerns have been identified via internal audits, external inspections (e.g., FDA, EMA), or third-party reviews. It evaluates how findings were detected, classified, remediated, and communicated across the organization \u2014 particularly regarding study reliability, system oversight, or potential GCP non-compliance.",
+      "rationale": "Regulatory authorities heavily scrutinize prior data integrity concerns when reviewing new submissions. Unresolved or poorly remediated issues can trigger rejection, re-inspection, or exclusion of trial data. An audit trail of proactive detection and transparent resolution is essential for demonstrating system maturity and regulatory credibility.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM14",
+      "inquiry_domain": "Patient Safety & Medical Oversight",
+      "question": "Is a Safety Management Plan (SMP) and Medical Monitoring Plan in place?",
+      "rubric_tests": "This rubric evaluates whether a structured and proactive framework exists to manage, monitor, and escalate patient safety risks during clinical trials. It focuses on the presence, quality, and use of Safety Management Plans (SMPs) and Medical Monitoring Plans, including their alignment with protocol design, signal detection needs, regulatory requirements, and real-time oversight responsibilities.",
+      "rationale": "Well-documented and actively implemented SMPs and Medical Monitoring Plans are central to maintaining participant safety, meeting regulatory obligations (e.g., ICH E2A, GCP), and managing risk during clinical development. Absence or superficiality of these plans may result in missed safety signals, inconsistent decision-making, protocol amendments, or regulatory non-compliance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM15",
+      "inquiry_domain": "Patient Safety & Medical Oversight",
+      "question": "Are safety data actively reviewed (e.g., DSMB, internal safety committees)?",
+      "rubric_tests": "This rubric assesses whether there are structured, ongoing, and well-documented processes for the active review of safety data across trials \u2014 including internal safety review committees, cross-functional review forums, and external Data and Safety Monitoring Boards (DSMBs).",
+      "rationale": "Timely detection of emerging safety signals is a regulatory and ethical imperative. Active safety review processes must be dynamic, systematic, and transparent, especially in higher-risk indications or novel modalities. Passive or ad hoc approaches lead to missed signals, delayed mitigation, or non-compliance with ICH E2A, GCP, or DSMB governance requirements.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM16",
+      "inquiry_domain": "Patient Safety & Medical Oversight",
+      "question": "Are adverse event (AE), SAE, and SUSAR data adequately collected and reported?",
+      "rubric_tests": "This rubric evaluates whether AE, SAE, and SUSAR data are collected in a compliant, timely, and consistent manner; whether they are reviewed, coded, and followed up appropriately; and whether reporting obligations to regulators, ethics boards, and investigators are met.",
+      "rationale": "Poor safety data handling poses a major regulatory and ethical risk. Delays or errors in AE/SAE/SUSAR reporting can result in GCP non-compliance, trial suspension, or harm to participants. Robust processes must cover not only data entry but also clinical assessment, coding, reconciliation, and regulatory submissions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM17",
+      "inquiry_domain": "Patient Safety & Medical Oversight",
+      "question": "Are risk mitigation strategies defined for known or potential safety issues?",
+      "rubric_tests": "This rubric assesses whether anticipated or emerging safety risks are proactively addressed through predefined mitigation strategies, such as monitoring plans, risk minimization measures, stopping rules, labeling considerations, and stakeholder communication plans.",
+      "rationale": "Failure to anticipate and plan for safety risks\u2014both known and emergent\u2014can lead to regulatory intervention, patient harm, and reputational damage. Proactive mitigation supports regulatory compliance, participant protection, and operational continuity. It is also essential for successful risk-benefit assessment by health authorities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM18",
+      "inquiry_domain": "Efficacy and Clinical Benefit",
+      "question": "Do early data support proof-of-concept (POC) for the intended indication?",
+      "rubric_tests": "This rubric evaluates whether early-phase clinical (and, if applicable, translational or biomarker) data sufficiently demonstrate proof-of-concept for the intended indication. It examines whether the data provide compelling signals of efficacy, are consistent with the proposed mechanism of action (MoA), and justify further investment in late-stage trials.",
+      "rationale": "Proof-of-concept (POC) is a critical inflection point in clinical development. Advancing without robust POC data risks costly failure in Phase 3, while delays in recognizing a viable signal can hinder speed to market. POC should rest on credible evidence \u2014 ideally showing a clinically meaningful response in the target population, using appropriate endpoints \u2014 and be contextualized with mechanistic, PK/PD, and safety data.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM19",
+      "inquiry_domain": "Efficacy and Clinical Benefit",
+      "question": "Is there evidence of dose\u2013response and clinical effect?",
+      "rubric_tests": "This rubric evaluates whether there is reliable and clinically meaningful evidence linking dose levels to both pharmacodynamic activity and clinical response. It interrogates dose-ranging adequacy, exposure-response analyses, observed trends across dose levels, and whether the dose-response relationship supports selection of optimal doses for late-stage development.",
+      "rationale": "Understanding dose-response is essential for optimizing therapeutic benefit, ensuring safety, and guiding Phase 3 dose selection. A well-characterized dose-response relationship informs margin of safety, helps anticipate interpatient variability, and underpins label claims. Absence or misinterpretation of dose-response has led to failed pivotal trials and regulatory delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM20",
+      "inquiry_domain": "Efficacy and Clinical Benefit",
+      "question": "Are endpoints aligned with regulatory expectations for approval and labeling?",
+      "rubric_tests": "This rubric evaluates whether selected clinical trial endpoints\u2014primary, secondary, and exploratory\u2014are appropriate to demonstrate efficacy and safety for regulatory approval and to support the proposed labeling claims. It tests alignment with guidance documents, historical precedent, regulatory feedback, and therapeutic context.",
+      "rationale": "Endpoints that are misaligned with regulatory expectations can result in refusal to file, non-approval, or labeling restrictions. Selecting endpoints that are clinically meaningful, validated, and previously accepted in similar programs enhances approval likelihood. Regulatory bodies expect that sponsors demonstrate endpoint relevance, validation status, and statistical appropriateness early in development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM21",
+      "inquiry_domain": "Efficacy and Clinical Benefit",
+      "question": "Are any surrogate endpoints used appropriately and validated?",
+      "rubric_tests": "This rubric assesses whether surrogate endpoints used in the clinical development program are adequately justified, validated, and acceptable to regulatory authorities. It evaluates biological plausibility, empirical evidence linking the surrogate to clinical outcomes, precedents in similar indications, and regulatory feedback supporting its use.",
+      "rationale": "Surrogate endpoints offer the potential to expedite development and approval by serving as proxies for clinical benefit. However, inappropriate or poorly validated surrogate endpoints can mislead efficacy assessment, delay regulatory approval, or result in post-marketing commitments. Regulatory bodies closely scrutinize surrogate use, especially for pivotal decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM22",
+      "inquiry_domain": "Medical Affairs Readiness",
+      "question": "Are KOLs engaged or consulted for trial design and positioning?",
+      "rubric_tests": "This rubric evaluates whether key opinion leaders (KOLs) have been identified, engaged, and strategically consulted to shape trial design, endpoint selection, comparator arms, and positioning within the clinical and commercial landscape. It also tests the level of documentation, transparency, and alignment between Medical Affairs, Clinical Development, and Commercial functions.",
+      "rationale": "Engaging the right experts early ensures clinical trials are aligned with real-world practice, address meaningful endpoints, and generate data that will be persuasive to clinicians, payers, and regulators. Lack of KOL engagement can result in trials that are scientifically valid but commercially weak, or that fail to address prescriber expectations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM23",
+      "inquiry_domain": "Medical Affairs Readiness",
+      "question": "Are publications, congress presentations, and medical communication materials planned or underway?",
+      "rubric_tests": "This rubric evaluates whether key opinion leaders (KOLs) have been identified, engaged, and strategically consulted to shape trial design, endpoint selection, comparator arms, and positioning within the clinical and commercial landscape. It also tests the level of documentation, transparency, and alignment between Medical Affairs, Clinical Development, and Commercial functions.",
+      "rationale": "Engaging the right experts early ensures clinical trials are aligned with real-world practice, address meaningful endpoints, and generate data that will be persuasive to clinicians, payers, and regulators. Lack of KOL engagement can result in trials that are scientifically valid but commercially weak, or that fail to address prescriber expectations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM24",
+      "inquiry_domain": "Medical Affairs Readiness",
+      "question": "Is there a plan for Medical Science Liaison (MSL) engagement, payer education, or scientific advisory boards?",
+      "rubric_tests": "This rubric tests whether there is a clear, strategic plan for Medical Affairs to engage with MSLs, payers, and external experts through channels such as advisory boards, payer briefings, and field-based education. It includes internal coordination, compliance oversight, content development, and timelines for engagement.",
+      "rationale": "Timely and effective engagement of MSLs, payers, and advisory board members is essential for aligning external perception with clinical strategy, addressing barriers to access, and informing the scientific narrative. Delays or gaps in these plans reduce impact, increase reputational risk, and may impair launch readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM25",
+      "inquiry_domain": "Medical Affairs Readiness",
+      "question": "Are real-world evidence (RWE) or post-marketing studies being considered?",
+      "rubric_tests": "This rubric tests whether RWE and post-marketing studies are planned and integrated into the overall development strategy, including their role in supporting long-term safety, effectiveness, access, and label expansion. It also assesses whether regulatory and payer expectations are proactively considered.",
+      "rationale": "RWE and post-marketing data are increasingly critical for regulatory approvals, payer acceptance, and lifecycle management. Programs that delay consideration of RWE or fail to define objectives and data sources early may miss strategic opportunities, limit access, or face post-approval setbacks.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM26",
+      "inquiry_domain": "Regulatory Alignment",
+      "question": "Have clinical programs been discussed with regulators (pre-IND, EOP2, Scientific Advice)?",
+      "rubric_tests": "This rubric tests whether the sponsor has proactively engaged with health authorities at key development milestones (e.g., pre-IND, End-of-Phase 2, Scientific Advice, or equivalent), including submission of briefing materials, agenda setting, documentation of meeting outcomes, and evidence of alignment or feedback incorporation.",
+      "rationale": "Engaging early and effectively with regulators helps de-risk development programs, validate pivotal trial designs, and clarify regulatory expectations around safety, efficacy, and approval pathways. Failure to engage or poor documentation of these interactions can lead to costly delays, non-approvable studies, or avoidable deficiencies.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM27",
+      "inquiry_domain": "Regulatory Alignment",
+      "question": "Are clinical endpoints and trial designs aligned with regulatory guidance?",
+      "rubric_tests": "This rubric assesses whether trial endpoints, study populations, comparator arms, and overall study designs are consistent with the recommendations found in relevant regulatory guidance documents, such as FDA, EMA, ICH, and disease-specific guidances. It evaluates the use of current regulatory science, precedent, and best practices in aligning clinical evidence generation strategies.",
+      "rationale": "Misalignment with regulatory expectations on trial design or endpoints can result in non-approvable studies, missed labeling claims, or post-submission requests for additional data. Early and clear alignment with guidance documents enhances regulatory confidence and de-risks approval pathways.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM28",
+      "inquiry_domain": "Regulatory Alignment",
+      "question": "Are orphan, fast track, breakthrough therapy, or PRIME designations pursued?",
+      "rubric_tests": "This rubric tests whether regulatory acceleration pathways and special designation programs (e.g., Orphan Drug Designation, Fast Track, Breakthrough Therapy, PRIME) are identified, justified, and proactively pursued in line with asset characteristics, indication severity, and development timelines.",
+      "rationale": "Accelerated development pathways are critical tools that can shorten time to market, reduce development risk, and improve access for patients with high unmet need. Failure to pursue appropriate designations can result in missed opportunities for regulatory support, market exclusivity, and expedited interactions with authorities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM29",
+      "inquiry_domain": "Regulatory Alignment",
+      "question": "Is the clinical module of the CTD (Module 5) complete or in preparation?",
+      "rubric_tests": "This rubric assesses whether Module 5 of the Common Technical Document (CTD) \u2014 the clinical data module \u2014 is actively maintained, fully populated, and version-controlled in preparation for submission. It tests completeness, quality, traceability, and inspection readiness of clinical study reports (CSRs), trial data, summaries, and appendices.",
+      "rationale": "A well-prepared Module 5 is essential for regulatory submissions (e.g., NDA, BLA, MAA) and signals both clinical and regulatory maturity. Incomplete, inconsistent, or disorganized modules delay submissions, trigger regulatory queries, and increase inspection risk. Timely planning for Module 5 ensures data is locked, traceable, and presented in line with ICH standards.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Expected",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM30",
+      "inquiry_domain": "Clinical Operations & Trial Execution",
+      "question": "Are enrollment timelines realistic and tracked?",
+      "rubric_tests": "This rubric evaluates whether clinical trial enrollment goals are realistically estimated, based on data-driven feasibility, and actively tracked with mitigation strategies in place. It also assesses operational readiness, historical benchmarks, risk-adjusted planning, and the use of predictive tools to optimize recruitment.",
+      "rationale": "Accurate enrollment projections are critical for timeline adherence, resource allocation, and budget forecasting. Unrealistic or untracked timelines are a leading cause of trial delays, cost overruns, and compromised data integrity due to protocol amendments or inconsistent site performance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM31",
+      "inquiry_domain": "Clinical Operations & Trial Execution",
+      "question": "Are CROs selected and performance-managed effectively?",
+      "rubric_tests": "This rubric assesses whether Contract Research Organizations (CROs) are selected through a transparent, competency-driven process and are actively performance-managed across milestones, quality, and compliance metrics. It evaluates strategic alignment, communication, accountability structures, and the integration of CRO performance into trial governance.",
+      "rationale": "The majority of trial execution is outsourced to CROs, making their effective selection and management essential to trial success. Poor CRO oversight results in delays, protocol deviations, data integrity issues, and strained sponsor relationships. Strategic partnerships with performance management can optimize quality, efficiency, and regulatory compliance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM32",
+      "inquiry_domain": "Clinical Operations & Trial Execution",
+      "question": "Is site selection optimized (e.g., geographic spread, past performance)?",
+      "rubric_tests": "This rubric evaluates whether clinical trial site selection processes are based on strategic, data-driven criteria such as geographic distribution, historical performance, therapeutic expertise, patient access, and regulatory feasibility. It tests whether site feasibility, readiness, and diversity goals are systematically incorporated.",
+      "rationale": "Site performance is one of the most important drivers of enrollment success, data quality, and trial timelines. Sites should be selected not just based on relationships or availability, but through structured analysis of past metrics, geographic alignment with disease epidemiology, and readiness to recruit the intended population.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM33",
+      "inquiry_domain": "Clinical Operations & Trial Execution",
+      "question": "Are protocol amendments frequent, and are their reasons understood?",
+      "rubric_tests": "This rubric assesses whether protocol amendments are systematically tracked, whether root causes are identified, and whether amendment frequency is minimized through robust initial planning. It tests proactive protocol design, operational feasibility, and governance over protocol change management.",
+      "rationale": "Protocol amendments can delay timelines, increase costs, confuse sites, and compromise data integrity. Understanding amendment frequency and reasons is crucial to determine if changes reflect true scientific evolution or weaknesses in trial design and planning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM34",
+      "inquiry_domain": "Statistical Analysis & Data Management",
+      "question": "Is a statistical analysis plan (SAP) in place and consistent with the protocol?",
+      "rubric_tests": "This rubric tests whether a statistical analysis plan (SAP) has been authored, version-controlled, and aligned with protocol objectives, endpoints, and study design features. It also examines whether the SAP has been reviewed by cross-functional stakeholders and if it complies with regulatory requirements and best practices.",
+      "rationale": "The SAP is critical to ensuring transparency, consistency, and scientific integrity in how trial data will be analyzed and interpreted. Misalignment with the protocol or lack of clarity in statistical methods can lead to regulatory challenges, misinterpretation of outcomes, or the need for protocol or SAP amendments.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM35",
+      "inquiry_domain": "Statistical Analysis & Data Management",
+      "question": "Are sample size calculations and power assumptions justified?",
+      "rubric_tests": "This rubric tests whether sample size and statistical power calculations are methodologically sound, documented, and aligned with study objectives, endpoint characteristics, and expected treatment effects. It assesses whether key inputs (variability, dropout rates, effect size) are transparently sourced, justified, and stress-tested.",
+      "rationale": "Robust sample size calculations ensure trials are adequately powered to detect clinically meaningful effects without over-recruiting. Poor assumptions or opaque justifications can lead to underpowered studies, unnecessary cost, or ethical challenges in exposing more patients than necessary.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM36",
+      "inquiry_domain": "Statistical Analysis & Data Management",
+      "question": "Is there an independent data monitoring committee (IDMC/DSMB) if applicable?",
+      "rubric_tests": "This rubric tests whether an appropriately composed and chartered IDMC/DSMB has been established for trials where required, based on risk, regulatory expectations, or trial complexity. It also examines their oversight structure, meeting cadence, documentation, and responsiveness to emerging data.",
+      "rationale": "For high-risk, pivotal, or blinded studies, an IDMC/DSMB provides critical independent oversight to ensure participant safety and trial integrity. Lack of timely, well-documented, and properly governed DSMB engagement has been linked to avoidable harm, delayed safety decisions, or regulatory hold.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM37",
+      "inquiry_domain": "Statistical Analysis & Data Management",
+      "question": "Are interim analyses planned or conducted under appropriate controls?",
+      "rubric_tests": "This rubric evaluates whether interim analyses are planned in accordance with regulatory, statistical, and ethical standards; whether control of alpha-spending and data integrity is preserved; and whether operational bias is minimized. It also assesses alignment of interim analysis timing, endpoints, and governance with trial objectives.",
+      "rationale": "Interim analyses are powerful tools for risk mitigation, decision-making, and resource optimization\u2014but can introduce significant statistical and operational bias if not properly designed or governed. Regulatory authorities scrutinize interim analyses closely, especially in adaptive designs or when early stopping for efficacy/futility is an option.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM38",
+      "inquiry_domain": "Competitive Landscape and Differentiation",
+      "question": "Is the proposed product differentiated in efficacy, safety, convenience, or access?",
+      "rubric_tests": "This rubric evaluates the clarity, credibility, and documentation of product differentiation across dimensions critical to market success \u2014 including efficacy, safety, administration/convenience, and patient or payer access. It tests whether this differentiation is supported by clinical data, positioning strategy, and comparative analysis.",
+      "rationale": "A product\u2019s clinical profile must clearly demonstrate advantages over current and future competitors. Differentiation affects everything \u2014 from clinical adoption and payer access to pricing and lifecycle potential. Without strong evidence or articulation of differentiation, commercial success is jeopardized.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM39",
+      "inquiry_domain": "Competitive Landscape and Differentiation",
+      "question": "Is the positioning clear vs. existing and emerging therapies?",
+      "rubric_tests": "This rubric tests whether the product has a clearly defined and substantiated position relative to current standard-of-care (SoC) treatments and emerging pipeline competitors. It evaluates the depth of competitive insight, alignment with clinical and commercial strategy, and how positioning is reflected in regulatory, payer, and stakeholder communications.",
+      "rationale": "Positioning is central to adoption, pricing, and access. Without distinct and well-justified positioning, even scientifically strong assets can fail commercially. This is especially true in crowded or fast-evolving markets. Positioning must reflect current market needs while anticipating pipeline threats.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM40",
+      "inquiry_domain": "Competitive Landscape and Differentiation",
+      "question": "Have competitor trial designs, endpoints, and outcomes been benchmarked?",
+      "rubric_tests": "This rubric evaluates whether the development team has systematically benchmarked competitor trial designs, inclusion criteria, endpoints, statistical powering, patient-reported outcomes (PROs), and key outcomes. It assesses how comprehensively this information is used to inform protocol design, clinical strategy, and positioning.",
+      "rationale": "Benchmarking provides vital external context to ensure a product\u2019s development strategy is realistic, differentiated, and aligned with stakeholder expectations. Without it, sponsors risk selecting endpoints or trial designs that are inferior or irrelevant compared to the competitive landscape.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM41",
+      "inquiry_domain": "Risk-Benefit Assessment",
+      "question": "Are benefit-risk assessments conducted internally or via external advisors?",
+      "rubric_tests": "This rubric evaluates whether structured benefit-risk assessments are being performed at key development milestones. It tests whether the approach includes both internal (cross-functional) and independent external perspectives, and whether results inform strategic decisions such as go/no-go, dose selection, or regulatory interactions.",
+      "rationale": "Effective benefit-risk assessment is critical to maintaining strategic clarity, optimizing trial design, and supporting robust regulatory submissions. Incorporating external viewpoints adds objectivity and anticipates stakeholder critiques. Failure to conduct structured assessments can lead to preventable development missteps, delays, or failed approvals.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM42",
+      "inquiry_domain": "Risk-Benefit Assessment",
+      "question": "Are there any clinical red flags that could impact approvability or uptake?",
+      "rubric_tests": "This rubric tests whether clinical program risks that could jeopardize regulatory approval or market uptake are proactively identified, characterized, tracked, and mitigated. It includes both scientific and operational red flags, such as inconsistent efficacy, safety signals, poor enrollment, and lack of alignment with stakeholder expectations.",
+      "rationale": "Early and structured detection of clinical red flags enables sponsors to take corrective actions before regulatory delays, trial failure, or commercial rejection occur. Transparent risk management enhances credibility with investors, regulators, and HTAs.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM43",
+      "inquiry_domain": "Risk-Benefit Assessment",
+      "question": "Are toxicity or safety signals manageable with monitoring, mitigation, or labeling?",
+      "rubric_tests": "This rubric tests whether known or emerging safety concerns are adequately characterized and whether appropriate strategies (e.g., monitoring, labeling, protocol changes, risk minimization measures) are in place to manage those risks while maintaining approvability and clinical utility.",
+      "rationale": "Most drug programs carry some safety risk. The question is whether that risk can be understood, mitigated, and clearly communicated to regulators, clinicians, and patients. Programs that fail to plan for this upfront often face delays, rejections, or post-marketing restrictions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM44",
+      "inquiry_domain": "Risk-Benefit Assessment",
+      "question": "Are there defined \u201cno-go\u201d criteria for development continuation?",
+      "rubric_tests": "This rubric tests whether the program has clearly articulated and pre-agreed \u201cno-go\u201d thresholds or criteria\u2014clinical, operational, regulatory, or commercial\u2014that, if met, would trigger pause, redesign, or discontinuation of development.",
+      "rationale": "Programs without defined inflection points or termination thresholds are vulnerable to sunk-cost bias, inefficient use of resources, and failure to act decisively when data becomes unfavorable. \u201cNo-go\u201d criteria, if transparently defined, empower teams to make tough decisions and focus resources wisely.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM45",
+      "inquiry_domain": "Late Phase / Lifecycle Planning",
+      "question": "Is there a lifecycle management plan (e.g., label expansion, line extensions)?",
+      "rubric_tests": "This rubric tests whether a structured lifecycle management (LCM) plan exists and whether it incorporates regulatory, clinical, commercial, and operational pathways for extending the product\u2019s utility and value across indications, populations, or formulations.",
+      "rationale": "Lifecycle management is a critical lever to maximize a product\u2019s full commercial and therapeutic potential. A lack of forward-looking LCM planning can limit return on investment, open strategic gaps for competitors, and impair pricing and reimbursement outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM46",
+      "inquiry_domain": "Late Phase / Lifecycle Planning",
+      "question": "Are post-approval study commitments or Phase 4 trials planned or required?",
+      "rubric_tests": "This rubric assesses whether a robust plan exists for post-approval commitments, including Phase 4 studies, risk management studies, and observational research to support regulatory, safety, and commercial objectives.",
+      "rationale": "Post-approval trials are often critical for confirming clinical benefit, addressing regulator or payor conditions, and enabling lifecycle expansion. Absence of planning can jeopardize approval, reimbursement, or continued market access.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM47",
+      "inquiry_domain": "Late Phase / Lifecycle Planning",
+      "question": "Are registries or real-world studies planned for value demonstration?",
+      "rubric_tests": "This rubric assesses whether real-world evidence (RWE) strategies, including registries and observational studies, are in place to support value demonstration, payer alignment, and lifecycle expansion.",
+      "rationale": "Registries and RWE studies can demonstrate effectiveness, long-term safety, and health economics, which are critical for pricing, reimbursement, and global access. Without them, value messages may be unsubstantiated, and post-approval momentum may stall.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "CDM48",
+      "inquiry_domain": "Clinical Documentation & Auditability",
+      "question": "Are all clinical study protocols, SAPs, CSRs, and patient narratives archived and available?",
+      "rubric_tests": "This rubric evaluates whether critical clinical documentation\u2014including protocols, Statistical Analysis Plans (SAPs), Clinical Study Reports (CSRs), and patient narratives\u2014are properly archived, version-controlled, and available for audit or regulatory review.",
+      "rationale": "Robust clinical documentation practices are essential for compliance with ICH GCP, regulatory inspections, and internal QA audits. Incomplete or inaccessible documentation is a frequent cause of findings in FDA, EMA, and MHRA inspections and can delay submissions or risk rejection.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM49",
+      "inquiry_domain": "Clinical Documentation & Auditability",
+      "question": "Are ICFs, ethics approvals, and investigator site files inspection-ready?",
+      "rubric_tests": "This rubric evaluates whether informed consent forms (ICFs), ethics approvals, and investigator site files (ISFs) are maintained in accordance with GCP requirements and are ready for regulatory inspection or internal audit.",
+      "rationale": "Proper maintenance and inspection readiness of ICFs, EC/IRB approvals, and ISFs are core obligations under ICH E6 and regional regulations. Non-compliance in these areas is one of the most common sources of inspection findings globally.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM50",
+      "inquiry_domain": "Clinical Documentation & Auditability",
+      "question": "Are all clinical modules of the eCTD (5.3.5, 5.3.6) populated and consistent?",
+      "rubric_tests": "This rubric evaluates whether the clinical modules of the electronic Common Technical Document (eCTD)\u2014specifically 5.3.5 (Clinical Study Reports) and 5.3.6 (Integrated Summaries)\u2014are complete, current, and internally consistent with supporting documents such as protocols, SAPs, and data outputs.",
+      "rationale": "Modules 5.3.5 and 5.3.6 are central to regulatory submissions. Inconsistencies, missing documents, or misalignment between source documents and the eCTD can lead to major queries, delay reviews, or trigger rejection. These modules reflect clinical execution quality, data integrity, and submission readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Check",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Expected",
+          "SG8": "Critical",
+          "SG9": "Check"
+        }
+      }
+    },
+    {
+      "id": "CDM51",
+      "inquiry_domain": "Clinical Team & Governance",
+      "question": "Is the clinical leadership experienced and credible?",
+      "rubric_tests": "This rubric assesses the depth, relevance, and visibility of clinical leadership experience and its impact on product credibility, team performance, regulatory trust, and trial execution. It considers leadership credentials, therapeutic expertise, functional track record, and stakeholder confidence.",
+      "rationale": "Clinical leaders significantly influence trial success, regulatory interaction, and investor confidence. Experienced leadership improves decision quality, manages risk proactively, and ensures clinical integrity across development. Weak or unproven leadership is a red flag for trial delays, suboptimal design, and regulatory skepticism.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM52",
+      "inquiry_domain": "Clinical Team & Governance",
+      "question": "Is medical oversight provided by board-certified physicians in the relevant area?",
+      "rubric_tests": "This rubric evaluates whether the individuals providing medical oversight are appropriately credentialed, possess relevant board certifications, and are actively engaged in clinical governance. It examines whether these physicians have demonstrated therapeutic area expertise, are accountable for safety and efficacy oversight, and contribute meaningfully to the integrity of clinical trials.",
+      "rationale": "Having board-certified physicians in the relevant therapeutic area ensures credible, scientifically grounded medical oversight. It is a regulatory expectation for clinical development programs and is critical for stakeholder trust, ethical conduct, and risk mitigation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "CDM53",
+      "inquiry_domain": "Clinical Team & Governance",
+      "question": "Are clinical trial governance and decision-making processes documented?",
+      "rubric_tests": "This rubric evaluates whether there is a clearly defined and traceable governance structure in place for clinical development, with specific attention to how decisions are proposed, debated, documented, and acted upon throughout the development process.",
+      "rationale": "Effective clinical governance requires transparency, structure, and documentation of decision-making. Well-documented governance helps ensure that safety, efficacy, ethics, and operational issues are reviewed and addressed consistently. Regulatory agencies expect sponsors to demonstrate clear internal oversight structures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Check",
+          "SG5": "Check",
+          "SG6": "Check",
+          "SG7": "Check",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

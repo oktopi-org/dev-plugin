@@ -1,0 +1,4414 @@
+{
+  "function_code": "COM",
+  "modality": "biologics",
+  "function_name": "Commercial",
+  "question_count": 72,
+  "critical_index": {
+    "SR": {
+      "SG1": [
+        "BBCOM1",
+        "BBCOM2",
+        "BBCOM3",
+        "BBCOM4",
+        "BBCOM5",
+        "BBCOM6",
+        "BBCOM7",
+        "BBCOM8"
+      ],
+      "SG2": [
+        "BBCOM1",
+        "BBCOM2",
+        "BBCOM3",
+        "BBCOM4",
+        "BBCOM5",
+        "BBCOM6",
+        "BBCOM7",
+        "BBCOM8",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG3": [
+        "BBCOM1",
+        "BBCOM2",
+        "BBCOM3",
+        "BBCOM4",
+        "BBCOM5",
+        "BBCOM6",
+        "BBCOM7",
+        "BBCOM8",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG4": [
+        "BBCOM7",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG5": [
+        "BBCOM7",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG6": [
+        "BBCOM7",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35"
+      ],
+      "SG7": [
+        "BBCOM7",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35",
+        "BBCOM36",
+        "BBCOM37",
+        "BBCOM38",
+        "BBCOM39",
+        "BBCOM40",
+        "BBCOM41",
+        "BBCOM42",
+        "BBCOM43",
+        "BBCOM44",
+        "BBCOM45",
+        "BBCOM46",
+        "BBCOM47",
+        "BBCOM48",
+        "BBCOM49",
+        "BBCOM50",
+        "BBCOM51",
+        "BBCOM52",
+        "BBCOM53",
+        "BBCOM54",
+        "BBCOM55",
+        "BBCOM56",
+        "BBCOM57",
+        "BBCOM58",
+        "BBCOM59",
+        "BBCOM60",
+        "BBCOM61",
+        "BBCOM62",
+        "BBCOM63",
+        "BBCOM64",
+        "BBCOM65",
+        "BBCOM66",
+        "BBCOM67",
+        "BBCOM68",
+        "BBCOM69",
+        "BBCOM70",
+        "BBCOM71",
+        "BBCOM72"
+      ],
+      "SG8": [
+        "BBCOM7",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35",
+        "BBCOM36",
+        "BBCOM37",
+        "BBCOM38",
+        "BBCOM39",
+        "BBCOM40",
+        "BBCOM41",
+        "BBCOM42",
+        "BBCOM43",
+        "BBCOM44",
+        "BBCOM45",
+        "BBCOM46",
+        "BBCOM47",
+        "BBCOM48",
+        "BBCOM49",
+        "BBCOM50",
+        "BBCOM51",
+        "BBCOM52",
+        "BBCOM53",
+        "BBCOM54",
+        "BBCOM55",
+        "BBCOM56",
+        "BBCOM57",
+        "BBCOM58",
+        "BBCOM59",
+        "BBCOM60",
+        "BBCOM61",
+        "BBCOM62",
+        "BBCOM63",
+        "BBCOM64",
+        "BBCOM65",
+        "BBCOM66",
+        "BBCOM67",
+        "BBCOM68",
+        "BBCOM69",
+        "BBCOM70",
+        "BBCOM71",
+        "BBCOM72"
+      ],
+      "SG9": [
+        "BBCOM7",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35",
+        "BBCOM36",
+        "BBCOM37",
+        "BBCOM38",
+        "BBCOM39",
+        "BBCOM40",
+        "BBCOM41",
+        "BBCOM42",
+        "BBCOM43",
+        "BBCOM44",
+        "BBCOM45",
+        "BBCOM46",
+        "BBCOM47",
+        "BBCOM48",
+        "BBCOM49",
+        "BBCOM50",
+        "BBCOM51",
+        "BBCOM52",
+        "BBCOM53",
+        "BBCOM54",
+        "BBCOM55",
+        "BBCOM56",
+        "BBCOM57",
+        "BBCOM58",
+        "BBCOM59",
+        "BBCOM60",
+        "BBCOM61",
+        "BBCOM62",
+        "BBCOM63",
+        "BBCOM64",
+        "BBCOM65",
+        "BBCOM66",
+        "BBCOM67",
+        "BBCOM68",
+        "BBCOM69",
+        "BBCOM70",
+        "BBCOM71",
+        "BBCOM72"
+      ]
+    },
+    "OE": {},
+    "DD": {
+      "SG1": [
+        "BBCOM1",
+        "BBCOM2",
+        "BBCOM3",
+        "BBCOM4",
+        "BBCOM5",
+        "BBCOM6",
+        "BBCOM7",
+        "BBCOM8"
+      ],
+      "SG2": [
+        "BBCOM1",
+        "BBCOM2",
+        "BBCOM3",
+        "BBCOM4",
+        "BBCOM5",
+        "BBCOM6",
+        "BBCOM7",
+        "BBCOM8",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG3": [
+        "BBCOM1",
+        "BBCOM2",
+        "BBCOM3",
+        "BBCOM4",
+        "BBCOM5",
+        "BBCOM6",
+        "BBCOM7",
+        "BBCOM8",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG4": [
+        "BBCOM7",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG5": [
+        "BBCOM7",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15"
+      ],
+      "SG6": [
+        "BBCOM7",
+        "BBCOM9",
+        "BBCOM10",
+        "BBCOM11",
+        "BBCOM12",
+        "BBCOM13",
+        "BBCOM14",
+        "BBCOM15",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35"
+      ],
+      "SG7": [
+        "BBCOM7",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35",
+        "BBCOM36",
+        "BBCOM37",
+        "BBCOM38",
+        "BBCOM39",
+        "BBCOM40",
+        "BBCOM41",
+        "BBCOM42",
+        "BBCOM43",
+        "BBCOM44",
+        "BBCOM45",
+        "BBCOM46",
+        "BBCOM47",
+        "BBCOM48",
+        "BBCOM49",
+        "BBCOM50",
+        "BBCOM51",
+        "BBCOM52",
+        "BBCOM53",
+        "BBCOM54",
+        "BBCOM55",
+        "BBCOM56",
+        "BBCOM57",
+        "BBCOM58",
+        "BBCOM59",
+        "BBCOM60",
+        "BBCOM61",
+        "BBCOM62",
+        "BBCOM63",
+        "BBCOM64",
+        "BBCOM65",
+        "BBCOM66",
+        "BBCOM67",
+        "BBCOM68",
+        "BBCOM69",
+        "BBCOM70",
+        "BBCOM71",
+        "BBCOM72"
+      ],
+      "SG8": [
+        "BBCOM7",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35",
+        "BBCOM36",
+        "BBCOM37",
+        "BBCOM38",
+        "BBCOM39",
+        "BBCOM40",
+        "BBCOM41",
+        "BBCOM42",
+        "BBCOM43",
+        "BBCOM44",
+        "BBCOM45",
+        "BBCOM46",
+        "BBCOM47",
+        "BBCOM48",
+        "BBCOM49",
+        "BBCOM50",
+        "BBCOM51",
+        "BBCOM52",
+        "BBCOM53",
+        "BBCOM54",
+        "BBCOM55",
+        "BBCOM56",
+        "BBCOM57",
+        "BBCOM58",
+        "BBCOM59",
+        "BBCOM60",
+        "BBCOM61",
+        "BBCOM62",
+        "BBCOM63",
+        "BBCOM64",
+        "BBCOM65",
+        "BBCOM66",
+        "BBCOM67",
+        "BBCOM68",
+        "BBCOM69",
+        "BBCOM70",
+        "BBCOM71",
+        "BBCOM72"
+      ],
+      "SG9": [
+        "BBCOM7",
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM20",
+        "BBCOM21",
+        "BBCOM22",
+        "BBCOM23",
+        "BBCOM24",
+        "BBCOM25",
+        "BBCOM26",
+        "BBCOM27",
+        "BBCOM28",
+        "BBCOM29",
+        "BBCOM30",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM33",
+        "BBCOM34",
+        "BBCOM35",
+        "BBCOM36",
+        "BBCOM37",
+        "BBCOM38",
+        "BBCOM39",
+        "BBCOM40",
+        "BBCOM41",
+        "BBCOM42",
+        "BBCOM43",
+        "BBCOM44",
+        "BBCOM45",
+        "BBCOM46",
+        "BBCOM47",
+        "BBCOM48",
+        "BBCOM49",
+        "BBCOM50",
+        "BBCOM51",
+        "BBCOM52",
+        "BBCOM53",
+        "BBCOM54",
+        "BBCOM55",
+        "BBCOM56",
+        "BBCOM57",
+        "BBCOM58",
+        "BBCOM59",
+        "BBCOM60",
+        "BBCOM61",
+        "BBCOM62",
+        "BBCOM63",
+        "BBCOM64",
+        "BBCOM65",
+        "BBCOM66",
+        "BBCOM67",
+        "BBCOM68",
+        "BBCOM69",
+        "BBCOM70",
+        "BBCOM71",
+        "BBCOM72"
+      ]
+    },
+    "RS": {
+      "SG7": [
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM49",
+        "BBCOM65",
+        "BBCOM66"
+      ],
+      "SG8": [
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM49",
+        "BBCOM65",
+        "BBCOM66"
+      ],
+      "SG9": [
+        "BBCOM16",
+        "BBCOM17",
+        "BBCOM18",
+        "BBCOM19",
+        "BBCOM31",
+        "BBCOM32",
+        "BBCOM49",
+        "BBCOM65",
+        "BBCOM66"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "BBCOM1",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Has a comprehensive market assessment been conducted (TAM, SAM, SOM)?",
+      "rubric_tests": "Clear definitions of TAM/SAM/SOM; triangulation of sources; segmentation by geography, channels, payers, subpopulations; documented assumptions and sensitivity analyses; replicability and audit readiness; alignment with BD, valuation, and investor expectations.",
+      "rationale": "Robust market sizing is essential for valuation modeling, investor/partner diligence, commercial and launch strategy, payer engagement, and internal capital allocation; poor market sizing can lead to valuation discount, diligence delays, and failed partnerships.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM2",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Are epidemiology and patient segmentation data available and credible?",
+      "rubric_tests": "Availability of credible, current epidemiology and patient segmentation data; triangulation of primary and secondary sources; alignment with regulatory, payer, and HTA expectations; relevance to target product profile (TPP) and label strategy; transparency of assumptions and audit readiness. For biologics, patient segmentation must account for target expression prevalence, CDx testing rates (which may be much lower than theoretical prevalence), prior biologic exposure history, and biologic-naive vs. biologic-experienced segments \u2014 each with different commercial potential.",
+      "rationale": "Robust epidemiology and segmentation data are critical to support market opportunity, inform trial design, align with regulatory and payer expectations, enable realistic forecasting and valuation, and avoid misalignment in cross-functional planning; poor or unsubstantiated data can derail BD discussions and payer negotiations. Biologic patient segmentation requires modality-specific stratification. CDx-defined populations may be 30-50% smaller than epidemiologic prevalence due to real-world testing gaps. Prior biologic exposure status significantly affects response expectations and competitive positioning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM3",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Has peak sales potential been estimated, and is it supported by robust assumptions?",
+      "rubric_tests": "Availability of peak sales forecast; clear and validated assumptions; source triangulation; sensitivity analyses; segmentation by geography, payer, subpopulation, line of therapy; competitive landscape incorporated; aligned with BD, investor, and valuation models; audit-ready. For biologics, peak sales must account for: biologic-tier pricing ($100K-$500K+/year), biosimilar erosion timing (BPCIA 12-year exclusivity cliff), weight-based dosing wastage revenue, indication expansion upside, and IV-to-SC conversion impact on market share.",
+      "rationale": "Peak sales estimates drive valuation, partner interest, and capital allocation; must be based on transparent, credible assumptions aligned with market realities and competitive dynamics; poor or inflated estimates can damage BD credibility and delay deals. Biologic peak sales estimates require modality-specific assumptions \u2014 pricing is 10-100x higher than SM, but biosimilar entry (predictable at 12 years post-BLA) creates a sharp revenue cliff that must be modeled. Indication expansion is typically the primary growth lever for biologics.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM4",
+      "inquiry_domain": "Market Opportunity & Sizing",
+      "question": "Have analogs or benchmarks been used to triangulate market potential?",
+      "rubric_tests": "Use of relevant commercial analogs or benchmarks to validate and triangulate market potential, peak sales, uptake curves, pricing, and payer acceptance; documentation and justification of analog selection; consistency across BD, valuation, and HTA strategy; audit readiness.",
+      "rationale": "Analog and benchmark triangulation is a key validation tool for peak sales forecasts and market potential; strengthens credibility with BD, investors, and payers; prevents over-optimistic assumptions; poor or unsubstantiated analog selection is a frequent source of valuation challenge.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM5",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Is the TPP aligned with market and payer expectations?",
+      "rubric_tests": "Alignment of TPP claims and value propositions with market needs, payer expectations, HTA requirements, clinical guidelines, and competitive landscape; cross-functional ownership; documentation of payer insights; audit readiness.",
+      "rationale": "Alignment of TPP with market and payer expectations is critical for achieving commercial success, securing reimbursement, supporting HTA submissions, and driving differentiation versus competitors; misaligned TPPs lead to failed access or commercial underperformance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM6",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Are differentiating features clearly articulated (efficacy, safety, route, convenience)?",
+      "rubric_tests": "Clarity and documentation of differentiating features of the asset vs current standard of care and pipeline competitors \u2014 across efficacy, safety, route of administration, convenience, dosing, value proposition; alignment with market, payer, HTA expectations; linkage to TPP, value story, and evidence strategy. For biologics, differentiating features include: target specificity and affinity, Fc effector function profile, half-life and dosing frequency, IV vs. SC administration, step-up dosing requirements (for bispecifics), CRS incidence/severity, immunogenicity profile, and for bispecifics, the obligate mechanism advantage vs. mAb combination.",
+      "rationale": "Clear articulation of differentiation is essential for positioning, reimbursement, competitive success, and partner/investor valuation; vague or unsubstantiated differentiation leads to weak payer/reimbursement outcomes and diminished BD value. Biologic differentiation operates on dimensions absent from SM \u2014 format advantages (bispecific vs. mAb combination), administration convenience (SC vs. IV, reduced infusion time), safety profile differentiation (lower CRS rates), and immunogenicity profile. These biologic-specific differentiators drive clinical adoption and payer acceptance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM7",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Does the product address a high unmet need or a defined market gap?",
+      "rubric_tests": "Evidence that the product addresses a clearly defined and validated unmet medical need or market gap, aligned with payer/HTA priorities and market expectations; documented with supporting data and stakeholder insights; integrated into value proposition, TPP, and BD/partner messaging.",
+      "rationale": "Demonstrating that a product addresses an unmet need is central to payer/reimbursement success, market differentiation, HTA positive outcomes, and investor/partner interest; lack of validated unmet need positioning undermines market access, pricing potential, and BD value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM8",
+      "inquiry_domain": "Target Product Profile (TPP) Alignment",
+      "question": "Are TPP attributes supported by clinical data or early signals?",
+      "rubric_tests": "Whether each key TPP attribute is linked to and supported by current clinical data, early signals, preclinical translational data, or planned evidence; whether gaps and uncertainties are documented; whether alignment exists between TPP claims and the evolving evidence base; audit readiness for internal and external review.",
+      "rationale": "Payers, HTA bodies, partners, and investors require evidence-supported TPP claims \u2014 unsupported or speculative TPP claims damage credibility and access outcomes; alignment of TPP with clinical data prevents regulatory risk, BD risk, and reimbursement failures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Critical",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM9",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Has a comprehensive competitor analysis been performed (pipeline + marketed)?",
+      "rubric_tests": "Breadth, depth, and currency of competitor analysis \u2014 including marketed products, pipeline (clinical + preclinical), mechanism of action, differentiation, pricing, access/reimbursement, trial design, and market positioning; alignment to TPP, market access, BD, and valuation models; audit readiness.",
+      "rationale": "Robust competitor analysis informs positioning, differentiation, TPP claims, HTA/reimbursement strategy, and partner/investor valuation; lack of competitor insight \u2192 valuation risk, BD risk, HTA rejection, and poor commercial outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM10",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Are competitor profiles up to date (MOA, clinical status, launch timing, pricing)?",
+      "rubric_tests": "Whether competitor profiles are current, comprehensive, and regularly updated \u2014 covering MOA, clinical development status, trial readouts, regulatory progress, launch timing, pricing, access outcomes, and positioning; whether they are integrated into TPP, Market Access, BD, Regulatory planning; whether gaps/risks are documented.",
+      "rationale": "Outdated or incomplete competitor profiles \u2192 positioning risk, HTA failure, pricing misalignment, poor BD valuation. Up-to-date profiles drive market success, strategic agility, and investor/partner confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM11",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Is there a clear differentiation strategy vs. competitors?",
+      "rubric_tests": "Clarity, documentation, and validation of competitive differentiation strategy \u2014 across clinical outcomes, safety/tolerability, convenience, pricing/value, market access, real-world use, and patient-relevant outcomes; alignment to TPP, Market Access, HTA strategy, BD/valuation model; integration across functions; audit readiness. For biologics, differentiation strategy must address: biologic vs. biologic positioning (not just vs. SM SOC), bispecific vs. mAb combination value, ADC vs. bispecific in overlapping indications, CAR-T vs. bispecific trade-offs (efficacy depth vs. access/safety), and originator vs. biosimilar value.",
+      "rationale": "Without a clear, validated differentiation strategy, products risk commoditization, poor reimbursement, weak BD valuation, and market underperformance. Sophisticated partners and HTA bodies now require explicit, evidence-backed differentiation. The biologic competitive landscape is multi-modal \u2014 bispecifics, ADCs, CAR-T, and conventional mAbs compete for the same patients. Differentiation strategy must address these cross-format comparisons, not just within-class competition.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM12",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Are emerging technologies or disruptive entrants monitored?",
+      "rubric_tests": "Whether emerging technologies, new platforms, novel MoAs, disruptive market entrants, adjacent/alternative modalities, new care models are actively monitored, assessed, and integrated into strategic planning across TPP, differentiation, Market Access, BD, Regulatory, Clinical; whether proactive horizon scanning and mitigation planning is in place. For biologics, disruptive entrants include: next-generation bispecific formats (trispecifics, tetraspecifics), conditionally active/masked biologics, bispecific ADCs, off-the-shelf cell therapies, and mRNA-encoded biologics. These emerging modalities can fundamentally alter the competitive landscape within 3-5 years.",
+      "rationale": "Failure to monitor emerging/disruptive entrants \u2192 positioning risk, obsolete differentiation, missed BD opportunities, HTA rejection (wrong comparator), loss of competitive advantage. Proactive monitoring enables strategic agility, early positioning, and BD leverage. The biologic innovation cycle is extremely rapid \u2014 trispecifics, masked biologics, and bispecific ADCs are already in clinical development and may disrupt current bispecific and mAb positioning within a few years. Horizon scanning must extend beyond traditional pipeline monitoring.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM13",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Have initial pricing assumptions been modeled and benchmarked?",
+      "rubric_tests": "Whether initial pricing assumptions are explicitly modeled, benchmarked vs competitors and analogs, aligned to payer value drivers, informed by HTA outcomes, supported by budget impact and cost-effectiveness analysis, documented with transparent assumptions, reviewed cross-functionally, and ready for BD, HTA, and partner/investor diligence. For biologics, pricing must account for: biologic-tier pricing benchmarks ($100K-$500K+/year), medical benefit (Part B) vs. pharmacy benefit (Part D) reimbursement dynamics, buy-and-bill economics (ASP+6% for providers), 340B programme impact, international reference pricing risk from biologic launch sequencing, and biosimilar pricing pressure.",
+      "rationale": "Weak, speculative, or unbenchmarked pricing assumptions \u2192 frequent cause of valuation inflation, BD partner pushback, HTA rejection, and market access delays. Robust pricing models are core to value story, access strategy, and BD negotiations. Biologic pricing operates in a fundamentally different economic framework \u2014 medical benefit reimbursement (buy-and-bill under ASP+6%), specialty pharmacy dynamics, 340B programme economics, and biosimilar reference pricing all create biologic-specific pricing considerations not relevant to SM.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM14",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Are health economic/value frameworks developed (e.g., cost-effectiveness models)?",
+      "rubric_tests": "Development and validation of health economic frameworks (e.g., CEA, QALY-based models, BIA, budget impact models, cost-consequence models) aligned to payer and HTA requirements, linked to clinical and real-world data, cross-functionally integrated, externally validated, and audit-ready.",
+      "rationale": "Robust and validated health economic/value models are essential to securing reimbursement, informing pricing strategy, enabling HTA success, supporting BD valuation, and driving partner/investor confidence",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM15",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Are HTA requirements considered (e.g., NICE, IQWiG, PBAC)?",
+      "rubric_tests": "Systematic consideration of HTA agency requirements (NICE, IQWiG, PBAC, G-BA, CADTH, HAS, etc.), alignment of evidence package, TPP, economic models, comparators, value story, with HTA guidelines and expectations, cross-functional integration, external validation, and audit readiness.",
+      "rationale": "Failure to align with HTA requirements results in negative reimbursement decisions, suboptimal pricing, delays to market access, and lost value capture.",
+      "priorities": {
+        "SR": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Expected",
+          "SG2": "Critical",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM16",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Are pricing and reimbursement risks identified and addressed?",
+      "rubric_tests": "Whether pricing and reimbursement (P&R) risks are systematically identified, tracked, and mitigated \u2014 including clinical, economic, comparator, HTA, access, competitive, policy, and market dynamics \u2014 with cross-functional ownership, transparent documentation, mitigation plans, dynamic monitoring, and audit readiness. For biologics, P&R risks include: biosimilar entry timing and pricing erosion, payer-mandated biosimilar switching, step-therapy requirements (requiring failure on cheaper biologic before accessing novel bispecific), medical-to-pharmacy benefit reclassification risk (for SC conversions), and international reference pricing cascades from early market launches.",
+      "rationale": "Proactively identifying and managing pricing and reimbursement risks is critical to achieving optimal market access, pricing outcomes, HTA success, BD valuation, and partner/investor confidence. Biologic P&R risks are modality-specific: biosimilar erosion is predictable (BPCIA) but the rate and depth are uncertain; payer step-therapy edits can block access to novel biologics; and pharmacy benefit reclassification of SC formulations changes the entire reimbursement dynamic.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM17",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Have payer advisory boards or research been conducted?",
+      "rubric_tests": "Whether payer insights (via advisory boards, structured research, interviews, landscape assessments) have been systematically gathered, validated, integrated into pricing, access, value communication, HTA strategy, evidence generation, BD, documented with governance and version control.",
+      "rationale": "Without payer insights, pricing, value, and market access strategies risk being misaligned with real-world payer expectations, resulting in HTA failure, pricing shortfalls, delayed access, and BD valuation risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM18",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Are payer value messages tested or defined?",
+      "rubric_tests": "Whether payer value messages are clearly defined, prioritized, tested with payers (ad boards, research, advisory panels), aligned with HTA value drivers, evidence strategy, and differentiation, documented, integrated across HTA, BD, Market Access, Pricing, and ready for external use.",
+      "rationale": "Without payer-tested value messages, market access strategies risk HTA rejection, pricing failure, suboptimal reimbursement, and inconsistent external communications.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM19",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Are there reimbursement precedents in the target indication?",
+      "rubric_tests": "Whether reimbursement precedents (HTA outcomes, payer decisions, comparator pricing/access, submission outcomes, value drivers) are systematically identified, mapped, analyzed, and integrated into pricing, value, HTA, Market Access, BD, with governance, version control, and audit readiness.",
+      "rationale": "Understanding reimbursement precedents is critical for de-risking pricing and access strategy, informing HTA alignment, guiding evidence generation, supporting BD valuation, and anticipating payer expectations.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM20",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Is the expected reimbursed price range feasible for uptake?",
+      "rubric_tests": "Whether the expected reimbursed price range is realistic based on payer willingness-to-pay (WTP), HTA thresholds, budget impact, comparator benchmarks, contracting dynamics, market elasticity, and value story \u2014 validated via payer research, precedent analysis, modeling, and cross-functional alignment \u2014 with audit-ready documentation. For biologics, reimbursed price feasibility must account for: buy-and-bill economics (ASP+6% margin for providers), specialty pharmacy reimbursement models, patient out-of-pocket burden at biologic price points (copay assistance programmes), payer rebate expectations, and whether the price is sustainable against anticipated biosimilar entry.",
+      "rationale": "Aligning price expectations with payer reality is critical to avoid misaligned BD valuations, HTA failure, poor access outcomes, suboptimal launch uptake, and revenue shortfalls. Biologic reimbursed pricing must be sustainable across multiple dynamics \u2014 provider margin (buy-and-bill), patient affordability (copay assistance), payer contracting (rebates/outcomes-based agreements), and competitive sustainability against biosimilar entry. These simultaneous considerations are unique to biologic pricing.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM21",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Is there a clearly defined commercialization strategy (partnered vs. direct)?",
+      "rubric_tests": "Whether the commercialization strategy (partnered, direct, hybrid) is explicitly defined, documented, aligned with corporate objectives, asset characteristics, market requirements, partner/BD strategy, capabilities, and risk appetite \u2014 validated by scenario modeling and market insights, with cross-functional alignment and governance.",
+      "rationale": "A clearly defined and aligned commercialization strategy is essential to drive capital planning, partner negotiations, organizational readiness, and investor confidence \u2014 lack of clarity increases strategic risk and delays execution.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM22",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Are go-to-market models defined by geography (e.g., U.S. vs. EU vs. Asia)?",
+      "rubric_tests": "Whether go-to-market models are clearly defined, documented, and tailored for priority geographies (U.S., EU, Asia, ROW), aligned to market-specific access, pricing, reimbursement, regulatory, channel, and competitive dynamics, with cross-functional integration, scenario modeling, governance, and audit readiness.",
+      "rationale": "Market-specific GTM models are critical to align operational execution, pricing and access outcomes, revenue planning, resource allocation, and partner/investor confidence \u2014 generic or unsegmented models expose major risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM23",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Are launch sequence, pricing corridors, and market prioritization mapped?",
+      "rubric_tests": "Whether launch sequence, pricing corridors, and market prioritization are clearly defined, documented, scenario-modeled, and aligned to regulatory timing, access and reimbursement dynamics, pricing strategy, revenue modeling, BD strategy, and organizational readiness \u2014 with cross-functional integration, governance, and audit readiness.",
+      "rationale": "Mapping launch sequence, pricing corridors, and market prioritization is critical to optimize revenue capture, manage reference pricing risk, sequence regulatory and HTA submissions, and ensure aligned BD and operational execution \u2014 poor mapping exposes major market and financial risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM24",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "Are distribution and channel strategies defined?",
+      "rubric_tests": "Whether distribution and channel strategies (wholesale, specialty, retail, hospital, direct-to-patient, digital) are clearly defined, documented, aligned to market requirements and product profile, linked to pricing, access, contracting, supply chain, field force strategy, and revenue forecasting, with cross-functional ownership and governance. For biologics, distribution and channel strategy must address: specialty pharmacy networks (limited or exclusive distribution), buy-and-bill channel (for provider-administered IV biologics), white/brown/clear bagging policies, home infusion channel, patient hub/support services, and whether IV-to-SC conversion changes the distribution model.",
+      "rationale": "Clear distribution and channel strategies are critical for optimal patient access, revenue realization, pricing integrity, contracting efficiency, and operational readiness \u2014 gaps expose significant market access, commercial, and supply risk. Biologic distribution is fundamentally different from SM \u2014 specialty pharmacy, limited distribution networks, buy-and-bill, and bagging policies create a complex channel landscape. IV-to-SC conversion can shift products from medical benefit/buy-and-bill to pharmacy benefit/specialty pharmacy, requiring complete channel strategy revision.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM25",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Is a launch plan or launch excellence framework in place?",
+      "rubric_tests": "Whether a launch plan and/or launch excellence framework is clearly defined, structured, version-controlled, linked to corporate and asset strategy, covering cross-functional workstreams (MA, Pricing, Regulatory, Commercial, Medical, Supply, HEOR, BD), with execution roadmaps, readiness KPIs, governance, and dynamic risk management. For biologics, launch readiness includes: specialty pharmacy/hub services activation, patient support programme design (copay assistance, nurse injection training for SC, infusion centre network), REMS implementation (if required for CRS management), site-of-care readiness (infusion centres), and payer contracting for biologic-tier pricing.",
+      "rationale": "A clear launch plan and excellence framework drives alignment, readiness, speed to market, revenue realization, and external confidence \u2014 lack of structure exposes significant execution, market access, and revenue risk. Biologic launch is substantially more complex than SM \u2014 requiring specialty pharmacy infrastructure, patient hub services, copay assistance programmes (critical at biologic price points), and for bispecifics, REMS implementation and infusion site readiness. These elements must be operational before launch.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM26",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Are key milestones defined (regulatory, supply, market shaping, field force)?",
+      "rubric_tests": "Whether key milestones across Regulatory, Supply, Market Shaping, and Field Force are clearly defined, documented, integrated into the launch plan, sequenced and interdependent, linked to KPIs and readiness reviews, and monitored through cross-functional governance \u2014 with version control and audit readiness.",
+      "rationale": "Defining and sequencing key milestones ensures coordinated execution, drives launch readiness and revenue realization, enables risk mitigation, and builds investor and partner confidence \u2014 lack of clear milestones exposes the launch to major execution risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM27",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Are internal capabilities or partners identified for launch execution?",
+      "rubric_tests": "Whether internal capabilities and external partners are clearly identified, assessed, and mapped to launch execution needs across key functions (Regulatory, MA, Pricing, HEOR, Commercial, Supply, QA, Medical, Field, BD), linked to workstreams, resourcing plans, risk mitigation, and embedded in launch governance \u2014 with version control and audit readiness.",
+      "rationale": "Mapping internal capabilities and partner needs is essential to ensure launch readiness, avoid execution gaps, de-risk resource and capacity constraints, and support partner/investor confidence \u2014 failure leads to fragmented, delayed, or under-resourced launches.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM28",
+      "inquiry_domain": "Launch Readiness",
+      "question": "Is a launch budget and resource plan developed?",
+      "rubric_tests": "Whether a launch budget and resource plan are clearly defined, documented, version-controlled, aligned to launch strategy, workstreams, milestones, risk scenarios, covering both internal and external costs, FTE, partners, with cross-functional ownership, governance, and audit readiness.",
+      "rationale": "A clear launch budget and resource plan ensures funding readiness, resource alignment, investor/partner confidence, and de-risked execution \u2014 gaps lead to underfunded launches, misaligned resources, and execution delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM29",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Are initial branding concepts or value propositions in development?",
+      "rubric_tests": "Whether initial branding concepts and value propositions are in active development, aligned to product differentiation, TPP, market and payer needs, HTA drivers, competitive positioning, KOL/payer insights, embedded into early launch planning and cross-functional strategies, and version-controlled for governance and audit readiness.",
+      "rationale": "Early development of branding and value propositions is critical for market shaping, payer engagement, stakeholder alignment, competitive positioning, and driving internal readiness and external confidence \u2014 failure results in fragmented messaging and market confusion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM30",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Are key customer segments identified (e.g., specialists, PCPs, hospitals)?",
+      "rubric_tests": "Whether key customer segments (specialists, PCPs, hospitals, payers, patients, advocacy groups, integrated delivery networks, retail, digital channels) are clearly identified, documented, segmented, prioritized, with insights, value drivers, and engagement strategies mapped and linked to launch strategy, field force design, MA, Pricing, and Commercial plans \u2014 with governance and audit readiness. For biologics, key customer segments include: academic vs. community oncologists (different biologic prescribing patterns), infusion centre directors, specialty pharmacists, case managers, buy-and-bill decision-makers, and for bispecifics, CRS-capable centres of excellence.",
+      "rationale": "Identifying and prioritizing key customer segments drives targeted launch planning, resource allocation, market shaping, access success, and revenue realization \u2014 lack of segmentation leads to diluted efforts and poor market traction. Biologic customer segmentation is more specialised than SM \u2014 the prescribing decision involves not just the physician but the infusion centre, specialty pharmacy, and payer prior authorisation. For bispecifics, site capability (CRS management) is a prescribing gatekeeper.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM31",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Are clinical and economic value stories integrated into messaging?",
+      "rubric_tests": "Whether clinical and economic value stories are clearly defined, integrated, and aligned across payer, HTA, clinician, patient, and internal audiences; supported by evidence, linked to TPP, competitive positioning, MA strategy, embedded in early messaging and branding, with cross-functional alignment, validation, and governance.",
+      "rationale": "Integrated clinical and economic value stories are essential for payer acceptance, HTA success, competitive differentiation, stakeholder engagement, and commercial success \u2014 failure results in fragmented messaging and poor access outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM32",
+      "inquiry_domain": "Brand Strategy & Messaging",
+      "question": "Is there a patient-centered approach in brand planning?",
+      "rubric_tests": "Whether a patient-centered approach is clearly embedded in brand planning \u2014 with patient insights, unmet needs, journey mapping, patient-relevant outcomes, equity considerations, and co-creation with patient groups reflected in positioning, messaging, value stories, and stakeholder engagement, aligned with TPP, HTA, MA, and Commercial strategies, and documented with version control and governance.",
+      "rationale": "A patient-centered brand plan drives relevance, differentiation, market shaping, payer/HTA success, and trust with stakeholders \u2014 lack of this results in tone-deaf messaging, misaligned positioning, and missed access and uptake opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM33",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Are KOLs identified and engaged across key markets?",
+      "rubric_tests": "Whether KOLs (Key Opinion Leaders) are clearly identified, mapped, segmented, prioritized, and actively engaged across key markets, with insights and advocacy integrated into brand and evidence strategy, aligned with MA, Medical, Commercial, BD, and with version control, governance, and audit readiness.",
+      "rationale": "Strategic KOL engagement is critical to drive scientific advocacy, market shaping, credibility, HTA influence, stakeholder education, and launch success \u2014 poor KOL mapping/engagement leads to credibility gaps and suboptimal access/uptake.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM34",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Are early adopter physicians, advocates, and societies mapped?",
+      "rubric_tests": "Whether early adopter physicians, advocates, and professional societies are identified, mapped, segmented, prioritized, with influence networks and decision pathways documented, and engagement strategies linked to market shaping, education, field force strategy, payer access, and brand planning \u2014 with cross-functional alignment, governance, and audit readiness.",
+      "rationale": "Mapping and engaging early adopters and key advocates accelerates market education, clinical adoption, guideline inclusion, and payer acceptance \u2014 lack of structured mapping results in slow uptake, weak advocacy, and missed launch potential.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM35",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Are patient advocacy organizations involved or consulted?",
+      "rubric_tests": "Whether patient advocacy organizations are identified, mapped, prioritized, engaged, and their perspectives integrated into brand planning, value strategy, evidence generation, HTA, access strategy, policy shaping, and patient support initiatives \u2014 with cross-functional alignment, compliance, governance, version control, and audit readiness.",
+      "rationale": "Engaging advocacy organizations enhances credibility, trust, patient-centeredness, policy impact, market access, and equity \u2014 lack of structured engagement leads to mistrust, missed insights, and reduced market and payer support.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM36",
+      "inquiry_domain": "Stakeholder Mapping & Engagement",
+      "question": "Is stakeholder mapping aligned with scientific and commercial strategy?",
+      "rubric_tests": "Whether stakeholder mapping (clinical, scientific, payer, HTA, advocacy, regulatory, KOL, patient, policymaker, digital, influencer) is comprehensive, prioritized, and linked to scientific strategy (evidence generation, TPP alignment, HTA/payer strategy, publication, guidelines) and commercial strategy (market shaping, positioning, access, uptake), with cross-functional governance, version control, and audit readiness.",
+      "rationale": "Alignment of stakeholder mapping with scientific and commercial strategy drives credibility, consistency, advocacy, market access, uptake, and long-term success \u2014 failure results in fragmented engagement, mistrust, and lost strategic opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM37",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Are there clear lifecycle opportunities (e.g., new indications, combinations, formulations)?",
+      "rubric_tests": "Whether lifecycle management (LCM) opportunities \u2014 including new indications, combinations, formulations, line extensions, geographic expansions, label expansions, device integrations, new dosing regimens \u2014 are identified, mapped, prioritized, resourced, and aligned to corporate, scientific, and commercial strategy, with cross-functional ownership, governance, version control, and audit readiness. For biologics, lifecycle opportunities include: indication expansion (the primary biologic growth lever), IV-to-SC conversion (convenience, cost, self-administration), fixed-dose combination (with another biologic or SM), reduced infusion time, extended dosing interval, biosimilar defence strategies (device innovation, SC formulation, patient loyalty programmes), and next-generation molecule (improved format, enhanced potency, reduced immunogenicity).",
+      "rationale": "Structured lifecycle planning is critical to maximize asset value, extend market exclusivity, optimize revenue trajectory, build franchise potential, and de-risk competitive threats \u2014 lack of LCM strategy leads to lost growth opportunities and value erosion. Biologic lifecycle management is distinctly different from SM \u2014 indication expansion drives growth (rather than formulation line extensions), IV-to-SC conversion extends product life and access, and biosimilar defence (rather than generic defence) defines the competitive endpoint. These require biologic-specific lifecycle strategies.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM38",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Is there potential for line extensions or geographic expansion?",
+      "rubric_tests": "Whether line extension opportunities (new formulations, device integrations, alternate dosing, age groups, combo packs, co-administration) and geographic expansion opportunities (new markets, emerging markets, local partnerships, optimized sequencing) are identified, prioritized, evaluated, and linked to scientific, regulatory, market access, and commercial strategy, with cross-functional alignment, governance, version control, and audit readiness.",
+      "rationale": "Proactive planning of line extensions and geographic expansion is key to franchise growth, lifecycle value optimization, global reach, and revenue maximization \u2014 lack of structure results in fragmented execution, delayed growth, and competitive disadvantage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM39",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Is the asset part of a broader platform or portfolio strategy?",
+      "rubric_tests": "Whether the asset\u2019s role within a broader platform/portfolio strategy is clearly defined, articulated, prioritized, with synergies to scientific platform, franchise development, market shaping, technology leverage, lifecycle expansion, business development, and whether this alignment is integrated into portfolio governance, cross-functionally agreed, version-controlled, and audit-ready.",
+      "rationale": "Linking assets to a platform or portfolio strategy amplifies long-term value, drives synergistic development, attracts partners/investors, and enhances franchise potential \u2014 lack of linkage leads to siloed development, missed synergies, and sub-optimized corporate value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM40",
+      "inquiry_domain": "Lifecycle Management & Franchise Potential",
+      "question": "Are there adjacent market opportunities or follow-on assets?",
+      "rubric_tests": "Whether adjacent market opportunities (related diseases, new patient segments, adjacent therapeutic areas, new geographies, service layers) and follow-on assets (next-generation molecules, combinations, novel modalities, diagnostics, digital/companion solutions) are identified, mapped, prioritized, with scientific, commercial, BD, and lifecycle alignment, integrated into portfolio planning, governance, and investment strategy, with version control and audit readiness.",
+      "rationale": "Mapping and pursuing adjacent market and follow-on opportunities enables franchise building, market leadership, competitive defense, platform leverage, and investor value \u2014 lack of structure leads to missed growth, value erosion, and partner skepticism.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM41",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Are commercial supply and distribution plans in place?",
+      "rubric_tests": "Whether commercial supply and distribution plans are defined, documented, version-controlled, covering manufacturing capacity, quality systems, CMO/CDMO alignment, supply chain scalability, packaging, serialization, channel strategy, regional logistics, and compliance \u2014 aligned with launch plan, regulatory approvals, MA/market access timelines, and audit-ready. For biologics, commercial supply planning must address: long manufacturing lead times (3-6 months seed-to-release), cold chain requirements (2-8\u00b0C or frozen), limited shelf life, weight-based dosing vial size optimisation (minimising wastage), and manufacturing scale-up from clinical to commercial volumes (which may require new facilities or CDMO capacity).",
+      "rationale": "Robust supply and distribution planning is critical to ensure launch readiness, market access success, patient availability, and to prevent stock-outs, revenue loss, or regulatory risk \u2014 lack of planning results in launch delays, compliance issues, and partner confidence erosion. Biologic commercial supply planning is fundamentally different from SM \u2014 long manufacturing cycle times (3-6 months vs. weeks for SM), mandatory cold chain, shorter shelf life, and vial size optimisation for weight-based dosing all create supply chain complexity. Demand forecasting errors are costly because excess inventory may expire and shortages take months to resolve.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM42",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Are partnerships or 3PLs identified for commercial-scale logistics?",
+      "rubric_tests": "Whether 3rd Party Logistics (3PL) providers and distribution partnerships for commercial-scale logistics are identified, qualified, contracted, and their roles clearly mapped to supply chain strategy, covering global, regional, local needs, including cold chain, warehousing, transport, serialization, customs clearance, inventory management, and aligned to launch and ongoing supply plans with cross-functional governance and audit readiness.",
+      "rationale": "Qualified 3PLs and partnerships are critical to ensure scalable, compliant, and cost-effective commercial logistics \u2014 lack of readiness results in launch delays, supply disruptions, regulatory non-compliance, and partner/investor concerns.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM43",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Are cold chain, specialty pharmacy, or hospital distribution needs addressed?",
+      "rubric_tests": "Whether specialty distribution needs \u2014 cold chain, controlled temperature, specialty pharmacy, hospital/clinic channels, controlled handling, investigational/early access pathways \u2014 are mapped, validated, contracted, with compliance, monitoring, risk management, fully aligned to product profile and launch strategy, with cross-functional governance and audit readiness. For biologics, specialty distribution requirements are the norm, not the exception: cold chain is mandatory (2-8\u00b0C), specialty pharmacy dispensing is standard, hospital/clinic buy-and-bill channels are primary for IV products, home infusion is an emerging channel, and patient hub services (benefits investigation, copay, injection training) are essential for patient access.",
+      "rationale": "Robust specialty distribution readiness protects product integrity, access, compliance, and launch success \u2014 gaps cause delays, failures, regulatory action, and commercial loss. Unlike SM where specialty distribution is the exception, virtually all biologics require specialty distribution \u2014 cold chain, specialty pharmacy, and patient support services are standard. For IV biologics, the buy-and-bill channel adds provider economics complexity. Hub services are not optional \u2014 they directly drive patient access and persistence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM44",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "Is serialization and trade compliance planning underway?",
+      "rubric_tests": "Whether serialization and trade compliance \u2014 covering global/country-specific serialization mandates (DSCSA, EU FMD, Russia, China, others), track & trace, import/export controls, customs clearance, controlled substances trade controls, export license requirements, anti-bribery/anti-corruption (ABAC) and sanctions screening \u2014 is mapped, validated, contracted, and integrated into supply chain operations, regulatory submissions, product labeling, IT systems, with governance, cross-functional alignment, and audit readiness.",
+      "rationale": "Serialization and trade compliance are regulatory imperatives \u2014 failure leads to launch blocks, product seizure, legal penalties, market shutdowns, brand/reputation risk, and investor/partner confidence loss.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM45",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Is there a credible commercial leadership team or advisor network?",
+      "rubric_tests": "Whether a commercial leadership team and/or advisor network with proven experience \u2014 in launches, market access, branding, pricing, global markets, specialty channels, payer negotiation, digital commercialization, BD partnerships, and franchise building \u2014 is identified, engaged, aligned, with cross-functional integration, governance, credibility in the market, investor confidence, and audit trail.",
+      "rationale": "Credible commercial leadership is key for investor trust, partner confidence, market shaping, and execution success \u2014 weak or missing leadership is a top diligence red flag and derails financing, BD, and launch readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM46",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Are key commercial roles filled or in plan (marketing, access, sales)?",
+      "rubric_tests": "Whether key commercial leadership and execution roles \u2014 marketing, market access, sales/field force, commercial operations, analytics, medical affairs liaison (if applicable), digital, BD partnerships \u2014 are filled, formally recruited, or included in a hiring plan; whether organizational design is clear, resourcing is aligned to launch plan, roles and responsibilities documented, and whether this is governed, version-controlled, and aligned with investors/partners expectations.",
+      "rationale": "Early identification and resourcing of key commercial roles is a top readiness signal for investors, BD partners, governance bodies \u2014 lack of clarity or gaps delay launch readiness, impair market access, and erode partner confidence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM47",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Are internal vs. external capabilities clearly defined?",
+      "rubric_tests": "Whether internal vs. external resourcing decisions \u2014 across core commercial functions (marketing, access, sales, operations, analytics, digital, BD, medical affairs interface, patient services, specialty distribution, supply chain, training) \u2014 are clearly mapped, documented, governed, resourced, with clear ownership, accountability, budget alignment, scalability planning, and partner management, supporting a credible launch plan, investor/partner confidence, and execution discipline.",
+      "rationale": "Clear internal vs. external capability mapping is critical for launch efficiency, scalability, quality, cost optimization, and governance \u2014 lack of clarity leads to execution risk, partner distrust, compliance gaps, and value erosion.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM48",
+      "inquiry_domain": "Commercial Organization & Resourcing",
+      "question": "Is the commercial org structure scalable across phases (prelaunch to scale-up)?",
+      "rubric_tests": "Whether the commercial organizational design is fit-for-purpose and scalable across key phases:Early commercial (strategy, TPP shaping, market access groundwork); Prelaunch (brand building, field force design, access engagement); Launch execution; Post-launch growth and lifecycle management. Tests clarity of roles, resourcing and timing, budget alignment, internal vs. external mix, talent pipeline, partner readiness, and cross-functional integration \u2014 governed and aligned with corporate growth strategy and investor expectations.",
+      "rationale": "Scalable org design ensures execution agility, cost-effectiveness, and risk mitigation \u2014 gaps lead to bottlenecks, burnout, hiring frictions, market execution failures, and investor distrust.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM49",
+      "inquiry_domain": "Real-World Evidence (RWE) & Value Demonstration",
+      "question": "Are RWE plans developed to support reimbursement, uptake, or differentiation?",
+      "rubric_tests": "Whether RWE strategy and plans are developed, aligned to HTA/reimbursement requirements, clinical adoption, payer negotiations, guideline inclusion, market uptake, differentiation vs competitors; integrated with clinical, market access, commercial and medical plans; supported by validated data sources and rigorous study designs; operationalized with governance, quality control, timelines, cross-functional alignment, and audit readiness.",
+      "rationale": "Strategic RWE is a critical success factor for payer/reimbursement approval, clinical adoption, and commercial differentiation \u2014 weak RWE is a top reason for HTA rejection, pricing downgrades, and market underperformance.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM50",
+      "inquiry_domain": "Real-World Evidence (RWE) & Value Demonstration",
+      "question": "Are registries, claims analyses, or natural history studies in progress?",
+      "rubric_tests": "Whether registries, claims analyses, and natural history studies are planned or in progress to generate real-world data aligned to HTA, reimbursement, clinical adoption, unmet need validation, comparator definition, and patient journey mapping; with study quality, data source validation, operational readiness, governance, and cross-functional integration.",
+      "rationale": "Registries, claims analyses, and natural history studies are critical for payer and HTA acceptance, demonstration of unmet need, differentiation, and support of pricing, reimbursement, and uptake \u2014 gaps result in major risk to market access.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM51",
+      "inquiry_domain": "Real-World Evidence (RWE) & Value Demonstration",
+      "question": "Is there a strategy to generate data post-approval to support additional claims?",
+      "rubric_tests": "Whether a clear post-approval evidence strategy exists to generate RWE or interventional data to support additional label claims, pricing/reimbursement revisions, expanded indications, HTA resubmissions, guideline updates, differentiation, lifecycle management, and partner/investor expectations; with alignment to regulatory, access, clinical, and commercial goals, and supported by governance, version control, and audit readiness.",
+      "rationale": "Post-approval data strategies are critical for label expansion, reimbursement optimization, differentiation, and lifecycle value \u2014 absence creates risk of competitive erosion, lost access opportunities, and diminished long-term asset value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM52",
+      "inquiry_domain": "Digital & Omnichannel Strategy",
+      "question": "Are digital engagement plans in place (HCPs, patients, payers)?",
+      "rubric_tests": "Whether digital engagement strategies and plans are in place for key customer groups (HCPs, patients, payers), aligned to customer journeys and access needs, integrated with overall brand and commercial plans, with defined channels, content strategy, personalization approach, regulatory/compliance alignment, measurement/KPIs, governance, and audit readiness.",
+      "rationale": "Digital engagement is critical for driving awareness, education, uptake, and retention across HCPs, patients, and payers \u2014 lack of strategy leads to lost differentiation, poor customer experience, and underperformance in an increasingly digital-first market.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM53",
+      "inquiry_domain": "Digital & Omnichannel Strategy",
+      "question": "Are CRM, digital content, and analytics platforms identified or integrated?",
+      "rubric_tests": "Whether CRM, digital content management (DCM), and analytics platforms are identified, selected, validated, and integrated to support seamless customer engagement, content delivery, measurement, personalization, and optimization across HCP, patient, and payer touchpoints; aligned with regulatory and privacy requirements; governed with cross-functional accountability and audit readiness.",
+      "rationale": "Robust CRM, content, and analytics platforms are critical enablers of omnichannel engagement, customer insight, and execution excellence \u2014 gaps lead to fragmented customer experience, poor performance measurement, compliance risks, and loss of competitive advantage.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM54",
+      "inquiry_domain": "Digital & Omnichannel Strategy",
+      "question": "Is there an omnichannel marketing or medical affairs plan?",
+      "rubric_tests": "Whether an integrated omnichannel marketing and/or medical affairs plan is documented, aligned to brand, launch, and scientific communication strategies; supported by customer journey mapping, channel mix, content strategy, personalization, compliance alignment, cross-functional governance, measurement frameworks, and audit readiness.",
+      "rationale": "Omnichannel marketing and medical engagement plans are essential to deliver personalized, high-impact interactions with HCPs, patients, and payers \u2014 lack of integration leads to fragmented experiences, reduced effectiveness, compliance risks, and suboptimal commercial and scientific outcomes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM55",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are revenue forecasts realistic and well-documented?",
+      "rubric_tests": "Whether revenue forecasts are evidence-based, realistic, and well-documented; supported by validated assumptions, triangulated with market data, competitive intelligence, analogs, payer and HTA insights, launch timelines, access probabilities, and adoption curves; with scenario analysis, sensitivity testing, governance sign-off, and audit readiness. For biologics, revenue forecasting requires biologic-specific inputs: biologic-tier pricing, weight-based dosing economics (vial sizes, wastage), step-up dosing period economics (for bispecifics \u2014 reduced revenue per patient during ramp-up), biosimilar erosion modelling (timing, rate, depth), indication expansion revenue phasing, IV-to-SC conversion revenue impact, and 340B/buy-and-bill economics.",
+      "rationale": "Robust, transparent revenue forecasting is critical for investor confidence, valuation, internal resource allocation, BD negotiations, and launch planning \u2014 unrealistic or poorly documented forecasts erode credibility and increase financial and execution risk. Biologic revenue forecasting requires modality-specific modeling that SM forecasts do not: weight-based dosing creates variable revenue per patient, step-up dosing for bispecifics delays full-dose revenue, biosimilar entry creates predictable but uncertain erosion, and buy-and-bill economics affect provider margin and prescribing behaviour.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM56",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are assumptions (uptake curve, market share, price, attrition) transparent?",
+      "rubric_tests": "Whether key forecast assumptions (uptake curve, market share, price, attrition, patient eligibility) are fully transparent, documented, evidence-based, triangulated with analogs, validated cross-functionally, version-controlled, scenario-tested, and consistent with external communications and governance-approved. For biologics, key forecast assumptions include: CDx testing rate (determines actual vs. theoretical eligible population), biologic-naive vs. biologic-experienced market share split, step-up dosing completion rate (for bispecifics \u2014 patients who discontinue during step-up never reach maintenance dose), average treatment duration on biologic, biosimilar market share uptake curve, and weight distribution of patient population (for weight-based dosing revenue).",
+      "rationale": "Transparent, evidence-based assumptions are critical to forecast credibility, investor trust, internal alignment, and financial risk management \u2014 lack of transparency leads to over-optimism, disconnects with execution, and value erosion. Biologic forecast assumptions must capture modality-specific dynamics: CDx testing rates limit the treatable population, step-up dosing attrition reduces the effective patient pool for bispecifics, and weight distribution affects per-patient revenue for weight-based dosing. These assumptions are frequently underestimated, leading to inflated forecasts.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM57",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are sensitivity/scenario analyses conducted for key risks?",
+      "rubric_tests": "Whether comprehensive sensitivity and scenario analyses are conducted on key forecast risks (adoption, market share, pricing, access probability, launch timing, competitor dynamics, patient funnel, attrition), documented in risk-adjusted models, reviewed with cross-functional stakeholders, and used in governance and external communications.",
+      "rationale": "Sensitivity and scenario analyses are critical to financial risk management, investor and partner trust, and informed decision-making \u2014 absence results in over-optimism, poor contingency planning, and increased execution and financial risk.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM58",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are forecasts aligned with clinical and regulatory timelines?",
+      "rubric_tests": "Whether revenue forecasts are fully aligned with clinical development and regulatory timelines, including trial readouts, submission milestones, approval timelines, potential delays, manufacturing readiness, post-approval commitments, and impact on launch timing, ramp curves, and country sequencing.",
+      "rationale": "Forecasts that are disconnected from clinical and regulatory realities lead to over-optimism, misaligned resource planning, BD mistrust, and erosion of investor credibility \u2014 alignment is critical for grounded valuation and operational readiness.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM59",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "Is the buy-and-bill vs. specialty pharmacy channel strategy defined, and are provider economics modeled for IV biologics?",
+      "rubric_tests": "Whether the channel strategy accounts for buy-and-bill economics (ASP+6% provider margin, inventory risk, reimbursement lag) for IV biologics vs. specialty pharmacy distribution for SC biologics. Assessment of whether provider economics (margin, storage costs, infusion chair time) are modeled and whether the channel strategy is consistent with pricing and contracting approach.",
+      "rationale": "Buy-and-bill economics are unique to provider-administered biologics and fundamentally affect prescribing behaviour \u2014 providers who lose margin on a biologic may switch to alternatives. Understanding ASP dynamics, reimbursement lag, and provider margin is essential for pricing strategy and field force messaging. This channel dynamic has no SM parallel.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM60",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "Is a patient support programme (hub services) designed for biologic-specific needs (copay assistance, injection training, infusion scheduling, adherence support)?",
+      "rubric_tests": "Whether a patient hub/support programme is designed to address biologic-specific patient needs: benefits investigation and prior authorisation support, copay/patient assistance programmes (critical at $100K+ annual cost), SC injection training for self-administered biologics, infusion scheduling support for IV biologics, adherence monitoring and nurse support, and whether the hub model is scalable for launch.",
+      "rationale": "Patient support programmes are essential \u2014 not optional \u2014 for biologics. At biologic price points ($100K-$500K/year), copay burden can prevent patients from filling prescriptions; SC injection training is required for self-administration; and infusion scheduling support reduces treatment delays. Hub services directly drive prescription fulfilment, adherence, and persistence \u2014 they are commercial infrastructure, not charitable programmes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM61",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "Is the biosimilar defence and loss-of-exclusivity (LOE) strategy defined?",
+      "rubric_tests": "Whether a proactive biosimilar defence strategy is in place: BPCIA exclusivity timeline mapped, patent estate assessment (composition, formulation, device, method-of-use), anticipated biosimilar entry timing and competitive response, lifecycle strategies to extend competitive position (SC conversion, device innovation, indication expansion, patient loyalty), and financial modelling of biosimilar erosion scenarios.",
+      "rationale": "Biosimilar competition is the defining commercial lifecycle event for biologics \u2014 BPCIA provides 12-year reference product exclusivity, after which biosimilar entry can erode revenue by 30-80% within 2-3 years. Unlike generic competition for SM (which is driven by price and automatic substitution), biosimilar competition involves interchangeability designations, payer-mandated switching, and physician/patient switching hesitancy. A proactive defence strategy is essential for protecting biologic franchise value.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM62",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "Are site-of-care economics and infusion network strategy addressed for IV biologics?",
+      "rubric_tests": "Whether the commercial plan addresses site-of-care dynamics: hospital outpatient department (HOPD) vs. physician office vs. ambulatory infusion centre vs. home infusion \u2014 each with different reimbursement, cost, and patient experience profiles. Assessment of whether infusion site network development is part of launch planning (particularly for bispecifics requiring CRS-capable centres).",
+      "rationale": "For IV biologics, site-of-care determines not just patient experience but reimbursement economics \u2014 HOPD rates are higher than office-based, home infusion is lowest cost but requires appropriate clinical support. For bispecifics, initial doses may require CRS-capable centres (hospitals) while maintenance doses may shift to lower-acuity settings. Site-of-care strategy directly affects access, cost, and competitive positioning.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM63",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "For physician-administered (buy-and-bill) biologics, are provider economics comprehensively modelled, including ASP+6% reimbursement mechanics, acquisition cost vs reimbursement margin sensitivity, white/brown bagging policies, and the impact of future biosimilar ASP erosion on provider willingness to prescribe?",
+      "rubric_tests": "Evaluates whether buy-and-bill economic modelling includes: ASP+6% reimbursement calculation and provider margin at various acquisition costs; sensitivity of provider margin to ASP changes (when biosimilars enter, ASP drops, reducing provider margin on the originator); white bagging (payer-mandated specialty pharmacy dispensing to provider office) and brown bagging (patient brings drug to office) policy landscape by payer; 340B programme implications for provider economics; Group Purchasing Organisation (GPO) contract dynamics; and scenario modelling for provider switching behaviour as biosimilar ASP erosion reduces originator margins.",
+      "rationale": "Buy-and-bill economics are the single most important commercial dynamic for physician-administered biologics and are poorly understood by teams with small molecule backgrounds. Under ASP+6%, providers profit from the spread between acquisition cost and reimbursement. When biosimilars enter and drive ASP down, provider margins on the originator collapse \u2014 creating economic incentives to switch. White/brown bagging policies remove the buy-and-bill margin entirely. 340B institutions get additional discounts. These dynamics determine real-world prescribing behaviour and must be modelled before launch, not discovered after.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM64",
+      "inquiry_domain": "Competitive Landscape",
+      "question": "Is the emerging PBM private-label biosimilar market model assessed as a competitive threat, including the dynamics of PBM-owned biosimilar products, formulary exclusion of originators, and the implications for branded biologic market access?",
+      "rubric_tests": "Evaluates whether competitive assessment includes: PBM private-label biosimilar dynamics (CVS/Cordavis, Express Scripts/Cigna, OptumRx models); impact of PBM formulary exclusion of reference biologics in favour of private-label biosimilars; speed of market share shift when PBMs deploy private-label products (CVS converted 97% of Humira commercial volume within months); implications for branded biologic market access strategy (contracting, rebating, patient assistance); assessment of whether the PBM private-label model will extend to the sponsor's therapeutic class; and defensive strategies (differentiation, contracting, patient support) against PBM private-label disruption.",
+      "rationale": "The PBM private-label biosimilar model fundamentally disrupted adalimumab in 2024 \u2014 CVS launched private-label Cordavis products and converted 97% of commercial Humira volume. This model is now extending to ustekinumab (January 2025) and will likely reach every major biologic category. For any branded biologic facing eventual biosimilar competition, the PBM private-label model represents an existential commercial threat that moves faster and more aggressively than traditional biosimilar competition. Commercial teams that are not modelling this disruption are planning in a reality that no longer exists.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM65",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Is the rebate and contracting strategy designed to defend market position against biosimilar competition, including assessment of rebate wall sustainability, gross-to-net dynamics, and the regulatory/antitrust risks of exclusionary contracting?",
+      "rubric_tests": "Evaluates whether contracting strategy includes: rebate structure design (volume-based, market share-based, exclusive positioning rebates); gross-to-net spread modelling (list price vs net price vs provider acquisition cost); rebate wall sustainability analysis (how long can originator rebates prevent biosimilar uptake?); antitrust risk assessment of exclusionary contracting practices (FTC scrutiny increasing); payer-by-payer contracting strategy (commercial, Medicare Part B, Medicare Part D, Medicaid); and transition planning for when rebate wall becomes unsustainable (typically 2-3 years post-biosimilar entry).",
+      "rationale": "The rebate wall \u2014 where originator biologics offer massive rebates to PBMs in exchange for formulary exclusion of biosimilars \u2014 has been the primary defence mechanism for branded biologics. Despite 85% launch discounts, adalimumab biosimilars gained only 3% market share through 2023 because PBMs preferred originator rebates over biosimilar discounts. However, the PBM private-label model is now breaching this wall. The contracting strategy must account for the finite lifespan of the rebate wall and plan for the transition to post-biosimilar market dynamics.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM66",
+      "inquiry_domain": "Distribution & Supply Chain Readiness",
+      "question": "For IV-administered biologics, is an infusion network and site-of-care strategy developed, including hospital outpatient department (HOPD) vs physician office vs home infusion economics, site-of-care steering opportunities, and the impact of CMS site-neutral payment policies?",
+      "rubric_tests": "Evaluates whether site-of-care strategy includes: site-of-care landscape mapping (HOPD, physician office, ambulatory infusion centre, home infusion); economic analysis of reimbursement by site (HOPD typically reimbursed at higher rates, creating cost differential); site-of-care steering opportunities and payer policies requiring lower-cost sites; home infusion feasibility and patient preference assessment; CMS site-neutral payment policy impact (equalising reimbursement across sites); infusion network partnerships (national infusion providers, hospital system contracts); and patient convenience and access implications of site-of-care decisions.",
+      "rationale": "Site-of-care economics for IV biologics create $thousands in per-infusion cost differences between HOPD and physician office settings. Payers are increasingly implementing site-of-care steering policies to move infusions from high-cost HOPDs to lower-cost physician offices or home infusion. CMS site-neutral payment policies are reducing the HOPD differential. Commercial teams must understand these dynamics, build infusion network strategies, and position the product optimally across sites of care. Home infusion is a growing option that improves patient convenience but requires cold chain and safety infrastructure.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Check",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BBCOM67",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "Is the patient support programme (hub services) designed as a competitive differentiator, with comprehensive services including benefits verification, prior authorisation support, copay assistance, nurse injection training, adherence monitoring, and cold chain delivery \u2014 benchmarked against competitor hub programmes?",
+      "rubric_tests": "Evaluates whether hub services strategy includes: benefits verification and prior authorisation support (critical for biologic market access); copay assistance programme design (copay cards, patient assistance for uninsured, foundation support); injection training programme for SC self-administration; adherence monitoring and intervention programmes (refill reminders, nurse follow-up); cold chain home delivery capability and reliability; hub technology platform selection and integration with CRM; competitive benchmarking against competitor hub programmes (Humira's hub set the industry standard); and measurement of hub programme impact on persistence and market share.",
+      "rationale": "In the biologic market, hub services are not a nice-to-have \u2014 they are a competitive weapon. Humira's patient support programme set the industry standard and was a major driver of persistence and market dominance. For biologics with complex administration (infusion, injection), prior authorisation requirements, and high copays, the hub programme directly affects prescription conversion, patient start, and persistence. A mediocre hub programme against a competitor with best-in-class services will lose market share regardless of clinical differentiation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM68",
+      "inquiry_domain": "Pricing & Market Access Strategy",
+      "question": "Has the impact of the Inflation Reduction Act (IRA) Medicare drug price negotiation provisions been assessed, including eligibility timeline for biologic negotiation, pricing implications, and strategic planning for the 13-year biologic exclusion period?",
+      "rubric_tests": "Evaluates whether IRA planning includes: assessment of when the biologic becomes eligible for Medicare price negotiation (13 years after BLA approval for biologics vs 9 years for small molecules); modelling of negotiated price impact on revenue (maximum fair price based on non-federal average manufacturer price); strategic implications for launch pricing (setting initial price knowing future negotiation); lifecycle management timing relative to IRA negotiation eligibility; impact on indication sequencing strategy (additional indications before vs after negotiation); and Medicare Part B vs Part D coverage implications for negotiation eligibility.",
+      "rationale": "The Inflation Reduction Act's Medicare drug price negotiation programme fundamentally changes biologic commercial planning. Biologics have a 13-year exclusion period (vs 9 years for small molecules) before they become eligible for negotiation \u2014 a significant commercial advantage. However, once eligible, the negotiated maximum fair price caps revenue from Medicare patients. Launch pricing, indication sequencing, and lifecycle management must all be planned with IRA negotiation timeline in mind. This is the most significant US pricing policy change in a generation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM69",
+      "inquiry_domain": "Reimbursement & Payer Engagement",
+      "question": "Is the medical benefit vs pharmacy benefit channel strategy defined, including the implications of route of administration (IV = medical benefit, SC = pharmacy benefit) on reimbursement, payer management, and commercial economics?",
+      "rubric_tests": "Evaluates whether benefit channel strategy includes: route-of-administration-driven benefit channel determination (IV products typically on medical benefit under Medicare Part B; SC products on pharmacy benefit under Part D); commercial implications of each channel (medical benefit: buy-and-bill, ASP reimbursement, provider margin; pharmacy benefit: specialty pharmacy, PBM formulary, rebate dynamics); strategic consideration of IV-to-SC switch impact on channel (switching from medical to pharmacy benefit changes the entire commercial model); payer management differences by channel; and patient out-of-pocket cost implications by benefit channel.",
+      "rationale": "The distinction between medical benefit (Part B) and pharmacy benefit (Part D) is one of the most consequential commercial decisions for biologics. IV products go through buy-and-bill on the medical benefit; SC products go through specialty pharmacy on the pharmacy benefit. These are completely different commercial ecosystems with different reimbursement mechanics, different intermediaries (providers vs PBMs), and different patient cost-sharing. When a product switches from IV to SC formulation, the entire commercial model changes. Teams from small molecule backgrounds often don't understand this distinction.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM70",
+      "inquiry_domain": "Revenue Forecasting & Financial Modeling",
+      "question": "Are biologic-specific cost of goods sold (COGS) and margin assumptions realistic, reflecting the fundamentally higher manufacturing costs of biologics (cell culture, purification, fill-finish, cold chain) and their impact on gross margin, pricing floor, and financial viability?",
+      "rubric_tests": "Evaluates whether financial modelling reflects biologic COGS reality: manufacturing cost per gram of antibody (typically $100-500/g, depending on titre and scale); fill-finish costs for sterile injectable/infusion products; cold chain distribution costs (2-8\u00b0C or frozen); quality control and release testing costs (biological assays, characterisation); batch failure risk and impact on COGS; device costs for combination products (PFS, auto-injector); and comparison of biologic gross margins vs small molecule benchmarks (biologic gross margins typically 80-90% for innovative products but significantly lower than small molecule 95%+).",
+      "rationale": "Biologic COGS are fundamentally different from small molecule tablets. A biologic manufacturing batch can cost $1-5M. Batch failures destroy months of production. Cold chain distribution adds significant cost. Fill-finish for sterile products is expensive. Device components for combination products add per-unit costs. Financial models that use small molecule COGS assumptions for biologics will overestimate gross margins and underestimate the pricing floor needed for commercial viability. Realistic COGS modelling is essential for pricing strategy and business case development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM71",
+      "inquiry_domain": "Commercial Strategy & Business Model",
+      "question": "For hospital-administered biologics, is the institutional formulary and tender strategy defined, including Pharmacy & Therapeutics (P&T) committee engagement, hospital group purchasing dynamics, and global tender market requirements (EU, emerging markets)?",
+      "rubric_tests": "Evaluates whether institutional strategy includes: P&T committee engagement plan (clinical value dossier, therapeutic interchange considerations); hospital GPO contract strategy; 340B programme impact on institutional purchasing; formulary positioning strategy (preferred vs non-preferred, step therapy placement); global tender market preparation (EU national tenders, emerging market procurement); value-based contracting with hospital systems (outcomes-based agreements); and competitive defence at institutional level against biosimilar substitution.",
+      "rationale": "Hospital formulary and tender dynamics are critical for physician-administered biologics. P&T committees decide which biologics are available at each institution. GPO contracts determine acquisition pricing. 340B institutions have different economics that affect prescribing. In EU markets and many emerging markets, hospital tenders are the primary market access mechanism. Institutional market access requires a specialised strategy distinct from retail/specialty pharmacy market access.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BBCOM72",
+      "inquiry_domain": "Biologic Commercial Model & Access",
+      "question": "For SC self-administration biologics, is the patient journey and commercial model designed to maximise treatment initiation, persistence, and adherence, including device preference research, training programme design, and adherence support technology?",
+      "rubric_tests": "Evaluates whether SC commercial model includes: auto-injector vs pre-filled syringe device preference research with patients and HCPs; injection training programme design (in-office first injection, nurse demonstration, patient self-injection verification); patient starter kit design and distribution; adherence support programme (injection reminders, refill management, nurse hotline); cold chain home storage patient education; injection-site reaction management support; and device switching strategy (if upgrading from PFS to auto-injector during lifecycle).",
+      "rationale": "SC self-administration biologics compete on patient experience as much as clinical data. Device design (pen vs syringe), injection training quality, and adherence support programme robustness directly affect persistence \u2014 which drives long-term revenue. Humira's citrate-free reformulation and pen device upgrade were commercially transformative. Patients who have a poor first injection experience or inadequate training are more likely to discontinue. The SC commercial model must be designed around the patient journey from prescription to long-term persistence.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    }
+  ]
+}

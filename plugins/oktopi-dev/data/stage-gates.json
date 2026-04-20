@@ -1,0 +1,101 @@
+[
+  {
+    "code": "SG1",
+    "name": "Initiate Discovery Program & Target Identification",
+    "goal": "Validate a biologically credible target, a defensible rationale, and a screening plan that can yield testable hypotheses.",
+    "focus": [
+      "target validation",
+      "MoA rationale",
+      "IP freedom-to-operate",
+      "discovery plan & budget"
+    ]
+  },
+  {
+    "code": "SG2",
+    "name": "Lead Nomination / Early Optimization",
+    "goal": "Nominate a lead series with acceptable developability signals and a clear optimization plan to reach clinical candidate criteria.",
+    "focus": [
+      "lead criteria met",
+      "DMPK/tox early signals",
+      "scaffold IP",
+      "formulation feasibility"
+    ]
+  },
+  {
+    "code": "SG3",
+    "name": "Clinical Candidate Selection / IND-Enabling Entry",
+    "goal": "Confirm a single clinical candidate with an approved IND-enabling plan across CMC, tox, PK/PD, and clinical design.",
+    "focus": [
+      "candidate selection data",
+      "IND-enabling study plan",
+      "CMC readiness for GLP/GMP",
+      "target product profile draft"
+    ]
+  },
+  {
+    "code": "SG4",
+    "name": "Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready)",
+    "goal": "Complete IND-enabling package: GLP tox complete, CMC GMP drug product and IND Module 3, FIH protocol and starting dose justification.",
+    "focus": [
+      "GLP tox package",
+      "CMC GMP release",
+      "FIH protocol",
+      "starting dose"
+    ]
+  },
+  {
+    "code": "SG5",
+    "name": "First-in-Human (FIH) Clinical Program Initiation",
+    "goal": "Open IND, activate sites, dose the first subject safely and collect data suitable for dose-escalation and early PK/PD decisions.",
+    "focus": [
+      "IND clearance",
+      "site activation",
+      "FPFV safety",
+      "dose-escalation readiness"
+    ]
+  },
+  {
+    "code": "SG6",
+    "name": "Proof of Concept (POC) & Phase 2 Readiness",
+    "goal": "Demonstrate clinical proof of concept and confirm Phase 2 design, dose, population, endpoints, and operational feasibility.",
+    "focus": [
+      "POC criteria met",
+      "Phase 2 protocol",
+      "biomarker strategy",
+      "scale-up CMC"
+    ]
+  },
+  {
+    "code": "SG7",
+    "name": "Confirmatory & Phase 3 Readiness (Reg & Commercial aligned)",
+    "goal": "Lock Phase 3 design with regulatory and commercial alignment; confirm CMC registration strategy and site/CRO readiness.",
+    "focus": [
+      "Phase 3 design",
+      "EoP2 alignment",
+      "registration CMC",
+      "TPP lock"
+    ]
+  },
+  {
+    "code": "SG8",
+    "name": "Regulatory Submission / Payer Engagement / Pre-Launch",
+    "goal": "Submit a reviewable NDA/BLA, finalize payer value dossier, and prepare commercial launch readiness.",
+    "focus": [
+      "NDA/BLA submission",
+      "labeling strategy",
+      "payer value dossier",
+      "launch readiness"
+    ]
+  },
+  {
+    "code": "SG9",
+    "name": "Launch & Post-Market Lifecycle Management",
+    "goal": "Execute a compliant launch and sustain post-market obligations, lifecycle planning, and RWE/safety monitoring.",
+    "focus": [
+      "PSUR/PBRER",
+      "REMS/RMP",
+      "LCM indications",
+      "RWE commitments"
+    ]
+  }
+]

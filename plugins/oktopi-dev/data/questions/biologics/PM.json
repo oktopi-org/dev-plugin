@@ -1,0 +1,2328 @@
+{
+  "function_code": "PM",
+  "modality": "biologics",
+  "function_name": "Project Management",
+  "question_count": 36,
+  "critical_index": {
+    "SR": {
+      "SG3": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10"
+      ],
+      "SG4": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18"
+      ],
+      "SG5": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18"
+      ],
+      "SG6": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG7": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG8": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG9": [
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ]
+    },
+    "OE": {
+      "SG5": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM19",
+        "BPM20",
+        "BPM21",
+        "BPM22",
+        "BPM23",
+        "BPM24",
+        "BPM25",
+        "BPM26",
+        "BPM27",
+        "BPM28",
+        "BPM29",
+        "BPM30"
+      ],
+      "SG6": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM19",
+        "BPM20",
+        "BPM21",
+        "BPM22",
+        "BPM23",
+        "BPM24",
+        "BPM25",
+        "BPM26",
+        "BPM27",
+        "BPM28",
+        "BPM29",
+        "BPM30",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG7": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM19",
+        "BPM20",
+        "BPM21",
+        "BPM22",
+        "BPM23",
+        "BPM24",
+        "BPM25",
+        "BPM26",
+        "BPM27",
+        "BPM28",
+        "BPM29",
+        "BPM30",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG8": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM19",
+        "BPM20",
+        "BPM21",
+        "BPM22",
+        "BPM23",
+        "BPM24",
+        "BPM25",
+        "BPM26",
+        "BPM27",
+        "BPM28",
+        "BPM29",
+        "BPM30",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG9": [
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ]
+    },
+    "DD": {
+      "SG3": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10"
+      ],
+      "SG4": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18"
+      ],
+      "SG5": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18"
+      ],
+      "SG6": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG7": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG8": [
+        "BPM1",
+        "BPM2",
+        "BPM3",
+        "BPM4",
+        "BPM5",
+        "BPM6",
+        "BPM7",
+        "BPM8",
+        "BPM9",
+        "BPM10",
+        "BPM11",
+        "BPM12",
+        "BPM13",
+        "BPM14",
+        "BPM15",
+        "BPM16",
+        "BPM17",
+        "BPM18",
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG9": [
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ]
+    },
+    "RS": {
+      "SG7": [
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG8": [
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ],
+      "SG9": [
+        "BPM31",
+        "BPM32",
+        "BPM33",
+        "BPM34",
+        "BPM35",
+        "BPM36"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "BPM1",
+      "inquiry_domain": "Integrated Development Plan & Timeline",
+      "question": "Is there a single, unified Integrated Development Plan (IDP) that consolidates all functional workstreams (nonclinical, CMC, clinical, regulatory, commercial) into one master timeline with explicit dependencies?",
+      "rubric_tests": "Evaluates whether the IDP: exists as a formally governed document (not just individual functional timelines); maps all functional workstreams into a single integrated view; identifies cross-functional dependencies (e.g., drug supply readiness \u2192 site activation \u2192 first patient first visit; nonclinical study completion \u2192 IND submission); is version-controlled with documented change history; is accessible to all functional leads; and is reviewed and updated at defined governance cadence (minimum monthly).",
+      "rationale": "An IDP is the foundational artefact of drug development project management. Without an integrated plan that maps dependencies across functions, each team operates in its own timeline silo \u2014 CMC doesn't know when clinical needs drug supply, regulatory doesn't know when nonclinical data will be ready, and commercial doesn't know when approval is realistic. The IDP is the single source of truth that enables cross-functional decision-making.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM2",
+      "inquiry_domain": "Integrated Development Plan & Timeline",
+      "question": "Is the critical path clearly identified, maintained, and communicated \u2014 with explicit documentation of which activities are critical-path vs float activities, and what drives the critical path at each development stage?",
+      "rubric_tests": "Evaluates whether critical path management includes: formal critical path analysis (CPA) identifying the longest sequence of dependent activities; documentation of critical-path drivers at each stage (e.g., \"CMC process validation drives the critical path to BLA submission\"); float/slack quantification for non-critical activities; critical path communication to all functional leads and governance bodies; trigger-based critical path updates when delays or accelerations occur; and historical tracking of critical path changes with documented reasons.",
+      "rationale": "If you cannot name the critical path activity today and the amount of float on the next-closest path, you do not have a project plan \u2014 you have a list of activities. Critical path identification determines where management attention, resources, and risk mitigation should focus. The critical path shifts across development stages (nonclinical \u2192 CMC \u2192 clinical \u2192 regulatory), and the PM must track these transitions proactively.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM3",
+      "inquiry_domain": "Integrated Development Plan & Timeline",
+      "question": "Are Gantt charts or equivalent scheduling tools in use with task-level detail, resource assignments, dependencies, and milestone tracking \u2014 maintained in a professional project management tool (MS Project, Planisware, Smartsheet, or equivalent)?",
+      "rubric_tests": "Evaluates whether scheduling includes: task-level detail sufficient for execution management (not just milestone-level); resource assignments linked to each task; dependency types defined (finish-to-start, start-to-start, finish-to-finish, with lead/lag); baseline schedule established with variance tracking; milestone tracking against baseline; tool selection appropriate for programme complexity (spreadsheets are inadequate for programmes with >200 tasks or >3 functional workstreams); and regular schedule updates reflecting actual progress.",
+      "rationale": "Gantt charts with dependencies are the minimum viable scheduling tool for drug development. Without dependencies, you cannot identify critical path, quantify impact of delays, or perform schedule risk analysis. Without resource assignments, you cannot identify overallocation or resource conflicts. Without baseline tracking, you cannot measure schedule performance. Professional PM tools are essential \u2014 spreadsheet-based timelines break down at the complexity level of pharmaceutical development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM4",
+      "inquiry_domain": "Integrated Development Plan & Timeline",
+      "question": "Are key development milestones defined with clear completion criteria (not just target dates), including both internal decision milestones and external/regulatory milestones?",
+      "rubric_tests": "Evaluates whether milestone management includes: milestone definitions with explicit completion criteria (e.g., \"IND-ready\" means: Module 2.4/2.6 drafted, GLP tox reports finalised, CMC Module 3 sections complete, IND form complete \u2014 not just a date); distinction between internal milestones (go/no-go decisions, stage gates) and external milestones (IND submission, regulatory meeting, FPFV, data lock, filing); milestone interdependencies documented; milestone achievement tracking with date variance; and milestone forecasting based on current schedule performance.",
+      "rationale": "Milestones without completion criteria are wishes, not project management. \"IND submission Q2 2026\" is meaningless without defining what constitutes IND-readiness across all contributing functions. Completion criteria force cross-functional alignment on deliverables and enable objective assessment of readiness. Both internal (decision) and external (regulatory) milestones must be tracked with equal rigour.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM5",
+      "inquiry_domain": "Integrated Development Plan & Timeline",
+      "question": "Is scenario planning conducted for the development timeline, with best-case, base-case, and worst-case scenarios quantified and linked to identified risks?",
+      "rubric_tests": "Evaluates whether scenario planning includes: minimum three scenarios (best/base/worst) with explicit assumptions for each; risk-linked scenario drivers (e.g., worst case = CMC delay + enrollment shortfall + regulatory query); quantified timeline impact for each scenario (months of delay/acceleration); probability-weighted timeline estimates; scenario-specific resource and budget implications; and scenario communication to governance bodies to support contingency planning and investment decisions.",
+      "rationale": "Drug development timelines are inherently uncertain. Single-point timeline estimates create false precision and leave governance bodies unprepared for delays. Scenario planning with risk-linked assumptions enables proactive resource allocation, contingency budgeting, and investor communication. The range between best-case and worst-case is often 12-24 months for a pivotal programme \u2014 governance must understand this range to make informed decisions.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM6",
+      "inquiry_domain": "Cross-Functional Dependency Management",
+      "question": "Are cross-functional dependencies explicitly mapped, tracked, and owned \u2014 with each dependency having a provider function, a receiver function, a deliverable description, and a required-by date?",
+      "rubric_tests": "Evaluates whether dependency management includes: formal dependency register/matrix maintained as a living document; each dependency defined with: provider (function delivering the input), receiver (function needing the input), deliverable description, required-by date, and current status; regular dependency review at cross-functional team meetings; early warning system when dependencies are at risk; escalation pathway when a provider cannot meet the required-by date; and historical tracking of dependency performance (on-time delivery rate).",
+      "rationale": "Cross-functional dependencies are where drug development programmes fail. Clinical needs drug supply from CMC, regulatory needs data from clinical, commercial needs approval timeline from regulatory. When these handoffs are informal (\"we'll get it to you when it's ready\"), delays cascade invisibly until they become crises. Formal dependency management with named owners and required-by dates is the most impactful PM practice in pharma development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM7",
+      "inquiry_domain": "Cross-Functional Dependency Management",
+      "question": "Is the sequencing of regulatory submissions, nonclinical studies, CMC activities, and clinical trials explicitly orchestrated to avoid bottlenecks \u2014 with particular attention to long-lead-time activities?",
+      "rubric_tests": "Evaluates whether sequencing management includes: identification of long-lead-time activities by function (drug substance manufacturing, GLP tox study conduct, clinical site activation, regulatory review periods); sequencing optimisation to start long-lead activities as early as possible (parallel vs sequential activity planning); bottleneck identification and mitigation (e.g., if CMC scale-up is a bottleneck, can process development be accelerated or clinical supply sourced from a different batch?); and documentation of sequencing rationale and trade-offs.",
+      "rationale": "Drug development has inherent sequencing constraints \u2014 you cannot submit an IND before GLP tox studies are complete, cannot start a pivotal trial before dose selection, cannot file a BLA before pivotal data is available. Within these constraints, there is significant optionality in how activities are sequenced. Experienced PMs identify long-lead activities and start them as early as possible, run parallel workstreams where feasible, and explicitly manage bottlenecks. Poor sequencing is the most common cause of avoidable programme delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM8",
+      "inquiry_domain": "Cross-Functional Dependency Management",
+      "question": "Are drug supply requirements integrated into the project timeline with manufacturing lead times, batch release timelines, and stability requirements explicitly linked to clinical and regulatory milestones?",
+      "rubric_tests": "Evaluates whether drug supply integration includes: manufacturing campaign scheduling linked to clinical demand forecasts; batch release testing timelines included in critical path analysis; stability data generation timeline linked to shelf-life-dependent milestones (e.g., drug supply must have X months stability data before shipment to sites); formulation development timeline linked to clinical phase transitions; clinical supply chain setup (packaging, labelling, IRT programming, distribution) linked to site activation; and contingency planning for manufacturing delays or batch failures.",
+      "rationale": "Drug supply is the most common bottleneck in pharmaceutical development, particularly for complex modalities. Manufacturing lead times range from weeks (small molecules) to months (biologics) to years (cell therapies). A batch failure can delay a programme by the full re-manufacturing cycle. Drug supply readiness must be a gated prerequisite for clinical milestones, not an afterthought. PMs who treat drug supply as \"CMC's problem\" inevitably face programme-level delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM9",
+      "inquiry_domain": "Cross-Functional Dependency Management",
+      "question": "Is regulatory interaction timing explicitly planned and linked to data readiness from contributing functions \u2014 with lead times for briefing document preparation, submission, and agency response built into the schedule?",
+      "rubric_tests": "Evaluates whether regulatory timing includes: pre-IND/pre-BLA meeting scheduling linked to data availability; briefing document preparation timeline (typically 3-6 months before meeting); agency response/feedback processing time built into schedule; IND/BLA submission timeline linked to all contributing module completion; agency review period (standard 10 months, priority 6 months) included in approval timeline; and contingency for information requests, refuse-to-file, or clinical holds.",
+      "rationale": "Regulatory interactions have fixed lead times that cannot be compressed: FDA meeting requests take 2-3 months to schedule, briefing documents require months of cross-functional preparation, agency review periods are defined by PDUFA. These lead times must be built into the project schedule as fixed constraints. PMs who discover they need a pre-BLA meeting 4 months before planned filing \u2014 when the scheduling lead time alone is 3 months \u2014 create avoidable delays.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM10",
+      "inquiry_domain": "Risk Management & Issue Resolution",
+      "question": "Is a formal risk register maintained with identified risks categorised by likelihood, impact, and risk score \u2014 with pre-defined mitigation plans and risk owners for all high-severity risks?",
+      "rubric_tests": "Evaluates whether risk management includes: comprehensive risk register covering all functional areas; risk scoring methodology (likelihood \u00d7 impact matrix or equivalent); risk categorisation by type (technical, regulatory, operational, commercial, financial); named risk owners for all high/critical risks; pre-defined mitigation plans (not just \"monitor\"); residual risk assessment after mitigation; regular risk review cadence (minimum monthly at governance level); and new risk identification process (not just updating existing risks).",
+      "rationale": "A risk register is not a static document created at programme inception and filed away. It is a living tool that drives resource allocation, contingency planning, and governance attention. Risks without mitigation plans are just a worry list. Risks without owners have no one accountable for mitigation. The risk register should be the first document reviewed at every governance meeting \u2014 it tells you where the programme is most likely to fail and what you're doing about it.",
+      "priorities": {
+        "SR": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Check",
+          "SG2": "Expected",
+          "SG3": "Critical",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM11",
+      "inquiry_domain": "Risk Management & Issue Resolution",
+      "question": "Is there a clear distinction between risks (potential future events) and issues (current problems requiring resolution) \u2014 with separate tracking, escalation, and resolution processes for each?",
+      "rubric_tests": "Evaluates whether RAID management includes: clear definitions distinguishing risks (uncertain future events that may impact the programme) from issues (current problems that are impacting the programme); separate tracking mechanisms (risk register for risks, issue log for issues); issue severity classification and resolution timelines; escalation criteria for issues that cannot be resolved at team level; issue resolution tracking to closure with documented outcomes; and process for converting risks to issues when they materialise.",
+      "rationale": "Conflating risks and issues is a common PM failure. A risk is \"CMC batch failure may delay clinical supply\" \u2014 it needs a mitigation plan. An issue is \"CMC batch 3 failed QC and clinical supply is delayed by 8 weeks\" \u2014 it needs an immediate resolution plan, timeline impact assessment, and governance communication. Different tracking, different urgency, different governance response.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM12",
+      "inquiry_domain": "Risk Management & Issue Resolution",
+      "question": "Are programme-level risks and issues escalated to governance bodies with recommended actions \u2014 not just reported as status updates?",
+      "rubric_tests": "Evaluates whether escalation includes: defined escalation criteria (what severity/impact triggers governance escalation); escalation format that includes: risk/issue description, impact assessment, options with trade-offs, recommended action, and decision required; governance response tracking (decision made, action assigned, timeline for resolution); and distinction between items escalated for decision vs items reported for awareness.",
+      "rationale": "Governance bodies that receive risk reports without recommended actions cannot make decisions \u2014 they can only worry. Effective escalation presents the problem, the options, the trade-offs, and a recommendation. Governance makes the decision, PM tracks the action. Reporting risks without recommendations creates a \"reporting culture\" rather than a \"decision culture\" \u2014 the programme stalls while governance asks for more analysis.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM13",
+      "inquiry_domain": "Risk Management & Issue Resolution",
+      "question": "Is a quantitative schedule risk analysis (Monte Carlo or equivalent) conducted for major programme milestones to generate probability-weighted timeline estimates?",
+      "rubric_tests": "Evaluates whether quantitative risk analysis includes: Monte Carlo simulation or equivalent probabilistic schedule analysis; task-level uncertainty ranges (optimistic, most likely, pessimistic durations); correlation modelling between related risks; probability distributions for key milestones (e.g., \"75% probability of BLA submission by Q3 2027\"); sensitivity analysis identifying which uncertainties have the greatest impact on milestone dates; and communication of probabilistic timelines to governance and investors.",
+      "rationale": "Deterministic timelines (single-point estimates) systematically underestimate programme duration because they assume every task completes on its most likely schedule. Quantitative schedule risk analysis generates probability-weighted estimates that are more honest and more useful for decision-making. A statement like \"60% probability of BLA submission by June 2027, 90% by December 2027\" is infinitely more useful than \"BLA submission June 2027.\" This analysis is standard practice in engineering project management and is increasingly expected by pharma investors and boards.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM14",
+      "inquiry_domain": "Risk Management & Issue Resolution",
+      "question": "Are lessons learned from prior programmes (internal and external) systematically captured, archived, and applied to current programme planning?",
+      "rubric_tests": "Evaluates whether lessons learned practice includes: structured post-phase and post-programme reviews (what went well, what went wrong, what would we do differently); lessons learned database accessible to current programme teams; explicit application of lessons learned to new programme plans (documented in planning assumptions); external lessons learned from industry publications, conference presentations, and regulatory precedents; and cultural willingness to honestly assess failures, not just celebrate successes.",
+      "rationale": "The pharmaceutical industry has a poor track record of learning from its own mistakes. The same timeline errors, the same CMC bottlenecks, the same enrollment shortfalls repeat across programmes because lessons are not captured or applied. A systematic lessons-learned practice \u2014 with structured reviews, an accessible archive, and explicit application to new plans \u2014 prevents the most common avoidable programme failures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM15",
+      "inquiry_domain": "Stage Gate Governance & Decision-Making",
+      "question": "Is a stage-gate governance framework in place with defined decision points, gate criteria, deliverables, and decision-making authority at each stage of development (discovery \u2192 preclinical \u2192 Phase 1 \u2192 Phase 2 \u2192 Phase 3 \u2192 filing \u2192 launch)?",
+      "rubric_tests": "Evaluates whether stage-gate governance includes: defined stages aligned to development phases; explicit gate criteria for each transition (technical, regulatory, commercial, financial criteria that must be met to proceed); required deliverables at each gate (what documents/data must be presented); decision-making authority defined (who makes the go/no-go decision); decision options at each gate (go, no-go, recycle with conditions, hold); and documented gate review outcomes with rationale.",
+      "rationale": "Stage gates are the moments where the organisation decides whether to continue investing in a programme. Without defined criteria, gates become rubber stamps where enthusiasm substitutes for evidence. Without clear authority, decisions are deferred or made by the wrong people. Without documented outcomes, the organisation cannot hold itself accountable for decision quality. Stage gates are the most important governance mechanism in pharmaceutical development.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM16",
+      "inquiry_domain": "Stage Gate Governance & Decision-Making",
+      "question": "Are go/no-go decision criteria defined prospectively and quantitatively \u2014 not retrospectively rationalised based on available data?",
+      "rubric_tests": "Evaluates whether decision criteria include: prospective definition (criteria set before data is available, not after); quantitative thresholds where possible (e.g., \"Phase 2 go requires: primary endpoint p<0.1, treatment effect >30% improvement, safety profile within predefined tolerability thresholds\"); criteria covering all relevant dimensions (efficacy, safety, differentiation, commercial viability, regulatory feasibility, technical feasibility); transparent communication to all stakeholders before data readout; and documented assessment against criteria with honest gap analysis when criteria are partially met.",
+      "rationale": "Prospective, quantitative go/no-go criteria are the antidote to confirmation bias in drug development. When criteria are defined after data is available, teams unconsciously set thresholds that the data meets. Prospective criteria force honest assessment: \"Did we meet the bar we set for ourselves, or are we moving the goalposts?\" The most expensive failures in pharma are programmes that should have been stopped at Phase 2 but were advanced because of retrospective rationalisation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM17",
+      "inquiry_domain": "Stage Gate Governance & Decision-Making",
+      "question": "Is the governance structure clearly defined \u2014 with distinct roles for the Project Team (recommend), the Development Committee (decide), and the Executive/Board level (approve investment)?",
+      "rubric_tests": "Evaluates whether governance structure includes: Project Team composition and responsibilities (cross-functional execution, data analysis, recommendations); Development Committee composition and authority (senior functional leaders, go/no-go decisions, resource allocation); Executive/Board level role (investment decisions, portfolio prioritisation); clear delegation of authority (which decisions can be made at which level); meeting cadence and format for each governance body; and escalation pathway between levels.",
+      "rationale": "Governance confusion \u2014 where no one is sure who can make which decisions \u2014 is a chronic problem in pharma. Project teams make recommendations, development committees make decisions, and executives approve investments. When these roles blur, either decisions are made at too low a level (project teams committing resources they don't control) or too high (executives debating operational details). Clear governance structure enables appropriate-level decision-making.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM18",
+      "inquiry_domain": "Stage Gate Governance & Decision-Making",
+      "question": "Are governance meetings structured with pre-read materials, defined agendas, decision items clearly distinguished from information items, and documented action items with owners and due dates?",
+      "rubric_tests": "Evaluates whether governance effectiveness includes: pre-read distribution with adequate review time (minimum 3 business days before meeting); agenda structure distinguishing decision items from information items; time allocation proportional to decision importance (not equal time for all topics); documented decisions with rationale; action items with named owners and due dates; action item tracking and follow-up at subsequent meetings; and meeting effectiveness assessment (are decisions being made, or are meetings becoming status-update forums?).",
+      "rationale": "Governance meetings that become status-update forums are the most common waste of senior leadership time in pharma. If your development committee meeting is 2 hours of PowerPoint with 5 minutes of discussion, you have a presentation event, not a governance meeting. Effective governance requires pre-reads (so meetings start with discussion, not presentation), clear decision items, and documented outcomes. If no decisions are made, the meeting was unnecessary.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Check",
+          "SG3": "Expected",
+          "SG4": "Critical",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM19",
+      "inquiry_domain": "Resource & Budget Management",
+      "question": "Is a programme-level budget established with bottom-up cost estimates by function, phase, and vendor \u2014 tracked against actuals with variance analysis?",
+      "rubric_tests": "Evaluates whether budget management includes: bottom-up cost estimation by functional area and development phase; vendor/CRO cost estimates based on competitive bids or historical benchmarks; internal FTE cost estimation (loaded cost per FTE \u00d7 FTE months); budget baseline with formal change control; actual cost tracking against budget with variance analysis; re-forecasting at defined intervals (minimum quarterly); and contingency budget (typically 10-20% of total programme cost) with defined release criteria.",
+      "rationale": "Programme budgets that are top-down estimates (\"it costs about $X to develop a drug in this indication\") provide no management value. Bottom-up budgets with functional detail enable variance analysis, cost control, and informed trade-off decisions. Tracking actuals against budget reveals whether the programme is on financial track. Contingency budgets provide a buffer for inevitable overruns without requiring emergency funding requests.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM20",
+      "inquiry_domain": "Resource & Budget Management",
+      "question": "Are resource requirements (internal FTEs and external partners) forecasted by function and phase, with resource conflicts identified and resolved proactively?",
+      "rubric_tests": "Evaluates whether resource management includes: FTE demand forecast by function and development phase; resource supply assessment (available FTEs vs required); resource conflict identification (multiple programmes competing for the same resources); resource levelling or conflict resolution through prioritisation; external resource planning (CRO/CDMO/vendor FTEs) aligned with programme timeline; and scenario-based resource planning linked to timeline scenarios.",
+      "rationale": "Resource management in pharma is typically reactive \u2014 teams discover they don't have enough people when deliverables start slipping. Proactive resource forecasting identifies conflicts before they become crises. In a multi-programme organisation, resource conflicts between programmes must be resolved through portfolio-level prioritisation, not ad hoc negotiation between programme teams.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM21",
+      "inquiry_domain": "Resource & Budget Management",
+      "question": "Is vendor/CRO/CDMO management integrated into the project plan \u2014 with vendor timelines, deliverables, and KPIs tracked alongside internal activities?",
+      "rubric_tests": "Evaluates whether vendor management includes: vendor deliverables and timelines integrated into the master project schedule (not managed in separate vendor-specific plans); vendor KPI tracking (quality, timeliness, cost) at programme level; vendor risk assessment and mitigation as part of programme risk management; regular vendor performance reviews with documented outcomes; vendor change control (scope changes, timeline changes) managed through programme change control; and contingency planning for vendor failure or underperformance.",
+      "rationale": "Most pharma programmes outsource 50-80% of execution to CROs, CDMOs, and specialty vendors. If vendor timelines are not integrated into the master schedule, the PM is managing only 20-50% of the programme. Vendor delays are the single most common source of programme timeline slippage. Vendor management is not procurement \u2014 it is programme management of external execution partners.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM22",
+      "inquiry_domain": "Resource & Budget Management",
+      "question": "Is there a formal change control process for scope, timeline, and budget changes \u2014 with impact assessment required before changes are approved?",
+      "rubric_tests": "Evaluates whether change control includes: defined change request process (who can request, what information is required); impact assessment requirement (timeline impact, budget impact, resource impact, risk impact) before approval; approval authority defined by change magnitude (minor changes at team level, major changes at governance level); change log documenting all approved changes with rationale; cumulative change tracking (total scope creep, total budget change, total timeline change); and baseline schedule/budget update after approved changes.",
+      "rationale": "Scope creep is the silent killer of drug development programmes. Without formal change control, \"just one more study,\" \"just one more analysis,\" and \"just one more meeting\" accumulate into months of delay and millions of dollars of cost overrun. Change control forces explicit impact assessment before changes are approved, making the cost of each addition visible. It also creates a record that enables retrospective analysis of what drove programme growth.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM23",
+      "inquiry_domain": "Programme Reporting & Communication",
+      "question": "Is there a standardised programme status report produced at regular cadence, covering timeline status (RAG), key milestones, risks/issues, budget status, and decisions required \u2014 distributed to all stakeholders?",
+      "rubric_tests": "Evaluates whether programme reporting includes: standardised report template used consistently across programmes; RAG (Red-Amber-Green) status for overall programme and by functional area; milestone status against baseline with variance; top risks and issues with status and required actions; budget status (actual vs forecast); decisions required from governance; report cadence (minimum monthly, weekly during critical phases); and distribution to all relevant stakeholders (project team, governance, executive sponsors).",
+      "rationale": "A standardised programme report is the PM's primary communication tool. Without it, stakeholders get fragmented updates from individual functions, each with their own format and spin. The report should be a concise, honest assessment of programme health \u2014 not a marketing document. RAG status must be objective (based on defined criteria, not subjective optimism). The report drives governance attention to where it's needed.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM24",
+      "inquiry_domain": "Programme Reporting & Communication",
+      "question": "Are stakeholder communication plans defined \u2014 with tailored communication for different audiences (project team, governance, investors, board, partner organisations)?",
+      "rubric_tests": "Evaluates whether stakeholder communication includes: stakeholder mapping (who needs what information, at what frequency, in what format); tailored communication for different audiences (detailed for project team, summary for governance, strategic for board/investors); proactive communication of changes, delays, or issues (not waiting for stakeholders to ask); communication protocol for significant events (regulatory decisions, data readouts, safety signals); and partner communication (for co-development, licensing, or alliance programmes).",
+      "rationale": "Different stakeholders need different information. The project team needs task-level detail. The development committee needs decision-relevant summaries. The board needs strategic context and financial impact. Investors need timeline confidence and risk assessment. A single report format cannot serve all audiences. The PM must tailor communication to each stakeholder's needs and decision authority.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM25",
+      "inquiry_domain": "Programme Reporting & Communication",
+      "question": "Are data readout and decision communication plans pre-established \u2014 with defined processes for communicating clinical data results (positive or negative) to internal teams, governance, partners, investors, and regulators?",
+      "rubric_tests": "Evaluates whether data readout planning includes: pre-defined communication sequence (who learns first, who learns second \u2014 typically: medical monitor \u2192 project team \u2192 governance \u2192 partners \u2192 investors \u2192 public); embargoed data handling protocols; scenario-based communication plans (positive result, negative result, mixed result); regulatory disclosure obligations (material information, stock exchange requirements); and partner notification requirements (co-development agreements, licensing obligations).",
+      "rationale": "Clinical data readouts are the highest-stakes communication events in drug development. The sequence of disclosure, the framing of results, and the management of expectations all require advance planning. Programmes that improvise data communication risk investor surprises, partner disputes, and regulatory missteps. Pre-established communication plans ensure that the right people learn results in the right sequence with appropriate context.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Expected",
+          "SG8": "Check",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM26",
+      "inquiry_domain": "Programme Reporting & Communication",
+      "question": "Is programme documentation maintained in a centralised, accessible repository with version control \u2014 including the IDP, risk register, governance meeting minutes, decision logs, and key deliverables?",
+      "rubric_tests": "Evaluates whether documentation management includes: centralised document repository (SharePoint, Veeva, or equivalent) with access controls; version control for all key documents; document naming conventions; retention policy aligned with regulatory requirements (clinical trial documentation retained per ICH E6); searchability and retrievability; and regular archiving and cleanup.",
+      "rationale": "Programme documentation is the institutional memory of the development programme. When team members change (as they inevitably do over 5-10 year programmes), documentation enables continuity. When auditors or regulators ask for decision rationale, documentation provides the answer. Without centralised, version-controlled documentation, knowledge is lost with personnel turnover and decisions cannot be reconstructed.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM27",
+      "inquiry_domain": "Portfolio-Level Planning & Prioritisation",
+      "question": "Is the programme positioned within the broader portfolio context \u2014 with resource prioritisation, strategic alignment, and trade-off decisions made at the portfolio level rather than the programme level?",
+      "rubric_tests": "Evaluates whether portfolio integration includes: programme strategic fit assessment (alignment with corporate strategy, therapeutic area focus, risk appetite); portfolio-level resource allocation (not just programme-level budgeting); cross-programme resource conflict resolution through portfolio governance; portfolio diversification assessment (risk spread across therapeutic areas, modalities, development stages); and programme prioritisation criteria (NPV, strategic value, probability of success, time to market).",
+      "rationale": "Individual programmes cannot be managed in isolation when they compete for shared resources (budget, people, manufacturing capacity, management attention). Portfolio-level governance ensures that the highest-value, highest-priority programmes receive adequate resources, and that lower-priority programmes are explicitly deprioritised rather than starved implicitly. Without portfolio-level planning, all programmes are nominally \"top priority\" and none receive adequate resources.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM28",
+      "inquiry_domain": "Portfolio-Level Planning & Prioritisation",
+      "question": "Are programme interdependencies within the portfolio identified \u2014 including shared platform technologies, sequential indication strategies, and competitive positioning between internal assets?",
+      "rubric_tests": "Evaluates whether portfolio interdependencies include: shared platform/technology dependencies (multiple programmes using the same manufacturing platform, same biomarker assay, same delivery technology); sequential indication strategies requiring coordination (first indication filing informing second indication design); internal competitive positioning (two programmes targeting similar patient populations); shared vendor/CRO dependencies; and portfolio-level milestone coordination (avoiding multiple programmes hitting key milestones simultaneously, overwhelming shared resources).",
+      "rationale": "In multi-programme organisations, portfolios are not just collections of independent programmes. Shared technologies, sequential strategies, and resource competition create interdependencies that must be managed at the portfolio level. Ignoring these interdependencies leads to resource conflicts, strategic misalignment, and missed synergy opportunities.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM29",
+      "inquiry_domain": "Portfolio-Level Planning & Prioritisation",
+      "question": "Is the programme's probability of technical and regulatory success (PTRS) formally assessed and updated at each stage gate, informing portfolio-level investment decisions?",
+      "rubric_tests": "Evaluates whether PTRS assessment includes: phase-specific probability of success estimates (based on indication, modality, mechanism, and programme-specific data); PTRS updating at each stage gate based on emerging data; PTRS methodology documentation (industry benchmarks, proprietary models, expert judgment); integration of PTRS into expected NPV calculations for portfolio prioritisation; and honest PTRS assessment (avoiding systematic overestimation that inflates portfolio value).",
+      "rationale": "PTRS is the most important input to portfolio investment decisions. A programme with 10% PTRS and $5B peak sales potential has a risk-adjusted value that may be lower than a programme with 40% PTRS and $1B peak sales. Without honest, regularly updated PTRS estimates, portfolio decisions are based on enthusiasm rather than evidence. The pharma industry systematically overestimates PTRS, leading to over-investment in low-probability programmes.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM30",
+      "inquiry_domain": "Operational Excellence & Tools",
+      "question": "Are project management tools and systems adequate for programme complexity \u2014 with integrated scheduling, resource management, budget tracking, risk management, and reporting capabilities?",
+      "rubric_tests": "Evaluates whether PM tool infrastructure includes: scheduling tool (MS Project, Planisware, Primavera, or equivalent) with dependency management; resource management capability (demand forecasting, allocation tracking); budget tracking integrated with or linked to scheduling; risk register tool (dedicated risk management module or well-structured spreadsheet); reporting/dashboard capability (automated status reports, milestone dashboards); and tool training for PM staff and functional leads who interact with the tools.",
+      "rationale": "The right tools enable good project management; the wrong tools prevent it. A clinical-stage programme with 500+ tasks, 10+ functional workstreams, and dozens of vendors cannot be managed in Excel. Equally, over-tooling a preclinical programme with enterprise software creates administrative overhead without value. Tool selection should be proportionate to programme complexity, with migration to more capable tools as the programme matures.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Critical",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Check"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Other",
+          "SG5": "Other",
+          "SG6": "Other",
+          "SG7": "Other",
+          "SG8": "Other",
+          "SG9": "Other"
+        }
+      }
+    },
+    {
+      "id": "BPM31",
+      "inquiry_domain": "Operational Excellence & Tools",
+      "question": "Are PM processes standardised across the organisation \u2014 with templates, SOPs, and training that enable consistent project management practices regardless of programme or therapeutic area?",
+      "rubric_tests": "Evaluates whether PM standardisation includes: standardised templates (IDP, risk register, status report, governance pack, change request); PM SOPs defining processes (scheduling, risk management, change control, governance, reporting); PM training programme for project managers and functional leads; PM competency assessment and development; and flexibility within the framework to adapt to programme-specific needs without abandoning the standard.",
+      "rationale": "Standardisation enables efficiency, quality, and organisational learning. When every programme uses different templates, processes, and terminology, the organisation cannot compare performance across programmes, cannot transfer people between programmes efficiently, and cannot build institutional PM capability. Standardisation does not mean rigidity \u2014 it means a common framework that provides structure while allowing programme-specific adaptation.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BPM32",
+      "inquiry_domain": "Operational Excellence & Tools",
+      "question": "Are programme performance metrics tracked and benchmarked \u2014 including schedule performance (on-time milestone delivery), budget performance (actual vs planned), and cycle time metrics (time per phase, time to IND, time to BLA)?",
+      "rubric_tests": "Evaluates whether performance measurement includes: schedule performance index (milestones delivered on time / milestones planned); budget performance index (actual spend vs planned); cycle time tracking by development phase (months per phase vs industry benchmarks); root cause analysis for missed milestones or budget overruns; trend analysis (is schedule performance improving or deteriorating?); and external benchmarking against industry data (Tufts CSDD, industry surveys).",
+      "rationale": "You cannot improve what you do not measure. Programme performance metrics enable objective assessment of PM effectiveness, identification of systemic problems, and comparison against industry benchmarks. If your Phase 1-to-Phase 2 cycle time is 18 months and the industry benchmark is 12 months, you have a structural problem to investigate. Without metrics, performance assessment is subjective and improvement is accidental.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BPM33",
+      "inquiry_domain": "Operational Excellence & Tools",
+      "question": "Is there a dedicated, experienced project management function with pharmaceutical development expertise \u2014 not just general PM methodology \u2014 leading programme execution?",
+      "rubric_tests": "Evaluates whether PM capability includes: dedicated PM professionals (not scientists/clinicians doubling as PMs); pharmaceutical development domain expertise (understanding of regulatory processes, clinical trial execution, CMC timelines, commercial launch); appropriate PM seniority for programme complexity (senior PMs for pivotal programmes); PM career development path within the organisation; PM participation in governance (PMs at the decision table, not just in support roles); and PM authority to manage cross-functional execution (not just coordinate and report).",
+      "rationale": "Pharmaceutical project management requires both PM methodology expertise and drug development domain knowledge. A PMP-certified PM without pharma experience will not understand regulatory critical paths, CMC bottlenecks, or clinical trial complexity. A pharmacologist managing a project part-time will not have the PM methodology skills to manage dependencies, conduct schedule risk analysis, or drive governance decisions. Dedicated, experienced pharmaceutical PMs are essential for programme success.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BPM34",
+      "inquiry_domain": "Transition & Lifecycle Management",
+      "question": "Are phase transition plans in place \u2014 with defined handover processes, knowledge transfer requirements, and team continuity management for major transitions (preclinical\u2192clinical, Phase 2\u2192Phase 3, filing\u2192launch, development\u2192commercial)?",
+      "rubric_tests": "Evaluates whether transition management includes: defined transition plan for each major phase boundary; knowledge transfer requirements (what information must be transferred, from whom to whom); team continuity assessment (which team members continue, which change); handover documentation requirements; transition risk assessment (what knowledge is at risk of loss); and post-transition review to confirm successful handover.",
+      "rationale": "Phase transitions are the most common points of knowledge loss and momentum disruption in drug development. The team that designed the Phase 2 trial may not be the team that designs Phase 3. The development team hands off to the commercial team at launch. Without structured transition plans, critical institutional knowledge is lost, relationships with regulators and investigators are disrupted, and programme momentum stalls during team reconstitution.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BPM35",
+      "inquiry_domain": "Transition & Lifecycle Management",
+      "question": "Is the filing-to-launch transition explicitly planned as a cross-functional programme \u2014 with parallel workstreams for regulatory review management, commercial launch preparation, manufacturing scale-up, and medical affairs readiness?",
+      "rubric_tests": "Evaluates whether filing-to-launch planning includes: regulatory review management workstream (agency questions, advisory committee preparation, labelling negotiation); commercial launch preparation workstream (market shaping, sales force deployment, distribution setup); manufacturing scale-up workstream (commercial-scale production, packaging, supply chain); medical affairs workstream (KOL engagement, publication strategy, medical information); launch readiness assessment at defined milestones; and PDUFA-date-driven timeline with contingency for approval delays, CRLs, or conditional approvals.",
+      "rationale": "The filing-to-launch transition is the most complex phase of a pharmaceutical programme because it requires simultaneous execution across regulatory, commercial, manufacturing, and medical affairs \u2014 functions that may have had limited interaction during clinical development. Launch readiness requires 12-18 months of parallel preparation, and the timeline is driven by an uncertain regulatory outcome (PDUFA date). Programmes that begin launch preparation after approval lose 6-12 months of market opportunity.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    },
+    {
+      "id": "BPM36",
+      "inquiry_domain": "Transition & Lifecycle Management",
+      "question": "Is post-approval lifecycle management planned as a continuation of programme management \u2014 with ongoing project plans for post-marketing commitments, label expansions, new indications, and formulation development?",
+      "rubric_tests": "Evaluates whether lifecycle PM includes: post-marketing commitment tracking (PMCs, PMRs \u2014 with timelines, deliverables, and regulatory reporting); label expansion project plans (new indications, new populations, new formulations); ongoing manufacturing and supply chain management; pharmacovigilance programme management; and transition from development PM to lifecycle/commercial PM with appropriate knowledge transfer.",
+      "rationale": "Drug development does not end at approval. Post-marketing commitments (often dozens of studies and reports), label expansions, new indications, formulation improvements, and lifecycle defence against competitors all require project management discipline. Programmes that disband the PM function at approval lose the institutional memory, the cross-functional coordination, and the governance discipline needed for effective lifecycle management.",
+      "priorities": {
+        "SR": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "OE": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "DD": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Check",
+          "SG4": "Expected",
+          "SG5": "Expected",
+          "SG6": "Critical",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        },
+        "RS": {
+          "SG1": "Other",
+          "SG2": "Other",
+          "SG3": "Other",
+          "SG4": "Check",
+          "SG5": "Expected",
+          "SG6": "Expected",
+          "SG7": "Critical",
+          "SG8": "Critical",
+          "SG9": "Critical"
+        }
+      }
+    }
+  ]
+}
