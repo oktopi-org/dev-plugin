@@ -1,0 +1,13 @@
+{
+  "name": "oktopi-research-team",
+  "version": "0.2.0",
+  "description": "Oktopi Research Team: multi-agent PDP gap-analysis with 12 function reviewers, a PDP orchestrator, and 21 skills, all grounded in the Oktopi Taxonomy-config",
+  "author": {
+    "name": "Oktopi",
+    "url": "https://github.com/oktopi-org"
+  },
+  "homepage": "https://github.com/oktopi-org/dev-plugin",
+  "repository": "https://github.com/oktopi-org/dev-plugin",
+  "license": "MIT",
+  "keywords": ["oktopi", "pdp", "gap-analysis", "stage-gate", "multi-agent", "pharma"]
+}

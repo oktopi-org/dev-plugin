@@ -6,16 +6,16 @@
   },
   "metadata": {
     "description": "Claude Code plugins for Oktopi development workflows",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
-      "name": "oktopi-dev",
-      "source": "./plugins/oktopi-dev",
-      "description": "PDP gap-analysis toolkit: 12 function reviewer agents and 9 stage-gate skills generated from the shared Taxonomy-config",
-      "version": "0.1.0",
+      "name": "oktopi-research-team",
+      "source": "./plugins/oktopi-research-team",
+      "description": "Oktopi Research Team: multi-agent PDP gap-analysis with 12 function reviewers, a PDP orchestrator, and 21 skills, all grounded in the Oktopi Taxonomy-config",
+      "version": "0.2.0",
       "category": "development",
-      "keywords": ["oktopi", "pdp", "gap-analysis", "stage-gate", "taxonomy"],
+      "keywords": ["oktopi", "pdp", "gap-analysis", "stage-gate", "multi-agent", "pharma"],
       "strict": false
     }
   ]

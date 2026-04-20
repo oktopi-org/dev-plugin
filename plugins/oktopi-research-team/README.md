@@ -1,4 +1,4 @@
-# oktopi-dev plugin
+# oktopi-research-team plugin
 
 PDP (Product Development Plan) gap-analysis for Claude Code, designed as an
 agentic, multi-agent review system (inspired by Anthropic's
@@ -35,7 +35,7 @@ Each reviewer:
 ## What's inside
 
 ```
-plugins/oktopi-dev/
+plugins/oktopi-research-team/
 ├── agents/                                 # 12 function reviewers + 1 orchestrator
 │   ├── pdp-reviewer.md                     # Lead Reviewer (orchestrator)
 │   ├── cmc-reviewer.md
@@ -87,7 +87,7 @@ For a single-function pass:
 
 ```bash
 git clone https://github.com/oktopi-org/Taxonomy-config.git
-python3 plugins/oktopi-dev/scripts/build_taxonomy_data.py \
+python3 plugins/oktopi-research-team/scripts/build_taxonomy_data.py \
     --taxonomy ./Taxonomy-config
 ```
 

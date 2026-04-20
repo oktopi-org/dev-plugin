@@ -3,18 +3,18 @@
 
 Reads from a local clone of oktopi-org/Taxonomy-config and writes:
 
-    plugins/oktopi-dev/data/
+    plugins/oktopi-research-team/data/
         functions.json
         stage-gates.json
         modes.json
         heatmap/<modality>.json
         questions/<modality>/<FUNCTION_CODE>.json
 
-    plugins/oktopi-dev/agents/<function>-reviewer.md      (one per function)
-    plugins/oktopi-dev/skills/stage-gate-sg<N>/SKILL.md   (one per stage gate)
+    plugins/oktopi-research-team/agents/<function>-reviewer.md      (one per function)
+    plugins/oktopi-research-team/skills/stage-gate-sg<N>/SKILL.md   (one per stage gate)
 
 Run from the repo root:
-    python3 plugins/oktopi-dev/scripts/build_taxonomy_data.py \
+    python3 plugins/oktopi-research-team/scripts/build_taxonomy_data.py \
         --taxonomy ../Taxonomy-config
 
 All data is regenerated from scratch each run; the produced files are the
