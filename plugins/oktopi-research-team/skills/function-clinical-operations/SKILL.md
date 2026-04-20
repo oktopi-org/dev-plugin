@@ -1,6 +1,6 @@
 ---
 name: function-clinical-operations
-description: "Clinical Operations function mandate for Oktopi PDP review. Execute the clinical plan on time, on budget, and at quality — with every database lock supporting the intended regulatory decision. Invoke when a PDP needs a clinical operations read-through — pairs with the `clinical-operations-reviewer` agent."
+description: "Clinical Operations mandate for pharma development. Execute the clinical plan on time, on budget, and at quality — with every database lock supporting the intended regulatory decision. Use PROACTIVELY when the user asks about: site activation, feasibility, or country selection; enrollment forecasting or risk-based monitoring; CRO selection, oversight, or governance; central labs, imaging, IRT, or eCOA vendors; TMF, data cleaning, or database lock; drug supply logistics, depots, or blinding integrity. Pairs with the `clinical-operations-reviewer` agent for PDP reviews."
 ---
 
 # Clinical Operations — function mandate

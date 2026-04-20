@@ -1,6 +1,6 @@
 ---
 name: function-commercial
-description: "Commercial function mandate for Oktopi PDP review. Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle. Invoke when a PDP needs a commercial read-through — pairs with the `commercial-reviewer` agent."
+description: "Commercial mandate for pharma development. Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle. Use PROACTIVELY when the user asks about: market sizing (TAM/SAM/SOM), peak sales, or forecast; pricing, market access, or HTA (NICE, IQWiG, PBAC, G-BA) strategy; payer value dossier or reimbursement strategy; competitive landscape, positioning, or differentiation; launch readiness, brand planning, or commercial model; lifecycle management, line extension, or franchise / portfolio. Pairs with the `commercial-reviewer` agent for PDP reviews."
 ---
 
 # Commercial — function mandate

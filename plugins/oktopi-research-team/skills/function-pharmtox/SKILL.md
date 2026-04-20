@@ -1,6 +1,6 @@
 ---
 name: function-pharmtox
-description: "Pharmacology & Toxicology function mandate for Oktopi PDP review. Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate. Invoke when a PDP needs a pharmacology & toxicology read-through — pairs with the `pharmtox-reviewer` agent."
+description: "Pharmacology & Toxicology mandate for pharma development. Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate. Use PROACTIVELY when the user asks about: IND-enabling toxicology, GLP tox, or species selection; safety pharmacology, genotoxicity, or carcinogenicity; DMPK, ADME, or preclinical PK; starting dose, MABEL, HED, or first-in-human justification; juvenile, reproductive, or developmental tox; biologics-specific nonclinical concerns (immunogenicity, CRS, cytokine release). Pairs with the `pharmtox-reviewer` agent for PDP reviews."
 ---
 
 # Pharmacology & Toxicology — function mandate

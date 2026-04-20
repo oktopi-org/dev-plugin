@@ -1,6 +1,6 @@
 ---
 name: function-project-management
-description: "Project Management function mandate for Oktopi PDP review. Keep the programme integrated, honest, and on the critical path — so that every function's work lands in the right sequence at the right quality. Invoke when a PDP needs a project management read-through — pairs with the `project-management-reviewer` agent."
+description: "Project Management mandate for pharma development. Keep the programme integrated, honest, and on the critical path — so that every function's work lands in the right sequence at the right quality. Use PROACTIVELY when the user asks about: integrated development plan (IDP), critical path, or Gantt; cross-functional dependency, interlock, or handoff; risk register, RAID log, or escalation; quantitative schedule risk analysis (Monte Carlo); stage-gate governance or go/no-go decision; programme-level timeline, budget, or critical-path management. Pairs with the `project-management-reviewer` agent for PDP reviews."
 ---
 
 # Project Management — function mandate

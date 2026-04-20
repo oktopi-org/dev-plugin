@@ -1,6 +1,6 @@
 ---
 name: function-regulatory-affairs
-description: "Regulatory Affairs function mandate for Oktopi PDP review. Land the regulatory strategy and submissions required to reach a reimbursable label in each priority market on the target timeline. Invoke when a PDP needs a regulatory affairs read-through — pairs with the `regulatory-affairs-reviewer` agent."
+description: "Regulatory Affairs mandate for pharma development. Land the regulatory strategy and submissions required to reach a reimbursable label in each priority market on the target timeline. Use PROACTIVELY when the user asks about: IND, NDA, BLA, CTA, or MAA submission; FDA, EMA, PMDA, or ICH agency interactions; pre-IND, EoP2, Type B/C meeting, or briefing document; orphan, breakthrough, fast-track, PRIME, or accelerated approval; labeling strategy or negotiation; post-approval commitments, variations, or advisory committee. Pairs with the `regulatory-affairs-reviewer` agent for PDP reviews."
 ---
 
 # Regulatory Affairs — function mandate

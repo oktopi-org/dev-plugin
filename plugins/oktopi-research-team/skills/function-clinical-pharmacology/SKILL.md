@@ -1,6 +1,6 @@
 ---
 name: function-clinical-pharmacology
-description: "Clinical Pharmacology function mandate for Oktopi PDP review. Ensure every dose decision — starting, escalation, Phase 3, and label — is anchored in a defensible exposure-response story. Invoke when a PDP needs a clinical pharmacology read-through — pairs with the `clinical-pharmacology-reviewer` agent."
+description: "Clinical Pharmacology mandate for pharma development. Ensure every dose decision — starting, escalation, Phase 3, and label — is anchored in a defensible exposure-response story. Use PROACTIVELY when the user asks about: clinical PK, exposure-response, or dose-finding; DDI strategy or in vitro / clinical DDI studies; special populations (renal, hepatic, pediatric, pregnancy); pop-PK, PBPK, or QSP modeling; Project Optimus dose optimization; label dose justification. Pairs with the `clinical-pharmacology-reviewer` agent for PDP reviews."
 ---
 
 # Clinical Pharmacology — function mandate

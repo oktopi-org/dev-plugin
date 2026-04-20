@@ -60,10 +60,20 @@ plugins/oktopi-research-team/
 
 ## Why this design
 
+- **Auto-routing by natural language.** Every agent and skill description lists the user phrases that should trigger it (`"Use PROACTIVELY when the user asks about: GMP manufacturing, tech transfer, or process validation..."`). Claude matches the user's question against these triggers and auto-invokes the right specialist — no explicit `/command` needed. A top-level `oktopi-research-team` router skill catches any pharma dev question and delegates.
 - **Agents are goal-embodied, not question-parroting.** Each reviewer knows *why* they exist (their mission) and what they own (their mandate). The 1,492-question rubric is their *floor*, not their ceiling — they're explicitly instructed to add adaptive questions when a novel modality or fresh regulatory signal demands it.
 - **Orchestrator owns parallelism and reconciliation.** Like a Lead Researcher, `pdp-reviewer` scopes the work, dispatches subagents concurrently, and synthesizes one gate-readiness report with cross-functional risk clustering.
 - **Skills describe intent, not data.** Stage-gate and function skills are concise goal statements (< 10 KB each) that trigger naturally when the user mentions a gate or function. Question-level data lives in JSON that agents load on demand.
 - **Every finding is citable.** Question IDs (`COM5`, `BBSTAT18`, etc.) link back to the Oktopi Expert Toolkit rubrics; adaptive questions are tagged `[adaptive]` with a rationale.
+
+## Expanding an agent's tooling and knowledge
+
+Each reviewer is designed to grow — add reference material and tools without touching the build script:
+
+- **Per-function knowledge** lives under [`data/knowledge/<CODE>/`](data/knowledge/) (one directory per function, scaffolded on build). Drop SOPs, playbooks, guideline summaries, template questionnaires in markdown or JSON. The matching reviewer is instructed to scan this folder alongside the rubric.
+- **External tools (MCP)**: add servers to the plugin's `.mcp.json` (e.g. ClinicalTrials.gov, PubMed, an internal CMC database). Then extend the `tools:` frontmatter in the specific `<slug>-reviewer.md` agent to grant access (e.g. `tools: Read, Grep, Glob, mcp__pubmed__search`).
+- **Sub-specialists**: spawn a narrower agent under `agents/<slug>-<subspeciality>.md` (e.g. `commercial-hta-specialist`). Reference it from the parent reviewer's workflow.
+- **Trigger tuning**: if a function should catch more phrases, edit that function's `triggers:` list in `build_taxonomy_data.py` and rerun the script — descriptions and the router skill regenerate automatically.
 
 ## Usage
 
@@ -94,8 +104,8 @@ python3 plugins/oktopi-research-team/scripts/build_taxonomy_data.py \
 Requires Python 3.10+ and `openpyxl`. The script regenerates:
 
 - All 13 agent markdown files (12 reviewers + orchestrator)
-- All 21 skill files (9 stage-gate + 12 function)
-- All JSON data under `data/`
+- All 22 skill files (9 stage-gate + 12 function + 1 top-level router)
+- All JSON data under `data/`, including scaffolded `data/knowledge/<CODE>/` directories
 
 ## Extending
 
