@@ -13,12 +13,12 @@ Add this marketplace in Claude Code:
 Then install plugins from it:
 
 ```
-/plugin install oktopi-dev@oktopi-dev
+/plugin install oktopi-research-team@oktopi-dev
 ```
 
 ## Plugins
 
-### [`oktopi-dev`](plugins/oktopi-dev/)
+### [`oktopi-research-team`](plugins/oktopi-research-team/)
 
 PDP gap-analysis toolkit derived from [Taxonomy-config](https://github.com/oktopi-org/Taxonomy-config):
 
@@ -32,7 +32,7 @@ PDP gap-analysis toolkit derived from [Taxonomy-config](https://github.com/oktop
 - **1,492 question bank** distilled into JSON data files the agents read at
   runtime.
 
-See [plugins/oktopi-dev/README.md](plugins/oktopi-dev/README.md) for usage.
+See [plugins/oktopi-research-team/README.md](plugins/oktopi-research-team/README.md) for usage.
 
 ## Structure
 
@@ -41,7 +41,7 @@ dev-plugin/
 ├── .claude-plugin/
 │   └── marketplace.json        # Marketplace manifest
 └── plugins/
-    └── oktopi-dev/
+    └── oktopi-research-team/
         ├── .claude-plugin/plugin.json
         ├── agents/             # 12 function reviewer agents
         ├── skills/             # 9 stage-gate SKILL.md files
