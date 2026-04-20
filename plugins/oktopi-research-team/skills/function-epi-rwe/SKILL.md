@@ -1,6 +1,6 @@
 ---
 name: function-epi-rwe
-description: Epidemiology & Real-World Evidence function mandate for Oktopi PDP review. Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments. Invoke when a PDP needs a epidemiology & real-world evidence read-through — pairs with the `epi-rwe-reviewer` agent.
+description: "Epidemiology & Real-World Evidence function mandate for Oktopi PDP review. Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments. Invoke when a PDP needs a epidemiology & real-world evidence read-through — pairs with the `epi-rwe-reviewer` agent."
 ---
 
 # Epidemiology & Real-World Evidence — function mandate

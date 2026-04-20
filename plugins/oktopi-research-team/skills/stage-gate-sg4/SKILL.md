@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg4
-description: Goal and readiness criteria for Oktopi stage-gate SG4: Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready). Trigger when assessing PDP readiness to exit SG4.
+description: "Goal and readiness criteria for Oktopi stage-gate SG4: Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready). Trigger when assessing PDP readiness to exit SG4."
 ---
 
 # Stage Gate SG4: Pre-Clinical to FIH-Enabling (CMC, PK/PD, Tox Ready)

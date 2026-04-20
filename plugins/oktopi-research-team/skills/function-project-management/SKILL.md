@@ -1,6 +1,6 @@
 ---
 name: function-project-management
-description: Project Management function mandate for Oktopi PDP review. Keep the programme integrated, honest, and on the critical path — so that every function's work lands in the right sequence at the right quality. Invoke when a PDP needs a project management read-through — pairs with the `project-management-reviewer` agent.
+description: "Project Management function mandate for Oktopi PDP review. Keep the programme integrated, honest, and on the critical path — so that every function's work lands in the right sequence at the right quality. Invoke when a PDP needs a project management read-through — pairs with the `project-management-reviewer` agent."
 ---
 
 # Project Management — function mandate

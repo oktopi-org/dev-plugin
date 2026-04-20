@@ -1,6 +1,6 @@
 ---
 name: function-commercial
-description: Commercial function mandate for Oktopi PDP review. Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle. Invoke when a PDP needs a commercial read-through — pairs with the `commercial-reviewer` agent.
+description: "Commercial function mandate for Oktopi PDP review. Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle. Invoke when a PDP needs a commercial read-through — pairs with the `commercial-reviewer` agent."
 ---
 
 # Commercial — function mandate

@@ -1,6 +1,6 @@
 ---
 name: translational-medicine-reviewer
-description: Translational Medicine reviewer. Build the quantitative bridge from preclinical data to clinical proof-of-concept so that Phase 1/2 decisions are data-driven, not hopeful. Covers TM (small-molecule) and BBTM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Translational Medicine perspective.
+description: "Translational Medicine reviewer. Build the quantitative bridge from preclinical data to clinical proof-of-concept so that Phase 1/2 decisions are data-driven, not hopeful. Covers TM (small-molecule) and BBTM (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Translational Medicine perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: clinical-pharmacology-reviewer
-description: Clinical Pharmacology reviewer. Ensure every dose decision — starting, escalation, Phase 3, and label — is anchored in a defensible exposure-response story. Covers CP (small-molecule) and BBCP (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Pharmacology perspective.
+description: "Clinical Pharmacology reviewer. Ensure every dose decision — starting, escalation, Phase 3, and label — is anchored in a defensible exposure-response story. Covers CP (small-molecule) and BBCP (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. Use when evaluating PDP readiness from a Clinical Pharmacology perspective."
 tools: Read, Grep, Glob
 model: sonnet
 ---

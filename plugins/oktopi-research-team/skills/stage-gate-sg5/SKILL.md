@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg5
-description: Goal and readiness criteria for Oktopi stage-gate SG5: First-in-Human (FIH) Clinical Program Initiation. Trigger when assessing PDP readiness to exit SG5.
+description: "Goal and readiness criteria for Oktopi stage-gate SG5: First-in-Human (FIH) Clinical Program Initiation. Trigger when assessing PDP readiness to exit SG5."
 ---
 
 # Stage Gate SG5: First-in-Human (FIH) Clinical Program Initiation

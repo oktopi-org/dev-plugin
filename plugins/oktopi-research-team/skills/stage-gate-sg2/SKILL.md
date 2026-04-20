@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg2
-description: Goal and readiness criteria for Oktopi stage-gate SG2: Lead Nomination / Early Optimization. Trigger when assessing PDP readiness to exit SG2.
+description: "Goal and readiness criteria for Oktopi stage-gate SG2: Lead Nomination / Early Optimization. Trigger when assessing PDP readiness to exit SG2."
 ---
 
 # Stage Gate SG2: Lead Nomination / Early Optimization

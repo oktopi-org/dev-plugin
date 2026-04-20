@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg3
-description: Goal and readiness criteria for Oktopi stage-gate SG3: Clinical Candidate Selection / IND-Enabling Entry. Trigger when assessing PDP readiness to exit SG3.
+description: "Goal and readiness criteria for Oktopi stage-gate SG3: Clinical Candidate Selection / IND-Enabling Entry. Trigger when assessing PDP readiness to exit SG3."
 ---
 
 # Stage Gate SG3: Clinical Candidate Selection / IND-Enabling Entry

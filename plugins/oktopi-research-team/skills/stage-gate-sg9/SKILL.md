@@ -1,6 +1,6 @@
 ---
 name: stage-gate-sg9
-description: Goal and readiness criteria for Oktopi stage-gate SG9: Launch & Post-Market Lifecycle Management. Trigger when assessing PDP readiness to exit SG9.
+description: "Goal and readiness criteria for Oktopi stage-gate SG9: Launch & Post-Market Lifecycle Management. Trigger when assessing PDP readiness to exit SG9."
 ---
 
 # Stage Gate SG9: Launch & Post-Market Lifecycle Management

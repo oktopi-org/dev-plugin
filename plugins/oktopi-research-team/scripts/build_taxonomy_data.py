@@ -590,7 +590,12 @@ def build(taxonomy_root: Path, plugin_root: Path) -> None:
 # --------------------------------------------------------------------------
 
 def _yaml_safe(s: str) -> str:
-    """Collapse whitespace and escape quotes for a single-line YAML scalar."""
+    """Collapse whitespace and swap double-quotes to single-quotes.
+
+    Callers MUST emit this value inside double quotes, e.g. `description: "{val}"`,
+    so embedded colons (like ``SG1: Initiate Discovery``) don't trip YAML's
+    flow-mapping parser.
+    """
     return re.sub(r"\s+", " ", s).strip().replace('"', "'")
 
 
@@ -621,7 +626,7 @@ def render_agent(
 
     return f"""---
 name: {slug}-reviewer
-description: {description}
+description: "{description}"
 tools: Read, Grep, Glob
 model: sonnet
 ---
@@ -743,7 +748,7 @@ def render_stage_gate_skill(
     lines = [
         "---",
         f"name: stage-gate-{sg_code.lower()}",
-        f"description: {description}",
+        f'description: "{description}"',
         "---",
         "",
         f"# Stage Gate {sg_code}: {name}",
@@ -822,7 +827,7 @@ def render_function_skill(
 
     return f"""---
 name: function-{slug}
-description: {description}
+description: "{description}"
 ---
 
 # {name} — function mandate
@@ -870,7 +875,7 @@ def render_orchestrator_agent() -> str:
 
     return f"""---
 name: pdp-reviewer
-description: {description}
+description: "{description}"
 tools: Read, Grep, Glob, Task
 model: opus
 ---
