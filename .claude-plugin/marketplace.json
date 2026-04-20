@@ -1,22 +1,13 @@
 {
   "name": "dev-plugin",
   "owner": {
-    "name": "Oktopi",
-    "url": "https://github.com/oktopi-org"
-  },
-  "metadata": {
-    "description": "Claude Code plugins for Oktopi development workflows",
-    "version": "0.2.0"
+    "name": "Oktopi"
   },
   "plugins": [
     {
       "name": "oktopi-research-team",
       "source": "./plugins/oktopi-research-team",
-      "description": "Oktopi Research Team: multi-agent PDP gap-analysis with 12 function reviewers, a PDP orchestrator, and 21 skills, all grounded in the Oktopi Taxonomy-config",
-      "version": "0.2.0",
-      "category": "development",
-      "keywords": ["oktopi", "pdp", "gap-analysis", "stage-gate", "multi-agent", "pharma"],
-      "strict": false
+      "description": "Oktopi Research Team: multi-agent PDP gap-analysis with 12 function reviewers and a PDP orchestrator, grounded in the Oktopi Taxonomy-config"
     }
   ]
 }
