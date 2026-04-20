@@ -1,67 +1,83 @@
 # oktopi-dev plugin
 
-PDP (Product Development Plan) gap-analysis toolkit for Claude Code. Wraps the
-Oktopi [Taxonomy-config](https://github.com/oktopi-org/Taxonomy-config) so that
-Claude agents can review a PDP against the 9 Oktopi stage-gates across 12
-functional areas, in 4 assessment modes (Strategic Readiness, Operational
-Execution, Due Diligence, Regulatory Submission), for both small-molecule and
-biologics modalities.
+PDP (Product Development Plan) gap-analysis for Claude Code, designed as an
+agentic, multi-agent review system (inspired by Anthropic's
+[multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system))
+and grounded in the shared Oktopi [Taxonomy-config](https://github.com/oktopi-org/Taxonomy-config).
+
+## Architecture
+
+```
+           ┌──────────────────────────┐
+           │      pdp-reviewer        │   ← orchestrator (Lead Reviewer)
+           │  scope → dispatch → sync │     model: opus
+           └─────────────┬────────────┘
+                         │  Task tool, parallel fan-out
+     ┌──────────┬────────┼────────┬──────────────────┐
+     ▼          ▼        ▼        ▼                  ▼
+  cmc-rev   pharm-tox  …      commercial-rev     pm-rev    (12 function reviewers — sonnet)
+     │          │        │        │                  │
+     └──────────┴────────┴────────┴──────────────────┘
+                         │
+                         ▼
+              structured JSON verdicts
+                         │
+                         ▼
+              gate-readiness report
+```
+
+Each reviewer:
+- **Embodies the role's goal** (seasoned pharma function lead persona)
+- **Anchors on the Oktopi rubric** via `data/questions/<modality>/<FN>.json`
+- **Asks adaptive follow-ups** when the rubric doesn't cover a novel risk
+- **Returns a structured JSON** the orchestrator can reconcile
 
 ## What's inside
 
 ```
 plugins/oktopi-dev/
-├── agents/                       # 12 function reviewer subagents
+├── agents/                                 # 12 function reviewers + 1 orchestrator
+│   ├── pdp-reviewer.md                     # Lead Reviewer (orchestrator)
 │   ├── cmc-reviewer.md
 │   ├── commercial-reviewer.md
-│   ├── biostatistics-reviewer.md
-│   └── ...
-├── skills/                       # 9 stage-gate goal skills
-│   ├── stage-gate-sg1/SKILL.md
-│   ├── stage-gate-sg2/SKILL.md
-│   └── ...
+│   └── ... (10 more functions)
+├── skills/
+│   ├── stage-gate-sg1/ … stage-gate-sg9/   # 9 gate-goal skills (concise)
+│   └── function-<slug>/                    # 12 function-mandate skills
 ├── commands/
-│   ├── review-stage-gate.md      # /review-stage-gate
-│   └── review-function.md        # /review-function
+│   ├── review-stage-gate.md                # /review-stage-gate
+│   └── review-function.md                  # /review-function
 ├── data/
-│   ├── functions.json            # 12 functions with SM + biologics codes
-│   ├── stage-gates.json          # SG1..SG9 with goal + focus
-│   ├── modes.json                # SR / OE / DD / RS
-│   ├── heatmap/                  # question -> {mode -> {sg -> priority}}
-│   │   ├── small-molecule.json
-│   │   └── biologics.json
-│   └── questions/                # per-function question banks
-│       ├── small-molecule/<FN>.json  (12 files, 613 total questions)
-│       └── biologics/<FN>.json       (12 files, 879 total questions)
+│   ├── functions.json                      # role + mission + mandate per function
+│   ├── stage-gates.json                    # SG1..SG9 with goal + focus
+│   ├── stage-gate-index.json               # counts per (SG, mode, function) + domains
+│   ├── modes.json                          # SR / OE / DD / RS
+│   ├── heatmap/<modality>.json             # question → {mode → {sg → priority}}
+│   └── questions/<modality>/<FN>.json      # 1,492 questions with priorities + rubric
 └── scripts/
-    └── build_taxonomy_data.py    # regenerate data + agents + skills
+    └── build_taxonomy_data.py              # regenerate everything from Taxonomy-config
 ```
 
-## How the taxonomy maps to components
+## Why this design
 
-- **Functions → agents.** Every functional area (CMC, Pharm-Tox, Translational
-  Medicine, Clinical Pharmacology, Clinical Development/Medical, Clinical
-  Safety, Clinical Operations, Biostatistics, Regulatory Affairs, Epi & RWE,
-  Commercial, Project Management) gets its own reviewer agent that knows its
-  full question bank and how those questions are prioritized for each stage-gate
-  and mode.
-- **Stage-gates → skills.** SG1–SG9 each get a skill file that states the
-  gate's goal and lists the Critical questions (per mode, per function) that
-  must be answered before the gate can be cleared.
-- **Modes** (`SR`, `OE`, `DD`, `RS`) control which priority matrix is used —
-  the same question is rated Critical / Expected / Check / Other per mode.
+- **Agents are goal-embodied, not question-parroting.** Each reviewer knows *why* they exist (their mission) and what they own (their mandate). The 1,492-question rubric is their *floor*, not their ceiling — they're explicitly instructed to add adaptive questions when a novel modality or fresh regulatory signal demands it.
+- **Orchestrator owns parallelism and reconciliation.** Like a Lead Researcher, `pdp-reviewer` scopes the work, dispatches subagents concurrently, and synthesizes one gate-readiness report with cross-functional risk clustering.
+- **Skills describe intent, not data.** Stage-gate and function skills are concise goal statements (< 10 KB each) that trigger naturally when the user mentions a gate or function. Question-level data lives in JSON that agents load on demand.
+- **Every finding is citable.** Question IDs (`COM5`, `BBSTAT18`, etc.) link back to the Oktopi Expert Toolkit rubrics; adaptive questions are tagged `[adaptive]` with a rationale.
 
-## Typical usage
+## Usage
 
 ```text
 /review-stage-gate SG5 OE small-molecule ~/Desktop/acme-pdp.pdf
 ```
 
-The command loads `skills/stage-gate-sg5/SKILL.md`, dispatches each function
-reviewer in parallel, and aggregates the results into a single SG5 readiness
-report.
+The command hands off to `pdp-reviewer`, which:
+1. Loads `stage-gate-index.json` to see which functions carry Critical question load at SG5 × OE
+2. Dispatches those function reviewers in parallel
+3. Each reviewer loads its question bank, filters on Critical at SG5/OE, evaluates evidence, and returns structured JSON
+4. Orchestrator reconciles into one readiness report with cross-functional risk clusters
 
-For a single function:
+For a single-function pass:
 
 ```text
 /review-function commercial SG6 DD biologics ~/Desktop/acme-dataroom/
@@ -69,15 +85,20 @@ For a single function:
 
 ## Regenerating data
 
-The agents, skills, and JSON data are all generated from the upstream
-`Taxonomy-config` repo. To refresh after the taxonomy changes:
-
 ```bash
-# Clone the taxonomy repo next to this one (sibling directory)
 git clone https://github.com/oktopi-org/Taxonomy-config.git
-
 python3 plugins/oktopi-dev/scripts/build_taxonomy_data.py \
-    --taxonomy ../Taxonomy-config
+    --taxonomy ./Taxonomy-config
 ```
 
-Requirements: Python 3.10+ and `openpyxl`.
+Requires Python 3.10+ and `openpyxl`. The script regenerates:
+
+- All 13 agent markdown files (12 reviewers + orchestrator)
+- All 21 skill files (9 stage-gate + 12 function)
+- All JSON data under `data/`
+
+## Extending
+
+- **Change a role's mission or mandate** → edit `FUNCTIONS` in `build_taxonomy_data.py` and rebuild.
+- **Tune the orchestrator** → edit `render_orchestrator_agent()`.
+- **Add a new function** → add a `FUNCTIONS` entry + `FUNCTION_SLUG` + rubric file mapping, and the script will generate the agent, skill, and question JSON.

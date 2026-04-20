@@ -1,0 +1,4832 @@
+{
+  "SG1": {
+    "SR": {
+      "CMC": {
+        "count_sm": 3,
+        "count_bio": 1,
+        "domains": [
+          "Overall CMC Strategy"
+        ]
+      },
+      "PT": {
+        "count_sm": 4,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)"
+        ]
+      },
+      "TM": {
+        "count_sm": 3,
+        "count_bio": 0,
+        "domains": [
+          "Biomarker Strategy \u2013 Overall"
+        ]
+      },
+      "CP": {
+        "count_sm": 2,
+        "count_bio": 1,
+        "domains": [
+          "Clinical Pharmacology Strategy"
+        ]
+      },
+      "CDM": {
+        "count_sm": 6,
+        "count_bio": 5,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Competitive Landscape and Differentiation"
+        ]
+      },
+      "REG": {
+        "count_sm": 7,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Interactions"
+        ]
+      },
+      "ERW": {
+        "count_sm": 8,
+        "count_bio": 0,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation"
+        ]
+      },
+      "COM": {
+        "count_sm": 9,
+        "count_bio": 8,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape"
+        ]
+      }
+    },
+    "OE": {},
+    "DD": {
+      "PT": {
+        "count_sm": 4,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)"
+        ]
+      },
+      "TM": {
+        "count_sm": 3,
+        "count_bio": 0,
+        "domains": [
+          "Biomarker Strategy \u2013 Overall"
+        ]
+      },
+      "CDM": {
+        "count_sm": 5,
+        "count_bio": 4,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Competitive Landscape and Differentiation"
+        ]
+      },
+      "REG": {
+        "count_sm": 7,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Interactions"
+        ]
+      },
+      "ERW": {
+        "count_sm": 8,
+        "count_bio": 0,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation"
+        ]
+      },
+      "COM": {
+        "count_sm": 9,
+        "count_bio": 8,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape"
+        ]
+      }
+    },
+    "RS": {}
+  },
+  "SG2": {
+    "SR": {
+      "CMC": {
+        "count_sm": 4,
+        "count_bio": 1,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)"
+        ]
+      },
+      "PT": {
+        "count_sm": 9,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)"
+        ]
+      },
+      "TM": {
+        "count_sm": 10,
+        "count_bio": 10,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Mechanism of Action (MOA) Translation",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers"
+        ]
+      },
+      "CP": {
+        "count_sm": 2,
+        "count_bio": 1,
+        "domains": [
+          "Clinical Pharmacology Strategy"
+        ]
+      },
+      "CDM": {
+        "count_sm": 6,
+        "count_bio": 5,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Competitive Landscape and Differentiation"
+        ]
+      },
+      "REG": {
+        "count_sm": 6,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 8,
+        "count_bio": 10,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation"
+        ]
+      },
+      "COM": {
+        "count_sm": 9,
+        "count_bio": 15,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy"
+        ]
+      }
+    },
+    "OE": {},
+    "DD": {
+      "CMC": {
+        "count_sm": 1,
+        "count_bio": 0,
+        "domains": [
+          "Overall CMC Strategy"
+        ]
+      },
+      "PT": {
+        "count_sm": 8,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)"
+        ]
+      },
+      "TM": {
+        "count_sm": 10,
+        "count_bio": 10,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Mechanism of Action (MOA) Translation",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers"
+        ]
+      },
+      "CDM": {
+        "count_sm": 5,
+        "count_bio": 4,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Competitive Landscape and Differentiation"
+        ]
+      },
+      "REG": {
+        "count_sm": 6,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 8,
+        "count_bio": 10,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation"
+        ]
+      },
+      "COM": {
+        "count_sm": 9,
+        "count_bio": 15,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy"
+        ]
+      }
+    },
+    "RS": {}
+  },
+  "SG3": {
+    "SR": {
+      "CMC": {
+        "count_sm": 8,
+        "count_bio": 6,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Cell Line Development & Characterisation"
+        ]
+      },
+      "PT": {
+        "count_sm": 29,
+        "count_bio": 15,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Integration with Clinical Development",
+          "Study Documentation & Data Integrity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)"
+        ]
+      },
+      "TM": {
+        "count_sm": 16,
+        "count_bio": 20,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Mechanism of Action (MOA) Translation",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms"
+        ]
+      },
+      "CP": {
+        "count_sm": 4,
+        "count_bio": 2,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 12,
+        "count_bio": 5,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment"
+        ]
+      },
+      "REG": {
+        "count_sm": 10,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions"
+        ]
+      },
+      "ERW": {
+        "count_sm": 3,
+        "count_bio": 20,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "External Control Arms / Historical Comparators"
+        ]
+      },
+      "COM": {
+        "count_sm": 4,
+        "count_bio": 15,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 10,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 0,
+        "count_bio": 3,
+        "domains": [
+          "Cell Line Development & Characterisation"
+        ]
+      },
+      "PT": {
+        "count_sm": 9,
+        "count_bio": 15,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)"
+        ]
+      },
+      "TM": {
+        "count_sm": 3,
+        "count_bio": 0,
+        "domains": [
+          "Biomarker Strategy \u2013 Overall"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 8,
+        "count_bio": 6,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Cell Line Development & Characterisation"
+        ]
+      },
+      "PT": {
+        "count_sm": 28,
+        "count_bio": 15,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Integration with Clinical Development",
+          "Study Documentation & Data Integrity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)"
+        ]
+      },
+      "TM": {
+        "count_sm": 17,
+        "count_bio": 20,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Mechanism of Action (MOA) Translation",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms"
+        ]
+      },
+      "CP": {
+        "count_sm": 3,
+        "count_bio": 2,
+        "domains": [
+          "Clinical Pharmacology Strategy"
+        ]
+      },
+      "CDM": {
+        "count_sm": 12,
+        "count_bio": 5,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment"
+        ]
+      },
+      "REG": {
+        "count_sm": 10,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions"
+        ]
+      },
+      "ERW": {
+        "count_sm": 3,
+        "count_bio": 20,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "External Control Arms / Historical Comparators"
+        ]
+      },
+      "COM": {
+        "count_sm": 4,
+        "count_bio": 15,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 10,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution"
+        ]
+      }
+    },
+    "RS": {
+      "CDM": {
+        "count_sm": 2,
+        "count_bio": 1,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Efficacy and Clinical Benefit"
+        ]
+      },
+      "REG": {
+        "count_sm": 9,
+        "count_bio": 3,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions"
+        ]
+      }
+    }
+  },
+  "SG4": {
+    "SR": {
+      "CMC": {
+        "count_sm": 23,
+        "count_bio": 25,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Quality Systems and Risk Management",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety"
+        ]
+      },
+      "PT": {
+        "count_sm": 37,
+        "count_bio": 65,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Carcinogenicity (if required)",
+          "Study Documentation & Data Integrity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models",
+          "Biologic-Specific PK & Target-Mediated Drug Disposition (TMDD)",
+          "GLP Compliance & Study Quality"
+        ]
+      },
+      "TM": {
+        "count_sm": 21,
+        "count_bio": 51,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Regulatory & CDx Considerations",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)",
+          "Biomarker-Driven Clinical Trial Design"
+        ]
+      },
+      "CP": {
+        "count_sm": 10,
+        "count_bio": 32,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Drug-Drug Interactions (DDIs)",
+          "Pediatric Plans & Regulatory Readiness",
+          "Pharmacokinetics (PK)",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Paediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data"
+        ]
+      },
+      "CDM": {
+        "count_sm": 18,
+        "count_bio": 19,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability"
+        ]
+      },
+      "SAF": {
+        "count_sm": 5,
+        "count_bio": 18,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Protocol Design & Risk Mitigation",
+          "Safety Signal Detection & Evaluation",
+          "Special Safety Topics",
+          "Safety Data Integration & Analysis",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring",
+          "Benefit-Risk Assessment"
+        ]
+      },
+      "STAT": {
+        "count_sm": 0,
+        "count_bio": 12,
+        "domains": [
+          "Sample Size Justification",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Study Design Appropriateness"
+        ]
+      },
+      "REG": {
+        "count_sm": 18,
+        "count_bio": 15,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Risk Assessment & Regulatory Barriers"
+        ]
+      },
+      "COM": {
+        "count_sm": 3,
+        "count_bio": 8,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 18,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 10,
+        "count_bio": 42,
+        "domains": [
+          "Drug Substance (DS)",
+          "Analytical Methods",
+          "Stability Data",
+          "Process Development & Scale-Up",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Drug Product (DP)",
+          "Manufacturing and Supply Chain",
+          "Packaging, Labelling & Logistics",
+          "Environmental, Health, and Safety (EHS)",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 45,
+        "count_bio": 75,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Carcinogenicity (if required)",
+          "Local Tolerance & Route-Specific Toxicity",
+          "Study Documentation & Data Integrity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models",
+          "Biologic-Specific PK & Target-Mediated Drug Disposition (TMDD)"
+        ]
+      },
+      "TM": {
+        "count_sm": 29,
+        "count_bio": 12,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms"
+        ]
+      },
+      "CP": {
+        "count_sm": 2,
+        "count_bio": 7,
+        "domains": [
+          "Drug-Drug Interactions (DDIs)",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Patient Safety & Medical Oversight",
+          "Clinical Operations & Trial Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 3,
+        "count_bio": 3,
+        "domains": [
+          "Safety Management Plan & Governance"
+        ]
+      },
+      "COP": {
+        "count_sm": 7,
+        "count_bio": 4,
+        "domains": [
+          "Clinical Development Plan Operationalization",
+          "Site Strategy & Feasibility",
+          "Clinical Development Plan Operations"
+        ]
+      },
+      "REG": {
+        "count_sm": 6,
+        "count_bio": 12,
+        "domains": [
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 24,
+        "count_bio": 25,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Quality Systems and Risk Management",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety"
+        ]
+      },
+      "PT": {
+        "count_sm": 42,
+        "count_bio": 65,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Carcinogenicity (if required)",
+          "Study Documentation & Data Integrity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models",
+          "Biologic-Specific PK & Target-Mediated Drug Disposition (TMDD)"
+        ]
+      },
+      "TM": {
+        "count_sm": 22,
+        "count_bio": 51,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Regulatory & CDx Considerations",
+          "Bioanalytical Integration & Sample Management",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)",
+          "Biomarker-Driven Clinical Trial Design"
+        ]
+      },
+      "CP": {
+        "count_sm": 10,
+        "count_bio": 32,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Drug-Drug Interactions (DDIs)",
+          "Pediatric Plans & Regulatory Readiness",
+          "Pharmacokinetics (PK)",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Paediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data"
+        ]
+      },
+      "CDM": {
+        "count_sm": 18,
+        "count_bio": 17,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability"
+        ]
+      },
+      "SAF": {
+        "count_sm": 2,
+        "count_bio": 16,
+        "domains": [
+          "Protocol Design & Risk Mitigation",
+          "Safety Signal Detection & Evaluation",
+          "Safety Management Plan & Governance",
+          "Special Safety Topics",
+          "Safety Data Integration & Analysis",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring",
+          "Benefit-Risk Assessment"
+        ]
+      },
+      "STAT": {
+        "count_sm": 0,
+        "count_bio": 11,
+        "domains": [
+          "Sample Size Justification",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Study Design Appropriateness"
+        ]
+      },
+      "REG": {
+        "count_sm": 18,
+        "count_bio": 15,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Risk Assessment & Regulatory Barriers"
+        ]
+      },
+      "COM": {
+        "count_sm": 3,
+        "count_bio": 8,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 18,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making"
+        ]
+      }
+    },
+    "RS": {
+      "CMC": {
+        "count_sm": 0,
+        "count_bio": 3,
+        "domains": [
+          "Cell Line Development & Characterisation"
+        ]
+      },
+      "PT": {
+        "count_sm": 8,
+        "count_bio": 15,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)"
+        ]
+      },
+      "TM": {
+        "count_sm": 3,
+        "count_bio": 0,
+        "domains": [
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers"
+        ]
+      },
+      "CDM": {
+        "count_sm": 9,
+        "count_bio": 2,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Competitive Landscape and Differentiation"
+        ]
+      },
+      "REG": {
+        "count_sm": 19,
+        "count_bio": 15,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Risk Assessment & Regulatory Barriers"
+        ]
+      }
+    }
+  },
+  "SG5": {
+    "SR": {
+      "CMC": {
+        "count_sm": 28,
+        "count_bio": 30,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Quality Systems and Risk Management",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Packaging, Labelling & Logistics",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety"
+        ]
+      },
+      "PT": {
+        "count_sm": 35,
+        "count_bio": 25,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models"
+        ]
+      },
+      "TM": {
+        "count_sm": 27,
+        "count_bio": 41,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 21,
+        "count_bio": 32,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Paediatric Plans & Regulatory Readiness"
+        ]
+      },
+      "CDM": {
+        "count_sm": 21,
+        "count_bio": 41,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 9,
+        "count_bio": 31,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Signal Detection & Evaluation",
+          "Safety Data Integration & Analysis",
+          "Special Safety Topics",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "STAT": {
+        "count_sm": 10,
+        "count_bio": 24,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Integration with Other Functions",
+          "Subgroup & Exploratory Analyses",
+          "Regulatory Interactions & Filing Readiness",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 23,
+        "count_bio": 15,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Regulatory Team & Governance"
+        ]
+      },
+      "COM": {
+        "count_sm": 11,
+        "count_bio": 8,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Competitive Landscape"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 18,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 38,
+        "count_bio": 49,
+        "domains": [
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Environmental, Health, and Safety (EHS)",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 46,
+        "count_bio": 35,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Local Tolerance & Route-Specific Toxicity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models"
+        ]
+      },
+      "TM": {
+        "count_sm": 46,
+        "count_bio": 43,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 21,
+        "count_bio": 18,
+        "domains": [
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Integration with Clinical & Safety Data",
+          "Clinical Pharmacology Strategy",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Paediatric Plans & Regulatory Readiness"
+        ]
+      },
+      "CDM": {
+        "count_sm": 22,
+        "count_bio": 34,
+        "domains": [
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Clinical Operations & Trial Execution",
+          "Statistical Analysis & Data Management",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Late Phase / Lifecycle Planning",
+          "Efficacy and Clinical Benefit",
+          "Biologic Administration & Patient Experience",
+          "Competitive Landscape and Differentiation"
+        ]
+      },
+      "SAF": {
+        "count_sm": 46,
+        "count_bio": 56,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "COP": {
+        "count_sm": 59,
+        "count_bio": 82,
+        "domains": [
+          "Clinical Development Plan Operationalization",
+          "Site Strategy & Feasibility",
+          "Patient Recruitment & Retention",
+          "Trial Start-Up Execution",
+          "CRO/Vendor Oversight",
+          "Budgeting & Resourcing",
+          "Clinical Trial Monitoring (CTM)",
+          "Risk-Based Monitoring (RBM) & Quality Oversight",
+          "Trial Conduct & Site Management",
+          "Patient Safety and Compliance",
+          "Data Entry, Query Resolution, and Timelines",
+          "Trial Master File (TMF) & Documentation",
+          "GCP & Inspection Readiness",
+          "Systems & Tools",
+          "Cross-Functional Collaboration & Governance",
+          "Clinical Development Plan Operations",
+          "Risk-Based Monitoring (RBM) & Quality",
+          "Cold Chain, Drug Supply & IP Management",
+          "Infusion/Injection Administration & Site Readiness",
+          "Immunogenicity Sample & Biospecimen Operations"
+        ]
+      },
+      "STAT": {
+        "count_sm": 26,
+        "count_bio": 13,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Randomization & Blinding",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Software, Tools, and Validation",
+          "Integration with Other Functions",
+          "Resourcing, Oversight, and Governance",
+          "Immunogenicity Statistical Assessment"
+        ]
+      },
+      "REG": {
+        "count_sm": 14,
+        "count_bio": 12,
+        "domains": [
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Regulatory Documentation & Audit Readiness",
+          "Regulatory Team & Governance",
+          "Change Control & Version Management",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 17,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Resource & Budget Management",
+          "Programme Reporting & Communication",
+          "Portfolio-Level Planning & Prioritisation",
+          "Operational Excellence & Tools"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 30,
+        "count_bio": 30,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Quality Systems and Risk Management",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Packaging, Labelling & Logistics",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety"
+        ]
+      },
+      "PT": {
+        "count_sm": 40,
+        "count_bio": 25,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models"
+        ]
+      },
+      "TM": {
+        "count_sm": 28,
+        "count_bio": 41,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Bioanalytical Integration & Sample Management",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 29,
+        "count_bio": 33,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration"
+        ]
+      },
+      "CDM": {
+        "count_sm": 26,
+        "count_bio": 41,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 9,
+        "count_bio": 31,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Signal Detection & Evaluation",
+          "Safety Data Integration & Analysis",
+          "Special Safety Topics",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "STAT": {
+        "count_sm": 9,
+        "count_bio": 24,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Multiplicity & Type I Error Control",
+          "Subgroup & Exploratory Analyses",
+          "Regulatory Interactions & Filing Readiness",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Missing Data & Sensitivity Analyses"
+        ]
+      },
+      "REG": {
+        "count_sm": 23,
+        "count_bio": 15,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Regulatory Team & Governance"
+        ]
+      },
+      "COM": {
+        "count_sm": 13,
+        "count_bio": 8,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Competitive Landscape"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 18,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making"
+        ]
+      }
+    },
+    "RS": {
+      "CMC": {
+        "count_sm": 12,
+        "count_bio": 36,
+        "domains": [
+          "Drug Substance (DS)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Drug Product (DP)",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 45,
+        "count_bio": 75,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Secondary Pharmacodynamics & Off-target Effects",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models",
+          "Biologic-Specific PK & Target-Mediated Drug Disposition (TMDD)"
+        ]
+      },
+      "TM": {
+        "count_sm": 25,
+        "count_bio": 0,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations"
+        ]
+      },
+      "CP": {
+        "count_sm": 27,
+        "count_bio": 32,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Integration with Clinical & Safety Data",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Paediatric Plans & Regulatory Readiness"
+        ]
+      },
+      "CDM": {
+        "count_sm": 23,
+        "count_bio": 29,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 5,
+        "count_bio": 16,
+        "domains": [
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Special Safety Topics",
+          "Safety Signal Detection & Evaluation",
+          "Safety Management Plan & Governance",
+          "Safety Data Integration & Analysis",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "STAT": {
+        "count_sm": 0,
+        "count_bio": 11,
+        "domains": [
+          "Sample Size Justification",
+          "Regulatory Interactions & Filing Readiness",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Study Design Appropriateness"
+        ]
+      },
+      "REG": {
+        "count_sm": 26,
+        "count_bio": 45,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Emerging Markets & Global Expansion",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Team & Governance"
+        ]
+      },
+      "COM": {
+        "count_sm": 2,
+        "count_bio": 0,
+        "domains": [
+          "Target Product Profile (TPP) Alignment"
+        ]
+      }
+    }
+  },
+  "SG6": {
+    "SR": {
+      "CMC": {
+        "count_sm": 35,
+        "count_bio": 44,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Intellectual Property",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 19,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 34,
+        "count_bio": 43,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 34,
+        "count_bio": 52,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Special Populations",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 27,
+        "count_bio": 48,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Clinical Team & Governance",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 12,
+        "count_bio": 31,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Safety Signal Detection & Evaluation",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "STAT": {
+        "count_sm": 2,
+        "count_bio": 28,
+        "domains": [
+          "Multiplicity & Type I Error Control",
+          "Integration with Other Functions",
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Subgroup & Exploratory Analyses",
+          "Regulatory Interactions & Filing Readiness",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 24,
+        "count_bio": 42,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Registration Pathway Planning",
+          "Regulatory Team & Governance",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Emerging Markets & Global Expansion",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package"
+        ]
+      },
+      "ERW": {
+        "count_sm": 28,
+        "count_bio": 0,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "Health Outcomes & Treatment Patterns",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team"
+        ]
+      },
+      "COM": {
+        "count_sm": 45,
+        "count_bio": 28,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Commercial Organization & Resourcing",
+          "Revenue Forecasting & Financial Modeling"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 24,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 43,
+        "count_bio": 56,
+        "domains": [
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Environmental, Health, and Safety (EHS)",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 28,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Local Tolerance & Route-Specific Toxicity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development"
+        ]
+      },
+      "TM": {
+        "count_sm": 47,
+        "count_bio": 53,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 38,
+        "count_bio": 18,
+        "domains": [
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "Clinical Pharmacology Strategy",
+          "Paediatric Plans & Regulatory Readiness"
+        ]
+      },
+      "CDM": {
+        "count_sm": 25,
+        "count_bio": 37,
+        "domains": [
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Clinical Operations & Trial Execution",
+          "Statistical Analysis & Data Management",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Competitive Landscape and Differentiation",
+          "Late Phase / Lifecycle Planning",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 48,
+        "count_bio": 56,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "COP": {
+        "count_sm": 60,
+        "count_bio": 82,
+        "domains": [
+          "Clinical Development Plan Operationalization",
+          "Site Strategy & Feasibility",
+          "Patient Recruitment & Retention",
+          "Trial Start-Up Execution",
+          "CRO/Vendor Oversight",
+          "Budgeting & Resourcing",
+          "Clinical Trial Monitoring (CTM)",
+          "Risk-Based Monitoring (RBM) & Quality Oversight",
+          "Trial Conduct & Site Management",
+          "Patient Safety and Compliance",
+          "Data Entry, Query Resolution, and Timelines",
+          "Trial Master File (TMF) & Documentation",
+          "GCP & Inspection Readiness",
+          "Systems & Tools",
+          "Cross-Functional Collaboration & Governance",
+          "Clinical Development Plan Operations",
+          "Risk-Based Monitoring (RBM) & Quality",
+          "Cold Chain, Drug Supply & IP Management",
+          "Infusion/Injection Administration & Site Readiness",
+          "Immunogenicity Sample & Biospecimen Operations"
+        ]
+      },
+      "STAT": {
+        "count_sm": 37,
+        "count_bio": 24,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Randomization & Blinding",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Subgroup & Exploratory Analyses",
+          "Software, Tools, and Validation",
+          "CSR Tables, Listings, and Figures (TLFs)",
+          "Regulatory Interactions & Filing Readiness",
+          "Integration with Other Functions",
+          "Publications & Transparency",
+          "Resourcing, Oversight, and Governance",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 19,
+        "count_bio": 12,
+        "domains": [
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Change Control & Version Management",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 29,
+        "count_bio": 0,
+        "domains": [
+          "Data Sources and RWE Infrastructure",
+          "External Control Arms / Historical Comparators",
+          "Health Outcomes & Treatment Patterns",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 23,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Resource & Budget Management",
+          "Programme Reporting & Communication",
+          "Portfolio-Level Planning & Prioritisation",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 37,
+        "count_bio": 44,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Intellectual Property",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 41,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 34,
+        "count_bio": 43,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 42,
+        "count_bio": 53,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Special Populations",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 33,
+        "count_bio": 48,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Late Phase / Lifecycle Planning",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 14,
+        "count_bio": 31,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Signal Detection & Evaluation",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "STAT": {
+        "count_sm": 13,
+        "count_bio": 30,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Regulatory Interactions & Filing Readiness",
+          "Subgroup & Exploratory Analyses",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 24,
+        "count_bio": 42,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Registration Pathway Planning",
+          "Regulatory Team & Governance",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Emerging Markets & Global Expansion",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package"
+        ]
+      },
+      "ERW": {
+        "count_sm": 27,
+        "count_bio": 0,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "Health Outcomes & Treatment Patterns",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team"
+        ]
+      },
+      "COM": {
+        "count_sm": 43,
+        "count_bio": 28,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Commercial Organization & Resourcing",
+          "Revenue Forecasting & Financial Modeling"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 24,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "RS": {
+      "CMC": {
+        "count_sm": 42,
+        "count_bio": 60,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Environmental, Health, and Safety (EHS)",
+          "Intellectual Property",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 37,
+        "count_bio": 45,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "ADME / Pharmacokinetics (Nonclinical)",
+          "Toxicokinetics (TK)",
+          "Repeat-dose Toxicology",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity",
+          "Immunogenicity & Anti-Drug Antibodies (ADA)",
+          "Tissue Cross-Reactivity (TCR) & Target Expression Profiling",
+          "New Approach Methodologies (NAMs) & Non-Animal Models"
+        ]
+      },
+      "TM": {
+        "count_sm": 31,
+        "count_bio": 43,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)",
+          "Data Integration & Decision-Making"
+        ]
+      },
+      "CP": {
+        "count_sm": 40,
+        "count_bio": 58,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Special Populations",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 26,
+        "count_bio": 49,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Patient Safety & Medical Oversight",
+          "Late Phase / Lifecycle Planning",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 20,
+        "count_bio": 36,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Late Phase & Post-Marketing Readiness",
+          "Infusion/Injection Reaction Safety Management",
+          "Immunogenicity Safety Monitoring"
+        ]
+      },
+      "COP": {
+        "count_sm": 1,
+        "count_bio": 0,
+        "domains": [
+          "GCP & Inspection Readiness"
+        ]
+      },
+      "STAT": {
+        "count_sm": 15,
+        "count_bio": 44,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Regulatory Interactions & Filing Readiness",
+          "Randomization & Blinding",
+          "Subgroup & Exploratory Analyses",
+          "CSR Tables, Listings, and Figures (TLFs)",
+          "Integration with Other Functions",
+          "Publications & Transparency",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 36,
+        "count_bio": 72,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Risk Assessment & Regulatory Barriers",
+          "Regulatory Documentation & Audit Readiness",
+          "Registration Pathway Planning",
+          "Regulatory Team & Governance",
+          "Change Control & Version Management",
+          "BLA-Specific Regulatory Requirements",
+          "Combination Product Regulatory Strategy",
+          "Emerging Markets & Global Expansion",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Post-Marketing Regulatory Planning"
+        ]
+      },
+      "ERW": {
+        "count_sm": 7,
+        "count_bio": 0,
+        "domains": [
+          "External Control Arms / Historical Comparators",
+          "RWE to Support Regulatory Submissions"
+        ]
+      },
+      "COM": {
+        "count_sm": 3,
+        "count_bio": 0,
+        "domains": [
+          "Target Product Profile (TPP) Alignment"
+        ]
+      }
+    }
+  },
+  "SG7": {
+    "SR": {
+      "CMC": {
+        "count_sm": 35,
+        "count_bio": 38,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Intellectual Property",
+          "Protein Characterisation & Higher-Order Structure",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 19,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Regulatory Alignment",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 34,
+        "count_bio": 25,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CP": {
+        "count_sm": 40,
+        "count_bio": 58,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Paediatric Plans & Regulatory Readiness",
+          "Documentation & Auditability",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 33,
+        "count_bio": 50,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Team & Governance",
+          "Clinical Documentation & Auditability",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 16,
+        "count_bio": 51,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Safety Signal Detection & Evaluation",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "STAT": {
+        "count_sm": 0,
+        "count_bio": 21,
+        "domains": [
+          "Sample Size Justification",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Regulatory Interactions & Filing Readiness",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics",
+          "Study Design Appropriateness",
+          "Statistical Analysis Plan (SAP)"
+        ]
+      },
+      "REG": {
+        "count_sm": 31,
+        "count_bio": 69,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness"
+        ]
+      },
+      "ERW": {
+        "count_sm": 41,
+        "count_bio": 35,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy"
+        ]
+      },
+      "COM": {
+        "count_sm": 53,
+        "count_bio": 58,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy",
+          "Revenue Forecasting & Financial Modeling",
+          "Biologic Commercial Model & Access"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 24,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 45,
+        "count_bio": 55,
+        "domains": [
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Environmental, Health, and Safety (EHS)",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 29,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 47,
+        "count_bio": 53,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)"
+        ]
+      },
+      "CP": {
+        "count_sm": 42,
+        "count_bio": 18,
+        "domains": [
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "Clinical Pharmacology Strategy",
+          "Paediatric Plans & Regulatory Readiness"
+        ]
+      },
+      "CDM": {
+        "count_sm": 25,
+        "count_bio": 37,
+        "domains": [
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Clinical Operations & Trial Execution",
+          "Statistical Analysis & Data Management",
+          "Risk-Benefit Assessment",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Competitive Landscape and Differentiation",
+          "Late Phase / Lifecycle Planning",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 52,
+        "count_bio": 76,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "COP": {
+        "count_sm": 60,
+        "count_bio": 82,
+        "domains": [
+          "Clinical Development Plan Operationalization",
+          "Site Strategy & Feasibility",
+          "Patient Recruitment & Retention",
+          "Trial Start-Up Execution",
+          "CRO/Vendor Oversight",
+          "Budgeting & Resourcing",
+          "Clinical Trial Monitoring (CTM)",
+          "Risk-Based Monitoring (RBM) & Quality Oversight",
+          "Trial Conduct & Site Management",
+          "Patient Safety and Compliance",
+          "Data Entry, Query Resolution, and Timelines",
+          "Trial Master File (TMF) & Documentation",
+          "GCP & Inspection Readiness",
+          "Systems & Tools",
+          "Cross-Functional Collaboration & Governance",
+          "Clinical Development Plan Operations",
+          "Risk-Based Monitoring (RBM) & Quality",
+          "Cold Chain, Drug Supply & IP Management",
+          "Infusion/Injection Administration & Site Readiness",
+          "Immunogenicity Sample & Biospecimen Operations"
+        ]
+      },
+      "STAT": {
+        "count_sm": 40,
+        "count_bio": 26,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Randomization & Blinding",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Subgroup & Exploratory Analyses",
+          "Software, Tools, and Validation",
+          "CSR Tables, Listings, and Figures (TLFs)",
+          "Regulatory Interactions & Filing Readiness",
+          "Integration with Other Functions",
+          "Publications & Transparency",
+          "Resourcing, Oversight, and Governance",
+          "Immunogenicity Statistical Assessment",
+          "Biosimilarity & Comparability Statistics",
+          "Biologic Exposure-Response & PK/PD Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 24,
+        "count_bio": 12,
+        "domains": [
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "Change Control & Version Management",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 38,
+        "count_bio": 0,
+        "domains": [
+          "Data Sources and RWE Infrastructure",
+          "External Control Arms / Historical Comparators",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy"
+        ]
+      },
+      "COM": {
+        "count_sm": 2,
+        "count_bio": 0,
+        "domains": [
+          "Distribution & Supply Chain Readiness"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 23,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Resource & Budget Management",
+          "Programme Reporting & Communication",
+          "Portfolio-Level Planning & Prioritisation",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 37,
+        "count_bio": 45,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Intellectual Property",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 24,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 34,
+        "count_bio": 25,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CP": {
+        "count_sm": 46,
+        "count_bio": 59,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 39,
+        "count_bio": 51,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Clinical Operations & Trial Execution",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 18,
+        "count_bio": 51,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Safety Signal Detection & Evaluation",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "STAT": {
+        "count_sm": 13,
+        "count_bio": 34,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Regulatory Interactions & Filing Readiness",
+          "Subgroup & Exploratory Analyses",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 31,
+        "count_bio": 69,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness"
+        ]
+      },
+      "ERW": {
+        "count_sm": 38,
+        "count_bio": 35,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Digital Health & Real-World Data Capture"
+        ]
+      },
+      "COM": {
+        "count_sm": 52,
+        "count_bio": 58,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy",
+          "Revenue Forecasting & Financial Modeling",
+          "Biologic Commercial Model & Access"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 24,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "RS": {
+      "CMC": {
+        "count_sm": 48,
+        "count_bio": 70,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Environmental, Health, and Safety (EHS)",
+          "Intellectual Property",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 28,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 32,
+        "count_bio": 43,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Translational Medicine Team & Infrastructure",
+          "Translational Immunology & Immune Monitoring (Biologics)",
+          "Data Integration & Decision-Making"
+        ]
+      },
+      "CP": {
+        "count_sm": 47,
+        "count_bio": 59,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 35,
+        "count_bio": 53,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience",
+          "Clinical Operations & Trial Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 40,
+        "count_bio": 76,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "COP": {
+        "count_sm": 12,
+        "count_bio": 0,
+        "domains": [
+          "Trial Start-Up Execution",
+          "Clinical Trial Monitoring (CTM)",
+          "Patient Safety and Compliance",
+          "Trial Master File (TMF) & Documentation",
+          "GCP & Inspection Readiness"
+        ]
+      },
+      "STAT": {
+        "count_sm": 43,
+        "count_bio": 46,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Subgroup & Exploratory Analyses",
+          "Software, Tools, and Validation",
+          "CSR Tables, Listings, and Figures (TLFs)",
+          "Regulatory Interactions & Filing Readiness",
+          "Real-World Data & External Controls",
+          "Publications & Transparency",
+          "Resourcing, Oversight, and Governance",
+          "Randomization & Blinding",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 51,
+        "count_bio": 72,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Quality of eCTD Submission Package",
+          "Risk Assessment & Regulatory Barriers",
+          "Regulatory Documentation & Audit Readiness",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "Change Control & Version Management",
+          "BLA-Specific Regulatory Requirements",
+          "Combination Product Regulatory Strategy",
+          "Orphan, Paediatric, and Special Designations"
+        ]
+      },
+      "ERW": {
+        "count_sm": 22,
+        "count_bio": 0,
+        "domains": [
+          "External Control Arms / Historical Comparators",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Integration into Clinical Development Plan (CDP)",
+          "Post-Marketing Commitments / Lifecycle Strategy"
+        ]
+      },
+      "COM": {
+        "count_sm": 11,
+        "count_bio": 9,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Brand Strategy & Messaging",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Distribution & Supply Chain Readiness"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    }
+  },
+  "SG8": {
+    "SR": {
+      "CMC": {
+        "count_sm": 37,
+        "count_bio": 38,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Intellectual Property",
+          "Protein Characterisation & Higher-Order Structure",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 20,
+        "count_bio": 0,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "Regulatory Alignment",
+          "Integration with Clinical Development"
+        ]
+      },
+      "TM": {
+        "count_sm": 31,
+        "count_bio": 10,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CP": {
+        "count_sm": 33,
+        "count_bio": 41,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Pharmacokinetics (PK)",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Paediatric Plans & Regulatory Readiness",
+          "Documentation & Auditability"
+        ]
+      },
+      "CDM": {
+        "count_sm": 31,
+        "count_bio": 38,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Team & Governance",
+          "Statistical Analysis & Data Management",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 17,
+        "count_bio": 35,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Safety Signal Detection & Evaluation",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "STAT": {
+        "count_sm": 1,
+        "count_bio": 14,
+        "domains": [
+          "Regulatory Interactions & Filing Readiness",
+          "Interim Analysis & DSMB",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics",
+          "Study Design Appropriateness",
+          "Missing Data & Sensitivity Analyses"
+        ]
+      },
+      "REG": {
+        "count_sm": 31,
+        "count_bio": 69,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness"
+        ]
+      },
+      "ERW": {
+        "count_sm": 41,
+        "count_bio": 52,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Biologic-Specific RWE Considerations",
+          "External Control Arms / Historical Comparators"
+        ]
+      },
+      "COM": {
+        "count_sm": 51,
+        "count_bio": 58,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy",
+          "Revenue Forecasting & Financial Modeling",
+          "Biologic Commercial Model & Access"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 24,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 45,
+        "count_bio": 55,
+        "domains": [
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Environmental, Health, and Safety (EHS)",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 29,
+        "count_bio": 0,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development"
+        ]
+      },
+      "TM": {
+        "count_sm": 47,
+        "count_bio": 27,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "Bioanalytical Integration & Sample Management",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CP": {
+        "count_sm": 42,
+        "count_bio": 18,
+        "domains": [
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "Clinical Pharmacology Strategy",
+          "Paediatric Plans & Regulatory Readiness"
+        ]
+      },
+      "CDM": {
+        "count_sm": 29,
+        "count_bio": 40,
+        "domains": [
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Regulatory Alignment",
+          "Clinical Operations & Trial Execution",
+          "Statistical Analysis & Data Management",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Competitive Landscape and Differentiation",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 52,
+        "count_bio": 76,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "COP": {
+        "count_sm": 60,
+        "count_bio": 82,
+        "domains": [
+          "Clinical Development Plan Operationalization",
+          "Site Strategy & Feasibility",
+          "Patient Recruitment & Retention",
+          "Trial Start-Up Execution",
+          "CRO/Vendor Oversight",
+          "Budgeting & Resourcing",
+          "Clinical Trial Monitoring (CTM)",
+          "Risk-Based Monitoring (RBM) & Quality Oversight",
+          "Trial Conduct & Site Management",
+          "Patient Safety and Compliance",
+          "Data Entry, Query Resolution, and Timelines",
+          "Trial Master File (TMF) & Documentation",
+          "GCP & Inspection Readiness",
+          "Systems & Tools",
+          "Cross-Functional Collaboration & Governance",
+          "Clinical Development Plan Operations",
+          "Risk-Based Monitoring (RBM) & Quality",
+          "Cold Chain, Drug Supply & IP Management",
+          "Infusion/Injection Administration & Site Readiness",
+          "Immunogenicity Sample & Biospecimen Operations"
+        ]
+      },
+      "STAT": {
+        "count_sm": 41,
+        "count_bio": 27,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Randomization & Blinding",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Subgroup & Exploratory Analyses",
+          "Software, Tools, and Validation",
+          "CSR Tables, Listings, and Figures (TLFs)",
+          "Regulatory Interactions & Filing Readiness",
+          "Integration with Other Functions",
+          "Publications & Transparency",
+          "Resourcing, Oversight, and Governance",
+          "Immunogenicity Statistical Assessment",
+          "Biosimilarity & Comparability Statistics",
+          "Biologic Exposure-Response & PK/PD Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 30,
+        "count_bio": 39,
+        "domains": [
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "Change Control & Version Management",
+          "BLA-Specific Regulatory Requirements",
+          "Combination Product Regulatory Strategy",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Strategy & Global Alignment",
+          "Risk Assessment & Regulatory Barriers",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 38,
+        "count_bio": 17,
+        "domains": [
+          "Data Sources and RWE Infrastructure",
+          "External Control Arms / Historical Comparators",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Biologic-Specific RWE Considerations",
+          "Epidemiology of Target Disease",
+          "Economic Burden & Healthcare Resource Use"
+        ]
+      },
+      "COM": {
+        "count_sm": 22,
+        "count_bio": 0,
+        "domains": [
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Digital & Omnichannel Strategy"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 23,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Resource & Budget Management",
+          "Programme Reporting & Communication",
+          "Portfolio-Level Planning & Prioritisation",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 39,
+        "count_bio": 45,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Intellectual Property",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 25,
+        "count_bio": 0,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development"
+        ]
+      },
+      "TM": {
+        "count_sm": 31,
+        "count_bio": 10,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations",
+          "Data Integration & Decision-Making",
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CP": {
+        "count_sm": 46,
+        "count_bio": 42,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration"
+        ]
+      },
+      "CDM": {
+        "count_sm": 40,
+        "count_bio": 40,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Clinical Team & Governance",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience"
+        ]
+      },
+      "SAF": {
+        "count_sm": 18,
+        "count_bio": 35,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Safety Signal Detection & Evaluation",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "STAT": {
+        "count_sm": 14,
+        "count_bio": 30,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Regulatory Interactions & Filing Readiness",
+          "Subgroup & Exploratory Analyses",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 31,
+        "count_bio": 69,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Risk Assessment & Regulatory Barriers",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Orphan, Paediatric, and Special Designations",
+          "Quality of eCTD Submission Package",
+          "Regulatory Documentation & Audit Readiness"
+        ]
+      },
+      "ERW": {
+        "count_sm": 38,
+        "count_bio": 52,
+        "domains": [
+          "Epidemiology of Target Disease",
+          "Unmet Medical Need & Standard of Care",
+          "Target Population Estimation",
+          "Data Sources and RWE Infrastructure",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Digital Health & Real-World Data Capture",
+          "Biologic-Specific RWE Considerations",
+          "External Control Arms / Historical Comparators"
+        ]
+      },
+      "COM": {
+        "count_sm": 50,
+        "count_bio": 58,
+        "domains": [
+          "Market Opportunity & Sizing",
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy",
+          "Revenue Forecasting & Financial Modeling",
+          "Biologic Commercial Model & Access"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 24,
+        "domains": [
+          "Integrated Development Plan & Timeline",
+          "Cross-Functional Dependency Management",
+          "Risk Management & Issue Resolution",
+          "Stage Gate Governance & Decision-Making",
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "RS": {
+      "CMC": {
+        "count_sm": 48,
+        "count_bio": 69,
+        "domains": [
+          "Overall CMC Strategy",
+          "Drug Substance (DS)",
+          "Drug Product (DP)",
+          "Analytical Methods",
+          "Stability Data",
+          "Manufacturing and Supply Chain",
+          "Process Development & Scale-Up",
+          "Regulatory Compliance & Documentation",
+          "Packaging, Labelling & Logistics",
+          "Quality Systems and Risk Management",
+          "Intellectual Property ",
+          "Drug Substance (DS) \u2014 Biologic",
+          "Environmental, Health, and Safety (EHS)",
+          "Intellectual Property",
+          "Cell Line Development & Characterisation",
+          "Protein Characterisation & Higher-Order Structure",
+          "Viral Safety & Biosafety",
+          "Comparability & Process Change Management",
+          "Single-Use Systems & Bioprocess Equipment",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "PT": {
+        "count_sm": 29,
+        "count_bio": 10,
+        "domains": [
+          "Primary Pharmacodynamics",
+          "Safety Pharmacology",
+          "Genotoxicity",
+          "Carcinogenicity (if required)",
+          "Reproductive & Developmental Toxicity (DART)",
+          "Species Selection & Justification",
+          "NOAEL, MTD, and Human Risk Assessment",
+          "Immunotoxicity / Hypersensitivity",
+          "GLP Compliance & Study Quality",
+          "Regulatory Alignment",
+          "Study Documentation & Data Integrity",
+          "Integration with Clinical Development",
+          "Local Tolerance & Route-Specific Toxicity"
+        ]
+      },
+      "TM": {
+        "count_sm": 32,
+        "count_bio": 25,
+        "domains": [
+          "Human Relevance of Preclinical Models",
+          "Biomarker Strategy \u2013 Overall",
+          "Pharmacodynamic (PD) Biomarkers",
+          "Predictive / Stratification Biomarkers",
+          "Safety Biomarkers",
+          "Biomarker Assay Development",
+          "First-in-Human (FIH) Translational Readiness",
+          "Quantitative Systems Pharmacology / Modeling & Simulation",
+          "Biomarker-Driven Clinical Trial Design",
+          "Regulatory & CDx Considerations"
+        ]
+      },
+      "CP": {
+        "count_sm": 47,
+        "count_bio": 59,
+        "domains": [
+          "Clinical Pharmacology Strategy",
+          "Pharmacokinetics (PK)",
+          "Pharmacodynamics (PD) & Exposure\u2013Response (E-R)",
+          "Bioavailability / Bioequivalence / Formulation Bridging",
+          "Drug-Drug Interactions (DDIs)",
+          "Intrinsic and Extrinsic Factors",
+          "Special Populations",
+          "Population PK and Modeling",
+          "Physiologically-Based PK (PBPK) Modeling",
+          "Pediatric Plans & Regulatory Readiness",
+          "Integration with Clinical & Safety Data",
+          "Regulatory & Labeling Considerations",
+          "Documentation & Auditability",
+          "SC Bioavailability & Formulation / Process Bridging",
+          "Biologic-Specific Drug Interactions",
+          "Paediatric Plans & Regulatory Readiness",
+          "Immunogenicity \u2014 Clinical Pharmacology Integration",
+          "Target Occupancy & Coverage-Based Dosing",
+          "Dose Optimisation & Optimal Biological Dose (OBD)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 37,
+        "count_bio": 56,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Clinical Trial Design & Execution",
+          "Clinical Data Quality and Integrity",
+          "Patient Safety & Medical Oversight",
+          "Efficacy and Clinical Benefit",
+          "Medical Affairs Readiness",
+          "Regulatory Alignment",
+          "Statistical Analysis & Data Management",
+          "Competitive Landscape and Differentiation",
+          "Risk-Benefit Assessment",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Documentation & Auditability",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience",
+          "Clinical Operations & Trial Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 40,
+        "count_bio": 76,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "COP": {
+        "count_sm": 12,
+        "count_bio": 4,
+        "domains": [
+          "Trial Start-Up Execution",
+          "Clinical Trial Monitoring (CTM)",
+          "Patient Safety and Compliance",
+          "Trial Master File (TMF) & Documentation",
+          "GCP & Inspection Readiness"
+        ]
+      },
+      "STAT": {
+        "count_sm": 44,
+        "count_bio": 47,
+        "domains": [
+          "Study Design Appropriateness",
+          "Sample Size Justification",
+          "Statistical Analysis Plan (SAP)",
+          "Interim Analysis & DSMB",
+          "Missing Data & Sensitivity Analyses",
+          "Multiplicity & Type I Error Control",
+          "Subgroup & Exploratory Analyses",
+          "Software, Tools, and Validation",
+          "CSR Tables, Listings, and Figures (TLFs)",
+          "Regulatory Interactions & Filing Readiness",
+          "Real-World Data & External Controls",
+          "Publications & Transparency",
+          "Resourcing, Oversight, and Governance",
+          "Randomization & Blinding",
+          "Integration with Other Functions",
+          "Immunogenicity Statistical Assessment",
+          "Biologic Exposure-Response & PK/PD Statistics",
+          "Biosimilarity & Comparability Statistics"
+        ]
+      },
+      "REG": {
+        "count_sm": 53,
+        "count_bio": 72,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Target Product Profile (TPP) & Labeling",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Interactions",
+          "IND / CTA Readiness",
+          "Orphan, Pediatric, and Special Designations",
+          "Module 1 (Regional), Module 2 (Summaries)",
+          "Quality of eCTD Submission Package",
+          "Risk Assessment & Regulatory Barriers",
+          "Regulatory Documentation & Audit Readiness",
+          "Registration Pathway Planning",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "Change Control & Version Management",
+          "BLA-Specific Regulatory Requirements",
+          "Combination Product Regulatory Strategy",
+          "Orphan, Paediatric, and Special Designations"
+        ]
+      },
+      "ERW": {
+        "count_sm": 22,
+        "count_bio": 52,
+        "domains": [
+          "External Control Arms / Historical Comparators",
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Integration into Clinical Development Plan (CDP)",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "RWE Analytics, Tools, and Team",
+          "Biologic-Specific RWE Considerations",
+          "Epidemiology of Target Disease"
+        ]
+      },
+      "COM": {
+        "count_sm": 11,
+        "count_bio": 9,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Brand Strategy & Messaging",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Distribution & Supply Chain Readiness"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    }
+  },
+  "SG9": {
+    "SR": {
+      "CMC": {
+        "count_sm": 0,
+        "count_bio": 2,
+        "domains": [
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "TM": {
+        "count_sm": 5,
+        "count_bio": 0,
+        "domains": [
+          "Emerging Modalities & Platforms",
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CDM": {
+        "count_sm": 11,
+        "count_bio": 15,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Medical Affairs Readiness",
+          "Competitive Landscape and Differentiation",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Team & Governance",
+          "Patient Safety & Medical Oversight",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience",
+          "Clinical Trial Design & Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 9,
+        "count_bio": 22,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "REG": {
+        "count_sm": 7,
+        "count_bio": 30,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Registration Pathway Planning",
+          "Regulatory Documentation & Audit Readiness",
+          "Regulatory Interactions",
+          "Regulatory Precedents & Intelligence",
+          "Risk Assessment & Regulatory Barriers",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 20,
+        "count_bio": 52,
+        "domains": [
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Health Outcomes & Treatment Patterns",
+          "Biologic-Specific RWE Considerations",
+          "External Control Arms / Historical Comparators",
+          "Epidemiology of Target Disease"
+        ]
+      },
+      "COM": {
+        "count_sm": 46,
+        "count_bio": 58,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy",
+          "Revenue Forecasting & Financial Modeling",
+          "Biologic Commercial Model & Access"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "OE": {
+      "CMC": {
+        "count_sm": 0,
+        "count_bio": 2,
+        "domains": [
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "TM": {
+        "count_sm": 4,
+        "count_bio": 0,
+        "domains": [
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CDM": {
+        "count_sm": 3,
+        "count_bio": 7,
+        "domains": [
+          "Patient Safety & Medical Oversight",
+          "Late Phase / Lifecycle Planning",
+          "Biologic Administration & Patient Experience",
+          "Clinical Trial Design & Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 52,
+        "count_bio": 76,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "COP": {
+        "count_sm": 2,
+        "count_bio": 0,
+        "domains": [
+          "Patient Safety and Compliance"
+        ]
+      },
+      "REG": {
+        "count_sm": 6,
+        "count_bio": 27,
+        "domains": [
+          "Post-Marketing Regulatory Planning",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Registration Pathway Planning",
+          "Regulatory Documentation & Audit Readiness",
+          "Regulatory Interactions",
+          "Regulatory Precedents & Intelligence",
+          "Regulatory Strategy & Global Alignment",
+          "Risk Assessment & Regulatory Barriers",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 25,
+        "count_bio": 17,
+        "domains": [
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Biologic-Specific RWE Considerations",
+          "External Control Arms / Historical Comparators",
+          "Epidemiology of Target Disease",
+          "Economic Burden & Healthcare Resource Use"
+        ]
+      },
+      "COM": {
+        "count_sm": 26,
+        "count_bio": 0,
+        "domains": [
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "DD": {
+      "CMC": {
+        "count_sm": 0,
+        "count_bio": 2,
+        "domains": [
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "TM": {
+        "count_sm": 4,
+        "count_bio": 0,
+        "domains": [
+          "Translational Medicine Team & Infrastructure"
+        ]
+      },
+      "CDM": {
+        "count_sm": 11,
+        "count_bio": 15,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Medical Affairs Readiness",
+          "Competitive Landscape and Differentiation",
+          "Late Phase / Lifecycle Planning",
+          "Clinical Team & Governance",
+          "Patient Safety & Medical Oversight",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience",
+          "Clinical Trial Design & Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 9,
+        "count_bio": 22,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "REG": {
+        "count_sm": 7,
+        "count_bio": 30,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "BLA-Specific Regulatory Requirements",
+          "Change Control & Version Management",
+          "Combination Product Regulatory Strategy",
+          "Registration Pathway Planning",
+          "Regulatory Documentation & Audit Readiness",
+          "Regulatory Interactions",
+          "Regulatory Precedents & Intelligence",
+          "Risk Assessment & Regulatory Barriers",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 18,
+        "count_bio": 52,
+        "domains": [
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Prospective Real-World Studies and Registries",
+          "Integration into Clinical Development Plan (CDP)",
+          "RWE Analytics, Tools, and Team",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Health Outcomes & Treatment Patterns",
+          "Digital Health & Real-World Data Capture",
+          "Biologic-Specific RWE Considerations",
+          "External Control Arms / Historical Comparators",
+          "Epidemiology of Target Disease"
+        ]
+      },
+      "COM": {
+        "count_sm": 45,
+        "count_bio": 58,
+        "domains": [
+          "Target Product Profile (TPP) Alignment",
+          "Competitive Landscape",
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Commercial Strategy & Business Model",
+          "Launch Readiness",
+          "Brand Strategy & Messaging",
+          "Stakeholder Mapping & Engagement",
+          "Lifecycle Management & Franchise Potential",
+          "Distribution & Supply Chain Readiness",
+          "Commercial Organization & Resourcing",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Digital & Omnichannel Strategy",
+          "Revenue Forecasting & Financial Modeling",
+          "Biologic Commercial Model & Access"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    },
+    "RS": {
+      "CMC": {
+        "count_sm": 0,
+        "count_bio": 2,
+        "domains": [
+          "Comparability & Process Change Management",
+          "Process Validation (Biologics)"
+        ]
+      },
+      "CDM": {
+        "count_sm": 8,
+        "count_bio": 12,
+        "domains": [
+          "Target Product Profile (TPP) & Development Strategy",
+          "Patient Safety & Medical Oversight",
+          "Medical Affairs Readiness",
+          "Competitive Landscape and Differentiation",
+          "Late Phase / Lifecycle Planning",
+          "Immunogenicity \u2014 Clinical Impact & Management",
+          "Biologic Administration & Patient Experience",
+          "Clinical Trial Design & Execution"
+        ]
+      },
+      "SAF": {
+        "count_sm": 33,
+        "count_bio": 75,
+        "domains": [
+          "Safety Management Plan & Governance",
+          "Adverse Event (AE) Collection & Classification",
+          "Serious Adverse Events (SAE) Management",
+          "Safety Signal Detection & Evaluation",
+          "Benefit-Risk Assessment",
+          "Protocol Design & Risk Mitigation",
+          "Safety Data Integration & Analysis",
+          "Laboratory & Vital Signs Monitoring",
+          "Special Safety Topics",
+          "Investigator & Site Safety Training",
+          "Regulatory Compliance & Safety Reporting",
+          "Clinical Database and Pharmacovigilance (PV) Integration",
+          "Safety Risk Communication",
+          "Late Phase & Post-Marketing Readiness",
+          "Medical Safety Team & Infrastructure",
+          "Clinical Database and Pharmacovigilance Integration",
+          "Immunogenicity Safety Monitoring",
+          "Infusion/Injection Reaction Safety Management",
+          "Immune-Mediated Adverse Event Surveillance"
+        ]
+      },
+      "REG": {
+        "count_sm": 13,
+        "count_bio": 30,
+        "domains": [
+          "Regulatory Strategy & Global Alignment",
+          "Post-Marketing Regulatory Planning",
+          "Regulatory Team & Governance",
+          "Emerging Markets & Global Expansion",
+          "Change Control & Version Management",
+          "BLA-Specific Regulatory Requirements",
+          "Combination Product Regulatory Strategy",
+          "Registration Pathway Planning",
+          "Regulatory Documentation & Audit Readiness",
+          "Regulatory Interactions",
+          "Regulatory Precedents & Intelligence",
+          "Risk Assessment & Regulatory Barriers",
+          "Target Product Profile (TPP) & Labeling"
+        ]
+      },
+      "ERW": {
+        "count_sm": 18,
+        "count_bio": 52,
+        "domains": [
+          "Health Outcomes & Treatment Patterns",
+          "Safety Surveillance and Rare Events",
+          "Economic Burden & Healthcare Resource Use",
+          "RWE to Support Regulatory Submissions",
+          "RWE to Support HTA and Market Access",
+          "Integration into Clinical Development Plan (CDP)",
+          "Post-Marketing Commitments / Lifecycle Strategy",
+          "Prospective Real-World Studies and Registries",
+          "Digital Health & Real-World Data Capture",
+          "RWE Analytics, Tools, and Team",
+          "Biologic-Specific RWE Considerations",
+          "External Control Arms / Historical Comparators",
+          "Epidemiology of Target Disease"
+        ]
+      },
+      "COM": {
+        "count_sm": 8,
+        "count_bio": 9,
+        "domains": [
+          "Pricing & Market Access Strategy",
+          "Reimbursement & Payer Engagement",
+          "Brand Strategy & Messaging",
+          "Real-World Evidence (RWE) & Value Demonstration",
+          "Distribution & Supply Chain Readiness"
+        ]
+      },
+      "PM": {
+        "count_sm": 0,
+        "count_bio": 6,
+        "domains": [
+          "Operational Excellence & Tools",
+          "Transition & Lifecycle Management"
+        ]
+      }
+    }
+  }
+}
