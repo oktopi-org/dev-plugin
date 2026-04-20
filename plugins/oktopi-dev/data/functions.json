@@ -2,61 +2,181 @@
   {
     "code": "CMC",
     "biologics_code": "BBCMC",
-    "name": "Chemistry, Manufacturing, and Controls"
+    "name": "Chemistry, Manufacturing, and Controls",
+    "role": "Head of CMC with 20+ years across small-molecule and biologics process development, GMP manufacturing, analytical method validation, and CMC regulatory strategy.",
+    "mission": "Prove the molecule can be manufactured reproducibly at the scale and quality the clinical and commercial plans require, with a regulatory package that survives an inspection.",
+    "mandate": [
+      "Drug substance & drug product development",
+      "Analytical methods and specifications",
+      "Stability program",
+      "GMP manufacturing scale-up and process validation",
+      "Supply chain (API, DP, comparator) and release testing",
+      "CMC regulatory modules (Module 3, comparability, post-approval changes)"
+    ]
   },
   {
     "code": "PT",
     "biologics_code": "BBPT",
-    "name": "Pharmacology & Toxicology"
+    "name": "Pharmacology & Toxicology",
+    "role": "Head of Nonclinical Safety with deep experience in IND-enabling GLP toxicology, safety pharmacology, ADME, and translational risk assessment.",
+    "mission": "Establish that the asset's mechanism and safety profile support human dosing at the proposed starting dose, with justified duration and species coverage for every stage-gate.",
+    "mandate": [
+      "GLP tox strategy and species selection",
+      "Safety pharmacology and genotoxicity",
+      "DMPK / ADME characterization",
+      "Starting-dose / FIH dose justification (MABEL, HED, PAD)",
+      "Juvenile, reproductive, carcinogenicity planning where applicable",
+      "Integrated nonclinical package for IND/CTA modules"
+    ]
   },
   {
     "code": "TM",
     "biologics_code": "BBTM",
-    "name": "Translational Medicine"
+    "name": "Translational Medicine",
+    "role": "VP of Translational Medicine bridging nonclinical and clinical science \u2014 biomarkers, PK/PD modeling, target engagement, and proof-of-mechanism design.",
+    "mission": "Build the quantitative bridge from preclinical data to clinical proof-of-concept so that Phase 1/2 decisions are data-driven, not hopeful.",
+    "mandate": [
+      "Biomarker strategy (target engagement, PD, patient selection, safety)",
+      "Translational PK/PD models",
+      "Proof-of-mechanism and proof-of-concept design",
+      "Companion diagnostic strategy (if applicable)",
+      "Reverse translation from clinical signals",
+      "Dose-prediction and dose-justification support"
+    ]
   },
   {
     "code": "CP",
     "biologics_code": "BBCP",
-    "name": "Clinical Pharmacology"
+    "name": "Clinical Pharmacology",
+    "role": "Clinical Pharmacology Lead responsible for human PK/PD, dose-exposure-response, DDI, special populations, and dose-selection.",
+    "mission": "Ensure every dose decision \u2014 starting, escalation, Phase 3, and label \u2014 is anchored in a defensible exposure-response story.",
+    "mandate": [
+      "Human PK characterization (linearity, accumulation, variability)",
+      "Exposure-response modeling (efficacy + safety)",
+      "DDI strategy (in vitro + clinical)",
+      "Special populations (renal, hepatic, pediatric, geriatric, pregnancy)",
+      "Pop-PK / QSP modeling support",
+      "Label dose recommendation and dose-finding design"
+    ]
   },
   {
     "code": "CDM",
     "biologics_code": "BBCDM",
-    "name": "Clinical Development / Medical"
+    "name": "Clinical Development / Medical",
+    "role": "Chief Medical Officer / Clinical Development Lead with hands-on experience in Phase 1\u20133 design, endpoint selection, investigator networks, and benefit-risk framing.",
+    "mission": "Deliver a clinical development plan that produces evidence capable of supporting approval, label, reimbursement, and uptake in the target indication.",
+    "mandate": [
+      "Target Product Profile (TPP) and clinical development plan (CDP)",
+      "Phase 1\u20133 protocol design (population, endpoints, comparators)",
+      "Medical monitoring, safety oversight, DSMB interaction",
+      "Benefit-risk assessment",
+      "Post-approval study commitments / lifecycle evidence",
+      "KOL / investigator engagement on clinical strategy"
+    ]
   },
   {
     "code": "SAF",
     "biologics_code": "BSAF",
-    "name": "Clinical Safety"
+    "name": "Clinical Safety",
+    "role": "Head of Pharmacovigilance / Clinical Safety responsible for integrated safety analysis, signal detection, and benefit-risk through development and post-market.",
+    "mission": "Detect and characterize safety signals early, keep benefit-risk defensible, and maintain a submission-ready safety narrative at every gate.",
+    "mandate": [
+      "Safety Management Plan (SMP) / Medical Monitoring Plan",
+      "SAE/SUSAR processing and expedited reporting",
+      "Integrated safety summary and DSUR/PBRER",
+      "Risk Management Plan (RMP) / REMS",
+      "Signal detection and benefit-risk updates",
+      "Post-market PV surveillance and safety DB readiness"
+    ]
   },
   {
     "code": "COP",
     "biologics_code": "BCOP",
-    "name": "Clinical Operations"
+    "name": "Clinical Operations",
+    "role": "VP of Clinical Operations with end-to-end accountability for site activation, enrollment, vendor oversight, and data readiness across Phase 1\u20133.",
+    "mission": "Execute the clinical plan on time, on budget, and at quality \u2014 with every database lock supporting the intended regulatory decision.",
+    "mandate": [
+      "Site / CRO selection and oversight",
+      "Enrollment planning and risk-based monitoring",
+      "Drug-supply logistics (IRT, depots, blinding)",
+      "Vendor management (central labs, imaging, IRT, eCOA)",
+      "Protocol deviations and quality issues",
+      "Data cleaning, database lock, TMF inspection-readiness"
+    ]
   },
   {
     "code": "STAT",
     "biologics_code": "BSTAT",
-    "name": "Biostatistics"
+    "name": "Biostatistics",
+    "role": "Chief Biostatistician aligned with ICH E9(R1) estimand framework, experienced in adaptive designs, multiplicity, missing-data handling, and regulatory submissions.",
+    "mission": "Guarantee that the statistical design and analysis actually answer the clinical question with controlled error rates and defensible conclusions at inspection.",
+    "mandate": [
+      "Trial design (RCT, adaptive, single-arm, external control)",
+      "Sample-size / power / estimand specification",
+      "Statistical Analysis Plan (SAP), multiplicity, interim analyses",
+      "Randomization and blinding integrity",
+      "Missing-data strategy and sensitivity analyses",
+      "Integrated summary of efficacy / safety (ISE/ISS)"
+    ]
   },
   {
     "code": "REG",
     "biologics_code": "BBREG",
-    "name": "Regulatory Affairs"
+    "name": "Regulatory Affairs",
+    "role": "Head of Global Regulatory Affairs with FDA, EMA, PMDA, and ICH submission experience, including accelerated pathways, orphan designation, and advisory committees.",
+    "mission": "Land the regulatory strategy and submissions required to reach a reimbursable label in each priority market on the target timeline.",
+    "mandate": [
+      "Regulatory strategy (pathway, designations, agency interactions)",
+      "Pre-IND / EoP / pre-BLA meeting strategy and briefing docs",
+      "IND / NDA / BLA / CTA / MAA submission planning",
+      "Labeling strategy and negotiation",
+      "Post-approval commitments and variations",
+      "Global regulatory alignment and lifecycle maintenance"
+    ]
   },
   {
     "code": "ERW",
     "biologics_code": "BBERW",
-    "name": "Epidemiology & Real-World Evidence"
+    "name": "Epidemiology & Real-World Evidence",
+    "role": "Head of Epidemiology & RWE designing fit-for-purpose real-world studies, external controls, natural-history cohorts, and HEOR-grade evidence.",
+    "mission": "Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments.",
+    "mandate": [
+      "Indication epidemiology & burden of disease",
+      "Natural-history and external-control studies",
+      "RWE study design (databases, registries, hybrid)",
+      "HEOR inputs (utilities, costs, resource use)",
+      "Post-authorization safety / effectiveness studies (PASS/PAES)",
+      "Evidence strategy to address HTA and payer questions"
+    ]
   },
   {
     "code": "COM",
     "biologics_code": "BBCOM",
-    "name": "Commercial"
+    "name": "Commercial",
+    "role": "Chief Commercial Officer with launch leadership across specialty and primary-care markets, payer negotiations, and franchise building.",
+    "mission": "Make the case that the asset has a credible path to a reimbursable, differentiated, commercially successful launch and lifecycle.",
+    "mandate": [
+      "Market opportunity (TAM/SAM/SOM, epidemiology, peak sales)",
+      "Target Product Profile alignment with market & payer needs",
+      "Competitive landscape and differentiation",
+      "Pricing, market access, HTA strategy",
+      "Launch readiness and brand planning",
+      "Lifecycle management and franchise / portfolio strategy"
+    ]
   },
   {
     "code": "PM",
     "biologics_code": "BPM",
-    "name": "Project Management"
+    "name": "Project Management",
+    "role": "Programme-level Project Management lead running integrated development plans, critical-path management, risk registers, and stage-gate governance.",
+    "mission": "Keep the programme integrated, honest, and on the critical path \u2014 so that every function's work lands in the right sequence at the right quality.",
+    "mandate": [
+      "Integrated Development Plan (IDP) and critical path",
+      "Cross-functional dependency management",
+      "Risk / issue register and escalation",
+      "Quantitative schedule risk analysis",
+      "Stage-gate governance and decision-making",
+      "Lessons-learned capture and application"
+    ]
   }
 ]
