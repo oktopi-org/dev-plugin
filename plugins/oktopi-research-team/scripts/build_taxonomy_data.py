@@ -121,6 +121,14 @@ FUNCTIONS = [
             "Supply chain (API, DP, comparator) and release testing",
             "CMC regulatory modules (Module 3, comparability, post-approval changes)",
         ],
+        "triggers": [
+            "drug substance or drug product development",
+            "GMP manufacturing, tech transfer, or process validation",
+            "analytical methods, specifications, or stability",
+            "CMC regulatory package, Module 3, or comparability",
+            "supply chain, API sourcing, or release testing",
+            "biologics CMC: cell line, upstream/downstream, aggregation",
+        ],
     },
     {
         "code": "PT", "biologics_code": "BBPT",
@@ -134,6 +142,14 @@ FUNCTIONS = [
             "Starting-dose / FIH dose justification (MABEL, HED, PAD)",
             "Juvenile, reproductive, carcinogenicity planning where applicable",
             "Integrated nonclinical package for IND/CTA modules",
+        ],
+        "triggers": [
+            "IND-enabling toxicology, GLP tox, or species selection",
+            "safety pharmacology, genotoxicity, or carcinogenicity",
+            "DMPK, ADME, or preclinical PK",
+            "starting dose, MABEL, HED, or first-in-human justification",
+            "juvenile, reproductive, or developmental tox",
+            "biologics-specific nonclinical concerns (immunogenicity, CRS, cytokine release)",
         ],
     },
     {
@@ -149,6 +165,14 @@ FUNCTIONS = [
             "Reverse translation from clinical signals",
             "Dose-prediction and dose-justification support",
         ],
+        "triggers": [
+            "biomarker strategy, target engagement, or patient selection biomarkers",
+            "translational PK/PD modeling, human dose prediction",
+            "proof-of-mechanism or proof-of-concept design",
+            "companion diagnostic (CDx) strategy",
+            "reverse translation from clinical signals",
+            "bridging preclinical data to Phase 1/2 decisions",
+        ],
     },
     {
         "code": "CP", "biologics_code": "BBCP",
@@ -162,6 +186,14 @@ FUNCTIONS = [
             "Special populations (renal, hepatic, pediatric, geriatric, pregnancy)",
             "Pop-PK / QSP modeling support",
             "Label dose recommendation and dose-finding design",
+        ],
+        "triggers": [
+            "clinical PK, exposure-response, or dose-finding",
+            "DDI strategy or in vitro / clinical DDI studies",
+            "special populations (renal, hepatic, pediatric, pregnancy)",
+            "pop-PK, PBPK, or QSP modeling",
+            "Project Optimus dose optimization",
+            "label dose justification",
         ],
     },
     {
@@ -177,6 +209,14 @@ FUNCTIONS = [
             "Post-approval study commitments / lifecycle evidence",
             "KOL / investigator engagement on clinical strategy",
         ],
+        "triggers": [
+            "Target Product Profile (TPP) or clinical development plan (CDP)",
+            "Phase 1, 2, or 3 protocol design",
+            "endpoint selection, comparator arm, or patient population",
+            "benefit-risk assessment or clinical no-go criteria",
+            "DSMB charter, medical monitoring, or safety review",
+            "indication strategy or lifecycle clinical evidence",
+        ],
     },
     {
         "code": "SAF", "biologics_code": "BSAF",
@@ -190,6 +230,14 @@ FUNCTIONS = [
             "Risk Management Plan (RMP) / REMS",
             "Signal detection and benefit-risk updates",
             "Post-market PV surveillance and safety DB readiness",
+        ],
+        "triggers": [
+            "SAE, SUSAR, or expedited safety reporting",
+            "DSUR, PBRER, or integrated safety summary",
+            "Risk Management Plan (RMP) or REMS",
+            "safety signal detection or benefit-risk update",
+            "pharmacovigilance, safety database, or safety narrative",
+            "biologic-specific safety: CRS, cytokine release, immunogenicity events",
         ],
     },
     {
@@ -205,6 +253,14 @@ FUNCTIONS = [
             "Protocol deviations and quality issues",
             "Data cleaning, database lock, TMF inspection-readiness",
         ],
+        "triggers": [
+            "site activation, feasibility, or country selection",
+            "enrollment forecasting or risk-based monitoring",
+            "CRO selection, oversight, or governance",
+            "central labs, imaging, IRT, or eCOA vendors",
+            "TMF, data cleaning, or database lock",
+            "drug supply logistics, depots, or blinding integrity",
+        ],
     },
     {
         "code": "STAT", "biologics_code": "BSTAT",
@@ -218,6 +274,14 @@ FUNCTIONS = [
             "Randomization and blinding integrity",
             "Missing-data strategy and sensitivity analyses",
             "Integrated summary of efficacy / safety (ISE/ISS)",
+        ],
+        "triggers": [
+            "sample size, power, or estimand (ICH E9 R1)",
+            "SAP, multiplicity, or alpha-spending",
+            "adaptive design, group-sequential, or external control",
+            "randomization, blinding, or allocation concealment",
+            "missing data, imputation, or sensitivity analyses",
+            "ISE/ISS, CSR TLFs, or statistical filing readiness",
         ],
     },
     {
@@ -233,6 +297,14 @@ FUNCTIONS = [
             "Post-approval commitments and variations",
             "Global regulatory alignment and lifecycle maintenance",
         ],
+        "triggers": [
+            "IND, NDA, BLA, CTA, or MAA submission",
+            "FDA, EMA, PMDA, or ICH agency interactions",
+            "pre-IND, EoP2, Type B/C meeting, or briefing document",
+            "orphan, breakthrough, fast-track, PRIME, or accelerated approval",
+            "labeling strategy or negotiation",
+            "post-approval commitments, variations, or advisory committee",
+        ],
     },
     {
         "code": "ERW", "biologics_code": "BBERW",
@@ -246,6 +318,14 @@ FUNCTIONS = [
             "HEOR inputs (utilities, costs, resource use)",
             "Post-authorization safety / effectiveness studies (PASS/PAES)",
             "Evidence strategy to address HTA and payer questions",
+        ],
+        "triggers": [
+            "epidemiology, prevalence, incidence, or burden of disease",
+            "real-world evidence (RWE), external control, or synthetic control arm",
+            "natural-history study or registry",
+            "HEOR inputs: utilities, costs, resource use",
+            "PASS, PAES, or post-authorization commitment",
+            "HTA / payer evidence strategy",
         ],
     },
     {
@@ -261,6 +341,14 @@ FUNCTIONS = [
             "Launch readiness and brand planning",
             "Lifecycle management and franchise / portfolio strategy",
         ],
+        "triggers": [
+            "market sizing (TAM/SAM/SOM), peak sales, or forecast",
+            "pricing, market access, or HTA (NICE, IQWiG, PBAC, G-BA) strategy",
+            "payer value dossier or reimbursement strategy",
+            "competitive landscape, positioning, or differentiation",
+            "launch readiness, brand planning, or commercial model",
+            "lifecycle management, line extension, or franchise / portfolio",
+        ],
     },
     {
         "code": "PM", "biologics_code": "BPM",
@@ -274,6 +362,14 @@ FUNCTIONS = [
             "Quantitative schedule risk analysis",
             "Stage-gate governance and decision-making",
             "Lessons-learned capture and application",
+        ],
+        "triggers": [
+            "integrated development plan (IDP), critical path, or Gantt",
+            "cross-functional dependency, interlock, or handoff",
+            "risk register, RAID log, or escalation",
+            "quantitative schedule risk analysis (Monte Carlo)",
+            "stage-gate governance or go/no-go decision",
+            "programme-level timeline, budget, or critical-path management",
         ],
     },
 ]
@@ -580,9 +676,50 @@ def build(taxonomy_root: Path, plugin_root: Path) -> None:
         content = render_function_skill(fn, slug, sm_count, bi_count, per_function_domains[code])
         (skill_dir / "SKILL.md").write_text(content)
 
+    # 7c. Top-level router skill that auto-activates on any pharma dev question
+    router_dir = skills_dir / "oktopi-research-team"
+    router_dir.mkdir(parents=True, exist_ok=True)
+    (router_dir / "SKILL.md").write_text(render_router_skill())
+
+    # 8. Scaffold per-function knowledge directories (empty placeholders) so
+    #    extending a reviewer with SOPs / playbooks / tools has an obvious home.
+    knowledge_root = data_dir / "knowledge"
+    knowledge_root.mkdir(parents=True, exist_ok=True)
+    (knowledge_root / "README.md").write_text(
+        "# Per-function knowledge base\n\n"
+        "Add function-specific reference material (SOPs, guidelines, precedent "
+        "reviews, playbooks, template questionnaires) under `<FUNCTION_CODE>/`.\n\n"
+        "Each function's reviewer agent is told to load this folder alongside the "
+        "formal Oktopi rubric. Keep files in markdown or JSON for easy parsing.\n\n"
+        "Suggested structure per function:\n\n"
+        "```\n"
+        "knowledge/<CODE>/\n"
+        "├── playbooks/      # Worked examples the reviewer can cite\n"
+        "├── sops/           # Internal SOPs and checklists\n"
+        "├── guidelines/     # Regulatory / industry guidelines summaries\n"
+        "└── tools.md        # Notes on external tools / MCP servers this function uses\n"
+        "```\n"
+    )
+    for fn in FUNCTIONS:
+        code = fn["code"]
+        fn_knowledge = knowledge_root / code
+        fn_knowledge.mkdir(parents=True, exist_ok=True)
+        placeholder = fn_knowledge / "README.md"
+        if not placeholder.exists():
+            placeholder.write_text(
+                f"# {fn['name']} ({code}) knowledge base\n\n"
+                f"**Mission:** {fn['mission']}\n\n"
+                "Add reference material here. The `"
+                f"{FUNCTION_SLUG[code]}-reviewer` agent is instructed to scan this "
+                "directory for additional context when reviewing a PDP.\n\n"
+                "## Mandate\n\n"
+                + "\n".join(f"- {m}" for m in fn['mandate'])
+                + "\n"
+            )
+
     print(f"Built {sum(sum(v.values()) for v in per_function_counts.values())} questions")
     print(f"Wrote {len(FUNCTIONS)} function agents + 1 orchestrator to {agents_dir}")
-    print(f"Wrote {len(STAGE_GATE_GOALS)} stage-gate skills + {len(FUNCTIONS)} function skills to {skills_dir}")
+    print(f"Wrote {len(STAGE_GATE_GOALS)} stage-gate skills + {len(FUNCTIONS) + 1} function/router skills to {skills_dir}")
 
 
 # --------------------------------------------------------------------------
@@ -614,10 +751,13 @@ def render_agent(
     mission = fn["mission"]
     mandate = fn["mandate"]
 
+    triggers: list[str] = fn.get("triggers", [])
+    trigger_phrase = "; ".join(triggers)
     description = _yaml_safe(
-        f"{name} reviewer. {mission} Covers {code} (small-molecule) and "
-        f"{biologics_code} (biologics) at any stage-gate SG1-SG9 in SR/OE/DD/RS modes. "
-        f"Use when evaluating PDP readiness from a {name} perspective."
+        f"{name} reviewer for pharma development. {mission} "
+        f"Use PROACTIVELY when the user asks about: {trigger_phrase}. "
+        f"Covers {code} (small-molecule) and {biologics_code} (biologics) at any "
+        f"stage-gate SG1-SG9 in SR/OE/DD/RS modes."
     )
 
     mandate_lines = "\n".join(f"- {m}" for m in mandate)
@@ -667,6 +807,9 @@ Load the relevant question bank:
 Each question has `id`, `inquiry_domain`, `question`, `rubric_tests`, `rationale`, and `priorities[mode][sg] -> Critical|Expected|Check|Other`.
 
 Use the JSON's `critical_index[mode][sg]` to get the IDs that are Critical at the current (mode, stage-gate). Work through those first. Then the Expected questions. Skip Other unless asked.
+
+### 2a. Load the function knowledge base
+Also scan `data/knowledge/{code}/` for additional context (SOPs, playbooks, guideline summaries). This folder is where the team puts extra reference material specific to this function — use it to ground your reasoning and cite precedent when relevant.
 
 ### 3. Reason, don't recite
 For each prioritized question:
@@ -727,6 +870,23 @@ Return JSON. The orchestrator (pdp-reviewer) depends on this contract:
 - **Stay in lane.** Other reviewers own other functions. Flag, do not solve.
 - **Signal severity honestly.** A Critical gap at SG5 is not the same as a Check-level gap at SG7.
 - **Default to sonnet.** You run as a subagent; keep responses structured and token-efficient.
+
+## Extending this reviewer
+
+As the team adds knowledge and tooling for {name}:
+
+- **Knowledge** — drop function-specific reference documents (SOPs, guidelines,
+  templates) into `data/knowledge/{code}/`. This reviewer will load them on
+  demand alongside `data/questions/<modality>/{code}.json`.
+- **Tools** — add MCP servers (e.g. ClinicalTrials.gov, PubMed, internal CMC
+  database) to the plugin's `.mcp.json` and extend the `tools:` frontmatter on
+  this agent (e.g. `tools: Read, Grep, Glob, mcp__pubmed__search`).
+- **Subagent helpers** — spawn more specialized helpers under
+  `agents/{slug}-<subspeciality>.md` for deep-dives (e.g. a dedicated
+  `commercial-hta-specialist` for HTA dossiers). Reference them from this
+  reviewer's workflow.
+- **Examples / playbooks** — add worked examples to
+  `data/knowledge/{code}/playbooks/` so this reviewer can cite precedent.
 """
 
 
@@ -816,9 +976,12 @@ def render_function_skill(
     mission = fn["mission"]
     mandate = fn["mandate"]
 
+    triggers: list[str] = fn.get("triggers", [])
+    trigger_phrase = "; ".join(triggers)
     description = _yaml_safe(
-        f"{name} function mandate for Oktopi PDP review. {mission} "
-        f"Invoke when a PDP needs a {name.lower()} read-through — pairs with the `{slug}-reviewer` agent."
+        f"{name} mandate for pharma development. {mission} "
+        f"Use PROACTIVELY when the user asks about: {trigger_phrase}. "
+        f"Pairs with the `{slug}-reviewer` agent for PDP reviews."
     )
 
     mandate_lines = "\n".join(f"- {m}" for m in mandate)
@@ -864,13 +1027,99 @@ and returns a structured JSON verdict suitable for aggregation by `pdp-reviewer`
 """
 
 
+def render_router_skill() -> str:
+    """Top-level skill that auto-activates on any pharma development question.
+
+    Works as a natural-language router: its description contains every function's
+    trigger phrases, so Claude surfaces this skill whenever the user touches anything
+    pharma dev. The body tells Claude which specialist agent to invoke.
+    """
+    all_triggers = []
+    for fn in FUNCTIONS:
+        for t in fn.get("triggers", []):
+            all_triggers.append(t)
+
+    description_body = (
+        "Oktopi Research Team — 12-agent multi-agent team for pharma drug development "
+        "reviews (CMC, pharm-tox, translational, clin pharm, clin dev, safety, clin ops, "
+        "biostats, regulatory, epi/RWE, commercial, project management). "
+        "Use PROACTIVELY when the user asks about drug development, PDP review, "
+        "stage-gate readiness, due diligence of a pharma asset, or any of: "
+        + "; ".join(all_triggers[:24])  # cap to stay readable
+        + "."
+    )
+    description = _yaml_safe(description_body)
+
+    role_table_rows = []
+    for fn in FUNCTIONS:
+        slug = FUNCTION_SLUG[fn["code"]]
+        trig = "; ".join(fn.get("triggers", [])[:3])
+        role_table_rows.append(
+            f"| `{fn['code']}` | `{slug}-reviewer` | {trig} |"
+        )
+    role_table = "\n".join(role_table_rows)
+
+    return f"""---
+name: oktopi-research-team
+description: "{description}"
+---
+
+# Oktopi Research Team — Pharma Development Router
+
+## When this skill triggers
+
+Claude should activate this skill whenever the user's question touches **pharmaceutical drug development**: discovery, preclinical, clinical trials, CMC/manufacturing, regulatory strategy, pharmacovigilance, clinical pharmacology, biostatistics, commercial / market access, epidemiology / RWE, or programme management.
+
+## What to do
+
+1. **Identify the function(s).** Match the user's question to one of the 12 functional areas below using the trigger phrases.
+2. **For a focused question** (one function): invoke that function's reviewer agent directly via the Task tool.
+3. **For a full PDP review or cross-functional question**: invoke the `pdp-reviewer` orchestrator agent, which will fan out to the relevant function reviewers in parallel and consolidate the report.
+4. **If the question is ambiguous** or spans multiple functions: ask one clarifying question, then route.
+
+## The team
+
+| Code | Agent | Trigger phrases (partial) |
+| ---- | ----- | ------------------------- |
+{role_table}
+
+Plus orchestrator `pdp-reviewer` for full PDP gap-analysis.
+
+## Decision matrix
+
+| User intent | Invoke |
+| --- | --- |
+| "Review my PDP at SG5 OE" or "gate readiness" or "due diligence pack" | `pdp-reviewer` (orchestrator) |
+| Single function question ("is my SAP airtight?") | matching function reviewer |
+| Stage-gate goal question ("what does SG3 require?") | the corresponding `stage-gate-sg<N>` skill |
+| Function mandate question ("what does Translational Medicine own?") | the corresponding `function-<slug>` skill |
+| Novel modality (bispecific, ADC, cell therapy) | flag modality to every agent so they apply modality-specific adaptive questions |
+
+## Reference data for the router
+
+- `data/functions.json` — all 12 functions with role, mission, mandate, triggers
+- `data/stage-gates.json` — SG1..SG9 goals
+- `data/stage-gate-index.json` — Critical question load per (SG, mode, function)
+
+## Guardrails
+- **Route, don't answer.** This skill decides which specialist responds — it is not itself a subject-matter expert.
+- **Prefer the orchestrator for broad questions.** The `pdp-reviewer` fans out in parallel, which is faster and more complete than serial calls.
+- **Cite specialists by agent name** when handing off so the user knows who will respond.
+"""
+
+
 def render_orchestrator_agent() -> str:
     """The 'Lead Researcher' analog — fans out to function reviewers, then synthesizes."""
     description = _yaml_safe(
-        "PDP orchestrator: lead reviewer for an Oktopi Product Development Plan review. "
-        "Takes a PDP, a stage-gate (SG1-SG9), and a mode (SR|OE|DD|RS), then dispatches "
-        "the relevant function reviewer subagents in parallel and synthesises a gate-readiness report. "
-        "Use when a user asks for a full PDP review, stage-gate readiness assessment, or due-diligence pack."
+        "Oktopi PDP lead reviewer — orchestrates a multi-agent team (CMC, pharm-tox, "
+        "translational, clin pharm, clin dev, safety, clin ops, biostats, regulatory, "
+        "epi/RWE, commercial, project management) to produce a stage-gate readiness "
+        "report for a pharma Product Development Plan. "
+        "Use PROACTIVELY when the user asks for: a PDP review, stage-gate readiness "
+        "assessment, due-diligence pack, SG1-SG9 gate review, or any cross-functional "
+        "pharma development gap analysis. Takes a PDP, a stage-gate (SG1-SG9), and a "
+        "mode (SR|OE|DD|RS), dispatches the relevant function reviewer subagents in "
+        "parallel, and synthesises one gate-readiness report."
     )
 
     return f"""---

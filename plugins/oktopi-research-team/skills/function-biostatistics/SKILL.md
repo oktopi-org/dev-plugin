@@ -1,6 +1,6 @@
 ---
 name: function-biostatistics
-description: "Biostatistics function mandate for Oktopi PDP review. Guarantee that the statistical design and analysis actually answer the clinical question with controlled error rates and defensible conclusions at inspection. Invoke when a PDP needs a biostatistics read-through — pairs with the `biostatistics-reviewer` agent."
+description: "Biostatistics mandate for pharma development. Guarantee that the statistical design and analysis actually answer the clinical question with controlled error rates and defensible conclusions at inspection. Use PROACTIVELY when the user asks about: sample size, power, or estimand (ICH E9 R1); SAP, multiplicity, or alpha-spending; adaptive design, group-sequential, or external control; randomization, blinding, or allocation concealment; missing data, imputation, or sensitivity analyses; ISE/ISS, CSR TLFs, or statistical filing readiness. Pairs with the `biostatistics-reviewer` agent for PDP reviews."
 ---
 
 # Biostatistics — function mandate

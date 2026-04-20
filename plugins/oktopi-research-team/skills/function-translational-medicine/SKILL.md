@@ -1,6 +1,6 @@
 ---
 name: function-translational-medicine
-description: "Translational Medicine function mandate for Oktopi PDP review. Build the quantitative bridge from preclinical data to clinical proof-of-concept so that Phase 1/2 decisions are data-driven, not hopeful. Invoke when a PDP needs a translational medicine read-through — pairs with the `translational-medicine-reviewer` agent."
+description: "Translational Medicine mandate for pharma development. Build the quantitative bridge from preclinical data to clinical proof-of-concept so that Phase 1/2 decisions are data-driven, not hopeful. Use PROACTIVELY when the user asks about: biomarker strategy, target engagement, or patient selection biomarkers; translational PK/PD modeling, human dose prediction; proof-of-mechanism or proof-of-concept design; companion diagnostic (CDx) strategy; reverse translation from clinical signals; bridging preclinical data to Phase 1/2 decisions. Pairs with the `translational-medicine-reviewer` agent for PDP reviews."
 ---
 
 # Translational Medicine — function mandate

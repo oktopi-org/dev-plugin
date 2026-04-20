@@ -12,6 +12,14 @@
       "GMP manufacturing scale-up and process validation",
       "Supply chain (API, DP, comparator) and release testing",
       "CMC regulatory modules (Module 3, comparability, post-approval changes)"
+    ],
+    "triggers": [
+      "drug substance or drug product development",
+      "GMP manufacturing, tech transfer, or process validation",
+      "analytical methods, specifications, or stability",
+      "CMC regulatory package, Module 3, or comparability",
+      "supply chain, API sourcing, or release testing",
+      "biologics CMC: cell line, upstream/downstream, aggregation"
     ]
   },
   {
@@ -27,6 +35,14 @@
       "Starting-dose / FIH dose justification (MABEL, HED, PAD)",
       "Juvenile, reproductive, carcinogenicity planning where applicable",
       "Integrated nonclinical package for IND/CTA modules"
+    ],
+    "triggers": [
+      "IND-enabling toxicology, GLP tox, or species selection",
+      "safety pharmacology, genotoxicity, or carcinogenicity",
+      "DMPK, ADME, or preclinical PK",
+      "starting dose, MABEL, HED, or first-in-human justification",
+      "juvenile, reproductive, or developmental tox",
+      "biologics-specific nonclinical concerns (immunogenicity, CRS, cytokine release)"
     ]
   },
   {
@@ -42,6 +58,14 @@
       "Companion diagnostic strategy (if applicable)",
       "Reverse translation from clinical signals",
       "Dose-prediction and dose-justification support"
+    ],
+    "triggers": [
+      "biomarker strategy, target engagement, or patient selection biomarkers",
+      "translational PK/PD modeling, human dose prediction",
+      "proof-of-mechanism or proof-of-concept design",
+      "companion diagnostic (CDx) strategy",
+      "reverse translation from clinical signals",
+      "bridging preclinical data to Phase 1/2 decisions"
     ]
   },
   {
@@ -57,6 +81,14 @@
       "Special populations (renal, hepatic, pediatric, geriatric, pregnancy)",
       "Pop-PK / QSP modeling support",
       "Label dose recommendation and dose-finding design"
+    ],
+    "triggers": [
+      "clinical PK, exposure-response, or dose-finding",
+      "DDI strategy or in vitro / clinical DDI studies",
+      "special populations (renal, hepatic, pediatric, pregnancy)",
+      "pop-PK, PBPK, or QSP modeling",
+      "Project Optimus dose optimization",
+      "label dose justification"
     ]
   },
   {
@@ -72,6 +104,14 @@
       "Benefit-risk assessment",
       "Post-approval study commitments / lifecycle evidence",
       "KOL / investigator engagement on clinical strategy"
+    ],
+    "triggers": [
+      "Target Product Profile (TPP) or clinical development plan (CDP)",
+      "Phase 1, 2, or 3 protocol design",
+      "endpoint selection, comparator arm, or patient population",
+      "benefit-risk assessment or clinical no-go criteria",
+      "DSMB charter, medical monitoring, or safety review",
+      "indication strategy or lifecycle clinical evidence"
     ]
   },
   {
@@ -87,6 +127,14 @@
       "Risk Management Plan (RMP) / REMS",
       "Signal detection and benefit-risk updates",
       "Post-market PV surveillance and safety DB readiness"
+    ],
+    "triggers": [
+      "SAE, SUSAR, or expedited safety reporting",
+      "DSUR, PBRER, or integrated safety summary",
+      "Risk Management Plan (RMP) or REMS",
+      "safety signal detection or benefit-risk update",
+      "pharmacovigilance, safety database, or safety narrative",
+      "biologic-specific safety: CRS, cytokine release, immunogenicity events"
     ]
   },
   {
@@ -102,6 +150,14 @@
       "Vendor management (central labs, imaging, IRT, eCOA)",
       "Protocol deviations and quality issues",
       "Data cleaning, database lock, TMF inspection-readiness"
+    ],
+    "triggers": [
+      "site activation, feasibility, or country selection",
+      "enrollment forecasting or risk-based monitoring",
+      "CRO selection, oversight, or governance",
+      "central labs, imaging, IRT, or eCOA vendors",
+      "TMF, data cleaning, or database lock",
+      "drug supply logistics, depots, or blinding integrity"
     ]
   },
   {
@@ -117,6 +173,14 @@
       "Randomization and blinding integrity",
       "Missing-data strategy and sensitivity analyses",
       "Integrated summary of efficacy / safety (ISE/ISS)"
+    ],
+    "triggers": [
+      "sample size, power, or estimand (ICH E9 R1)",
+      "SAP, multiplicity, or alpha-spending",
+      "adaptive design, group-sequential, or external control",
+      "randomization, blinding, or allocation concealment",
+      "missing data, imputation, or sensitivity analyses",
+      "ISE/ISS, CSR TLFs, or statistical filing readiness"
     ]
   },
   {
@@ -132,6 +196,14 @@
       "Labeling strategy and negotiation",
       "Post-approval commitments and variations",
       "Global regulatory alignment and lifecycle maintenance"
+    ],
+    "triggers": [
+      "IND, NDA, BLA, CTA, or MAA submission",
+      "FDA, EMA, PMDA, or ICH agency interactions",
+      "pre-IND, EoP2, Type B/C meeting, or briefing document",
+      "orphan, breakthrough, fast-track, PRIME, or accelerated approval",
+      "labeling strategy or negotiation",
+      "post-approval commitments, variations, or advisory committee"
     ]
   },
   {
@@ -147,6 +219,14 @@
       "HEOR inputs (utilities, costs, resource use)",
       "Post-authorization safety / effectiveness studies (PASS/PAES)",
       "Evidence strategy to address HTA and payer questions"
+    ],
+    "triggers": [
+      "epidemiology, prevalence, incidence, or burden of disease",
+      "real-world evidence (RWE), external control, or synthetic control arm",
+      "natural-history study or registry",
+      "HEOR inputs: utilities, costs, resource use",
+      "PASS, PAES, or post-authorization commitment",
+      "HTA / payer evidence strategy"
     ]
   },
   {
@@ -162,6 +242,14 @@
       "Pricing, market access, HTA strategy",
       "Launch readiness and brand planning",
       "Lifecycle management and franchise / portfolio strategy"
+    ],
+    "triggers": [
+      "market sizing (TAM/SAM/SOM), peak sales, or forecast",
+      "pricing, market access, or HTA (NICE, IQWiG, PBAC, G-BA) strategy",
+      "payer value dossier or reimbursement strategy",
+      "competitive landscape, positioning, or differentiation",
+      "launch readiness, brand planning, or commercial model",
+      "lifecycle management, line extension, or franchise / portfolio"
     ]
   },
   {
@@ -177,6 +265,14 @@
       "Quantitative schedule risk analysis",
       "Stage-gate governance and decision-making",
       "Lessons-learned capture and application"
+    ],
+    "triggers": [
+      "integrated development plan (IDP), critical path, or Gantt",
+      "cross-functional dependency, interlock, or handoff",
+      "risk register, RAID log, or escalation",
+      "quantitative schedule risk analysis (Monte Carlo)",
+      "stage-gate governance or go/no-go decision",
+      "programme-level timeline, budget, or critical-path management"
     ]
   }
 ]

@@ -1,6 +1,6 @@
 ---
 name: function-epi-rwe
-description: "Epidemiology & Real-World Evidence function mandate for Oktopi PDP review. Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments. Invoke when a PDP needs a epidemiology & real-world evidence read-through — pairs with the `epi-rwe-reviewer` agent."
+description: "Epidemiology & Real-World Evidence mandate for pharma development. Provide the epidemiology, natural history, and real-world evidence that supports regulatory filings, payer dossiers, and post-approval commitments. Use PROACTIVELY when the user asks about: epidemiology, prevalence, incidence, or burden of disease; real-world evidence (RWE), external control, or synthetic control arm; natural-history study or registry; HEOR inputs: utilities, costs, resource use; PASS, PAES, or post-authorization commitment; HTA / payer evidence strategy. Pairs with the `epi-rwe-reviewer` agent for PDP reviews."
 ---
 
 # Epidemiology & Real-World Evidence — function mandate

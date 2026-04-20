@@ -1,6 +1,6 @@
 ---
 name: function-clinical-safety
-description: "Clinical Safety function mandate for Oktopi PDP review. Detect and characterize safety signals early, keep benefit-risk defensible, and maintain a submission-ready safety narrative at every gate. Invoke when a PDP needs a clinical safety read-through — pairs with the `clinical-safety-reviewer` agent."
+description: "Clinical Safety mandate for pharma development. Detect and characterize safety signals early, keep benefit-risk defensible, and maintain a submission-ready safety narrative at every gate. Use PROACTIVELY when the user asks about: SAE, SUSAR, or expedited safety reporting; DSUR, PBRER, or integrated safety summary; Risk Management Plan (RMP) or REMS; safety signal detection or benefit-risk update; pharmacovigilance, safety database, or safety narrative; biologic-specific safety: CRS, cytokine release, immunogenicity events. Pairs with the `clinical-safety-reviewer` agent for PDP reviews."
 ---
 
 # Clinical Safety — function mandate
