@@ -1,5 +1,4 @@
 ---
-name: review-stage-gate
 description: Review a PDP against an Oktopi stage-gate by dispatching the pdp-reviewer orchestrator
 argument-hint: <SG1..SG9> <SR|OE|DD|RS> [small-molecule|biologics] [path-to-document]
 ---

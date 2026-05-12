@@ -1,5 +1,4 @@
 ---
-name: review-function
 description: Dispatch a single Oktopi function reviewer agent to review a PDP from that function's perspective
 argument-hint: <function-code-or-slug> <SG1..SG9> <SR|OE|DD|RS> [small-molecule|biologics] [document]
 ---
